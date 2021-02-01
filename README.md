@@ -1,11 +1,6 @@
 # covid-19-visualizations
 Repository to collect various visualizations I've done during the pandemic. Relies heavily on [NYT](https://github.com/nytimes/covid-19-data) data, [COVID Tracking Project](https://covidtracking.com/) data, and [rt.live](rt.live).
 
-------
-
-<p align="center">
-<img src="figs/pngs/state_subplot_rt_trends.png" alt="county_level" width="95%"/>
-</p>
 
 ------
 
