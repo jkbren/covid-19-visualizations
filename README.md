@@ -41,13 +41,7 @@ Repository to collect various visualizations I've done during the pandemic. Reli
 
 
 <p align="center">
-<img src="figs/pngs/ridgeplot_cases.png" alt="county_level" width="95%"/>
+<img src="figs/pngs/ridgeplot_cases_both.png" alt="county_level" width="95%"/>
 </p>
 
 ------
-
-
-<p align="center">
-<img src="figs/pngs/state_cases_deaths/Massachusetts_full.png" alt="county_level" width="95%"/>
-</p>
-
