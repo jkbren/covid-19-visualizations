@@ -26,6 +26,12 @@
 
 ------
 
+<p align="center">
+<img src="../figs/pngs/ma_outbreak_settings_newclusters.png" alt="county_level" width="95%"/>
+</p>
+
+------
+
 
 <p align="center">
 <img src="../figs/pngs/ma_outbreak_settings_newcases_per.png" alt="county_level" width="95%"/>
