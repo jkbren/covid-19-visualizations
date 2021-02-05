@@ -1,5 +1,6 @@
 # Massachusetts-specific
 
+data source: https://docs.google.com/spreadsheets/d/1fgJg09NSPOLjOOpBV_nQIxmXVR5xY7WOZxeBuRV9qcc/edit?usp=sharing
 
 <p align="center">
 <img src="../figs/pngs/ma_cities_last4weeks_ranking.png" alt="county_level" width="95%"/>
