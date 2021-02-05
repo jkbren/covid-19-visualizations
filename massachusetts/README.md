@@ -2,6 +2,12 @@
 
 
 <p align="center">
+<img src="../figs/pngs/ma_cities_last4weeks_ranking.png" alt="county_level" width="95%"/>
+</p>
+
+------
+
+<p align="center">
 <img src="../figs/pngs/ma_cities_casecounts_over_time.png" alt="county_level" width="95%"/>
 </p>
 
