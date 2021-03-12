@@ -1,0 +1,683 @@
+name,county,date,new_cases,week
+Greensboro Elementary School,Caroline,2020-10-29,10,42
+Archbishiop Neale School,Charles,2020-10-29,4,42
+Brunswick Middle School,Frederick,2020-10-29,3,42
+Annapolis Area Christian School - Upper School,Anne Arundel,2020-10-29,2,42
+Beth Tfiloh Dahan Community School,Baltimore,2020-10-29,5,42
+Worcester Preparatory School,Worcester,2020-10-29,3,42
+Garrison Forrest Elementary,Baltimore,2020-10-29,3,42
+Route 40 Elementary,Garrett,2020-10-29,2,42
+Eastern Elementary School,Washington,2020-10-29,2,42
+Clear Springs High School,Washington,2020-10-29,2,42
+Greensboro Elementary School,Caroline,2020-11-05,12,43
+Archbishop Neale Elementary School,Charles,2020-11-05,12,43
+Worcester Preparatory School,Worcester,2020-11-05,3,43
+Route 40 Elementary,Garrett,2020-11-05,2,43
+Clear Spring High,Washington,2020-11-05,2,43
+Gerstell Academy,Carroll,2020-11-05,3,43
+Greenwood Elementary,Somerset,2020-11-05,2,43
+Glenelg Country School,Howard,2020-11-05,4,43
+Emmanuel Lutheran School,Baltimore,2020-11-05,5,43
+Manor Woods Elementary,Howard,2020-11-05,2,43
+Cedar Ridge School,Washington,2020-11-05,2,43
+Carter G Woodson Elementary,Somerset,2020-11-05,3,43
+St. Andrew's Episcopal School,Montgomery,2020-11-05,2,43
+Route 40 Elementary,Garrett,2020-11-11,2,44
+Gerstell Academy,Carroll,2020-11-11,3,44
+Greenwood Elementary,Somerset,2020-11-11,2,44
+Glenelg Country School,Howard,2020-11-11,8,44
+Emmanuel Lutheran School,Baltimore,2020-11-11,5,44
+Manor Woods Elementary,Howard,2020-11-11,2,44
+Cedar Ridge School,Washington,2020-11-11,4,44
+Woodson Elementary School,Somerset,2020-11-11,3,44
+St. Andrew's Episcopal School,Montgomery,2020-11-11,2,44
+St. Elizabeth School,Montgomery,2020-11-11,2,44
+Grace Academy,Washington,2020-11-11,14,44
+Robert Moton Elementary,Carroll,2020-11-11,2,44
+Seaside Christian Academy,Worcester,2020-11-11,2,44
+McDonough School,Baltimore,2020-11-11,2,44
+St. Mark's School,Baltimore,2020-11-11,7,44
+Pangborn Elementary,Washington,2020-11-11,4,44
+St. Agnes Catholic School,Baltimore,2020-11-11,2,44
+North Point High School,Charles,2020-11-11,2,44
+Joppatowne Elementary School,Harford,2020-11-11,6,44
+Monsignor Slade Catholic School,Anne Arundel,2020-11-11,3,44
+Windy Hill Elementary School,Calvert,2020-11-11,2,44
+Truth Christian Academy,Washington,2020-11-11,2,44
+Hagerstown High School,Washington,2020-11-11,3,44
+Living Hope Christian School,Somerset,2020-11-11,2,44
+Stephen Decatur High School,Worcester,2020-11-11,2,44
+Mount Saint Joseph,Baltimore City,2020-11-11,2,44
+Gerstell Academy,Carroll,2020-11-18,3,45
+Glenelg Country School,Howard,2020-11-18,7,45
+Manor Woods Elementary,Howard,2020-11-18,2,45
+Cedar Ridge School,Washington,2020-11-18,4,45
+Woodson Elementary School,Somerset,2020-11-18,5,45
+St. Andrew's Episcopal School,Montgomery,2020-11-18,2,45
+St. Elizabeth School,Montgomery,2020-11-18,2,45
+Grace Academy,Washington,2020-11-18,16,45
+Robert Moton Elementary,Carroll,2020-11-18,2,45
+Seaside Christian Academy,Worcester,2020-11-18,2,45
+McDonough School,Baltimore,2020-11-18,4,45
+St. Mark's School,Baltimore,2020-11-18,8,45
+Pangborn Elementary,Washington,2020-11-18,4,45
+Saint Agnes Catholic School,Baltimore,2020-11-18,2,45
+North Point High School,Charles,2020-11-18,2,45
+Joppatowne Elementary School,Harford,2020-11-18,6,45
+Monsignor Slade Catholic School,Anne Arundel,2020-11-18,4,45
+Windy Hill Elementary School,Calvert,2020-11-18,2,45
+Truth Christian Academy,Washington,2020-11-18,3,45
+South Hagerstown High School,Washington,2020-11-18,3,45
+Stephen Decatur High School,Worcester,2020-11-18,2,45
+Mount Saint Joseph,Baltimore City,2020-11-18,2,45
+Bullis School,Montgomery,2020-11-18,8,45
+James M. Bennett High,Wicomico,2020-11-18,2,45
+Bais Yaakov School for Girls,Baltimore,2020-11-18,2,45
+DeMatha Catholic High School,Prince George's,2020-11-18,3,45
+St. Joseph's School,Baltimore,2020-11-18,2,45
+Bais Yaakov Eva Winer High School,Baltimore,2020-11-18,4,45
+Delmar Elementary School,Wicomico,2020-11-18,4,45
+The Heights School,Montgomery,2020-11-18,4,45
+Yough Glades Elementary,Garrett,2020-11-18,3,45
+Broadfording Christian Academy,Washington,2020-11-18,4,45
+Open Bible Christian Academy,Baltimore,2020-11-18,3,45
+The Harbour School at Baltimore,Baltimore,2020-11-18,2,45
+Gerstell Academy,Carroll,2020-11-18,3,45
+Glenelg Country School,Howard,2020-11-18,7,45
+Manor Woods Elementary,Howard,2020-11-18,2,45
+Cedar Ridge School,Washington,2020-11-18,4,45
+Woodson Elementary School,Somerset,2020-11-18,5,45
+St. Andrew's Episcopal School,Montgomery,2020-11-18,2,45
+St. Elizabeth School,Montgomery,2020-11-18,2,45
+Grace Academy,Washington,2020-11-18,16,45
+Robert Moton Elementary,Carroll,2020-11-18,2,45
+Seaside Christian Academy,Worcester,2020-11-18,2,45
+McDonough School,Baltimore,2020-11-18,4,45
+St. Mark's School,Baltimore,2020-11-18,8,45
+Pangborn Elementary,Washington,2020-11-18,4,45
+Saint Agnes Catholic School,Baltimore,2020-11-18,2,45
+North Point High School,Charles,2020-11-18,2,45
+Joppatowne Elementary School,Harford,2020-11-18,6,45
+Monsignor Slade Catholic School,Anne Arundel,2020-11-18,4,45
+Windy Hill Elementary School,Calvert,2020-11-18,2,45
+Truth Christian Academy,Washington,2020-11-18,3,45
+South Hagerstown High School,Washington,2020-11-18,3,45
+Stephen Decatur High School,Worcester,2020-11-18,2,45
+Mount Saint Joseph,Baltimore City,2020-11-18,2,45
+Bullis School,Montgomery,2020-11-18,8,45
+James M. Bennett High,Wicomico,2020-11-18,2,45
+Bais Yaakov School for Girls,Baltimore,2020-11-18,2,45
+DeMatha Catholic High School,Prince George's,2020-11-18,3,45
+St. Joseph's School,Baltimore,2020-11-18,2,45
+Bais Yaakov Eva Winer High School,Baltimore,2020-11-18,4,45
+Delmar Elementary School,Wicomico,2020-11-18,4,45
+The Heights School,Montgomery,2020-11-18,4,45
+Yough Glades Elementary,Garrett,2020-11-18,3,45
+Broadfording Christian Academy,Washington,2020-11-18,4,45
+Open Bible Christian Academy,Baltimore,2020-11-18,3,45
+The Harbour School at Baltimore,Baltimore,2020-11-18,2,45
+Bais Yaakov Eva Winer High School,Baltimore,2020-11-25,3,46
+Broadfording Christian Academy,Washington,2020-11-25,5,46
+Bullis School,Montgomery,2020-11-25,10,46
+Delmar Elementary School,Wicomico,2020-11-25,4,46
+Frederick Christian Academy,Frederick,2020-11-25,6,46
+Glenelg Country School,Howard,2020-11-25,10,46
+Grace Academy,Washington,2020-11-25,17,46
+Immaculate Heart of Mary School,Baltimore,2020-11-25,2,46
+James M. Bennett High,Wicomico,2020-11-25,2,46
+John Archer School,Harford,2020-11-25,3,46
+McDonough School,Baltimore,2020-11-25,5,46
+Mesivta Kesser Torah of Baltimore,Baltimore,2020-11-25,2,46
+Mount Saint Joseph,Baltimore City,2020-11-25,6,46
+Open Bible Christian Academy,Baltimore,2020-11-25,5,46
+Roland Park Country School,Baltimore City,2020-11-25,4,46
+Rosedale Baptist School,Baltimore,2020-11-25,2,46
+Running Brook Elementary,Howard,2020-11-25,2,46
+Severn School,Anne Arundel,2020-11-25,2,46
+St. Jerome's School,Prince George's,2020-11-25,2,46
+St. Joseph's School,Baltimore,2020-11-25,4,46
+St. Mark's School,Baltimore,2020-11-25,7,46
+Stephen Decatur High School,Worcester,2020-11-25,2,46
+The Harbour School at Baltimore,Baltimore,2020-11-25,2,46
+The Heights School,Montgomery,2020-11-25,4,46
+Torah School of Greater Washington,Montgomery,2020-11-25,3,46
+Truth Christian Academy,Washington,2020-11-25,3,46
+Woodson Elementary School,Somerset,2020-11-25,6,46
+Yough Glades Elementary,Garrett,2020-11-25,3,46
+Bais Yaakov Eva Winer High School,Baltimore,2020-12-02,4,47
+Broadfording Christian Academy,Washington,2020-12-02,5,47
+Bullis School,Montgomery,2020-12-02,10,47
+Frederick Christian Academy,Frederick,2020-12-02,6,47
+Glenelg Country School,Howard,2020-12-02,11,47
+Grace Academy,Washington,2020-12-02,19,47
+Heritage Academy,Washington,2020-12-02,2,47
+John Archer School,Harford,2020-12-02,3,47
+McDonough School,Baltimore,2020-12-02,5,47
+Mesivta Kesser Torah of Baltimore,Baltimore,2020-12-02,2,47
+Mount Saint Joseph,Baltimore City,2020-12-02,6,47
+Open Bible Christian Academy,Baltimore,2020-12-02,5,47
+Rosedale Baptist School,Baltimore,2020-12-02,2,47
+Running Brook Elementary,Howard,2020-12-02,2,47
+St. Joseph's School,Baltimore,2020-12-02,4,47
+St. Mark's School,Baltimore,2020-12-02,7,47
+Stephen Decatur High School,Worcester,2020-12-02,2,47
+The Harbour School at Baltimore,Baltimore,2020-12-02,2,47
+St. Paul's School,Baltimore,2020-12-02,4,47
+Torah School of Greater Washington,Montgomery,2020-12-02,3,47
+Truth Christian Academy,Washington,2020-12-02,3,47
+Woodson Elementary School,Somerset,2020-12-02,6,47
+Yough Glades Elementary,Garrett,2020-12-02,3,47
+Broadfording Christian Academy,Washington,2020-12-09,5,48
+Glenelg Country School,Howard,2020-12-09,12,48
+Grace Academy,Washington,2020-12-09,19,48
+Heritage Academy,Washington,2020-12-09,2,48
+Living Hope Christian School,Somerset,2020-12-09,3,48
+McDonough School,Baltimore,2020-12-09,5,48
+Mesivta Kesser Torah of Baltimore - 9th grade,Baltimore,2020-12-09,2,48
+Mount Saint Joseph,Baltimore City,2020-12-09,6,48
+Rosedale Baptist School,Baltimore,2020-12-09,2,48
+St. Paul's School,Baltimore,2020-12-09,4,48
+Stephen Decatur High School,Worcester,2020-12-09,2,48
+Torah School of Greater Washington - 10 year olds,Montgomery,2020-12-09,3,48
+Woodson Elementary School,Somerset,2020-12-09,6,48
+Yough Glades Elementary,Garrett,2020-12-09,3,48
+Broadfording Christian Academy,Washington,2020-12-09,5,48
+Glenelg Country School,Howard,2020-12-09,12,48
+Grace Academy,Washington,2020-12-09,19,48
+Heritage Academy,Washington,2020-12-09,2,48
+Living Hope Christian School,Somerset,2020-12-09,3,48
+McDonough School,Baltimore,2020-12-09,5,48
+Mesivta Kesser Torah of Baltimore - 9th grade,Baltimore,2020-12-09,2,48
+Mount Saint Joseph,Baltimore City,2020-12-09,6,48
+Rosedale Baptist School,Baltimore,2020-12-09,2,48
+St. Paul's School,Baltimore,2020-12-09,4,48
+Stephen Decatur High School,Worcester,2020-12-09,2,48
+Torah School of Greater Washington - 10 year olds,Montgomery,2020-12-09,3,48
+Woodson Elementary School,Somerset,2020-12-09,6,48
+Yough Glades Elementary,Garrett,2020-12-09,3,48
+Broadfording Christian Academy,Washington,2020-12-09,5,48
+Glenelg Country School,Howard,2020-12-09,12,48
+Grace Academy,Washington,2020-12-09,19,48
+Heritage Academy,Washington,2020-12-09,2,48
+Living Hope Christian School,Somerset,2020-12-09,3,48
+McDonough School,Baltimore,2020-12-09,5,48
+Mesivta Kesser Torah of Baltimore - 9th grade,Baltimore,2020-12-09,2,48
+Mount Saint Joseph,Baltimore City,2020-12-09,6,48
+Rosedale Baptist School,Baltimore,2020-12-09,2,48
+St. Paul's School,Baltimore,2020-12-09,4,48
+Stephen Decatur High School,Worcester,2020-12-09,2,48
+Torah School of Greater Washington - 10 year olds,Montgomery,2020-12-09,3,48
+Woodson Elementary School,Somerset,2020-12-09,6,48
+Yough Glades Elementary,Garrett,2020-12-09,3,48
+Bais Yaakov Eva Winer High School,Baltimore,2020-12-16,11,49
+Beechfield Elementary/Middle,Baltimore City,2020-12-16,2,49
+Frederick Christian Academy,Frederick,2020-12-16,8,49
+Frederick Highschool,Frederick,2020-12-16,2,49
+Glenelg Country School,Howard,2020-12-16,12,49
+Heritage Academy,Washington,2020-12-16,2,49
+Linganore High School,Frederick,2020-12-16,5,49
+Middletown Elementary School,Frederick,2020-12-16,3,49
+Most Blessed Sacrament Catholic School,Worcester,2020-12-16,2,49
+Mount Aviat Academy,Cecil,2020-12-16,3,49
+St. Paul's School,Baltimore,2020-12-16,4,49
+Stephen Decatur High School,Worcester,2020-12-16,2,49
+Talmudical Academy,Baltimore,2020-12-16,12,49
+The Harbour School at Baltimore,Baltimore,2020-12-16,3,49
+Bais Yaakov Eva Winer High School,Baltimore,2020-12-23,25,50
+Esperanza Middle School,St. Mary's,2020-12-23,3,50
+Fellowship Christian School,Montgomery,2020-12-23,3,50
+Frederick Christian Academy,Frederick,2020-12-23,10,50
+Heritage Academy,Washington,2020-12-23,2,50
+Most Blessed Sacrament Catholic School,Worcester,2020-12-23,3,50
+Mount Aviat Academy,Cecil,2020-12-23,5,50
+Our Lady of Mt. Carmel,Baltimore,2020-12-23,3,50
+Rosedale Baptist School,Baltimore,2020-12-23,3,50
+Severn School,Anne Arundel,2020-12-23,4,50
+St. Mark's School,Baltimore,2020-12-23,3,50
+St. Mary's High School,Anne Arundel,2020-12-23,3,50
+St. Paul's School,Baltimore,2020-12-23,4,50
+Talmudical Academy,Baltimore,2020-12-23,13,50
+The Harbour School at Baltimore,Baltimore,2020-12-23,3,50
+West Frederick Middle School,Frederick,2020-12-23,2,50
+Windsor Knolls Middle School,Frederick,2020-12-23,4,50
+Bais Yaakov Eva Winer High School,Baltimore,2020-12-30,27,51
+College Gardens Elementary,Montgomery,2020-12-30,2,51
+Esperanza Middle School,St. Mary's,2020-12-30,3,51
+Frederick Christian Academy,Frederick,2020-12-30,10,51
+Heritage Academy,Washington,2020-12-30,2,51
+Most Blessed Sacrament Catholic School,Worcester,2020-12-30,3,51
+Mount Aviat Academy,Cecil,2020-12-30,5,51
+Ohr Chadash Academy,Baltimore City,2020-12-30,2,51
+Our Lady of Mt. Carmel,Baltimore,2020-12-30,3,51
+Rosedale Baptist School,Baltimore,2020-12-30,3,51
+Severn School,Anne Arundel,2020-12-30,4,51
+St. Mark's School,Baltimore,2020-12-30,3,51
+St. Mary's High School,Anne Arundel,2020-12-30,3,51
+Talmudical Academy,Baltimore,2020-12-30,36,51
+West Frederick Middle School,Frederick,2020-12-30,2,51
+Windsor Knolls Middle School,Frederick,2020-12-30,4,51
+Bais Yaakov Eva Winer High School,Baltimore,2021-01-06,31,52
+College Garden Elementary,Montgomery,2021-01-06,2,52
+Esperanza Middle School,St. Mary's,2021-01-06,3,52
+Heritage Academy,Washington,2021-01-06,2,52
+Ohr Chadash Academy,Baltimore City,2021-01-06,2,52
+Our Lady of Mt. Carmel,Baltimore,2021-01-06,3,52
+Rosedale Baptist School,Baltimore,2021-01-06,6,52
+St. Mary's High School,Anne Arundel,2021-01-06,5,52
+Talmudical Academy of Baltimore,Baltimore,2021-01-06,36,52
+Torah Institute of Baltimore,Baltimore,2021-01-06,6,52
+Wicomico Day School,Wicomico,2021-01-06,2,52
+Bais Yaakov Eva Winer High School,Baltimore,2021-01-06,31,52
+College Garden Elementary,Montgomery,2021-01-06,2,52
+Esperanza Middle School,St. Mary's,2021-01-06,3,52
+Heritage Academy,Washington,2021-01-06,2,52
+Ohr Chadash Academy,Baltimore City,2021-01-06,2,52
+Our Lady of Mt. Carmel,Baltimore,2021-01-06,3,52
+Rosedale Baptist School,Baltimore,2021-01-06,6,52
+St. Mary's High School,Anne Arundel,2021-01-06,5,52
+Talmudical Academy of Baltimore,Baltimore,2021-01-06,36,52
+Torah Institute of Baltimore,Baltimore,2021-01-06,6,52
+Wicomico Day School,Wicomico,2021-01-06,2,52
+Bais Yaakov Eva Winer High School,Baltimore,2021-01-13,34,53
+Baltimore Montessori,Baltimore City,2021-01-13,2,53
+College Garden Elementary,Montgomery,2021-01-13,2,53
+Bishop McNamara High School,Prince George's,2021-01-13,2,53
+Columbia Academy,Howard,2021-01-13,2,53
+Esperanza Middle School,St. Mary's,2021-01-13,3,53
+Harlem Park,Baltimore City,2021-01-13,2,53
+Heritage Academy,Washington,2021-01-13,2,53
+Ohr Chadash Academy,Baltimore City,2021-01-13,2,53
+Talmudical Academy of Baltimore,Baltimore,2021-01-13,36,53
+Torah Institute of Baltimore,Baltimore,2021-01-13,19,53
+Windsor Knolls Middle,Frederick,2021-01-13,8,53
+Bais Yaakov Eva Winer High School,Baltimore,2021-01-13,34,53
+College Garden Elementary,Montgomery,2021-01-13,2,53
+Bishop McNamara High School,Prince George's,2021-01-13,2,53
+Columbia Academy,Howard,2021-01-13,2,53
+Esperanza Middle School,St. Mary's,2021-01-13,3,53
+Harlem Park,Baltimore City,2021-01-13,2,53
+Heritage Academy,Washington,2021-01-13,2,53
+Ohr Chadash Academy,Baltimore City,2021-01-13,2,53
+Talmudical Academy of Baltimore,Baltimore,2021-01-13,36,53
+Torah Institute of Baltimore,Baltimore,2021-01-13,19,53
+Windsor Knolls Middle,Frederick,2021-01-13,8,53
+Bais Yaakov Eva Winer High School,Baltimore,2021-01-13,34,53
+College Garden Elementary,Montgomery,2021-01-13,2,53
+Bishop McNamara High School,Prince George's,2021-01-13,2,53
+Columbia Academy,Howard,2021-01-13,2,53
+Esperanza Middle School,St. Mary's,2021-01-13,3,53
+Harlem Park,Baltimore City,2021-01-13,2,53
+Heritage Academy,Washington,2021-01-13,2,53
+Ohr Chadash Academy,Baltimore City,2021-01-13,2,53
+Talmudical Academy of Baltimore,Baltimore,2021-01-13,36,53
+Torah Institute of Baltimore,Baltimore,2021-01-13,19,53
+Windsor Knolls Middle,Frederick,2021-01-13,8,53
+Bais Yaakov Eva Winer High School,Baltimore,2021-01-13,34,53
+College Garden Elementary,Montgomery,2021-01-13,2,53
+Bishop McNamara High School,Prince George's,2021-01-13,2,53
+Esperanza Middle School,St. Mary's,2021-01-13,3,53
+Harlem Park,Baltimore City,2021-01-13,2,53
+Heritage Academy,Washington,2021-01-13,2,53
+Ohr Chadash Academy,Baltimore City,2021-01-13,2,53
+Talmudical Academy of Baltimore,Baltimore,2021-01-13,36,53
+Torah Institute of Baltimore,Baltimore,2021-01-13,19,53
+Windsor Knolls Middle,Frederick,2021-01-13,8,53
+Annapolis Area Christian School,Anne Arundel,2021-01-20,3,54
+Bais Yaakov Eva Winer High School,Baltimore,2021-01-20,37,54
+Bais Yaakov School for Girls,Baltimore,2021-01-20,3,54
+College Garden Elementary,Montgomery,2021-01-20,2,54
+Bishop McNamara High,Prince George's,2021-01-20,9,54
+Calvert Hall College Preparatory School,Baltimore,2021-01-20,7,54
+Harlem Park,Baltimore City,2021-01-20,2,54
+Heritage Academy,Washington,2021-01-20,2,54
+Salsbury Christian School,Wicomico,2021-01-20,2,54
+School of Incarnation,Anne Arundel,2021-01-20,3,54
+Sunderland Elementary School,Calvert,2021-01-20,4,54
+Talmudical Academy of Baltimore,Baltimore,2021-01-20,48,54
+The Harbour School,Anne Arundel,2021-01-20,3,54
+The Heights School,Montgomery,2021-01-20,4,54
+The Young School at Kendall Ridge,Howard,2021-01-20,1,54
+Torah Institute of Baltimore,Baltimore,2021-01-20,26,54
+Annapolis Area Christian School,Anne Arundel,2021-01-20,3,54
+Bais Yaakov Eva Winer High School,Baltimore,2021-01-20,37,54
+Bais Yaakov School for Girls,Baltimore,2021-01-20,3,54
+College Garden Elementary,Montgomery,2021-01-20,2,54
+Bishop McNamara High,Prince George's,2021-01-20,9,54
+Calvert Hall College Preparatory School,Baltimore,2021-01-20,7,54
+Harlem Park,Baltimore City,2021-01-20,2,54
+Heritage Academy,Washington,2021-01-20,2,54
+Salsbury Christian School,Wicomico,2021-01-20,2,54
+School of Incarnation,Anne Arundel,2021-01-20,3,54
+Sunderland Elementary School,Calvert,2021-01-20,4,54
+Talmudical Academy of Baltimore,Baltimore,2021-01-20,48,54
+The Harbour School,Anne Arundel,2021-01-20,3,54
+The Heights School,Montgomery,2021-01-20,4,54
+The Young School at Kendall Ridge,Howard,2021-01-20,1,54
+Torah Institute of Baltimore,Baltimore,2021-01-20,26,54
+Annapolis Area Christian School,Anne Arundel,2021-01-20,3,54
+Bais Yaakov Eva Winer High School,Baltimore,2021-01-20,37,54
+Bais Yaakov School for Girls,Baltimore,2021-01-20,3,54
+College Garden Elementary,Montgomery,2021-01-20,2,54
+Bishop McNamara High,Prince George's,2021-01-20,9,54
+Calvert Hall College Preparatory School,Baltimore,2021-01-20,7,54
+Harlem Park,Baltimore City,2021-01-20,2,54
+Heritage Academy,Washington,2021-01-20,2,54
+Salsbury Christian School,Wicomico,2021-01-20,2,54
+School of Incarnation,Anne Arundel,2021-01-20,3,54
+Sunderland Elementary School,Calvert,2021-01-20,4,54
+Talmudical Academy of Baltimore,Baltimore,2021-01-20,48,54
+The Harbour School,Anne Arundel,2021-01-20,3,54
+The Heights School,Montgomery,2021-01-20,4,54
+Torah Institute of Baltimore,Baltimore,2021-01-20,26,54
+Annapolis Area Christian School,Anne Arundel,2021-01-27,3,55
+The Avalon School,Montgomery,2021-01-27,3,55
+Bais Yaakov Eva Winer High School,Baltimore,2021-01-27,44,55
+Bais Yaakov Middle School,Baltimore,2021-01-27,3,55
+Bais Yaakov School for Girls,Baltimore,2021-01-27,3,55
+Bishop McNamara High,Prince George's,2021-01-27,10,55
+Brookewood School,Montgomery,2021-01-27,3,55
+Calvert Hall College High School,Baltimore,2021-01-27,7,55
+Cheder Chabad School,Baltimore City,2021-01-27,2,55
+DeMatha Catholic High School,Prince George's,2021-01-27,2,55
+Georgetown Preparatory School,Montgomery,2021-01-27,4,55
+Heritage Academy,Washington,2021-01-27,2,55
+Little Flower School,St. Mary's,2021-01-27,3,55
+Oldfields School,Baltimore,2021-01-27,1,55
+Parr's Ridge Elementary,Carroll,2021-01-27,2,55
+Resurrection St. Paul School,Howard,2021-01-27,8,55
+Runnymede Elementary,Carroll,2021-01-27,2,55
+Salisbury Christian School,Wicomico,2021-01-27,5,55
+School of the Incarnation,Anne Arundel,2021-01-27,4,55
+St. Francis de Sales Catholic School,Wicomico,2021-01-27,6,55
+St. Mary's Ryken High School,St. Mary's,2021-01-27,2,55
+Talmudical Academy of Baltimore,Baltimore,2021-01-27,56,55
+The Heights School,Montgomery,2021-01-27,4,55
+The Primary Day School,Montgomery,2021-01-27,2,55
+Torah Institute of Baltimore,Baltimore,2021-01-27,26,55
+William Winchester Elementary,Carroll,2021-01-27,4,55
+Annapolis Area Christian School,Anne Arundel,2021-01-27,3,55
+The Avalon School,Montgomery,2021-01-27,3,55
+Bais Yaakov Eva Winer High School,Baltimore,2021-01-27,44,55
+Bais Yaakov Middle School,Baltimore,2021-01-27,3,55
+Bais Yaakov School for Girls,Baltimore,2021-01-27,3,55
+Bishop McNamara High,Prince George's,2021-01-27,10,55
+Brookewood School,Montgomery,2021-01-27,3,55
+Calvert Hall College High School,Baltimore,2021-01-27,7,55
+Cheder Chabad School,Baltimore City,2021-01-27,2,55
+DeMatha Catholic High School,Prince George's,2021-01-27,2,55
+Georgetown Preparatory School,Montgomery,2021-01-27,4,55
+Heritage Academy,Washington,2021-01-27,2,55
+Little Flower School,St. Mary's,2021-01-27,3,55
+Oldfields School,Baltimore,2021-01-27,1,55
+Parr's Ridge Elementary,Carroll,2021-01-27,2,55
+Resurrection St. Paul School,Howard,2021-01-27,8,55
+Runnymede Elementary,Carroll,2021-01-27,2,55
+Salisbury Christian School,Wicomico,2021-01-27,5,55
+School of the Incarnation,Anne Arundel,2021-01-27,4,55
+St. Francis de Sales Catholic School,Wicomico,2021-01-27,6,55
+St. Mary's Ryken High School,St. Mary's,2021-01-27,2,55
+Talmudical Academy of Baltimore,Baltimore,2021-01-27,56,55
+The Heights School,Montgomery,2021-01-27,4,55
+The Primary Day School,Montgomery,2021-01-27,2,55
+Torah Institute of Baltimore,Baltimore,2021-01-27,26,55
+William Winchester Elementary,Carroll,2021-01-27,4,55
+Annapolis Area Christian School,Anne Arundel,2021-01-27,3,55
+The Avalon School,Montgomery,2021-01-27,3,55
+Bais Yaakov Eva Winer High School,Baltimore,2021-01-27,44,55
+Bais Yaakov Middle School,Baltimore,2021-01-27,3,55
+Bais Yaakov School for Girls,Baltimore,2021-01-27,3,55
+Bishop McNamara High,Prince George's,2021-01-27,10,55
+Brookewood School,Montgomery,2021-01-27,3,55
+Calvert Hall College High School,Baltimore,2021-01-27,7,55
+Cheder Chabad School,Baltimore City,2021-01-27,2,55
+DeMatha Catholic High School,Prince George's,2021-01-27,2,55
+Georgetown Preparatory School,Montgomery,2021-01-27,4,55
+Heritage Academy,Washington,2021-01-27,2,55
+Little Flower School,St. Mary's,2021-01-27,3,55
+Parr's Ridge Elementary,Carroll,2021-01-27,2,55
+Resurrection St. Paul School,Howard,2021-01-27,8,55
+Runnymede Elementary,Carroll,2021-01-27,2,55
+Salisbury Christian School,Wicomico,2021-01-27,5,55
+School of the Incarnation,Anne Arundel,2021-01-27,4,55
+St. Francis de Sales Catholic School,Wicomico,2021-01-27,6,55
+St. Mary's Ryken High School,St. Mary's,2021-01-27,2,55
+Talmudical Academy of Baltimore,Baltimore,2021-01-27,56,55
+The Heights School,Montgomery,2021-01-27,4,55
+The Primary Day School,Montgomery,2021-01-27,2,55
+Torah Institute of Baltimore,Baltimore,2021-01-27,26,55
+William Winchester Elementary,Carroll,2021-01-27,4,55
+The Avalon School,Montgomery,2021-02-03,5,56
+Bais Yaakov Eva Winer High School,Baltimore,2021-02-03,45,56
+Bishop McNamara High,Prince George's,2021-02-03,10,56
+Brookewood School,Montgomery,2021-02-03,3,56
+Calvert Hall College High School,Baltimore,2021-02-03,7,56
+Cheder Chabad School,Baltimore City,2021-02-03,2,56
+DeMatha Catholic High School,Prince George's,2021-02-03,2,56
+Georgetown Preparatory School,Montgomery,2021-02-03,7,56
+Heritage Academy,Washington,2021-02-03,2,56
+Kings Christian Academy,St. Mary's,2021-02-03,6,56
+Little Flower School,St. Mary's,2021-02-03,3,56
+McDonogh School,Baltimore,2021-02-03,4,56
+Our Lady of Mercy,Montgomery,2021-02-03,3,56
+Resurrection St. Paul School,Howard,2021-02-03,14,56
+Runnymede Elementary,Carroll,2021-02-03,5,56
+Salisbury Christian School,Wicomico,2021-02-03,4,56
+Spaulding High School,Anne Arundel,2021-02-03,2,56
+St. Francis de Sales Catholic School,Wicomico,2021-02-03,6,56
+St. Louis School,Howard,2021-02-03,3,56
+St. Margaret's Elementary,Harford,2021-02-03,2,56
+St. Mary's Ryken High School,St. Mary's,2021-02-03,2,56
+St. Raphael School,Montgomery,2021-02-03,9,56
+Talmudical Academy of Baltimore,Baltimore,2021-02-03,62,56
+The Country School,Talbot,2021-02-03,2,56
+The Heights School,Montgomery,2021-02-03,4,56
+William Winchester Elementary,Carroll,2021-02-03,2,56
+The Avalon School,Montgomery,2021-02-03,5,56
+Bais Yaakov Eva Winer High School,Baltimore,2021-02-03,45,56
+Bishop McNamara High,Prince George's,2021-02-03,10,56
+Brookewood School,Montgomery,2021-02-03,3,56
+Calvert Hall College High School,Baltimore,2021-02-03,7,56
+Cheder Chabad School,Baltimore City,2021-02-03,2,56
+DeMatha Catholic High School,Prince George's,2021-02-03,2,56
+Georgetown Preparatory School,Montgomery,2021-02-03,7,56
+Heritage Academy,Washington,2021-02-03,2,56
+Kings Christian Academy,St. Mary's,2021-02-03,6,56
+Little Flower School,St. Mary's,2021-02-03,3,56
+McDonogh School,Baltimore,2021-02-03,4,56
+Our Lady of Mercy,Montgomery,2021-02-03,3,56
+Resurrection St. Paul School,Howard,2021-02-03,14,56
+Runnymede Elementary,Carroll,2021-02-03,5,56
+Salisbury Christian School,Wicomico,2021-02-03,4,56
+Spaulding High School,Anne Arundel,2021-02-03,2,56
+St. Francis de Sales Catholic School,Wicomico,2021-02-03,6,56
+St. Louis School,Howard,2021-02-03,3,56
+St. Margaret's Elementary,Harford,2021-02-03,2,56
+St. Mary's Ryken High School,St. Mary's,2021-02-03,2,56
+St. Raphael School,Montgomery,2021-02-03,9,56
+Talmudical Academy of Baltimore,Baltimore,2021-02-03,62,56
+The Country School,Talbot,2021-02-03,2,56
+The Heights School,Montgomery,2021-02-03,4,56
+William Winchester Elementary,Carroll,2021-02-03,2,56
+Bais Yaakov Eva Winer High School,Baltimore,2021-02-10,49,57
+Bethel Christian Academy,Howard,2021-02-10,2,57
+Calvert Hall College High School,Baltimore,2021-02-10,7,57
+Carroll Springs Elementary,Carroll,2021-02-10,2,57
+Charles E Smith Jewish Day School - Upper School,Montgomery,2021-02-10,3,57
+Cheder Chabad School,Baltimore City,2021-02-10,2,57
+DeMatha Catholic High School,Prince George's,2021-02-10,5,57
+Kings Christian Academy,St. Mary's,2021-02-10,7,57
+McDonogh School,Baltimore,2021-02-10,4,57
+Resurrection St. Paul School,Howard,2021-02-10,15,57
+Runnymede Elementary,Carroll,2021-02-10,5,57
+St. Louis School,Howard,2021-02-10,3,57
+St. Raphael School,Montgomery,2021-02-10,9,57
+Talmudical Academy of Baltimore,Baltimore,2021-02-10,72,57
+The Country School,Talbot,2021-02-10,7,57
+The Primary Day School,Montgomery,2021-02-10,6,57
+Bais Yaakov Eva Winer High School,Baltimore,2021-02-10,49,57
+Bethel Christian Academy,Howard,2021-02-10,2,57
+Calvert Hall College High School,Baltimore,2021-02-10,7,57
+Carroll Springs Elementary,Carroll,2021-02-10,2,57
+Charles E Smith Jewish Day School - Upper School,Montgomery,2021-02-10,3,57
+Cheder Chabad School,Baltimore City,2021-02-10,2,57
+DeMatha Catholic High School,Prince George's,2021-02-10,5,57
+Kings Christian Academy,St. Mary's,2021-02-10,7,57
+McDonogh School,Baltimore,2021-02-10,4,57
+Resurrection St. Paul School,Howard,2021-02-10,15,57
+Runnymede Elementary,Carroll,2021-02-10,5,57
+St. Louis School,Howard,2021-02-10,3,57
+St. Raphael School,Montgomery,2021-02-10,9,57
+Talmudical Academy of Baltimore,Baltimore,2021-02-10,72,57
+The Country School,Talbot,2021-02-10,7,57
+The Primary Day School,Montgomery,2021-02-10,6,57
+Bais Yaakov Eva Winer High School,Baltimore,2021-02-17,51,58
+Bethel Christian Academy,Howard,2021-02-17,3,58
+Calvary Baptist Church Academy,Anne Arundel,2021-02-17,7,58
+Carroll Springs Elementary,Carroll,2021-02-17,2,58
+Catoctin Highschool,Frederick,2021-02-17,2,58
+Charles E Smith Jewish Day School - Upper School,Montgomery,2021-02-17,3,58
+Cheder Chabad School,Baltimore City,2021-02-17,2,58
+DeMatha Catholic High School,Prince George's,2021-02-17,6,58
+McDonogh School,Baltimore,2021-02-17,4,58
+Resurrection St. Paul School,Howard,2021-02-17,15,58
+Runnymede Elementary,Carroll,2021-02-17,5,58
+St. Martin's in the Field Episcopal School,Anne Arundel,2021-02-17,2,58
+St. Paul's School,Baltimore,2021-02-17,4,58
+Talmudical Academy of Baltimore - High School,Baltimore,2021-02-17,3,58
+Talmudical Academy of Baltimore - Elementary,Baltimore,2021-02-17,32,58
+The Country School,Talbot,2021-02-17,4,58
+The Primary Day School,Montgomery,2021-02-17,8,58
+Bais Yaakov Eva Winer High School,Baltimore,2021-02-17,51,58
+Bethel Christian Academy,Howard,2021-02-17,3,58
+Calvary Baptist Church Academy,Anne Arundel,2021-02-17,7,58
+Carroll Springs Elementary,Carroll,2021-02-17,2,58
+Catoctin Highschool,Frederick,2021-02-17,2,58
+Charles E Smith Jewish Day School - Upper School,Montgomery,2021-02-17,3,58
+Cheder Chabad School,Baltimore City,2021-02-17,2,58
+DeMatha Catholic High School,Prince George's,2021-02-17,6,58
+McDonogh School,Baltimore,2021-02-17,4,58
+Resurrection St. Paul School,Howard,2021-02-17,15,58
+Runnymede Elementary,Carroll,2021-02-17,5,58
+St. Martin's in the Field Episcopal School,Anne Arundel,2021-02-17,2,58
+St. Paul's School,Baltimore,2021-02-17,4,58
+Talmudical Academy of Baltimore - High School,Baltimore,2021-02-17,3,58
+Talmudical Academy of Baltimore - Elementary,Baltimore,2021-02-17,32,58
+The Country School,Talbot,2021-02-17,4,58
+The Primary Day School,Montgomery,2021-02-17,8,58
+Bais Yaakov Eva Winer High School,Baltimore,2021-02-24,51,59
+Bethel Christian Academy,Howard,2021-02-24,3,59
+Calvary Baptist Church Academy,Anne Arundel,2021-02-24,8,59
+Catoctin Highschool,Frederick,2021-02-24,2,59
+Cheder Chabad School,Baltimore City,2021-02-24,2,59
+DeMatha Catholic High School,Prince George's,2021-02-24,6,59
+Friends School of Baltimore,Baltimore City,2021-02-24,2,59
+Mount Saint Joseph High School,Baltimore City,2021-02-24,2,59
+Oklahoma Rd Middle School,Carroll,2021-02-24,2,59
+Rosedale Baptist School,Baltimore,2021-02-24,2,59
+South Carroll High School,Carroll,2021-02-24,4,59
+Spring Ridge Middle School,St. Mary's,2021-02-24,2,59
+St. Martin's in the Field Episcopal School,Anne Arundel,2021-02-24,2,59
+St. Paul's School ,Baltimore,2021-02-24,4,59
+The Country School,Talbot,2021-02-24,5,59
+The Primary Day School,Montgomery,2021-02-24,8,59
+Torah School of Greater Washington,Montgomery,2021-02-24,2,59
+Bais Yaakov Eva Winer High School,Baltimore,2021-02-24,51,59
+Bethel Christian Academy,Howard,2021-02-24,3,59
+Calvary Baptist Church Academy,Anne Arundel,2021-02-24,8,59
+Catoctin Highschool,Frederick,2021-02-24,2,59
+DeMatha Catholic High School,Prince George's,2021-02-24,6,59
+Friends School of Baltimore,Baltimore City,2021-02-24,2,59
+Mount Saint Joseph High School,Baltimore City,2021-02-24,2,59
+Oklahoma Rd Middle School,Carroll,2021-02-24,2,59
+Rosedale Baptist School,Baltimore,2021-02-24,2,59
+South Carroll High School,Carroll,2021-02-24,4,59
+Spring Ridge Middle School,St. Mary's,2021-02-24,2,59
+St. Martin's in the Field Episcopal School,Anne Arundel,2021-02-24,2,59
+St. Paul's School ,Baltimore,2021-02-24,4,59
+The Country School,Talbot,2021-02-24,5,59
+The Primary Day School,Montgomery,2021-02-24,8,59
+Torah School of Greater Washington,Montgomery,2021-02-24,2,59
+Arundel Christian School,Anne Arundel,2021-03-03,3,60
+Bethel Christian Academy,Howard,2021-03-03,5,60
+Calvary Baptist Church Academy,Anne Arundel,2021-03-03,8,60
+Calvert Hall College High School,Baltimore,2021-03-03,3,60
+Friends School of Baltimore,Baltimore City,2021-03-03,2,60
+Mechanicsville Elementary,Carroll,2021-03-03,2,60
+Mt. Aetna Adventist School,Washington,2021-03-03,2,60
+Mount Saint Joseph High School,Baltimore City,2021-03-03,4,60
+Odenton Christian School,Anne Arundel,2021-03-03,2,60
+Redeemer Classical Christian School,Baltimore,2021-03-03,3,60
+Rosedale Baptist School,Baltimore,2021-03-03,2,60
+South Carroll High,Carroll,2021-03-03,4,60
+Spring Ridge Middle,St. Mary's,2021-03-03,2,60
+St. John's Catholic Preparatory School,Frederick,2021-03-03,7,60
+St. Martin's in the Field Episcopal School,Anne Arundel,2021-03-03,2,60
+St. Thomas More Academy,Frederick,2021-03-03,6,60
+The Country School,Talbot,2021-03-03,7,60
+Torah School of Greater Washington,Montgomery,2021-03-03,2,60
+Arundel Christian School,Anne Arundel,2021-03-03,3,60
+Bethel Christian Academy,Howard,2021-03-03,5,60
+Calvary Baptist Church Academy,Anne Arundel,2021-03-03,8,60
+Calvert Hall College High School,Baltimore,2021-03-03,3,60
+Friends School of Baltimore,Baltimore City,2021-03-03,2,60
+Mechanicsville Elementary,Carroll,2021-03-03,2,60
+Mt. Aetna Adventist School,Washington,2021-03-03,2,60
+Mount Saint Joseph High School,Baltimore City,2021-03-03,4,60
+Odenton Christian School,Anne Arundel,2021-03-03,2,60
+Redeemer Classical Christian School,Baltimore,2021-03-03,3,60
+Rosedale Baptist School,Baltimore,2021-03-03,2,60
+South Carroll High,Carroll,2021-03-03,4,60
+Spring Ridge Middle,St. Mary's,2021-03-03,2,60
+St. John's Catholic Preparatory School,Frederick,2021-03-03,7,60
+St. Martin's in the Field Episcopal School,Anne Arundel,2021-03-03,2,60
+St. Thomas More Academy,Frederick,2021-03-03,6,60
+The Country School,Talbot,2021-03-03,7,60
+Torah School of Greater Washington,Montgomery,2021-03-03,2,60
+Arundel Christian School,Anne Arundel,2021-03-10,3,61
+Boonsboro High School,Washington,2021-03-10,4,61
+The Bryn Mawr School ,Baltimore City,2021-03-10,2,61
+Friendship Valley Elementary,Carroll,2021-03-10,2,61
+Garrison Forest School,Baltimore,2021-03-10,2,61
+Leith Walk Elementary/Middle School,Baltimore City,2021-03-10,2,61
+Mechanicsville Elementary,Carroll,2021-03-10,5,61
+Mt. Aetna Adventist School,Washington,2021-03-10,4,61
+Mount Saint Joseph High School,Baltimore City,2021-03-10,4,61
+Ner Israel Rabbinical College,Baltimore,2021-03-10,4,61
+Odenton Christian School,Anne Arundel,2021-03-10,2,61
+Redeemer Classical Christian School,Baltimore,2021-03-10,4,61
+Rosedale Baptist School,Baltimore,2021-03-10,5,61
+St. John's Catholic Preparatory School,Frederick,2021-03-10,10,61
+St. Maria Goretti High School,Washington,2021-03-10,4,61
+St. Michael - St. Clement School,Baltimore,2021-03-10,3,61
+St. Thomas More Academy,Frederick,2021-03-10,10,61
+St. Ursula School,Baltimore,2021-03-10,2,61
+The Country School,Talbot,2021-03-10,7,61
+West Frederick Middle School,Frederick,2021-03-10,2,61
+Westminster High School,Carroll,2021-03-10,7,61
+White Marsh Elementary School,St. Mary's,2021-03-10,2,61
+Winters Mill High School,Carroll,2021-03-10,2,61
+Yeshiva of Greater Washington,Montgomery,2021-03-10,4,61
+Arundel Christian School,Anne Arundel,2021-03-10,3,61
+Boonsboro High School,Washington,2021-03-10,4,61
+The Bryn Mawr School ,Baltimore City,2021-03-10,2,61
+Friendship Valley Elementary,Carroll,2021-03-10,2,61
+Garrison Forest School,Baltimore,2021-03-10,2,61
+Leith Walk Elementary/Middle School,Baltimore City,2021-03-10,2,61
+Mechanicsville Elementary,Carroll,2021-03-10,5,61
+Mt. Aetna Adventist School,Washington,2021-03-10,4,61
+Mount Saint Joseph High School,Baltimore City,2021-03-10,4,61
+Ner Israel Rabbinical College,Baltimore,2021-03-10,4,61
+Odenton Christian School,Anne Arundel,2021-03-10,2,61
+Redeemer Classical Christian School,Baltimore,2021-03-10,4,61
+Rosedale Baptist School,Baltimore,2021-03-10,5,61
+St. John's Catholic Preparatory School,Frederick,2021-03-10,10,61
+St. Maria Goretti High School,Washington,2021-03-10,4,61
+St. Michael - St. Clement School,Baltimore,2021-03-10,3,61
+St. Thomas More Academy,Frederick,2021-03-10,10,61
+St. Ursula School,Baltimore,2021-03-10,2,61
+The Country School,Talbot,2021-03-10,7,61
+West Frederick Middle School,Frederick,2021-03-10,2,61
+Westminster High School,Carroll,2021-03-10,7,61
+White Marsh Elementary School,St. Mary's,2021-03-10,2,61
+Winters Mill High School,Carroll,2021-03-10,2,61
+Yeshiva of Greater Washington,Montgomery,2021-03-10,4,61
