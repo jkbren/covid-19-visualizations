@@ -6,13 +6,6 @@ Repository to collect various visualizations I've done during the pandemic. Reli
 
 
 <p align="center">
-<img src="figs/pngs/state_subplot_hospitalizationcounts_trends_inset.png" alt="county_level" width="95%"/>
-</p>
-
-------
-
-
-<p align="center">
 <img src="figs/pngs/state_subplot_casecounts_trends_inset.png" alt="county_level" width="95%"/>
 </p>
 
