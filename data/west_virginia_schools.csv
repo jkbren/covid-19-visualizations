@@ -360,3 +360,175 @@ last_updated,name,county,new_cases,week
 2021-02-23,Woodrow Wilson High School EX,Raleigh,3.0,59
 2021-03-15,Grafton High School,Taylor,3.0,62
 2021-03-15,Williamstown High School,Wood,2.0,62
+2021-03-19,Pikeside Learning Center,Berkeley,4.0,62
+2021-03-24,Sherman High School,Boone,18.0,63
+2021-03-24,Van High School EX,Boone,7.0,63
+2021-03-24,Braxton County High EX,Braxton,2.0,63
+2021-03-24,Braxton County High School,Braxton,13.0,63
+2021-03-24,Cabell Midland High School,Cabell,2.0,63
+2021-03-24,Huntington High School,Cabell,7.0,63
+2021-03-23,Doddridge Co. High School,Doddridge,6.0,63
+2021-03-23,Midland Trail High School,Fayette,2.0,63
+2021-03-23,Oak Hill High School EX,Fayette,6.0,63
+2021-03-23,Danese Christian Academy,Fayette,2.0,63
+2021-03-23,Oak Hill High School EX,Fayette,4.0,63
+2021-03-22,Meadow Bridge High School EX,Fayette,28.0,63
+2021-02-22,Midland Trail High School,Fayette,2.0,59
+2021-02-22,Shortline School,Fayette,2.0,59
+2021-03-18,Petersburg High School,Grant,2.0,62
+2021-03-18,Petersburg High School,Grant,6.0,62
+2021-03-16,Petersburg Elementary,Grant,2.0,62
+2021-03-23,South Harrison High School EX,Harrison,4.0,63
+2021-02-24,Jackson County School Transportation,Jackson,6.0,59
+2021-03-24,St Albans High School EX,Kanawha,2.0,63
+2021-03-24,Piedmont Elementary,Kanawha,2.0,63
+2021-03-24,Westside Middle School,Kanawha,4.0,63
+2021-03-02,Sacred Heart Elementary,Kanawha,4.0,60
+2021-02-15,South Charleston Middle School,Kanawha,2.0,58
+2021-02-08,Piedmont Elementary,Kanawha,2.0,57
+2021-02-03,South Charleston High School,Kanawha,5.0,56
+2021-03-24,Ranger Elementary School,Lincoln,7.0,63
+2021-03-24,Duval Middle School EX,Lincoln,3.0,63
+2021-03-24,Logan High School EX,Logan,3.0,63
+2021-03-24,Man High School EX,Logan,3.0,63
+2021-03-24,Chapmanville High School EX,Logan,8.0,63
+2021-03-03,Chapmanville Intermediate,Logan,5.0,60
+2021-02-23,Fairmont East High School,Marion,2.0,59
+2021-03-24,Wahama High School,Mason,2.0,63
+2021-03-08,Spanishburg Elementary,Mercer,2.0,61
+2021-02-11,St. Francis Central Catholic,Monongalia,2.0,57
+2021-03-21,Berkeley Springs HS EX,Morgan,2.0,62
+2021-03-18,Nicholas County High School EX,Nicholas,5.0,62
+2021-03-24,Pendleton High Girls EX,Pendleton,3.0,63
+2021-03-24,Pendleton Middle EX,Pendleton,6.0,63
+2021-03-23,Brucetone School (Prek-8),Preston,4.0,63
+2021-03-24,Calvary Baptist Academy,Putnam,2.0,63
+2021-03-18,Independence High School,Raleigh,13.0,62
+2021-03-18,Mt. Hope Christian Academy,Raleigh,3.0,62
+2021-03-18,Woodrow Wilson High School EX,Raleigh,3.0,62
+2021-02-16,Greater Beckley Christian Academy,Raleigh,4.0,58
+2021-02-23,Ritchie County Bus Garage,Ritchie,2.0,59
+2021-03-19,Grafton High School,Taylor,6.0,62
+2021-03-24,Wayne High School EX,Wayne,4.0,63
+2021-03-24,Buffalo Middle School EX,Wayne,6.0,63
+2021-03-24,New Martinsville K-8,Wetzel,2.0,63
+2021-03-02,Wirt County Primary Center,Wirt,2.0,60
+2021-03-24,Williamstown High School,Wood,2.0,63
+2021-03-18,Franklin Elementary,Wood,3.0,62
+2021-03-15,Blennerhassett Elementary EX,Wood,2.0,62
+2021-03-23,Williamstown High School,Wood,2.0,63
+2021-02-23,Williamstown Elementary School,Wood,2.0,59
+2021-02-23,Parkersburg Catholic Elementary School,Wood,4.0,59
+2021-03-26,Spring Mills Primary School,Berkeley,4.0,63
+2021-03-11,Opequon Elementary,Berkeley,6.0,61
+2021-03-26,Sherman High,Boone,18.0,63
+2021-03-26,Van High School EX,Boone,13.0,63
+2021-03-25,Braxton County High School,Braxton,13.0,63
+2021-03-28,Cabell Midland High School,Cabell,2.0,63
+2021-03-28,Huntington High School,Cabell,7.0,63
+2021-03-26,Doddridge Co. High School,Doddridge,6.0,63
+2021-03-06,Petersburg Elementary EX,Grant,2.0,60
+2021-03-26,South Harrison High School,Harrison,4.0,63
+2021-03-28,Riverside High School EX,Kanawha,2.0,63
+2021-03-28,John Adams Middle School,Kanawha,2.0,63
+2021-03-28,Cross Lanes Christian,Kanawha,14.0,63
+2021-03-28,St. Francis After School Program,Kanawha,2.0,63
+2021-03-28,Chamberlain Elementary School,Kanawha,2.0,63
+2021-03-28,Hayes Middle School,Kanawha,4.0,63
+2021-03-26,St Albans High School,Kanawha,8.0,63
+2021-03-25,Spanishburg School,Mercer,2.0,63
+2021-03-25,Bluefield Middle School,Mercer,2.0,63
+2021-03-25,Mountaineer Middle School,Monongalia,3.0,63
+2021-03-21,Berkeley Springs High School EX,Morgan,2.0,62
+2021-03-24,Pendleton Middle School EX,Pendleton,6.0,63
+2021-03-26,Liberty High School,Raleigh,7.0,63
+2021-03-25,Grafton High School,Taylor,6.0,63
+2021-03-26,Wayne High School EX,Wayne,5.0,63
+2021-03-26,Buffalo Middle School,Wayne,7.0,63
+2021-03-26,Hamilton Middle School EX,Wood,2.0,63
+2021-03-25,Williamstown High School,Wood,2.0,63
+2021-03-29,Martinsburg High School EX,Berkeley,3.0,64
+2021-03-29,Sherman High School,Boone,18.0,64
+2021-03-25,Braxton County High School EX,Braxton,15.0,63
+2021-03-29,Cabell Midland High School,Cabell,2.0,64
+2021-03-29,Huntington High School,Cabell,7.0,64
+2021-03-29,Doddridge Co. High School,Doddridge,5.0,64
+2021-02-22,Shortline Middle School,Fayette,2.0,59
+2021-03-29,Hampshire High School,Hampshire,2.0,64
+2021-03-29,South Harrison High Schools EX,Harrison,5.0,64
+2021-02-24,Jackson County School,Jackson,6.0,59
+2021-03-29,Riverside High School,Kanawha,9.0,64
+2021-03-29,John Adams Middle School,Kanawha,2.0,64
+2021-03-29,Cross Lanes Christian,Kanawha,15.0,64
+2021-03-29,St. Francis After School Program,Kanawha,2.0,64
+2021-03-29,Chamberlain Elementary School,Kanawha,2.0,64
+2021-03-29,Hayes Middle School,Kanawha,4.0,64
+2021-03-29,St Albans High School,Kanawha,10.0,64
+2021-03-26,Piedmont Elementary School,Kanawha,2.0,63
+2021-03-25,Westside Middle School,Kanawha,4.0,63
+2021-03-25,Ranger Elementary School,Lincoln,7.0,63
+2021-03-25,Duval Middle School EX,Lincoln,4.0,63
+2021-03-26,Man High School EX,Logan,7.0,63
+2021-03-26,Chapmanville High School EX,Logan,8.0,63
+2021-03-29,East Fairmont Middle School,Marion,7.0,64
+2021-03-29,East Fairmont High School,Marion,7.0,64
+2021-03-29,Wahama High School,Mason,2.0,64
+2021-03-29,Keyser High School,Mineral,3.0,64
+2021-03-21,Berkeley Springs High School,Morgan,2.0,62
+2021-03-25,Brucetone School (Prek-8),Preston,4.0,63
+2021-03-29,Calvary Baptist Academy,Putnam,2.0,64
+2021-03-29,Wayne High School EX,Wayne,5.0,64
+2021-03-29,Buffalo Middle School,Wayne,7.0,64
+2021-03-30,Williamstown High School,Wood,3.0,64
+2021-03-26,Franklin Elementary School,Wood,3.0,63
+2021-03-15,Blennerhassett Elementary School,Wood,2.0,62
+2021-04-04,Sherman High School,Boone,19.0,64
+2021-04-04,Van High School EX,Boone,14.0,64
+2021-04-01,Braxton County High School,Braxton,21.0,64
+2021-04-04,Cabell Midland High School,Cabell,2.0,64
+2021-04-04,Huntington High School,Cabell,11.0,64
+2021-03-29,South Harrison High School EX,Harrison,5.0,64
+2021-04-04,Ravenswood High School EX,Jackson,3.0,64
+2021-04-04,Ravenswood Middle School EX,Jackson,3.0,64
+2021-04-04,Kanawha City Elementary,Kanawha,3.0,64
+2021-04-04,Riverside High School,Kanawha,14.0,64
+2021-04-04,John Adams Middle School,Kanawha,4.0,64
+2021-04-04,Cross Lanes Christian,Kanawha,15.0,64
+2021-04-04,St. Francis After School Program,Kanawha,2.0,64
+2021-04-04,Chamberlain Elementary School,Kanawha,2.0,64
+2021-04-04,Hayes Middle School,Kanawha,4.0,64
+2021-04-04,St Albans High School,Kanawha,15.0,64
+2021-03-30,East Fairmont High School,Marion,7.0,64
+2021-04-04,Wahama High School,Mason,2.0,64
+2021-03-30,Mountaineer Middle School,Monongalia,3.0,64
+2021-03-26,Pendleton High EX,Pendleton,3.0,63
+2021-04-04,Calvary Baptist Academy,Putnam,2.0,64
+2021-04-02,Walton Elementary/Middle,Roane,2.0,64
+2021-04-01,Taylor Co Middle School,Taylor,3.0,64
+2021-03-30,Grafton High School,Taylor,6.0,64
+2021-04-04,Wayne High School,Wayne,8.0,64
+2021-04-04,Buffalo Middle School,Wayne,7.0,64
+2021-03-30,New Martinsville K-8,Wetzel,2.0,64
+2021-03-31,Hamilton Middle School EX,Wood,2.0,64
+2021-04-06,Van Elementary,Boone,3.0,65
+2021-04-04,Sherman High,Boone,19.0,64
+2021-04-04,Van High School EX,Boone,15.0,64
+2021-04-04,Braxton County High School,Braxton,21.0,64
+2021-04-06,Central City Elementary,Cabell,2.0,65
+2021-04-07,Cabell Midland High School,Cabell,2.0,65
+2021-04-05,Huntington High School,Cabell,15.0,65
+2021-04-06,Doddridge Co Middle School,Doddridge,3.0,65
+2021-03-06,Petersburg Elementary School,Grant,2.0,60
+2021-04-07,Ravenswood High School,Jackson,4.0,65
+2021-04-06,Ravenswood Middle School EX,Jackson,5.0,65
+2021-04-06,Cedar Grove Middle School,Kanawha,2.0,65
+2021-04-07,Andrew Jackson Middle School EX,Kanawha,2.0,65
+2021-04-05,East Fairmont Middle School,Marion,7.0,65
+2021-04-05,East Fairmont High School,Marion,7.0,65
+2021-04-06,Wahama High School,Mason,8.0,65
+2021-03-26,Pendleton High School EX,Pendleton,3.0,63
+2021-04-06,Magnolia High School,Wetzel,2.0,65
+2021-04-05,Paden City High School,Wetzel,3.0,65
+2021-04-05,Wirt County Primary Center,Wirt,3.0,65
+2021-04-05,Hamilton Middle School EX,Wood,2.0,65
+2021-04-05,Williamstown High School,Wood,3.0,65

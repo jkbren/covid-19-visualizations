@@ -27,6 +27,9 @@ date,name,num_students,new_cases_students,total_cases_students,new_cases_employe
 2021-02-20,Appoquinimink School District,6515.0,0.0,66.0,0.0,45.0
 2021-02-27,Appoquinimink School District,6547.0,0.0,66.0,0.0,45.0
 2021-03-06,Appoquinimink School District,6696.0,0.0,66.0,0.0,45.0
+2021-03-13,Appoquinimink School District,7114.0,1.0,85.0,1.0,50.0
+2021-03-20,Appoquinimink School District,7294.0,1.0,85.0,1.0,50.0
+2021-03-27,Appoquinimink School District,,1.0,91.0,1.0,53.0
 2020-08-29,Brandywine School District,,0.0,42.0,0.0,76.0
 2020-09-05,Brandywine School District,,0.0,42.0,0.0,76.0
 2020-09-12,Brandywine School District,,0.0,42.0,0.0,76.0
@@ -55,6 +58,9 @@ date,name,num_students,new_cases_students,total_cases_students,new_cases_employe
 2021-02-20,Brandywine School District,4795.0,0.0,42.0,0.0,76.0
 2021-02-27,Brandywine School District,4869.0,0.0,42.0,0.0,76.0
 2021-03-06,Brandywine School District,4943.0,0.0,42.0,0.0,76.0
+2021-03-13,Brandywine School District,5004.0,1.0,50.0,1.0,79.0
+2021-03-20,Brandywine School District,5070.0,1.0,50.0,1.0,79.0
+2021-03-27,Brandywine School District,,1.0,58.0,1.0,81.0
 2020-08-29,Caesar Rodney School District,,0.0,27.0,0.0,36.0
 2020-09-05,Caesar Rodney School District,,0.0,27.0,0.0,36.0
 2020-09-12,Caesar Rodney School District,,0.0,27.0,0.0,36.0
@@ -83,6 +89,9 @@ date,name,num_students,new_cases_students,total_cases_students,new_cases_employe
 2021-02-20,Caesar Rodney School District,4049.0,0.0,27.0,0.0,36.0
 2021-02-27,Caesar Rodney School District,3990.0,0.0,27.0,0.0,36.0
 2021-03-06,Caesar Rodney School District,3972.0,0.0,27.0,0.0,36.0
+2021-03-13,Caesar Rodney School District,4624.0,1.0,30.0,1.0,42.0
+2021-03-20,Caesar Rodney School District,4598.0,1.0,30.0,1.0,42.0
+2021-03-27,Caesar Rodney School District,,0.0,30.0,0.0,42.0
 2020-08-29,Cape Henlopen School District,,0.0,76.0,0.0,46.0
 2020-09-05,Cape Henlopen School District,,0.0,76.0,0.0,46.0
 2020-09-12,Cape Henlopen School District,,0.0,76.0,0.0,46.0
@@ -111,6 +120,9 @@ date,name,num_students,new_cases_students,total_cases_students,new_cases_employe
 2021-02-20,Cape Henlopen School District,3961.0,0.0,76.0,0.0,46.0
 2021-02-27,Cape Henlopen School District,3968.0,0.0,76.0,0.0,46.0
 2021-03-06,Cape Henlopen School District,3996.0,0.0,76.0,0.0,46.0
+2021-03-13,Cape Henlopen School District,4022.0,1.0,82.0,1.0,48.0
+2021-03-20,Cape Henlopen School District,4038.0,1.0,82.0,0.0,48.0
+2021-03-27,Cape Henlopen School District,,1.0,83.0,0.0,48.0
 2020-08-29,Capital School District,,0.0,20.0,0.0,28.0
 2020-09-05,Capital School District,,0.0,20.0,0.0,28.0
 2020-09-12,Capital School District,,0.0,20.0,0.0,28.0
@@ -139,6 +151,9 @@ date,name,num_students,new_cases_students,total_cases_students,new_cases_employe
 2021-02-20,Capital School District,2452.0,0.0,20.0,0.0,28.0
 2021-02-27,Capital School District,2684.0,0.0,20.0,0.0,28.0
 2021-03-06,Capital School District,2739.0,0.0,20.0,0.0,28.0
+2021-03-13,Capital School District,2777.0,0.0,21.0,1.0,32.0
+2021-03-20,Capital School District,2846.0,1.0,21.0,1.0,32.0
+2021-03-27,Capital School District,,1.0,25.0,1.0,33.0
 2020-08-29,Charter Schools (Combined Total),,0.0,88.0,0.0,42.0
 2020-09-05,Charter Schools (Combined Total),,0.0,88.0,0.0,42.0
 2020-09-12,Charter Schools (Combined Total),,0.0,88.0,0.0,42.0
@@ -167,6 +182,9 @@ date,name,num_students,new_cases_students,total_cases_students,new_cases_employe
 2021-02-20,Charter Schools (Combined Total),6644.0,0.0,88.0,0.0,42.0
 2021-02-27,Charter Schools (Combined Total),7140.0,0.0,88.0,0.0,42.0
 2021-03-06,Charter Schools (Combined Total),7347.0,0.0,88.0,0.0,42.0
+2021-03-13,Charter Schools (Combined Total),7995.0,1.0,101.0,1.0,48.0
+2021-03-20,Charter Schools (Combined Total),7844.0,1.0,101.0,1.0,48.0
+2021-03-27,Charter Schools (Combined Total),,1.0,111.0,1.0,52.0
 2020-08-29,Christina School District,,0.0,60.0,0.0,78.0
 2020-09-05,Christina School District,,0.0,60.0,0.0,78.0
 2020-09-12,Christina School District,,0.0,60.0,0.0,78.0
@@ -195,6 +213,9 @@ date,name,num_students,new_cases_students,total_cases_students,new_cases_employe
 2021-02-20,Christina School District,8072.0,0.0,60.0,0.0,78.0
 2021-02-27,Christina School District,8326.0,0.0,60.0,0.0,78.0
 2021-03-06,Christina School District,8368.0,0.0,60.0,0.0,78.0
+2021-03-13,Christina School District,8123.0,1.0,71.0,1.0,84.0
+2021-03-20,Christina School District,4348.0,1.0,71.0,1.0,84.0
+2021-03-27,Christina School District,,1.0,74.0,1.0,91.0
 2020-08-29,Colonial School District,,0.0,24.0,0.0,45.0
 2020-09-05,Colonial School District,,0.0,24.0,0.0,45.0
 2020-09-12,Colonial School District,,0.0,24.0,0.0,45.0
@@ -223,6 +244,9 @@ date,name,num_students,new_cases_students,total_cases_students,new_cases_employe
 2021-02-20,Colonial School District,3849.0,0.0,24.0,0.0,45.0
 2021-02-27,Colonial School District,3839.0,0.0,24.0,0.0,45.0
 2021-03-06,Colonial School District,3875.0,0.0,24.0,0.0,45.0
+2021-03-13,Colonial School District,3783.0,1.0,35.0,0.0,47.0
+2021-03-20,Colonial School District,3865.0,1.0,35.0,1.0,47.0
+2021-03-27,Colonial School District,,1.0,43.0,1.0,48.0
 2020-08-29,Delmar School District,,0.0,0.0,0.0,0.0
 2020-09-05,Delmar School District,,0.0,0.0,0.0,0.0
 2020-09-12,Delmar School District,,0.0,0.0,0.0,0.0
@@ -251,6 +275,9 @@ date,name,num_students,new_cases_students,total_cases_students,new_cases_employe
 2021-02-20,Delmar School District,502.0,0.0,0.0,0.0,0.0
 2021-02-27,Delmar School District,514.0,0.0,0.0,0.0,0.0
 2021-03-06,Delmar School District,537.0,0.0,0.0,0.0,0.0
+2021-03-13,Delmar School District,481.0,0.0,1.0,0.0,1.0
+2021-03-20,Delmar School District,550.0,0.0,1.0,0.0,1.0
+2021-03-27,Delmar School District,,0.0,1.0,0.0,1.0
 2020-08-29,Indian River School District,,0.0,101.0,0.0,84.0
 2020-09-05,Indian River School District,,0.0,101.0,0.0,84.0
 2020-09-12,Indian River School District,,0.0,101.0,0.0,84.0
@@ -279,6 +306,9 @@ date,name,num_students,new_cases_students,total_cases_students,new_cases_employe
 2021-02-20,Indian River School District,7489.0,0.0,101.0,0.0,84.0
 2021-02-27,Indian River School District,7531.0,0.0,101.0,0.0,84.0
 2021-03-06,Indian River School District,7552.0,0.0,101.0,0.0,84.0
+2021-03-13,Indian River School District,7603.0,1.0,105.0,0.0,84.0
+2021-03-20,Indian River School District,7601.0,1.0,105.0,0.0,84.0
+2021-03-27,Indian River School District,,1.0,112.0,1.0,85.0
 2020-08-29,Lake Forest School District,,0.0,16.0,0.0,17.0
 2020-09-05,Lake Forest School District,,0.0,16.0,0.0,17.0
 2020-09-12,Lake Forest School District,,0.0,16.0,0.0,17.0
@@ -307,6 +337,9 @@ date,name,num_students,new_cases_students,total_cases_students,new_cases_employe
 2021-02-20,Lake Forest School District,939.0,0.0,16.0,0.0,17.0
 2021-02-27,Lake Forest School District,919.0,0.0,16.0,0.0,17.0
 2021-03-06,Lake Forest School District,967.0,0.0,16.0,0.0,17.0
+2021-03-13,Lake Forest School District,995.0,0.0,16.0,0.0,18.0
+2021-03-20,Lake Forest School District,977.0,0.0,16.0,1.0,18.0
+2021-03-27,Lake Forest School District,,1.0,18.0,1.0,20.0
 2020-08-29,Laurel School District,,0.0,13.0,0.0,14.0
 2020-09-05,Laurel School District,,0.0,13.0,0.0,14.0
 2020-09-12,Laurel School District,,0.0,13.0,0.0,14.0
@@ -335,6 +368,9 @@ date,name,num_students,new_cases_students,total_cases_students,new_cases_employe
 2021-02-20,Laurel School District,1472.0,0.0,13.0,0.0,14.0
 2021-02-27,Laurel School District,1475.0,0.0,13.0,0.0,14.0
 2021-03-06,Laurel School District,1607.0,0.0,13.0,0.0,14.0
+2021-03-13,Laurel School District,1446.0,1.0,14.0,0.0,14.0
+2021-03-20,Laurel School District,1529.0,0.0,14.0,0.0,14.0
+2021-03-27,Laurel School District,,0.0,14.0,1.0,15.0
 2020-08-29,Milford School District,,0.0,23.0,0.0,32.0
 2020-09-05,Milford School District,,0.0,23.0,0.0,32.0
 2020-09-12,Milford School District,,0.0,23.0,0.0,32.0
@@ -363,6 +399,9 @@ date,name,num_students,new_cases_students,total_cases_students,new_cases_employe
 2021-02-20,Milford School District,2648.0,0.0,23.0,0.0,32.0
 2021-02-27,Milford School District,2677.0,0.0,23.0,0.0,32.0
 2021-03-06,Milford School District,2680.0,0.0,23.0,0.0,32.0
+2021-03-13,Milford School District,2685.0,0.0,24.0,0.0,33.0
+2021-03-20,Milford School District,2696.0,1.0,24.0,1.0,33.0
+2021-03-27,Milford School District,,1.0,27.0,1.0,34.0
 2020-08-29,New Castle County Vocational-Technical School District,,0.0,25.0,0.0,19.0
 2020-09-05,New Castle County Vocational-Technical School District,,0.0,25.0,0.0,19.0
 2020-09-12,New Castle County Vocational-Technical School District,,0.0,25.0,0.0,19.0
@@ -391,6 +430,9 @@ date,name,num_students,new_cases_students,total_cases_students,new_cases_employe
 2021-02-20,New Castle County Vocational-Technical School District,2727.0,0.0,25.0,0.0,19.0
 2021-02-27,New Castle County Vocational-Technical School District,2361.0,0.0,25.0,0.0,19.0
 2021-03-06,New Castle County Vocational-Technical School District,2345.0,0.0,25.0,0.0,19.0
+2021-03-13,New Castle County Vocational-Technical School District,2367.0,1.0,30.0,1.0,21.0
+2021-03-20,New Castle County Vocational-Technical School District,2484.0,1.0,30.0,1.0,21.0
+2021-03-27,New Castle County Vocational-Technical School District,,1.0,33.0,1.0,22.0
 2020-08-29,POLYTECH School District,,0.0,16.0,0.0,0.0
 2020-09-05,POLYTECH School District,,0.0,16.0,0.0,0.0
 2020-09-12,POLYTECH School District,,0.0,16.0,0.0,0.0
@@ -419,6 +461,9 @@ date,name,num_students,new_cases_students,total_cases_students,new_cases_employe
 2021-02-20,POLYTECH School District,549.0,0.0,16.0,0.0,0.0
 2021-02-27,POLYTECH School District,599.0,0.0,16.0,0.0,0.0
 2021-03-06,POLYTECH School District,589.0,0.0,16.0,0.0,0.0
+2021-03-13,POLYTECH School District,565.0,1.0,17.0,0.0,1.0
+2021-03-20,POLYTECH School District,558.0,0.0,17.0,0.0,1.0
+2021-03-27,POLYTECH School District,,0.0,17.0,0.0,1.0
 2020-08-29,Private Schools (Combined Total),,0.0,303.0,0.0,108.0
 2020-09-05,Private Schools (Combined Total),,0.0,303.0,0.0,108.0
 2020-09-12,Private Schools (Combined Total),,0.0,303.0,0.0,108.0
@@ -447,6 +492,9 @@ date,name,num_students,new_cases_students,total_cases_students,new_cases_employe
 2021-02-20,Private Schools (Combined Total),10651.0,20.0,303.0,0.0,108.0
 2021-02-27,Private Schools (Combined Total),10735.0,12.0,303.0,0.0,108.0
 2021-03-06,Private Schools (Combined Total),10968.0,20.0,303.0,0.0,108.0
+2021-03-13,Private Schools (Combined Total),8958.0,16.0,336.0,1.0,109.0
+2021-03-20,Private Schools (Combined Total),8649.0,17.0,336.0,0.0,109.0
+2021-03-27,Private Schools (Combined Total),,1.0,346.0,1.0,110.0
 2020-08-29,Red Clay Consolidated School District,,0.0,88.0,0.0,112.0
 2020-09-05,Red Clay Consolidated School District,,0.0,88.0,0.0,112.0
 2020-09-12,Red Clay Consolidated School District,,0.0,88.0,0.0,112.0
@@ -475,6 +523,9 @@ date,name,num_students,new_cases_students,total_cases_students,new_cases_employe
 2021-02-20,Red Clay Consolidated School District,8393.0,0.0,88.0,0.0,112.0
 2021-02-27,Red Clay Consolidated School District,8321.0,0.0,88.0,0.0,112.0
 2021-03-06,Red Clay Consolidated School District,8461.0,0.0,88.0,0.0,112.0
+2021-03-13,Red Clay Consolidated School District,8499.0,1.0,101.0,1.0,116.0
+2021-03-20,Red Clay Consolidated School District,8516.0,1.0,101.0,1.0,116.0
+2021-03-27,Red Clay Consolidated School District,,1.0,103.0,1.0,119.0
 2020-08-29,Seaford School District,,0.0,18.0,0.0,25.0
 2020-09-05,Seaford School District,,0.0,18.0,0.0,25.0
 2020-09-12,Seaford School District,,0.0,18.0,0.0,25.0
@@ -503,6 +554,9 @@ date,name,num_students,new_cases_students,total_cases_students,new_cases_employe
 2021-02-20,Seaford School District,2821.0,0.0,18.0,0.0,25.0
 2021-02-27,Seaford School District,2971.0,0.0,18.0,0.0,25.0
 2021-03-06,Seaford School District,3161.0,0.0,18.0,0.0,25.0
+2021-03-13,Seaford School District,3270.0,0.0,18.0,1.0,27.0
+2021-03-20,Seaford School District,2243.0,0.0,18.0,1.0,27.0
+2021-03-27,Seaford School District,,1.0,21.0,0.0,27.0
 2020-08-29,Smyrna School District,,0.0,33.0,0.0,24.0
 2020-09-05,Smyrna School District,,0.0,33.0,0.0,24.0
 2020-09-12,Smyrna School District,,0.0,33.0,0.0,24.0
@@ -531,6 +585,9 @@ date,name,num_students,new_cases_students,total_cases_students,new_cases_employe
 2021-02-20,Smyrna School District,5878.0,0.0,33.0,0.0,24.0
 2021-02-27,Smyrna School District,3773.0,0.0,33.0,0.0,24.0
 2021-03-06,Smyrna School District,3738.0,0.0,33.0,0.0,24.0
+2021-03-13,Smyrna School District,3748.0,0.0,38.0,0.0,25.0
+2021-03-20,Smyrna School District,3663.0,1.0,38.0,1.0,25.0
+2021-03-27,Smyrna School District,,1.0,40.0,0.0,25.0
 2020-08-29,Sussex Technical School District,,0.0,0.0,0.0,0.0
 2020-09-05,Sussex Technical School District,,0.0,0.0,0.0,0.0
 2020-09-12,Sussex Technical School District,,0.0,0.0,0.0,0.0
@@ -559,6 +616,9 @@ date,name,num_students,new_cases_students,total_cases_students,new_cases_employe
 2021-02-20,Sussex Technical School District,245.0,0.0,0.0,0.0,0.0
 2021-02-27,Sussex Technical School District,0.0,0.0,0.0,0.0,0.0
 2021-03-06,Sussex Technical School District,560.0,0.0,0.0,0.0,0.0
+2021-03-13,Sussex Technical School District,560.0,0.0,1.0,0.0,1.0
+2021-03-20,Sussex Technical School District,560.0,0.0,1.0,0.0,1.0
+2021-03-27,Sussex Technical School District,,0.0,1.0,0.0,1.0
 2020-08-29,Woodbridge School District,,0.0,17.0,0.0,21.0
 2020-09-05,Woodbridge School District,,0.0,17.0,0.0,21.0
 2020-09-12,Woodbridge School District,,0.0,17.0,0.0,21.0
@@ -587,3 +647,6 @@ date,name,num_students,new_cases_students,total_cases_students,new_cases_employe
 2021-02-20,Woodbridge School District,928.0,0.0,17.0,0.0,21.0
 2021-02-27,Woodbridge School District,863.0,0.0,17.0,0.0,21.0
 2021-03-06,Woodbridge School District,940.0,0.0,17.0,0.0,21.0
+2021-03-13,Woodbridge School District,889.0,0.0,17.0,0.0,23.0
+2021-03-20,Woodbridge School District,941.0,0.0,17.0,1.0,23.0
+2021-03-27,Woodbridge School District,,0.0,17.0,0.0,23.0

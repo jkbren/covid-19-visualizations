@@ -1,0 +1,484 @@
+last_updated,name,county,new_cases,week
+2020-09-16,Daniels Elementary,Raleigh,2.0,36
+2020-09-20,Sherrard Middle School,Marshall,2.0,36
+2020-09-21,Maysville Elementary,Grant,2.0,37
+2020-09-23,Dunbar Primary,Kanawha,3.0,37
+2020-09-23,Mary Ingles Elm,Kanawha,4.0,37
+2020-09-23,West Teays Elementary School,Putnam,2.0,37
+2020-09-24,GW Elementary School,Putnam,3.0,37
+2020-09-25,North Elementary School,Monongalia,2.0,37
+2020-09-25,South Charleston Middle School,Kanawha,3.0,37
+2020-09-25,Tucker County School Systems,Tucker,7.0,37
+2020-09-26,West Teays Elementary School,Putnam,4.0,37
+2020-09-26,Woodrow Wilson High School,Raleigh,2.0,37
+2020-09-27,Back Creek Valley Elementary,Berkeley,3.0,37
+2020-09-27,Sherrard Middle School,Marshall,2.0,37
+2020-09-28,Doddridge County Middle,Doddridge,2.0,38
+2020-09-28,Dunbar Primary,Kanawha,3.0,38
+2020-09-28,East Fairmont Middle School,Marion,2.0,38
+2020-09-28,Gerrardstown Elementary School,Berkeley,2.0,38
+2020-09-28,Lincoln County High,Lincoln,2.0,38
+2020-09-28,Lincoln Middle School,Harrison,3.0,38
+2020-09-28,Logan Senior High School,Logan,2.0,38
+2020-09-28,Moorefield High School,Hardy,4.0,38
+2020-09-28,South Charleston Middle School,Kanawha,3.0,38
+2020-09-28,Trap Hill Middle School,Raleigh,3.0,38
+2020-09-29,Daniels Elementary,Raleigh,2.0,38
+2020-09-29,North Elementary School,Monongalia,2.0,38
+2020-09-29,West Teays Elementary School,Putnam,4.0,38
+2020-09-30,Belington Elementary School,Barbour,3.0,38
+2020-09-30,Doddridge County Middle,Doddridge,2.0,38
+2020-09-30,Dunbar Primary,Kanawha,3.0,38
+2020-09-30,Kermit K-8,Mingo,2.0,38
+2020-09-30,Lincoln County High,Lincoln,2.0,38
+2020-09-30,Logan Senior High School,Logan,2.0,38
+2020-10-01,Doddridge County Middle,Doddridge,2.0,38
+2020-10-01,Kermit K-8,Mingo,2.0,38
+2020-10-01,Lincoln Middle School,Harrison,3.0,38
+2020-10-01,North Elementary School,Monongalia,2.0,38
+2020-10-01,South Charleston Middle School,Kanawha,3.0,38
+2020-10-01,West Teays Elementary School,Putnam,4.0,38
+2020-10-02,East Fairmont Middle School,Marion,3.0,38
+2020-10-02,Logan Senior High School,Logan,2.0,38
+2020-10-04,Flemington Elem,Taylor,3.0,38
+2020-10-04,South Charleston Middle School,Kanawha,3.0,38
+2020-10-05,Kermit K-8,Mingo,2.0,39
+2020-10-05,Lincoln County High,Lincoln,2.0,39
+2020-10-05,Logan Senior High School,Logan,2.0,39
+2020-10-05,South Branch Vocational,Grant,3.0,39
+2020-10-05,South Charleston Middle School,Kanawha,3.0,39
+2020-10-07,Flemington Elem,Taylor,3.0,39
+2020-10-08,EPIC Headstart Pre-K,Morgan,2.0,39
+2020-10-08,East Fairmont Middle School,Marion,3.0,39
+2020-10-08,Lincoln County High,Lincoln,2.0,39
+2020-10-08,Logan Senior High School,Logan,3.0,39
+2020-10-08,New Martinsville Elementary School,Wetzel,3.0,39
+2020-10-08,Ruffner Elementary,Kanawha,2.0,39
+2020-10-09,Buchannon Upshur Middle School,Upshur,2.0,39
+2020-10-09,Hurricane High School,Putnam,2.0,39
+2020-10-09,Kermit K-8,Mingo,2.0,39
+2020-10-09,Lincoln Middle School,Harrison,4.0,39
+2020-10-09,Pikeview Middle School,Mercer,4.0,39
+2020-10-09,Ripley High School,Jackson,5.0,39
+2020-10-10,Sistersville Elementary Pre-K,Tyler,2.0,39
+2020-10-12,Hurricane High School,Putnam,2.0,40
+2020-10-13,Buchannon Upshur Middle School,Upshur,2.0,40
+2020-10-13,Flemington Elem,Taylor,3.0,40
+2020-10-13,Logan Senior High School,Logan,3.0,40
+2020-10-13,Pikeview Middle School,Mercer,4.0,40
+2020-10-13,Ruffner Elementary,Kanawha,2.0,40
+2020-10-14,Belington Elementary School,Barbour,3.0,40
+2020-10-14,Bluefield High School,Mercer,2.0,40
+2020-10-14,George C. Weimer Elementary School,Kanawha,2.0,40
+2020-10-14,Lincoln Middle School,Harrison,4.0,40
+2020-10-14,New Martinsville Elementary School,Wetzel,4.0,40
+2020-10-14,Ohio County School Bus,Ohio,3.0,40
+2020-10-14,Ripley High School,Jackson,5.0,40
+2020-10-14,Sharon Dawes Elementary School,Kanawha,2.0,40
+2020-10-14,Sistersville Elementary Pre-K,Tyler,2.0,40
+2020-10-15,PawPaw High School,Morgan,2.0,40
+2020-10-16,Bluefield High School,Mercer,2.0,40
+2020-10-16,Braxton County High School,Braxton,4.0,40
+2020-10-16,Kermit K-8,Mingo,6.0,40
+2020-10-16,Logan Senior High School,Logan,3.0,40
+2020-10-16,Mercer County Technical School,Mercer,2.0,40
+2020-10-16,Ohio County School Bus,Ohio,3.0,40
+2020-10-16,Straley Elem School,Mercer,4.0,40
+2020-10-16,Williamstown Middle School,Wood,5.0,40
+2020-10-18,Kermit K-8,Mingo,6.0,40
+2020-10-19,Buchannon Upshur Middle School,Upshur,2.0,41
+2020-10-19,Crum K-8 School,Wayne,5.0,41
+2020-10-19,George C. Weimer Elementary School,Kanawha,2.0,41
+2020-10-19,Ohio County School Bus,Ohio,3.0,41
+2020-10-19,Parkersburg South High,Wood,3.0,41
+2020-10-19,Ripley High School,Jackson,7.0,41
+2020-10-19,Sistersville Elementary Pre-K,Tyler,2.0,41
+2020-10-19,Wheeling Park High School,Ohio,2.0,41
+2020-10-19,Wyoming East High,Wyoming,2.0,41
+2020-10-20,Kermit K-8,Mingo,6.0,41
+2020-10-20,Mercer County Technical School,Mercer,5.0,41
+2020-10-20,Panther Creek Elementary,Nicholas,2.0,41
+2020-10-20,Ritchie Middle/High School,Ritchie,2.0,41
+2020-10-20,Sistersville Elementary Pre-K,Tyler,2.0,41
+2020-10-20,Wheeling Park High School,Ohio,2.0,41
+2020-10-21,Braxton County High School,Braxton,4.0,41
+2020-10-21,Kermit K-8,Mingo,8.0,41
+2020-10-21,Williamstown Middle School,Wood,6.0,41
+2020-10-22,Cameron Elementary School,Marshall,2.0,41
+2020-10-22,Capitol Football Team,Kanawha,2.0,41
+2020-10-22,Ravenswood Grade School,Jackson,2.0,41
+2020-10-22,Ritchie Middle/High School,Ritchie,2.0,41
+2020-10-22,Wheeling Park High School,Ohio,3.0,41
+2020-10-22,Wirt County High Football Team,Wirt,3.0,41
+2020-10-23,Braxton County High School,Braxton,4.0,41
+2020-10-23,Buchanon-Upshur High School,Upshur,2.0,41
+2020-10-23,Capitol Football Team,Kanawha,2.0,41
+2020-10-23,Crum K-8 School,Wayne,5.0,41
+2020-10-23,Davis Thomas Elementary Middle School,Tucker,4.0,41
+2020-10-23,George C. Weimer Elementary School,Kanawha,2.0,41
+2020-10-23,Kermit K-8,Mingo,9.0,41
+2020-10-23,Parkersburg South High,Wood,3.0,41
+2020-10-23,Ritchie Middle/High School,Ritchie,2.0,41
+2020-10-24,Jumping Branch Elem. School,Summers,3.0,41
+2020-10-26,Cameron Elementary School,Marshall,2.0,42
+2020-10-26,Parkersburg South High,Wood,3.0,42
+2020-10-26,Ravenswood Grade School,Jackson,3.0,42
+2020-10-26,Roane County HS,Roane,2.0,42
+2020-10-26,Williamstown Middle School,Wood,6.0,42
+2020-10-26,Wirt County High Football Team,Wirt,4.0,42
+2020-10-27,Braxton County High School,Braxton,4.0,42
+2020-10-27,Buckhannon-Upshur High School,Upshur,10.0,42
+2020-10-27,Capitol Football Team,Kanawha,3.0,42
+2020-10-27,Ritchie Middle/High School,Ritchie,2.0,42
+2020-10-27,Winfield Middle,Putnam,2.0,42
+2020-10-28,Buckhannon-Upshur High School,Upshur,16.0,42
+2020-10-28,Kermit K-8,Mingo,9.0,42
+2020-10-28,Parkersburg South High,Wood,3.0,42
+2020-10-28,Ritchie Middle/High School,Ritchie,2.0,42
+2020-10-29,Braxton County High School,Braxton,4.0,42
+2020-10-29,Buckhannon-Upshur High School,Upshur,3.0,42
+2020-10-29,Capitol Football Team,Kanawha,4.0,42
+2020-10-29,Ravenswood Grade School,Jackson,4.0,42
+2020-10-29,Upshur County Schools Bus Garage,Upshur,14.0,42
+2020-10-29,Weirton Middle School,Hancock,2.0,42
+2020-10-29,Winfield Middle,Putnam,2.0,42
+2020-10-29,Wirt County High,Wirt,10.0,42
+2020-10-30,Green Bank Elementary Middle School,Pocahontas,2.0,42
+2020-10-30,Jumping Branch Elem. School,Summers,7.0,42
+2020-10-30,Jumping Branch Elementary School,Summers,7.0,42
+2020-10-30,Mercer County Technical School,Mercer,6.0,42
+2020-10-30,Ravenswood Grade School,Jackson,4.0,42
+2020-10-30,Ritchie Middle/High School,Ritchie,2.0,42
+2020-10-30,Roane County HS,Roane,2.0,42
+2020-10-30,Weirton Elementary,Hancock,2.0,42
+2020-11-01,Buckhannon-Upshur High School,Upshur,3.0,42
+2020-11-01,Upshur County Schools Bus Garage,Upshur,14.0,42
+2020-11-02,Buckhannon-Upshur High School,Upshur,6.0,43
+2020-11-02,Garnet Career Center,Kanawha,3.0,43
+2020-11-02,Hamilton Jr High School,Wood,2.0,43
+2020-11-02,Ritchie Middle/High School,Ritchie,2.0,43
+2020-11-02,Upshur County Schools Bus Garage,Upshur,14.0,43
+2020-11-02,Weirton Elementary,Hancock,2.0,43
+2020-11-02,Weirton Middle School,Hancock,4.0,43
+2020-11-03,Huntington High School,Cabell,3.0,43
+2020-11-03,Roane County High School,Roane,2.0,43
+2020-11-03,Wirt County High,Wirt,10.0,43
+2020-11-04,Capital Football Team,Kanawha,4.0,43
+2020-11-04,Capitol Football Team,Kanawha,4.0,43
+2020-11-04,Edison Middle School,Wood,3.0,43
+2020-11-04,Hamilton Jr High School,Wood,3.0,43
+2020-11-04,Pleasants County Voc. Tech School,Pleasants,3.0,43
+2020-11-04,Roane County HS Football,Roane,2.0,43
+2020-11-04,Wood County Christian School,Wood,13.0,43
+2020-11-05,Cameron Elementary School,Marshall,24.0,43
+2020-11-05,Clay County High School,Clay,3.0,43
+2020-11-05,Hamilton Jr High School,Wood,3.0,43
+2020-11-05,Huntington High School,Cabell,3.0,43
+2020-11-05,Mid-Ohio Valley Technical Institute,Pleasants,3.0,43
+2020-11-06,Buckhannon-Upshur High School,Upshur,6.0,43
+2020-11-06,Garnet Career Center,Kanawha,3.0,43
+2020-11-06,Upshur County Schools Bus Garage,Upshur,14.0,43
+2020-11-06,Weirton Elementary,Hancock,4.0,43
+2020-11-06,Wood County Christian School,Wood,15.0,43
+2020-11-09,Clay County High School,Clay,3.0,44
+2020-11-09,Frankfort High School Volleyball,Mineral,2.0,44
+2020-11-09,Garnet Career Center,Kanawha,3.0,44
+2020-11-09,George Washington HS,Kanawha,2.0,44
+2020-11-09,Hamilton Jr High School,Wood,7.0,44
+2020-11-09,Mid-Ohio Valley Technical Institute,Pleasants,3.0,44
+2020-11-09,Roane County High School,Roane,2.0,44
+2020-11-09,Weirton Elementary,Hancock,6.0,44
+2020-11-09,Weirton Middle School,Hancock,4.0,44
+2020-11-09,Wirt County High,Wirt,10.0,44
+2020-11-09,Wood County Christian School,Wood,17.0,44
+2020-11-10,Buckhannon-Upshur High School,Upshur,6.0,44
+2020-11-10,Chapmanville Middle School,Logan,5.0,44
+2020-11-10,Clay County High School,Clay,3.0,44
+2020-11-10,Frankfort HS Football,Mineral,2.0,44
+2020-11-10,George Washington HS,Kanawha,2.0,44
+2020-11-10,Hamilton Jr High School,Wood,7.0,44
+2020-11-10,Harpers Ferry Middle School,Jefferson,5.0,44
+2020-11-10,Huntington High School,Cabell,3.0,44
+2020-11-10,New Creek School,Mineral,2.0,44
+2020-11-10,Parkersburg South HS,Wood,2.0,44
+2020-11-10,Philippi Middle School,Barbour,6.0,44
+2020-11-10,Upshur County Schools Bus Garage,Upshur,14.0,44
+2020-11-10,Wood County Christian School,Wood,22.0,44
+2020-11-12,Edison Middle School,Wood,3.0,44
+2020-11-13,Chapmanville Middle School,Logan,6.0,44
+2020-11-13,Oak Glen High School,Hancock,5.0,44
+2020-11-16,George Washington HS,Kanawha,11.0,45
+2020-11-16,Weirton Elementary,Hancock,6.0,45
+2020-11-16,Weirton Elementary School,Hancock,6.0,45
+2020-11-16,Weirton Middle School,Hancock,4.0,45
+2020-11-17,Capitol High School,Kanawha,2.0,45
+2020-11-17,Clay Middle School,Clay,6.0,45
+2020-11-17,Elkview Middle School,Kanawha,3.0,45
+2020-11-17,KCS Elkview Bus Terminal,Kanawha,2.0,45
+2020-11-17,Mid-Ohio Valley Technical Institute,Pleasants,3.0,45
+2020-11-17,South Side Elementary,Cabell,2.0,45
+2020-11-18,Belington Middle School,Barbour,3.0,45
+2020-11-18,Capitol High School,Kanawha,3.0,45
+2020-11-18,Chapmanville Middle School,Logan,6.0,45
+2020-11-18,Glenwood School,Mercer,2.0,45
+2020-11-18,KCS Elkview Bus Terminal,Kanawha,6.0,45
+2020-11-18,Tucker Valley Elementary,Tucker,4.0,45
+2020-11-18,Tucker Valley Elementary First Grade,Tucker,2.0,45
+2020-11-18,Tucker Valley Elementary Kindergarten,Tucker,2.0,45
+2020-11-18,Tucker Valley Elementary School,Tucker,4.0,45
+2020-11-19,Beckley-Stratton Middle School,Raleigh,2.0,45
+2020-11-19,Berkeley County Schools Maintenance Department,Berkeley,2.0,45
+2020-11-20,Eastbank Middle School,Kanawha,2.0,45
+2020-11-20,Monogah Middle School,Marion,2.0,45
+2020-11-20,Monongah Middle School,Marion,2.0,45
+2020-11-20,Tucker County Girls' Basketball Team,Tucker,2.0,45
+2020-11-20,Tucker County High School,Tucker,2.0,45
+2020-11-22,Parkersburg Academy - Montessori,Wood,4.0,45
+2020-11-23,Capital High School,Kanawha,4.0,46
+2020-11-23,Chapmanville Middle School,Logan,6.0,46
+2020-11-23,Eastbank Middle School,Kanawha,2.0,46
+2020-11-23,George Washington High School,Kanawha,13.0,46
+2020-11-23,Hedgesville Middle School,Berkeley,3.0,46
+2020-11-23,KCS Elkview Bus Terminal,Kanawha,8.0,46
+2020-11-24,Charleston Catholic High School,Kanawha,4.0,46
+2020-11-24,Elkview Middle School,Kanawha,3.0,46
+2020-11-24,Petersburg High School,Grant,2.0,46
+2020-11-24,Petersburg High School Special Education,Grant,2.0,46
+2020-11-25,East Park Elementary School,Marion,2.0,46
+2020-11-25,Herbert Hoover High School,Kanawha,4.0,46
+2020-11-25,Holz Elementary School,Kanawha,2.0,46
+2020-11-25,South Side Elementary,Cabell,2.0,46
+2020-11-25,South Side Elementary School,Cabell,2.0,46
+2020-11-27,Musselman High School Volleyball Team,Berkeley,4.0,46
+2020-11-27,Peterstown Elementary School,Monroe,4.0,46
+2020-11-29,Creed Collins Elem School,Ritchie,5.0,46
+2020-11-29,Creed Collins Elementary School,Ritchie,5.0,46
+2020-11-30,George Washington High School,Kanawha,14.0,47
+2020-11-30,Holz Elementary School,Kanawha,2.0,47
+2020-11-30,KCS Elkview Bus Terminal,Kanawha,9.0,47
+2020-11-30,Pleasant View Elementary School,Morgan,3.0,47
+2020-12-01,Capital High School,Kanawha,6.0,47
+2020-12-01,Glenwood School,Mercer,7.0,47
+2020-12-01,Herbert Hoover High School,Kanawha,6.0,47
+2020-12-01,Musselman High School Volleyball Team,Berkeley,4.0,47
+2020-12-02,Mary C. Snow Elementary School,Kanawha,2.0,47
+2020-12-02,Pineville Elementary School,Wyoming,5.0,47
+2020-12-03,Mary C. Snow Elementary School,Kanawha,2.0,47
+2020-12-03,Musselman High School,Berkeley,4.0,47
+2020-12-04,Davis Stuart School,Greenbrier,3.0,47
+2020-12-04,Musselman High School,Berkeley,4.0,47
+2020-12-07,Buffalo Elementary School,Putnam,4.0,48
+2020-12-07,Capital High School,Kanawha,6.0,48
+2020-12-07,Herbert Hoover High School,Kanawha,6.0,48
+2020-12-07,Mary C. Snow Elementary,Kanawha,2.0,48
+2020-12-07,Mary C. Snow Elementary School,Kanawha,2.0,48
+2020-12-07,Musselman High School,Berkeley,4.0,48
+2020-12-08,East Park Elementary School,Marion,2.0,48
+2020-12-09,Belington Middle School,Barbour,3.0,48
+2020-12-09,Capon Bridge Elementary School,Hampshire,3.0,48
+2020-12-09,Davis Stuart School,Greenbrier,6.0,48
+2020-12-09,Romney Elementary School,Hampshire,3.0,48
+2020-12-09,Ruthlawn Elementary School,Kanawha,2.0,48
+2020-12-10,Davis Stuart School,Greenbrier,6.0,48
+2020-12-10,Lewis County High School,Lewis,3.0,48
+2020-12-10,Musselman High School,Berkeley,4.0,48
+2020-12-10,Peterstown Elementary School,Monroe,4.0,48
+2020-12-10,Pineville Elementary School,Wyoming,5.0,48
+2020-12-10,Roanoke Elementary School,Lewis,2.0,48
+2020-12-11,Buffalo Elementary School,Putnam,4.0,48
+2020-12-11,Lewis County High School,Lewis,4.0,48
+2020-12-11,Marsh Fork Elementary School,Raleigh,2.0,48
+2020-12-12,Roanoke Elementary School,Lewis,4.0,48
+2020-12-13,East Bank Bus Terminal,Kanawha,8.0,48
+2020-12-13,South Charleston High School,Kanawha,2.0,48
+2020-12-14,Belle Elementary School,Kanawha,2.0,49
+2020-12-14,Capon Bridge Elementary School,Hampshire,3.0,49
+2020-12-14,Doddridge Co Elementary School,Doddridge,4.0,49
+2020-12-14,Edison Middle School,Wood,7.0,49
+2020-12-14,Romney Elementary School,Hampshire,3.0,49
+2020-12-14,Ruthlawn Elementary,Kanawha,2.0,49
+2020-12-15,Belle Elementary School,Kanawha,2.0,49
+2020-12-15,East Bank Bus Terminal,Kanawha,9.0,49
+2020-12-15,Lewis County High School,Lewis,4.0,49
+2020-12-16,Belington Middle School,Barbour,26.0,49
+2020-12-16,Edison Middle School,Wood,7.0,49
+2020-12-16,Kanawha County Schools Special Education Bus,Kanawha,2.0,49
+2020-12-18,Belington Middle School,Barbour,26.0,49
+2020-12-18,Kanawha County Schools Special Education Bus,Kanawha,2.0,49
+2021-01-14,Horace Mann Middle School,Kanawha,2.0,53
+2021-01-19,Grafton High School (Staff),Taylor,5.0,54
+2021-01-25,Greater Beckley Christian Academy,Raleigh,4.0,55
+2021-01-26,Grafton High School (Staff),Taylor,5.0,55
+2021-01-28,St. Francis Central Catholic,Monongalia,2.0,55
+2021-02-01,Piedmont Elementary,Kanawha,2.0,56
+2021-02-01,South Charleston High School,Kanawha,5.0,56
+2021-02-02,Piedmont Elementary,Kanawha,2.0,56
+2021-02-03,South Charleston Middle School,Kanawha,2.0,56
+2021-02-04,St. Francis Central Catholic,Monongalia,2.0,56
+2021-02-05,Wirt County Primary Center,Wirt,2.0,56
+2021-02-08,Champanville Intermediate,Logan,5.0,57
+2021-02-08,Midland Trail High School,Fayette,2.0,57
+2021-02-08,Parkersburg Catholic Elementary,Wood,3.0,57
+2021-02-08,Shortline School,Wetzel,2.0,57
+2021-02-08,South Charleston Middle School,Kanawha,2.0,57
+2021-02-10,Fairmont East High School,Marion,2.0,57
+2021-02-10,Parkersburg Catholic Elementary,Wood,4.0,57
+2021-02-10,Ritchie County Bus Garage,Ritchie,2.0,57
+2021-02-10,Williamstown Elementary,Wood,2.0,57
+2021-02-10,Wirt County Primary Center,Wirt,2.0,57
+2021-02-11,Jackson County School Transportation,Jackson,5.0,57
+2021-02-11,South Charleston Middle School,Kanawha,2.0,57
+2021-02-23,Petersburg Elementary School,Grant,2.0,59
+2021-02-23,Woodrow Wilson H.S. Wrestling Team,Raleigh,3.0,59
+2021-02-26,Mt. Hope Christian Academy,Raleigh,3.0,59
+2021-03-05,Meadow Bridge H.S. Basketball,Fayette,19.0,60
+2021-03-06,Petersburg Elementary/HighSchool,Grant,2.0,60
+2021-03-08,Brucetone School (Prek-8),Preston,4.0,61
+2021-03-08,Danese Christian Academy,Fayette,2.0,61
+2021-03-08,East Hardy Middle School,Hardy,3.0,61
+2021-03-08,Oak Hill H.S. Girls Basketball,Fayette,3.0,61
+2021-03-09,East Hardy High School,Hardy,2.0,61
+2021-03-09,Lenore K8,Mingo,5.0,61
+2021-03-11,Martinsburg North Middle School,Berkeley,7.0,61
+2021-03-11,Opequon Elementary School,Berkeley,6.0,61
+2021-03-16,Braxton County High School EX,Braxton,2.0,62
+2021-03-11,Doddridge Co. High School EX,Doddridge,4.0,61
+2021-03-08,Oak Hill High School EX,Fayette,3.0,61
+2021-03-05,Meadow Bridge High School EX,Fayette,19.0,60
+2021-03-10,Petersburg High School EX,Grant,2.0,61
+2021-03-16,Moorefield Middle School,Hardy,4.0,62
+2021-03-15,Moorefield High School,Hardy,8.0,62
+2021-03-15,Westside Middle School,Kanawha,3.0,62
+2021-03-16,Ranger Elementary School,Lincoln,6.0,62
+2021-03-16,Duval Middle School,Lincoln,3.0,62
+2021-03-16,Man High School EX,Logan,4.0,62
+2021-03-16,Chapmanville High School EX,Logan,6.0,62
+2021-03-15,Peterstown Middle School,Monroe,5.0,62
+2021-03-14,Nicholas County High School EX,Nicholas,4.0,61
+2021-03-15,Brucetone School (Pre-K - 8),Preston,4.0,62
+2021-03-10,Independence High School,Raleigh,6.0,61
+2021-02-23,Woodrow Wilson High School EX,Raleigh,3.0,59
+2021-03-15,Grafton High School,Taylor,3.0,62
+2021-03-15,Williamstown High School,Wood,2.0,62
+2021-03-19,Pikeside Learning Center,Berkeley,4.0,62
+2021-03-24,Sherman High School,Boone,18.0,63
+2021-03-24,Van High School EX,Boone,7.0,63
+2021-03-24,Braxton County High EX,Braxton,2.0,63
+2021-03-24,Braxton County High School,Braxton,13.0,63
+2021-03-24,Cabell Midland High School,Cabell,2.0,63
+2021-03-24,Huntington High School,Cabell,7.0,63
+2021-03-23,Doddridge Co. High School,Doddridge,6.0,63
+2021-03-23,Midland Trail High School,Fayette,2.0,63
+2021-03-23,Oak Hill High School EX,Fayette,6.0,63
+2021-03-23,Danese Christian Academy,Fayette,2.0,63
+2021-03-23,Oak Hill High School EX,Fayette,4.0,63
+2021-03-22,Meadow Bridge High School EX,Fayette,28.0,63
+2021-02-22,Midland Trail High School,Fayette,2.0,59
+2021-02-22,Shortline School,Fayette,2.0,59
+2021-03-18,Petersburg High School,Grant,2.0,62
+2021-03-18,Petersburg High School,Grant,6.0,62
+2021-03-16,Petersburg Elementary,Grant,2.0,62
+2021-03-23,South Harrison High School EX,Harrison,4.0,63
+2021-02-24,Jackson County School Transportation,Jackson,6.0,59
+2021-03-24,St Albans High School EX,Kanawha,2.0,63
+2021-03-24,Piedmont Elementary,Kanawha,2.0,63
+2021-03-24,Westside Middle School,Kanawha,4.0,63
+2021-03-02,Sacred Heart Elementary,Kanawha,4.0,60
+2021-02-15,South Charleston Middle School,Kanawha,2.0,58
+2021-02-08,Piedmont Elementary,Kanawha,2.0,57
+2021-02-03,South Charleston High School,Kanawha,5.0,56
+2021-03-24,Ranger Elementary School,Lincoln,7.0,63
+2021-03-24,Duval Middle School EX,Lincoln,3.0,63
+2021-03-24,Logan High School EX,Logan,3.0,63
+2021-03-24,Man High School EX,Logan,3.0,63
+2021-03-24,Chapmanville High School EX,Logan,8.0,63
+2021-03-03,Chapmanville Intermediate,Logan,5.0,60
+2021-02-23,Fairmont East High School,Marion,2.0,59
+2021-03-24,Wahama High School,Mason,2.0,63
+2021-03-08,Spanishburg Elementary,Mercer,2.0,61
+2021-02-11,St. Francis Central Catholic,Monongalia,2.0,57
+2021-03-21,Berkeley Springs HS EX,Morgan,2.0,62
+2021-03-18,Nicholas County High School EX,Nicholas,5.0,62
+2021-03-24,Pendleton High Girls EX,Pendleton,3.0,63
+2021-03-24,Pendleton Middle EX,Pendleton,6.0,63
+2021-03-23,Brucetone School (Prek-8),Preston,4.0,63
+2021-03-24,Calvary Baptist Academy,Putnam,2.0,63
+2021-03-18,Independence High School,Raleigh,13.0,62
+2021-03-18,Mt. Hope Christian Academy,Raleigh,3.0,62
+2021-03-18,Woodrow Wilson High School EX,Raleigh,3.0,62
+2021-02-16,Greater Beckley Christian Academy,Raleigh,4.0,58
+2021-02-23,Ritchie County Bus Garage,Ritchie,2.0,59
+2021-03-19,Grafton High School,Taylor,6.0,62
+2021-03-24,Wayne High School EX,Wayne,4.0,63
+2021-03-24,Buffalo Middle School EX,Wayne,6.0,63
+2021-03-24,New Martinsville K-8,Wetzel,2.0,63
+2021-03-02,Wirt County Primary Center,Wirt,2.0,60
+2021-03-24,Williamstown High School,Wood,2.0,63
+2021-03-18,Franklin Elementary,Wood,3.0,62
+2021-03-15,Blennerhassett Elementary EX,Wood,2.0,62
+2021-03-23,Williamstown High School,Wood,2.0,63
+2021-02-23,Williamstown Elementary School,Wood,2.0,59
+2021-02-23,Parkersburg Catholic Elementary School,Wood,4.0,59
+2021-03-26,Spring Mills Primary School,Berkeley,4.0,63
+2021-03-11,Opequon Elementary,Berkeley,6.0,61
+2021-03-26,Sherman High,Boone,18.0,63
+2021-03-26,Van High School EX,Boone,13.0,63
+2021-03-25,Braxton County High School,Braxton,13.0,63
+2021-03-28,Cabell Midland High School,Cabell,2.0,63
+2021-03-28,Huntington High School,Cabell,7.0,63
+2021-03-26,Doddridge Co. High School,Doddridge,6.0,63
+2021-03-06,Petersburg Elementary EX,Grant,2.0,60
+2021-03-26,South Harrison High School,Harrison,4.0,63
+2021-03-28,Riverside High School EX,Kanawha,2.0,63
+2021-03-28,John Adams Middle School,Kanawha,2.0,63
+2021-03-28,Cross Lanes Christian,Kanawha,14.0,63
+2021-03-28,St. Francis After School Program,Kanawha,2.0,63
+2021-03-28,Chamberlain Elementary School,Kanawha,2.0,63
+2021-03-28,Hayes Middle School,Kanawha,4.0,63
+2021-03-26,St Albans High School,Kanawha,8.0,63
+2021-03-25,Spanishburg School,Mercer,2.0,63
+2021-03-25,Bluefield Middle School,Mercer,2.0,63
+2021-03-25,Mountaineer Middle School,Monongalia,3.0,63
+2021-03-21,Berkeley Springs High School EX,Morgan,2.0,62
+2021-03-24,Pendleton Middle School EX,Pendleton,6.0,63
+2021-03-26,Liberty High School,Raleigh,7.0,63
+2021-03-25,Grafton High School,Taylor,6.0,63
+2021-03-26,Wayne High School EX,Wayne,5.0,63
+2021-03-26,Buffalo Middle School,Wayne,7.0,63
+2021-03-26,Hamilton Middle School EX,Wood,2.0,63
+2021-03-25,Williamstown High School,Wood,2.0,63
+2021-03-29,Martinsburg High School EX,Berkeley,3.0,64
+2021-03-29,Sherman High School,Boone,18.0,64
+2021-03-25,Braxton County High School EX,Braxton,15.0,63
+2021-03-29,Cabell Midland High School,Cabell,2.0,64
+2021-03-29,Huntington High School,Cabell,7.0,64
+2021-03-29,Doddridge Co. High School,Doddridge,5.0,64
+2021-02-22,Shortline Middle School,Fayette,2.0,59
+2021-03-29,Hampshire High School,Hampshire,2.0,64
+2021-03-29,South Harrison High Schools EX,Harrison,5.0,64
+2021-02-24,Jackson County School,Jackson,6.0,59
+2021-03-29,Riverside High School,Kanawha,9.0,64
+2021-03-29,John Adams Middle School,Kanawha,2.0,64
+2021-03-29,Cross Lanes Christian,Kanawha,15.0,64
+2021-03-29,St. Francis After School Program,Kanawha,2.0,64
+2021-03-29,Chamberlain Elementary School,Kanawha,2.0,64
+2021-03-29,Hayes Middle School,Kanawha,4.0,64
+2021-03-29,St Albans High School,Kanawha,10.0,64
+2021-03-26,Piedmont Elementary School,Kanawha,2.0,63
+2021-03-25,Westside Middle School,Kanawha,4.0,63
+2021-03-25,Ranger Elementary School,Lincoln,7.0,63
+2021-03-25,Duval Middle School EX,Lincoln,4.0,63
+2021-03-26,Man High School EX,Logan,7.0,63
+2021-03-26,Chapmanville High School EX,Logan,8.0,63
+2021-03-29,East Fairmont Middle School,Marion,7.0,64
+2021-03-29,East Fairmont High School,Marion,7.0,64
+2021-03-29,Wahama High School,Mason,2.0,64
+2021-03-29,Keyser High School,Mineral,3.0,64
+2021-03-21,Berkeley Springs High School,Morgan,2.0,62
+2021-03-25,Brucetone School (Prek-8),Preston,4.0,63
+2021-03-29,Calvary Baptist Academy,Putnam,2.0,64
+2021-03-29,Wayne High School EX,Wayne,5.0,64
+2021-03-29,Buffalo Middle School,Wayne,7.0,64
+2021-03-30,Williamstown High School,Wood,3.0,64
+2021-03-26,Franklin Elementary School,Wood,3.0,63
+2021-03-15,Blennerhassett Elementary School,Wood,2.0,62
