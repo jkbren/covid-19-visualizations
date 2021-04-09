@@ -1,0 +1,274 @@
+setting,date,outbreaks
+,2021-02-05,1
+Alcohol and Drug Treatment,2020-11-27,4
+Alcohol and Drug Treatment,2020-12-04,6
+Alcohol and Drug Treatment,2020-12-25,7
+Alcohol and Drug Treatment,2021-02-05,10
+Alcohol and Drug Treatment,2021-03-05,11
+Alcohol and Drug Treatment,2021-03-19,11
+Alcohol and Drug Treatment,2021-04-02,11
+Apartment Complexes,2021-02-05,4
+Apartment Complexes,2021-03-05,4
+Apartment Complexes,2021-03-19,4
+Apartment Complexes,2021-04-02,4
+Assembly Locations,2020-11-27,2
+Assembly Locations,2020-12-04,2
+Assembly Locations,2020-12-25,3
+Assembly Locations,2021-02-05,3
+Assembly Locations,2021-03-05,4
+Assembly Locations,2021-03-19,4
+Assembly Locations,2021-04-02,4
+Bar,2020-11-27,23
+Bar,2020-12-04,23
+Bar,2020-12-25,23
+Bar,2021-02-05,26
+Bar,2021-03-05,26
+Bar,2021-03-19,28
+Bar,2021-04-02,28
+Behavioral/Mental Health Facility,2020-11-27,25
+Behavioral/Mental Health Facility,2020-12-04,30
+Behavioral/Mental Health Facility,2020-12-25,31
+Behavioral/Mental Health Facility,2021-02-05,47
+Behavioral/Mental Health Facility,2021-03-05,49
+Behavioral/Mental Health Facility,2021-03-19,50
+Behavioral/Mental Health Facility,2021-04-02,51
+Camp -not sports camp,2020-11-27,2
+Camp -not sports camp,2020-12-04,2
+Camp -not sports camp,2020-12-25,2
+Camp -not sports camp,2021-02-05,2
+Camp -not sports camp,2021-03-05,2
+Camp -not sports camp,2021-03-19,2
+Camp -not sports camp,2021-04-02,2
+Church/Temple/Religious Location,2020-11-27,33
+Church/Temple/Religious Location,2020-12-04,35
+Church/Temple/Religious Location,2020-12-25,36
+Church/Temple/Religious Location,2021-02-05,45
+Church/Temple/Religious Location,2021-03-05,51
+Church/Temple/Religious Location,2021-03-19,52
+Church/Temple/Religious Location,2021-04-02,51
+College/University,2020-11-27,42
+College/University,2020-12-04,42
+College/University,2020-12-25,42
+College/University,2021-02-05,47
+College/University,2021-03-05,53
+College/University,2021-03-19,53
+College/University,2021-04-02,55
+Community Event,2020-11-27,45
+Community Event,2020-12-04,45
+Community Event,2020-12-25,50
+Community Event,2021-02-05,64
+Community Event,2021-03-05,68
+Community Event,2021-03-19,68
+Community Event,2021-04-02,68
+Community/City (not COVID),2021-03-05,1
+Community/City (not COVID),2021-04-02,1
+Construction Business,2020-11-27,5
+Construction Business,2020-12-04,5
+Construction Business,2020-12-25,5
+Construction Business,2021-02-05,6
+Construction Business,2021-03-05,6
+Construction Business,2021-03-19,6
+Construction Business,2021-04-02,6
+Correctional Facility,2020-11-27,43
+Correctional Facility,2020-12-04,50
+Correctional Facility,2020-12-25,52
+Correctional Facility,2021-02-05,70
+Correctional Facility,2021-03-05,75
+Correctional Facility,2021-03-19,76
+Correctional Facility,2021-04-02,79
+Day Care - Adult,2021-02-05,2
+Day Care - Adult,2021-03-05,1
+Day Care - Adult,2021-03-19,2
+Day Care - Adult,2021-04-02,2
+Day Care - Child,2020-11-27,30
+Day Care - Child,2020-12-04,33
+Day Care - Child,2020-12-25,35
+Day Care - Child,2021-02-05,54
+Day Care - Child,2021-03-05,63
+Day Care - Child,2021-03-19,66
+Day Care - Child,2021-04-02,68
+Factory/Manufacturer,2020-11-27,74
+Factory/Manufacturer,2020-12-04,86
+Factory/Manufacturer,2020-12-25,93
+Factory/Manufacturer,2021-02-05,137
+Factory/Manufacturer,2021-03-05,157
+Factory/Manufacturer,2021-03-19,160
+Factory/Manufacturer,2021-04-02,161
+Farm Related Business,2020-11-27,5
+Farm Related Business,2020-12-04,5
+Farm Related Business,2020-12-25,6
+Farm Related Business,2021-02-05,11
+Farm Related Business,2021-03-05,12
+Farm Related Business,2021-03-19,12
+Farm Related Business,2021-04-02,12
+First Responder Workplaces,2020-11-27,25
+First Responder Workplaces,2020-12-04,25
+First Responder Workplaces,2020-12-25,25
+First Responder Workplaces,2021-02-05,28
+First Responder Workplaces,2021-03-05,32
+First Responder Workplaces,2021-03-19,32
+First Responder Workplaces,2021-04-02,33
+Food Production Facility,2020-11-27,11
+Food Production Facility,2020-12-04,14
+Food Production Facility,2020-12-25,15
+Food Production Facility,2021-02-05,21
+Food Production Facility,2021-03-05,22
+Food Production Facility,2021-03-19,23
+Food Production Facility,2021-04-02,23
+Group Home,2020-11-27,52
+Group Home,2020-12-04,65
+Group Home,2020-12-25,70
+Group Home,2021-02-05,111
+Group Home,2021-03-05,117
+Group Home,2021-03-19,118
+Group Home,2021-04-02,120
+Gym/Fitness/Dance Facility,2020-11-27,9
+Gym/Fitness/Dance Facility,2020-12-04,9
+Gym/Fitness/Dance Facility,2020-12-25,9
+Gym/Fitness/Dance Facility,2021-02-05,13
+Gym/Fitness/Dance Facility,2021-03-05,15
+Gym/Fitness/Dance Facility,2021-03-19,15
+Gym/Fitness/Dance Facility,2021-04-02,16
+Hospice/Home Health,2020-11-27,5
+Hospice/Home Health,2020-12-04,7
+Hospice/Home Health,2020-12-25,7
+Hospice/Home Health,2021-02-05,9
+Hospice/Home Health,2021-03-05,9
+Hospice/Home Health,2021-03-19,9
+Hospice/Home Health,2021-04-02,10
+Hospital,2020-11-27,14
+Hospital,2020-12-04,16
+Hospital,2020-12-25,16
+Hospital,2021-02-05,20
+Hospital,2021-03-05,21
+Hospital,2021-03-19,21
+Hospital,2021-04-02,21
+Hotel/Motel,2020-11-27,2
+Hotel/Motel,2020-12-04,2
+Hotel/Motel,2020-12-25,2
+Hotel/Motel,2021-02-05,2
+Hotel/Motel,2021-03-05,2
+Hotel/Motel,2021-03-19,2
+Hotel/Motel,2021-04-02,2
+Independent Senior/Supportive Living,2020-12-04,1
+Independent/Senior/Supportive Living,2020-11-27,12
+Independent/Senior/Supportive Living,2020-12-04,11
+Independent/Senior/Supportive Living,2020-12-25,13
+"Mass Transit (airplane, bus, train, etc)",2021-02-05,1
+"Mass Transit (airplane, bus, train, etc)",2021-03-05,1
+"Mass Transit (airplane, bus, train, etc)",2021-03-19,1
+"Mass Transit (airplane, bus, train, etc)",2021-04-02,1
+Medical Clinic/Dental Office,2020-11-27,11
+Medical Clinic/Dental Office,2020-12-04,12
+Medical Clinic/Dental Office,2020-12-25,11
+Medical Clinic/Dental Office,2021-02-05,19
+Medical Clinic/Dental Office,2021-03-05,19
+Medical Clinic/Dental Office,2021-03-19,19
+Medical Clinic/Dental Office,2021-04-02,19
+Migrant Farm Camp,2020-11-27,1
+Migrant Farm Camp,2020-12-04,1
+Migrant Farm Camp,2020-12-25,1
+Migrant Farm Camp,2021-02-05,1
+Migrant Farm Camp,2021-03-05,1
+Migrant Farm Camp,2021-03-19,1
+Migrant Farm Camp,2021-04-02,1
+Military Facility,2020-11-27,1
+Military Facility,2020-12-04,1
+Military Facility,2020-12-25,1
+Military Facility,2021-02-05,2
+Military Facility,2021-03-05,2
+Military Facility,2021-03-19,2
+Military Facility,2021-04-02,2
+Office Setting,2020-11-27,16
+Office Setting,2020-12-04,18
+Office Setting,2020-12-25,19
+Office Setting,2021-02-05,29
+Office Setting,2021-03-05,31
+Office Setting,2021-03-19,33
+Office Setting,2021-04-02,33
+Other,2020-12-04,3
+Other,2020-12-25,4
+Other,2021-02-05,4
+Other,2021-03-05,3
+Other,2021-03-19,5
+Other,2021-04-02,6
+Personal Services,2020-11-27,1
+Personal Services,2020-12-04,1
+Personal Services,2020-12-25,1
+Personal Services,2021-02-05,4
+Personal Services,2021-03-05,3
+Personal Services,2021-03-19,3
+Personal Services,2021-04-02,4
+Pre-School ,2020-12-04,1
+Pre-School ,2020-12-25,1
+Pre-School ,2021-02-05,5
+Pre-School ,2021-03-05,5
+Pre-School ,2021-03-19,5
+Pre-School ,2021-04-02,4
+Restaurant,2020-11-27,24
+Restaurant,2020-12-04,28
+Restaurant,2020-12-25,30
+Restaurant,2021-02-05,37
+Restaurant,2021-03-05,42
+Restaurant,2021-03-19,42
+Restaurant,2021-04-02,45
+Retail/Sales,2020-11-27,21
+Retail/Sales,2020-12-04,28
+Retail/Sales,2020-12-25,31
+Retail/Sales,2021-02-05,48
+Retail/Sales,2021-03-05,51
+Retail/Sales,2021-03-19,51
+Retail/Sales,2021-04-02,52
+Senior/Independent Living Facilities/Housing,2021-02-05,34
+Senior/Independent Living Facilities/Housing,2021-03-05,40
+Senior/Independent Living Facilities/Housing,2021-03-19,40
+Senior/Independent Living Facilities/Housing,2021-04-02,39
+"Shelter, Homeless",2020-11-27,5
+"Shelter, Homeless",2020-12-04,8
+"Shelter, Homeless",2020-12-25,8
+"Shelter, Homeless",2021-02-05,21
+"Shelter, Homeless",2021-03-05,23
+"Shelter, Homeless",2021-03-19,23
+"Shelter, Homeless",2021-04-02,23
+Sheltered Care Facility,2020-11-27,1
+Sheltered Care Facility,2020-12-04,1
+Sheltered Care Facility,2020-12-25,1
+Sheltered Care Facility,2021-02-05,4
+Sheltered Care Facility,2021-03-05,5
+Sheltered Care Facility,2021-03-19,5
+Sheltered Care Facility,2021-04-02,5
+Short-term Rehabilitation Facility,2020-11-27,2
+Short-term Rehabilitation Facility,2020-12-04,2
+Short-term Rehabilitation Facility,2020-12-25,2
+Short-term Rehabilitation Facility,2021-02-05,6
+Short-term Rehabilitation Facility,2021-03-05,7
+Short-term Rehabilitation Facility,2021-03-19,7
+Short-term Rehabilitation Facility,2021-04-02,8
+Sports Team - Not School Associated,2020-11-27,6
+Sports Team - Not School Associated,2020-12-04,6
+Sports Team - Not School Associated,2020-12-25,7
+Sports Team - Not School Associated,2021-02-05,8
+Sports Team - Not School Associated,2021-03-05,12
+Sports Team - Not School Associated,2021-03-19,12
+Sports Team - Not School Associated,2021-04-02,16
+Transitional Facility - not correctional,2020-12-04,1
+Transitional Facility - not correctional,2020-12-25,1
+Transitional Facility - not correctional,2021-02-05,2
+Transitional Facility - not correctional,2021-03-05,2
+Transitional Facility - not correctional,2021-03-19,2
+Transitional Facility - not correctional,2021-04-02,2
+Warehouse/Distribution Centers,2020-11-27,7
+Warehouse/Distribution Centers,2020-12-04,10
+Warehouse/Distribution Centers,2020-12-25,12
+Warehouse/Distribution Centers,2021-02-05,22
+Warehouse/Distribution Centers,2021-03-05,25
+Warehouse/Distribution Centers,2021-03-19,27
+Warehouse/Distribution Centers,2021-04-02,27
+Wedding Reception (not COVID),2020-12-25,1
+Workplace,2020-11-27,34
+Workplace,2020-12-04,39
+Workplace,2020-12-25,39
+Workplace,2021-02-05,55
+Workplace,2021-03-05,56
+Workplace,2021-03-19,61
+Workplace,2021-04-02,58

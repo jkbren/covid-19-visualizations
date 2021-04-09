@@ -1,0 +1,856 @@
+setting,date,cases
+Airport,2020-11-13,50
+Airport,2020-11-20,57
+Airport,2020-11-27,68
+Airport,2020-12-04,81
+Airport,2020-12-11,111
+Airport,2020-12-18,111
+Airport,2020-12-25,125
+Airport,2021-01-01,129
+Airport,2021-01-08,123
+Airport,2021-01-15,136
+Airport,2021-01-22,148
+Airport,2021-01-29,150
+Airport,2021-02-06,158
+Airport,2021-03-19,85
+Airport,2021-04-02,72
+Amusement Park/Water Park,2020-11-13,20
+Amusement Park/Water Park,2020-11-20,28
+Amusement Park/Water Park,2020-11-27,29
+Amusement Park/Water Park,2020-12-04,33
+Amusement Park/Water Park,2020-12-11,33
+Amusement Park/Water Park,2020-12-18,29
+Amusement Park/Water Park,2020-12-25,25
+Amusement Park/Water Park,2021-01-01,21
+Amusement Park/Water Park,2021-01-08,12
+Amusement Park/Water Park,2021-01-15,14
+Amusement Park/Water Park,2021-01-22,20
+Amusement Park/Water Park,2021-01-29,25
+Amusement Park/Water Park,2021-02-06,29
+Amusement Park/Water Park,2021-03-19,24
+Amusement Park/Water Park,2021-04-02,27
+Assisted Living Facility,2020-11-13,305
+Assisted Living Facility,2020-11-20,356
+Assisted Living Facility,2020-11-27,258
+Assisted Living Facility,2020-12-04,271
+Assisted Living Facility,2020-12-11,314
+Assisted Living Facility,2020-12-18,325
+Assisted Living Facility,2020-12-25,314
+Assisted Living Facility,2021-01-01,295
+Assisted Living Facility,2021-01-08,301
+Assisted Living Facility,2021-01-15,264
+Assisted Living Facility,2021-01-22,257
+Assisted Living Facility,2021-01-29,225
+Assisted Living Facility,2021-02-06,228
+Assisted Living Facility,2021-03-19,69
+Assisted Living Facility,2021-04-02,57
+Bowling Alley,2020-11-13,59
+Bowling Alley,2020-11-20,68
+Bowling Alley,2020-11-27,80
+Bowling Alley,2020-12-04,76
+Bowling Alley,2020-12-11,64
+Bowling Alley,2020-12-18,49
+Bowling Alley,2020-12-25,33
+Bowling Alley,2021-01-01,17
+Bowling Alley,2021-01-08,20
+Bowling Alley,2021-01-15,16
+Bowling Alley,2021-01-22,16
+Bowling Alley,2021-01-29,28
+Bowling Alley,2021-02-06,29
+Bowling Alley,2021-03-19,36
+Bowling Alley,2021-04-02,35
+Business or Retail,2020-11-13,2212
+Business or Retail,2020-11-20,2290
+Business or Retail,2020-11-27,2289
+Business or Retail,2020-12-04,2284
+Business or Retail,2020-12-11,2420
+Business or Retail,2020-12-18,2408
+Business or Retail,2020-12-25,2689
+Business or Retail,2021-01-01,2722
+Business or Retail,2021-01-08,2846
+Business or Retail,2021-01-15,2807
+Business or Retail,2021-01-22,2727
+Business or Retail,2021-01-29,2630
+Business or Retail,2021-02-06,2545
+Business or Retail,2021-03-19,1287
+Business or Retail,2021-04-02,1150
+Campground,2020-11-13,20
+Campground,2020-11-20,25
+Campground,2020-11-27,20
+Campground,2020-12-04,24
+Campground,2020-12-11,28
+Campground,2020-12-18,32
+Campground,2020-12-25,28
+Campground,2021-01-01,24
+Campground,2021-01-08,24
+Campground,2021-01-15,20
+Campground,2021-01-22,12
+Campground,2021-01-29,16
+Campground,2021-02-06,12
+Campground,2021-03-19,24
+Campground,2021-04-02,20
+Car Wash,2020-11-13,31
+Car Wash,2020-11-20,32
+Car Wash,2020-11-27,33
+Car Wash,2020-12-04,34
+Car Wash,2020-12-11,27
+Car Wash,2020-12-18,31
+Car Wash,2020-12-25,26
+Car Wash,2021-01-01,24
+Car Wash,2021-01-08,24
+Car Wash,2021-01-15,20
+Car Wash,2021-01-22,18
+Car Wash,2021-01-29,21
+Car Wash,2021-02-06,24
+Car Wash,2021-03-19,16
+Car Wash,2021-04-02,24
+Casino,2020-11-13,43
+Casino,2020-11-20,48
+Casino,2020-11-27,45
+Casino,2020-12-04,39
+Casino,2020-12-11,39
+Casino,2020-12-18,37
+Casino,2020-12-25,34
+Casino,2021-01-01,28
+Casino,2021-01-08,20
+Casino,2021-01-15,21
+Casino,2021-01-22,25
+Casino,2021-01-29,32
+Casino,2021-02-06,29
+Casino,2021-03-19,29
+Casino,2021-04-02,25
+College,2020-11-13,555
+College,2020-11-20,577
+College,2020-11-27,576
+College,2020-12-04,488
+College,2020-12-11,439
+College,2020-12-18,371
+College,2020-12-25,333
+College,2021-01-01,279
+College,2021-01-08,253
+College,2021-01-15,246
+College,2021-01-22,251
+College,2021-01-29,236
+College,2021-02-06,310
+College,2021-03-19,250
+College,2021-04-02,201
+Community Event/Mass Gathering,2020-11-13,206
+Community Event/Mass Gathering,2020-11-20,205
+Community Event/Mass Gathering,2020-11-27,194
+Community Event/Mass Gathering,2020-12-04,168
+Community Event/Mass Gathering,2020-12-11,121
+Community Event/Mass Gathering,2020-12-18,90
+Community Event/Mass Gathering,2020-12-25,82
+Community Event/Mass Gathering,2021-01-01,66
+Community Event/Mass Gathering,2021-01-08,62
+Community Event/Mass Gathering,2021-01-15,67
+Community Event/Mass Gathering,2021-01-22,67
+Community Event/Mass Gathering,2021-01-29,64
+Community Event/Mass Gathering,2021-02-06,65
+Community Event/Mass Gathering,2021-03-19,40
+Community Event/Mass Gathering,2021-04-02,57
+Construction Site,2020-11-13,168
+Construction Site,2020-11-20,178
+Construction Site,2020-11-27,200
+Construction Site,2020-12-04,195
+Construction Site,2020-12-11,239
+Construction Site,2020-12-18,218
+Construction Site,2020-12-25,213
+Construction Site,2021-01-01,215
+Construction Site,2021-01-08,212
+Construction Site,2021-01-15,191
+Construction Site,2021-01-22,170
+Construction Site,2021-01-29,139
+Construction Site,2021-02-06,142
+Construction Site,2021-03-19,73
+Construction Site,2021-04-02,68
+Daycare,2020-11-13,305
+Daycare,2020-11-20,348
+Daycare,2020-11-27,384
+Daycare,2020-12-04,396
+Daycare,2020-12-11,424
+Daycare,2020-12-18,431
+Daycare,2020-12-25,439
+Daycare,2021-01-01,426
+Daycare,2021-01-08,395
+Daycare,2021-01-15,341
+Daycare,2021-01-22,336
+Daycare,2021-01-29,337
+Daycare,2021-02-06,344
+Daycare,2021-03-19,328
+Daycare,2021-04-02,294
+Dental Office,2020-11-13,233
+Dental Office,2020-11-20,264
+Dental Office,2020-11-27,276
+Dental Office,2020-12-04,271
+Dental Office,2020-12-11,253
+Dental Office,2020-12-18,255
+Dental Office,2020-12-25,272
+Dental Office,2021-01-01,258
+Dental Office,2021-01-08,268
+Dental Office,2021-01-15,255
+Dental Office,2021-01-22,240
+Dental Office,2021-01-29,237
+Dental Office,2021-02-06,215
+Dental Office,2021-03-19,110
+Dental Office,2021-04-02,99
+Developmentally Disabled Facility,2020-11-13,54
+Developmentally Disabled Facility,2020-11-20,51
+Developmentally Disabled Facility,2020-11-27,40
+Developmentally Disabled Facility,2020-12-04,42
+Developmentally Disabled Facility,2020-12-11,53
+Developmentally Disabled Facility,2020-12-18,63
+Developmentally Disabled Facility,2020-12-25,73
+Developmentally Disabled Facility,2021-01-01,74
+Developmentally Disabled Facility,2021-01-08,77
+Developmentally Disabled Facility,2021-01-15,69
+Developmentally Disabled Facility,2021-01-22,60
+Developmentally Disabled Facility,2021-01-29,61
+Developmentally Disabled Facility,2021-02-06,64
+Developmentally Disabled Facility,2021-03-19,28
+Developmentally Disabled Facility,2021-04-02,28
+Dialysis Center,2020-11-13,21
+Dialysis Center,2020-11-20,30
+Dialysis Center,2020-11-27,31
+Dialysis Center,2020-12-04,24
+Dialysis Center,2020-12-11,23
+Dialysis Center,2020-12-18,20
+Dialysis Center,2020-12-25,27
+Dialysis Center,2021-01-01,27
+Dialysis Center,2021-01-08,23
+Dialysis Center,2021-01-15,30
+Dialysis Center,2021-01-22,29
+Dialysis Center,2021-01-29,30
+Dialysis Center,2021-02-06,30
+Dialysis Center,2021-03-19,21
+Dialysis Center,2021-04-02,16
+Doctor Office,2020-11-13,303
+Doctors Office,2020-11-20,345
+Doctors Office,2020-11-27,362
+Doctors Office,2020-12-04,365
+Doctors Office,2020-12-11,331
+Doctors Office,2020-12-18,301
+Doctors Office,2020-12-25,339
+Doctors Office,2021-01-01,338
+Doctors Office,2021-01-08,333
+Doctors Office,2021-01-15,340
+Doctors Office,2021-01-22,292
+Doctors Office,2021-01-29,299
+Doctors Office,2021-02-06,276
+Doctors Office,2021-03-19,142
+Doctors Office,2021-04-02,137
+Dorm,2020-11-13,17
+Dorm,2020-11-20,20
+Dorm,2020-11-27,23
+Dorm,2020-12-04,24
+Dorm,2020-12-11,36
+Dorm,2020-12-18,27
+Dorm,2020-12-25,26
+Dorm,2021-01-01,32
+Dorm,2021-01-08,27
+Dorm,2021-01-15,22
+Dorm,2021-01-22,32
+Dorm,2021-01-29,26
+Dorm,2021-02-06,23
+Dorm,2021-03-19,43
+Dorm,2021-04-02,35
+Event Venue,2020-11-13,25
+Event Venue,2020-11-20,55
+Event Venue,2020-11-27,68
+Event Venue,2020-12-04,67
+Event Venue,2020-12-11,75
+Event Venue,2020-12-18,57
+Event Venue,2020-12-25,53
+Event Venue,2021-01-01,59
+Event Venue,2021-01-08,47
+Event Venue,2021-01-15,48
+Event Venue,2021-01-22,34
+Event Venue,2021-01-29,42
+Event Venue,2021-02-06,45
+Event Venue,2021-03-19,29
+Event Venue,2021-04-02,40
+Factory,2020-11-13,962
+Factory,2020-11-20,1303
+Factory,2020-11-27,1662
+Factory,2020-12-04,1770
+Factory,2020-12-11,1912
+Factory,2020-12-18,1979
+Factory,2020-12-25,2004
+Factory,2021-01-01,1895
+Factory,2021-01-08,1818
+Factory,2021-01-15,1643
+Factory,2021-01-22,1516
+Factory,2021-01-29,1431
+Factory,2021-02-06,1458
+Factory,2021-03-19,724
+Factory,2021-04-02,577
+Farm/Orchard,2020-11-13,129
+Farm/Orchard,2020-11-20,130
+Farm/Orchard,2020-11-27,109
+Farm/Orchard,2020-12-04,74
+Farm/Orchard,2020-12-11,62
+Farm/Orchard,2020-12-18,53
+Farm/Orchard,2020-12-25,56
+Farm/Orchard,2021-01-01,51
+Farm/Orchard,2021-01-08,57
+Farm/Orchard,2021-01-15,63
+Farm/Orchard,2021-01-22,59
+Farm/Orchard,2021-01-29,59
+Farm/Orchard,2021-02-06,53
+Farm/Orchard,2021-03-19,28
+Farm/Orchard,2021-04-02,24
+Fraternity/Sorority House,2020-11-13,8
+Fraternity/Sorority House,2020-11-20,8
+Fraternity/Sorority House,2020-11-27,12
+Fraternity/Sorority House,2020-12-04,12
+Fraternity/Sorority House,2020-12-11,12
+Fraternity/Sorority House,2020-12-18,12
+Fraternity/Sorority House,2020-12-25,12
+Fraternity/Sorority House,2021-01-01,16
+Fraternity/Sorority House,2021-01-08,12
+Fraternity/Sorority House,2021-01-15,8
+Fraternity/Sorority House,2021-01-22,8
+Fraternity/Sorority House,2021-01-29,4
+Fraternity/Sorority House,2021-02-06,8
+Fraternity/Sorority House,2021-03-19,20
+Fraternity/Sorority House,2021-04-02,12
+Funeral Home,2020-11-13,76
+Funeral Home,2020-11-20,82
+Funeral Home,2020-11-27,86
+Funeral Home,2020-12-04,76
+Funeral Home,2020-12-11,79
+Funeral Home,2020-12-18,72
+Funeral Home,2020-12-25,82
+Funeral Home,2021-01-01,84
+Funeral Home,2021-01-08,81
+Funeral Home,2021-01-15,77
+Funeral Home,2021-01-22,67
+Funeral Home,2021-01-29,65
+Funeral Home,2021-02-06,65
+Funeral Home,2021-03-19,50
+Funeral Home,2021-04-02,56
+Golf Course,2020-11-13,120
+Golf Course,2020-11-20,101
+Golf Course,2020-11-27,88
+Golf Course,2020-12-04,71
+Golf Course,2020-12-11,65
+Golf Course,2020-12-18,60
+Golf Course,2020-12-25,49
+Golf Course,2021-01-01,46
+Golf Course,2021-01-08,41
+Golf Course,2021-01-15,43
+Golf Course,2021-01-22,40
+Golf Course,2021-01-29,32
+Golf Course,2021-02-06,31
+Golf Course,2021-03-19,30
+Golf Course,2021-04-02,30
+"Government Services Facility (e.g. DMV, courthouse)",2020-11-13,157
+"Government services facility (e.g. DMV, courthouse)",2020-11-20,180
+"Government services facility (e.g. DMV, courthouse)",2020-11-27,222
+"Government services facility (e.g. DMV, courthouse)",2020-12-04,204
+"Government services facility (e.g. DMV, courthouse)",2020-12-11,233
+"Government services facility (e.g. DMV, courthouse)",2020-12-18,211
+"Government services facility (e.g. DMV, courthouse)",2020-12-25,204
+"Government services facility (e.g. DMV, courthouse)",2021-01-01,201
+"Government services facility (e.g. DMV, courthouse)",2021-01-08,201
+"Government services facility (e.g. DMV, courthouse)",2021-01-15,196
+"Government services facility (e.g. DMV, courthouse)",2021-01-22,192
+"Government services facility (e.g. DMV, courthouse)",2021-01-29,181
+"Government services facility (e.g. DMV, courthouse)",2021-02-06,176
+"Government services facility (e.g. DMV, courthouse)",2021-03-19,108
+"Government services facility (e.g. DMV, courthouse)",2021-04-02,79
+Grocery Store,2020-11-13,702
+Grocery Store,2020-11-20,788
+Grocery Store,2020-11-27,854
+Grocery Store,2020-12-04,864
+Grocery Store,2020-12-11,939
+Grocery Store,2020-12-18,1081
+Grocery Store,2020-12-25,1173
+Grocery Store,2021-01-01,1184
+Grocery Store,2021-01-08,1221
+Grocery Store,2021-01-15,1160
+Grocery Store,2021-01-22,1134
+Grocery Store,2021-01-29,1088
+Grocery Store,2021-02-06,1072
+Grocery Store,2021-03-19,577
+Grocery Store,2021-04-02,473
+Group Home,2020-11-13,54
+Group Home,2020-11-20,68
+Group Home,2020-11-27,87
+Group Home,2020-12-04,88
+Group Home,2020-12-11,84
+Group Home,2020-12-18,84
+Group Home,2020-12-25,88
+Group Home,2021-01-01,92
+Group Home,2021-01-08,91
+Group Home,2021-01-15,80
+Group Home,2021-01-22,73
+Group Home,2021-01-29,77
+Group Home,2021-02-06,60
+Group Home,2021-03-19,37
+Group Home,2021-04-02,28
+Gym/Health Club,2020-11-13,398
+Gym/Health Club,2020-11-20,483
+Gym/Health Club,2020-11-27,492
+Gym/Health Club,2020-12-04,506
+Gym/Health Club,2020-12-11,475
+Gym/Health Club,2020-12-18,413
+Gym/Health Club,2020-12-25,387
+Gym/Health Club,2021-01-01,348
+Gym/Health Club,2021-01-08,297
+Gym/Health Club,2021-01-15,278
+Gym/Health Club,2021-01-22,285
+Gym/Health Club,2021-01-29,304
+Gym/Health Club,2021-02-06,368
+Gym/Health Club,2021-03-19,323
+Gym/Health Club,2021-04-02,296
+Hair Salon/Barber Shop/Other Personal Care Services,2020-11-13,242
+Hair Salon/Barber Shop/Other personal care services,2020-11-20,278
+Hair Salon/Barber Shop/Other personal care services,2020-11-27,291
+Hair Salon/Barber Shop/Other personal care services,2020-12-04,273
+Hair Salon/Barber Shop/Other personal care services,2020-12-11,261
+Hair Salon/Barber Shop/Other personal care services,2020-12-18,249
+Hair Salon/Barber Shop/Other personal care services,2020-12-25,278
+Hair Salon/Barber Shop/Other personal care services,2021-01-01,278
+Hair Salon/Barber Shop/Other personal care services,2021-01-08,281
+Hair Salon/Barber Shop/Other personal care services,2021-01-15,251
+Hair Salon/Barber Shop/Other personal care services,2021-01-22,238
+Hair Salon/Barber Shop/Other personal care services,2021-01-29,205
+Hair Salon/Barber Shop/Other personal care services,2021-02-06,205
+Hair Salon/Barber Shop/Other personal care services,2021-03-19,144
+Hair Salon/Barber Shop/Other personal care services,2021-04-02,124
+Hospital or Clinic,2020-11-13,2066
+Hospital or Clinic,2020-11-20,2384
+Hospital or Clinic,2020-11-27,2478
+Hospital or Clinic,2020-12-04,2374
+Hospital or Clinic,2020-12-11,2412
+Hospital or Clinic,2020-12-18,2276
+Hospital or Clinic,2020-12-25,2357
+Hospital or Clinic,2021-01-01,2262
+Hospital or Clinic,2021-01-08,2273
+Hospital or Clinic,2021-01-15,2191
+Hospital or Clinic,2021-01-22,2055
+Hospital or Clinic,2021-01-29,1869
+Hospital or Clinic,2021-02-06,1715
+Hospital or Clinic,2021-03-19,807
+Hospital or Clinic,2021-04-02,810
+Hotel/Motel/Inn/Resort,2020-11-13,263
+Hotel/Motel/Inn/Resort,2020-11-20,259
+Hotel/Motel/Inn/Resort,2020-11-27,237
+Hotel/Motel/Inn/Resort,2020-12-04,205
+Hotel/Motel/Inn/Resort,2020-12-11,191
+Hotel/Motel/Inn/Resort,2020-12-18,194
+Hotel/Motel/Inn/Resort,2020-12-25,195
+Hotel/Motel/Inn/Resort,2021-01-01,183
+Hotel/Motel/Inn/Resort,2021-01-08,174
+Hotel/Motel/Inn/Resort,2021-01-15,183
+Hotel/Motel/Inn/Resort,2021-01-22,196
+Hotel/Motel/Inn/Resort,2021-01-29,202
+Hotel/Motel/Inn/Resort,2021-02-06,214
+Hotel/Motel/Inn/Resort,2021-03-19,147
+Hotel/Motel/Inn/Resort,2021-04-02,149
+Household (own home),2020-11-13,704
+Household (own home),2020-11-20,719
+Household (own home),2020-11-27,710
+Household (own home),2020-12-04,663
+Household (own home),2020-12-11,632
+Household (own home),2020-12-18,650
+Household (own home),2020-12-25,643
+Household (own home),2021-01-01,564
+Household (own home),2021-01-08,555
+Household (own home),2021-01-15,519
+Household (own home),2021-01-22,485
+Household (own home),2021-01-29,468
+Household (own home),2021-02-06,455
+Household (own home),2021-03-19,226
+Household (own home),2021-04-02,201
+Independent Living Facility,2020-11-13,45
+Independent Living Facility,2020-11-20,57
+Independent Living Facility,2020-11-27,67
+Independent Living Facility,2020-12-04,54
+Independent Living Facility,2020-12-11,61
+Independent Living Facility,2020-12-18,70
+Independent Living Facility,2020-12-25,97
+Independent Living Facility,2021-01-01,97
+Independent Living Facility,2021-01-08,89
+Independent Living Facility,2021-01-15,91
+Independent Living Facility,2021-01-22,82
+Independent Living Facility,2021-01-29,79
+Independent Living Facility,2021-02-06,53
+Independent Living Facility,2021-03-19,35
+Independent Living Facility,2021-04-02,20
+Jail/Correctional Facility,2020-11-27,172
+Jail/Correctional Facility,2020-12-04,183
+Jail/Correctional Facility,2020-12-11,183
+Jail/Correctional Facility,2020-12-18,171
+Jail/Correctional Facility,2020-12-25,187
+Jail/Correctional Facility,2021-01-01,201
+Jail/Correctional Facility,2021-01-08,198
+Jail/Correctional Facility,2021-01-15,200
+Jail/Correctional Facility,2021-01-22,184
+Jail/Correctional Facility,2021-01-29,163
+Jail/Correctional Facility,2021-02-06,157
+Jail/Correctional Facility,2021-03-19,85
+Jail/Correctional Facility,2021-04-02,99
+Jail/Prison/Correctional Facility,2020-11-13,117
+Library,2020-11-13,34
+Library,2020-11-20,39
+Library,2020-11-27,47
+Library,2020-12-04,47
+Library,2020-12-11,48
+Library,2020-12-18,48
+Library,2020-12-25,38
+Library,2021-01-01,40
+Library,2021-01-08,37
+Library,2021-01-15,41
+Library,2021-01-22,41
+Library,2021-01-29,40
+Library,2021-02-06,47
+Library,2021-03-19,24
+Library,2021-04-02,28
+Long Term Care Facility,2020-11-13,349
+Long Term Care Facility,2020-11-20,434
+Long Term Care Facility,2020-11-27,584
+Long Term Care Facility,2020-12-04,649
+Long Term Care Facility,2020-12-11,672
+Long Term Care Facility,2020-12-18,732
+Long Term Care Facility,2020-12-25,777
+Long Term Care Facility,2021-01-01,782
+Long Term Care Facility,2021-01-08,758
+Long Term Care Facility,2021-01-15,663
+Long Term Care Facility,2021-01-22,545
+Long Term Care Facility,2021-01-29,496
+Long Term Care Facility,2021-02-06,457
+Long Term Care Facility,2021-03-19,129
+Long Term Care Facility,2021-04-02,100
+Mental Health Facility,2020-11-13,58
+Mental Health Facility,2020-11-20,61
+Mental Health Facility,2020-11-27,67
+Mental Health Facility,2020-12-04,72
+Mental Health Facility,2020-12-11,69
+Mental Health Facility,2020-12-18,63
+Mental Health Facility,2020-12-25,64
+Mental Health Facility,2021-01-01,61
+Mental Health Facility,2021-01-08,54
+Mental Health Facility,2021-01-15,55
+Mental Health Facility,2021-01-22,56
+Mental Health Facility,2021-01-29,50
+Mental Health Facility,2021-02-06,55
+Mental Health Facility,2021-03-19,33
+Mental Health Facility,2021-04-02,31
+Migrant Farm Camp,2021-03-19,4
+Museum/Aquarium/Cultural Center,2020-11-13,12
+Museum/Aquarium/Cultural Center,2020-11-20,20
+Museum/Aquarium/Cultural Center,2020-11-27,22
+Museum/Aquarium/Cultural Center,2020-12-04,18
+Museum/Aquarium/Cultural Center,2020-12-11,25
+Museum/Aquarium/Cultural Center,2020-12-18,16
+Museum/Aquarium/Cultural Center,2020-12-25,13
+Museum/Aquarium/Cultural Center,2021-01-01,12
+Museum/Aquarium/Cultural Center,2021-01-08,8
+Museum/Aquarium/Cultural Center,2021-01-15,8
+Museum/Aquarium/Cultural Center,2021-01-22,8
+Museum/Aquarium/Cultural Center,2021-01-29,12
+Museum/Aquarium/Cultural Center,2021-02-06,16
+Museum/Aquarium/Cultural Center,2021-03-19,20
+Museum/Aquarium/Cultural Center,2021-04-02,12
+Office Setting,2020-11-13,1385
+Office Setting,2020-11-20,1656
+Office Setting,2020-11-27,1770
+Office Setting,2020-12-04,1745
+Office Setting,2020-12-11,1712
+Office Setting,2020-12-18,1588
+Office Setting,2020-12-25,1571
+Office Setting,2021-01-01,1540
+Office Setting,2021-01-08,1508
+Office Setting,2021-01-15,1484
+Office Setting,2021-01-22,1475
+Office Setting,2021-01-29,1464
+Office Setting,2021-02-06,1528
+Office Setting,2021-03-19,843
+Office Setting,2021-04-02,805
+Other,2020-11-13,1499
+Other,2020-11-20,1852
+Other,2020-11-27,2105
+Other,2020-12-04,2223
+Other,2020-12-11,2375
+Other,2020-12-18,2570
+Other,2020-12-25,2375
+Other,2021-01-01,2260
+Other,2021-01-08,2041
+Other,2021-01-15,1922
+Other,2021-01-22,1749
+Other,2021-01-29,1610
+Other,2021-02-06,1592
+Other,2021-03-19,1041
+Other,2021-04-02,940
+Park/Preserve,2020-11-13,67
+Park/Preserve,2020-11-20,79
+Park/Preserve,2020-11-27,81
+Park/Preserve,2020-12-04,78
+Park/Preserve,2020-12-11,78
+Park/Preserve,2020-12-18,68
+Park/Preserve,2020-12-25,67
+Park/Preserve,2021-01-01,70
+Park/Preserve,2021-01-08,70
+Park/Preserve,2021-01-15,61
+Park/Preserve,2021-01-22,55
+Park/Preserve,2021-01-29,50
+Park/Preserve,2021-02-06,48
+Park/Preserve,2021-03-19,31
+Park/Preserve,2021-04-02,35
+Physical Therapy,2020-11-13,69
+Physical Therapy,2020-11-20,80
+Physical Therapy,2020-11-27,93
+Physical Therapy,2020-12-04,86
+Physical Therapy,2020-12-11,86
+Physical Therapy,2020-12-18,83
+Physical Therapy,2020-12-25,87
+Physical Therapy,2021-01-01,84
+Physical Therapy,2021-01-08,84
+Physical Therapy,2021-01-15,88
+Physical Therapy,2021-01-22,91
+Physical Therapy,2021-01-29,87
+Physical Therapy,2021-02-06,86
+Physical Therapy,2021-03-19,52
+Physical Therapy,2021-04-02,52
+Place of Worship,2020-11-13,453
+Place of Worship,2020-11-20,509
+Place of Worship,2020-11-27,492
+Place of Worship,2020-12-04,459
+Place of Worship,2020-12-11,406
+Place of Worship,2020-12-18,345
+Place of Worship,2020-12-25,323
+Place of Worship,2021-01-01,306
+Place of Worship,2021-01-08,289
+Place of Worship,2021-01-15,294
+Place of Worship,2021-01-22,294
+Place of Worship,2021-01-29,283
+Place of Worship,2021-02-06,283
+Place of Worship,2021-03-19,140
+Place of Worship,2021-04-02,141
+Prison/Jail/Correctional Facility,2020-11-20,156
+Private Home (someone else's home),2020-11-13,778
+Private Home (someone else's home),2020-11-20,889
+Private Home (someone else's home),2020-11-27,922
+Private Home (someone else's home),2020-12-04,843
+Private Home (someone else's home),2020-12-11,784
+Private Home (someone else's home),2020-12-18,755
+Private Home (someone else's home),2020-12-25,839
+Private Home (someone else's home),2021-01-01,842
+Private Home (someone else's home),2021-01-08,936
+Private Home (someone else's home),2021-01-15,976
+Private Home (someone else's home),2021-01-22,1018
+Private Home (someone else's home),2021-01-29,1037
+Private Home (someone else's home),2021-02-06,1031
+Private Home (someone else's home),2021-03-19,309
+Private Home (someone else's home),2021-04-02,340
+Recreational Water,2020-11-13,27
+Recreational Water,2020-11-20,27
+Recreational Water,2020-11-27,24
+Recreational Water,2020-12-04,28
+Recreational Water,2020-12-11,29
+Recreational Water,2020-12-18,28
+Recreational Water,2020-12-25,28
+Recreational Water,2021-01-01,20
+Recreational Water,2021-01-08,20
+Recreational Water,2021-01-15,16
+Recreational Water,2021-01-22,12
+Recreational Water,2021-01-29,14
+Recreational Water,2021-02-06,14
+Recreational Water,2021-03-19,20
+Recreational Water,2021-04-02,24
+Restaurant/Bar,2020-11-13,2071
+Restaurant/Bar,2020-11-20,2107
+Restaurant/Bar,2020-11-27,2004
+Restaurant/Bar,2020-12-04,1775
+Restaurant/Bar,2020-12-11,1479
+Restaurant/Bar,2020-12-18,1300
+Restaurant/Bar,2020-12-25,1203
+Restaurant/Bar,2021-01-01,1082
+Restaurant/Bar,2021-01-08,1072
+Restaurant/Bar,2021-01-15,1066
+Restaurant/Bar,2021-01-22,1055
+Restaurant/Bar,2021-01-29,1054
+Restaurant/Bar,2021-02-06,1122
+Restaurant/Bar,2021-03-19,821
+Restaurant/Bar,2021-04-02,854
+School,2020-11-13,2930
+School,2020-11-20,3718
+School,2020-11-27,4142
+School,2020-12-04,4210
+School,2020-12-11,4155
+School,2020-12-18,3629
+School,2020-12-25,3200
+School,2021-01-01,2777
+School,2021-01-08,2463
+School,2021-01-15,2248
+School,2021-01-22,2306
+School,2021-01-29,2517
+School,2021-02-06,2916
+School,2021-03-19,2824
+School,2021-04-02,2684
+"Shelter (homeless, warming)",2020-11-13,13
+"Shelter (homeless, warming)",2020-11-20,14
+"Shelter (homeless, warming)",2020-11-27,24
+"Shelter (homeless, warming)",2020-12-04,27
+"Shelter (homeless, warming)",2020-12-11,24
+"Shelter (homeless, warming)",2020-12-18,24
+"Shelter (homeless, warming)",2020-12-25,23
+"Shelter (homeless, warming)",2021-01-01,16
+"Shelter (homeless, warming)",2021-01-08,21
+"Shelter (homeless, warming)",2021-01-15,24
+"Shelter (homeless, warming)",2021-01-22,20
+"Shelter (homeless, warming)",2021-01-29,20
+"Shelter (homeless, warming)",2021-02-06,12
+"Shelter (homeless, warming)",2021-03-19,12
+"Shelter (homeless, warming)",2021-04-02,12
+Sports Facility (indoors),2020-11-13,341
+Sports Facility (indoors),2020-11-20,347
+Sports Facility (indoors),2020-11-27,364
+Sports Facility (indoors),2020-12-04,327
+Sports Facility (indoors),2020-12-11,275
+Sports Facility (indoors),2020-12-18,211
+Sports Facility (indoors),2020-12-25,159
+Sports Facility (indoors),2021-01-01,119
+Sports Facility (indoors),2021-01-08,91
+Sports Facility (indoors),2021-01-15,85
+Sports Facility (indoors),2021-01-22,91
+Sports Facility (indoors),2021-01-29,109
+Sports Facility (indoors),2021-02-06,141
+Sports Facility (indoors),2021-03-19,319
+Sports Facility (indoors),2021-04-02,336
+Sports Facility (outdoors),2020-11-13,44
+Sports Facility (outdoors),2020-11-20,49
+Sports Facility (outdoors),2020-11-27,54
+Sports Facility (outdoors),2020-12-04,60
+Sports Facility (outdoors),2020-12-11,60
+Sports Facility (outdoors),2020-12-18,44
+Sports Facility (outdoors),2020-12-25,34
+Sports Facility (outdoors),2021-01-01,23
+Sports Facility (outdoors),2021-01-08,18
+Sports Facility (outdoors),2021-01-15,24
+Sports Facility (outdoors),2021-01-22,24
+Sports Facility (outdoors),2021-01-29,31
+Sports Facility (outdoors),2021-02-06,29
+Sports Facility (outdoors),2021-03-19,35
+Sports Facility (outdoors),2021-04-02,46
+Supportive Living Facility,2020-11-13,61
+Supportive Living Facility,2020-11-20,61
+Supportive Living Facility,2020-11-27,38
+Supportive Living Facility,2020-12-04,34
+Supportive Living Facility,2020-12-11,44
+Supportive Living Facility,2020-12-18,39
+Supportive Living Facility,2020-12-25,40
+Supportive Living Facility,2021-01-01,49
+Supportive Living Facility,2021-01-08,49
+Supportive Living Facility,2021-01-15,48
+Supportive Living Facility,2021-01-22,36
+Supportive Living Facility,2021-01-29,37
+Supportive Living Facility,2021-02-06,39
+Supportive Living Facility,2021-03-19,17
+Supportive Living Facility,2021-04-02,8
+Theater,2020-11-13,16
+Theater,2020-11-20,20
+Theater,2020-11-27,20
+Theater,2020-12-04,16
+Theater,2020-12-11,20
+Theater,2020-12-18,16
+Theater,2020-12-25,12
+Theater,2021-01-01,20
+Theater,2021-01-08,16
+Theater,2021-01-15,16
+Theater,2021-01-22,12
+Theater,2021-01-29,12
+Theater,2021-02-06,12
+Theater,2021-03-19,20
+Theater,2021-04-02,31
+Train/Subway Station,2020-11-20,12
+Train/Subway Station,2020-11-27,16
+Train/Subway Station,2020-12-04,20
+Train/Subway Station,2020-12-11,22
+Train/Subway Station,2020-12-18,27
+Train/Subway Station,2020-12-25,26
+Train/Subway Station,2021-01-01,26
+Train/Subway Station,2021-01-08,25
+Train/Subway Station,2021-01-15,24
+Train/Subway Station,2021-01-22,36
+Train/Subway Station,2021-01-29,32
+Train/Subway Station,2021-02-06,36
+Train/Subway Station,2021-03-19,12
+Train/Subway Station,2021-04-02,21
+Vacation Home Rental,2020-11-13,36
+Vacation Home Rental,2020-11-20,36
+Vacation Home Rental,2020-11-27,36
+Vacation Home Rental,2020-12-04,30
+Vacation Home Rental,2020-12-11,34
+Vacation Home Rental,2020-12-18,30
+Vacation Home Rental,2020-12-25,32
+Vacation Home Rental,2021-01-01,26
+Vacation Home Rental,2021-01-08,29
+Vacation Home Rental,2021-01-15,36
+Vacation Home Rental,2021-01-22,31
+Vacation Home Rental,2021-01-29,30
+Vacation Home Rental,2021-02-06,32
+Vacation Home Rental,2021-03-19,28
+Vacation Home Rental,2021-04-02,28
+Veterinary Clinic/Pet Grooming,2020-11-13,74
+Veterinary Clinic/Pet Grooming,2020-11-20,75
+Veterinary Clinic/Pet Grooming,2020-11-27,79
+Veterinary Clinic/Pet Grooming,2020-12-04,78
+Veterinary Clinic/Pet Grooming,2020-12-11,71
+Veterinary Clinic/Pet Grooming,2020-12-18,67
+Veterinary Clinic/Pet Grooming,2020-12-25,87
+Veterinary Clinic/Pet Grooming,2021-01-01,101
+Veterinary Clinic/Pet Grooming,2021-01-08,110
+Veterinary Clinic/Pet Grooming,2021-01-15,107
+Veterinary Clinic/Pet Grooming,2021-01-22,115
+Veterinary Clinic/Pet Grooming,2021-01-29,113
+Veterinary Clinic/Pet Grooming,2021-02-06,114
+Veterinary Clinic/Pet Grooming,2021-03-19,52
+Veterinary Clinic/Pet Grooming,2021-04-02,38
+Warehouse/Distribution Center,2020-11-13,148
+Warehouse/Distribution Center,2020-11-20,404
+Warehouse/Distribution Center,2020-11-27,521
+Warehouse/Distribution Center,2020-12-04,615
+Warehouse/Distribution Center,2020-12-11,766
+Warehouse/Distribution Center,2020-12-18,878
+Warehouse/Distribution Center,2020-12-25,1012
+Warehouse/Distribution Center,2021-01-01,1031
+Warehouse/Distribution Center,2021-01-08,1020
+Warehouse/Distribution Center,2021-01-15,944
+Warehouse/Distribution Center,2021-01-22,920
+Warehouse/Distribution Center,2021-01-29,888
+Warehouse/Distribution Center,2021-02-06,914
+Warehouse/Distribution Center,2021-03-19,435
+Warehouse/Distribution Center,2021-04-02,391
+Workplace - other than office,2020-11-13,1820
+Workplace - other than office,2020-11-20,1638
+Workplace - other than office,2020-11-27,1521
+Workplace - other than office,2020-12-04,1367
+Workplace - other than office,2020-12-11,1171
+Workplace - other than office,2020-12-18,1091
+Workplace - other than office,2020-12-25,1055
+Workplace - other than office,2021-01-01,959
+Workplace - other than office,2021-01-08,896
+Workplace - other than office,2021-01-15,802
+Workplace - other than office,2021-01-22,761
+Workplace - other than office,2021-01-29,718
+Workplace - other than office,2021-02-06,720
+Workplace - other than office,2021-03-19,440
+Workplace - other than office,2021-04-02,382
+Zoo,2020-11-13,20
+Zoo,2020-11-20,25
+Zoo,2020-11-27,23
+Zoo,2020-12-04,23
+Zoo,2020-12-11,19
+Zoo,2020-12-18,5
+Zoo,2020-12-25,15
+Zoo,2021-01-01,20
+Zoo,2021-01-08,24
+Zoo,2021-01-15,24
+Zoo,2021-01-22,24
+Zoo,2021-01-29,16
+Zoo,2021-02-06,15
+Zoo,2021-03-19,12
+Zoo,2021-04-02,16
