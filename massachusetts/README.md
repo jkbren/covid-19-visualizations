@@ -26,7 +26,7 @@ data source: https://docs.google.com/spreadsheets/d/1fgJg09NSPOLjOOpBV_nQIxmXVR5
 
 
 <p align="center">
-<img src="../figs/pngs/ma_cities_casecounts_over_time_diff.png" alt="county_level" width="95%"/>
+<img src="../figs/pngs/ma_cities_casecounts_over_time_pct_diff.png" alt="county_level" width="95%"/>
 </p>
 
 <p align="center">
