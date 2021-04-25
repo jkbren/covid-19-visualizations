@@ -9,8 +9,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,985,Achievement School District,Nashville,37243,2020-08-31,Hybrid-Parent Choice,1.0,0.0
 2021-03-17,985,Achievement School District,Nashville,37243,2020-08-31,Hybrid-Parent Choice,1.0,0.0
 2021-03-24,985,Achievement School District,Nashville,37243,2020-08-31,Hybrid-Parent Choice,0.0,0.0
-2021-04-07,985,Achievement School District,Nashville,37243,2020-08-31,Hybrid-Parent Choice,0.0,0.0
-2021-04-14,985,Achievement School District,Nashville,37243,2020-08-31,Hybrid-Parent Choice,5.0,0.0
+2021-04-13,985,Achievement School District,Nashville,37243,2020-08-31,Hybrid-Parent Choice,5.0,0.0
+2021-04-20,985,Achievement School District,Nashville,37243,2020-08-31,Hybrid-Parent Choice,0.0,2.0
 2020-09-12,171,Alamo,Alamo,38001,2020-08-24,Hybrid-Parent Choice,2.0,0.0
 2020-09-19,171,Alamo,Alamo,38001,2020-08-24,Hybrid-Parent Choice,,
 2020-10-29,171,Alamo,Alamo,38001,2020-08-24,Hybrid-Parent Choice,2.0,3.0
@@ -21,8 +21,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,171,Alamo,Alamo,38001,2020-08-24,Hybrid-Parent Choice,0.0,0.0
 2021-03-17,171,Alamo,Alamo,38001,2020-08-24,Hybrid-Parent Choice,0.0,0.0
 2021-03-24,171,Alamo,Alamo,38001,2020-08-24,Hybrid-Parent Choice,0.0,0.0
-2021-04-07,171,Alamo,Alamo,38001,2020-08-24,Hybrid-Parent Choice,0.0,0.0
-2021-04-14,171,Alamo,Alamo,38001,2020-08-24,Hybrid-Parent Choice,1.0,0.0
+2021-04-13,171,Alamo,Alamo,38001,2020-08-24,Hybrid-Parent Choice,1.0,0.0
+2021-04-20,171,Alamo,Alamo,38001,2020-08-24,Hybrid-Parent Choice,0.0,0.0
 2020-09-12,51,Alcoa,Alcoa,37701,2020-07-22,Hybrid-Parent Choice,0.0,0.0
 2020-09-19,51,Alcoa,Alcoa,37701,2020-07-22,Hybrid-Parent Choice,0.0,0.0
 2020-10-29,51,Alcoa,Alcoa,37701,2020-07-22,Hybrid-Parent Choice,1.0,1.0
@@ -33,8 +33,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,51,Alcoa,Alcoa,37701,2020-07-22,Hybrid-Parent Choice,,
 2021-03-17,51,Alcoa,Alcoa,37701,2020-07-22,Hybrid-Parent Choice,,
 2021-03-24,51,Alcoa,Alcoa,37701,2020-07-22,Hybrid-Parent Choice,,
-2021-04-07,51,Alcoa,Alcoa,37701,2020-07-22,Hybrid-Parent Choice,2.0,2.0
-2021-04-14,51,Alcoa,Alcoa,37701,2020-07-22,Hybrid-Parent Choice,0.0,0.0
+2021-04-13,51,Alcoa,Alcoa,37701,2020-07-22,Hybrid-Parent Choice,0.0,0.0
+2021-04-20,51,Alcoa,Alcoa,37701,2020-07-22,Hybrid-Parent Choice,,
 2020-09-12,961,Alvin C York Institute,Jamestown,38556,2020-08-03,Hybrid-Parent Choice,1.0,0.0
 2020-09-19,961,Alvin C York Institute,Jamestown,38556,2020-08-03,Hybrid-Parent Choice,19.0,0.0
 2020-10-29,961,Alvin C York Institute,Jamestown,38556,2020-08-03,Hybrid-Parent Choice,3.0,2.0
@@ -45,8 +45,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,961,Alvin C York Institute,Jamestown,38556,2020-08-03,In Person-Parent Choice,0.0,0.0
 2021-03-17,961,Alvin C York Institute,Jamestown,38556,2020-08-03,In Person-Parent Choice,0.0,0.0
 2021-03-24,961,Alvin C York Institute,Jamestown,38556,2020-08-03,In Person-Parent Choice,0.0,1.0
-2021-04-07,961,Alvin C York Institute,Jamestown,38556,2020-08-03,In Person-Parent Choice,0.0,1.0
-2021-04-14,961,Alvin C York Institute,Jamestown,38556,2020-08-03,In Person-Parent Choice,,
+2021-04-13,961,Alvin C York Institute,Jamestown,38556,2020-08-03,In Person-Parent Choice,,
+2021-04-20,961,Alvin C York Institute,Jamestown,38556,2020-08-03,In Person-Parent Choice,0.0,0.0
 2020-09-12,10,Anderson County,Clinton,37716,2020-08-05,Hybrid-Parent Choice,12.0,4.0
 2020-09-19,10,Anderson County,Clinton,37716,2020-08-05,Hybrid-Parent Choice,15.0,1.0
 2020-10-29,10,Anderson County,Clinton,37716,2020-08-05,Hybrid-Parent Choice,,
@@ -57,8 +57,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,10,Anderson County,Clinton,37716,2020-08-05,Hybrid-Parent Choice,,
 2021-03-17,10,Anderson County,Clinton,37716,2020-08-05,Hybrid-Parent Choice,,
 2021-03-24,10,Anderson County,Clinton,37716,2020-08-05,Hybrid-Parent Choice,,
-2021-04-07,10,Anderson County,Clinton,37716,2020-08-05,Hybrid-Parent Choice,,
-2021-04-14,10,Anderson County,Clinton,37716,2020-08-05,Hybrid-Parent Choice,,
+2021-04-13,10,Anderson County,Clinton,37716,2020-08-05,Hybrid-Parent Choice,,
+2021-04-20,10,Anderson County,Clinton,37716,2020-08-05,Hybrid-Parent Choice,,
 2020-09-12,793,Arlington,Arlington,38002,2020-08-10,Hybrid-Parent Choice,,
 2020-09-19,793,Arlington,Arlington,38002,2020-08-10,Hybrid-Parent Choice,2.0,1.0
 2020-10-29,793,Arlington,Arlington,38002,2020-08-10,Hybrid-Parent Choice,0.0,0.0
@@ -69,8 +69,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,793,Arlington,Arlington,38002,2020-08-10,Hybrid-Parent Choice,,
 2021-03-17,793,Arlington,Arlington,38002,2020-08-10,Hybrid-Parent Choice,,
 2021-03-24,793,Arlington,Arlington,38002,2020-08-10,Hybrid-Parent Choice,0.0,0.0
-2021-04-07,793,Arlington,Arlington,38002,2020-08-10,Hybrid-Parent Choice,0.0,0.0
-2021-04-14,793,Arlington,Arlington,38002,2020-08-10,Hybrid-Parent Choice,0.0,0.0
+2021-04-13,793,Arlington,Arlington,38002,2020-08-10,Hybrid-Parent Choice,0.0,0.0
+2021-04-20,793,Arlington,Arlington,38002,2020-08-10,Hybrid-Parent Choice,0.0,0.0
 2020-09-12,541,Athens,Athens,37303,2020-08-10,Hybrid-Parent Choice,0.0,2.0
 2020-09-19,541,Athens,Athens,37303,2020-08-10,Hybrid-Parent Choice,0.0,1.0
 2020-10-29,541,Athens,Athens,37303,2020-08-10,Hybrid-Parent Choice,,
@@ -81,8 +81,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,541,Athens,Athens,37303,2020-08-10,Hybrid-Parent Choice,,
 2021-03-17,541,Athens,Athens,37303,2020-08-10,Hybrid-Parent Choice,,
 2021-03-24,541,Athens,Athens,37303,2020-08-10,Hybrid-Parent Choice,,
-2021-04-07,541,Athens,Athens,37303,2020-08-10,Hybrid-Parent Choice,1.0,1.0
-2021-04-14,541,Athens,Athens,37303,2020-08-10,Hybrid-Parent Choice,1.0,2.0
+2021-04-13,541,Athens,Athens,37303,2020-08-10,Hybrid-Parent Choice,1.0,2.0
+2021-04-20,541,Athens,Athens,37303,2020-08-10,Hybrid-Parent Choice,5.0,1.0
 2020-09-12,794,Bartlett,Bartlett,38134,2020-08-10,Hybrid-Parent Choice,1.0,1.0
 2020-09-19,794,Bartlett,Bartlett,38134,2020-08-10,Hybrid-Parent Choice,,
 2020-10-29,794,Bartlett,Bartlett,38134,2020-08-10,Hybrid-Parent Choice,0.0,0.0
@@ -93,8 +93,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,794,Bartlett,Bartlett,38134,2020-08-10,Hybrid-Parent Choice,2.0,0.0
 2021-03-17,794,Bartlett,Bartlett,38134,2020-08-10,Hybrid-Parent Choice,2.0,0.0
 2021-03-24,794,Bartlett,Bartlett,38134,2020-08-10,Hybrid-Parent Choice,,
-2021-04-07,794,Bartlett,Bartlett,38134,2020-08-10,Hybrid-Parent Choice,,
-2021-04-14,794,Bartlett,Bartlett,38134,2020-08-10,Hybrid-Parent Choice,4.0,1.0
+2021-04-13,794,Bartlett,Bartlett,38134,2020-08-10,Hybrid-Parent Choice,4.0,1.0
+2021-04-20,794,Bartlett,Bartlett,38134,2020-08-10,Hybrid-Parent Choice,,
 2020-09-12,20,Bedford County,Shelbyville,37160,2020-08-03,Hybrid-Parent Choice,19.0,14.0
 2020-09-19,20,Bedford County,Shelbyville,37160,2020-08-03,Hybrid-Parent Choice,7.0,5.0
 2020-10-29,20,Bedford County,Shelbyville,37160,2020-08-03,Hybrid-Parent Choice,6.0,1.0
@@ -105,8 +105,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,20,Bedford County,Shelbyville,37160,2020-08-03,Hybrid-Parent Choice,17.0,4.0
 2021-03-17,20,Bedford County,Shelbyville,37160,2020-08-03,Hybrid-Parent Choice,17.0,4.0
 2021-03-24,20,Bedford County,Shelbyville,37160,2020-08-03,Hybrid-Parent Choice,37.0,12.0
-2021-04-07,20,Bedford County,Shelbyville,37160,2020-08-03,Hybrid-Parent Choice,,
-2021-04-14,20,Bedford County,Shelbyville,37160,2020-08-03,Hybrid-Parent Choice,13.0,6.0
+2021-04-13,20,Bedford County,Shelbyville,37160,2020-08-03,Hybrid-Parent Choice,13.0,6.0
+2021-04-20,20,Bedford County,Shelbyville,37160,2020-08-03,Hybrid-Parent Choice,7.0,1.0
 2020-09-12,172,Bells,Bells,38006,2020-08-24,Hybrid-Parent Choice,,
 2020-09-19,172,Bells,Bells,38006,2020-08-24,Hybrid-Parent Choice,0.0,0.0
 2020-10-29,172,Bells,Bells,38006,2020-08-24,Hybrid-Parent Choice,,
@@ -117,8 +117,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,172,Bells,Bells,38006,2020-08-24,In Person,,
 2021-03-17,172,Bells,Bells,38006,2020-08-24,In Person,,
 2021-03-24,172,Bells,Bells,38006,2020-08-24,In Person,,
-2021-04-07,172,Bells,Bells,38006,2020-08-24,In Person,,
-2021-04-14,172,Bells,Bells,38006,2020-08-24,In Person,,
+2021-04-13,172,Bells,Bells,38006,2020-08-24,In Person,,
+2021-04-20,172,Bells,Bells,38006,2020-08-24,In Person,0.0,0.0
 2020-09-12,30,Benton County,Camden,38320,2020-08-03,Hybrid-Parent Choice,,
 2020-09-19,30,Benton County,Camden,38320,2020-08-03,Hybrid-Parent Choice,2.0,1.0
 2020-10-29,30,Benton County,Camden,38320,2020-08-03,Hybrid-Parent Choice,0.0,2.0
@@ -129,8 +129,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,30,Benton County,Camden,38320,2020-08-03,In Person-Parent Choice,0.0,0.0
 2021-03-17,30,Benton County,Camden,38320,2020-08-03,In Person-Parent Choice,0.0,0.0
 2021-03-24,30,Benton County,Camden,38320,2020-08-03,In Person-Parent Choice,4.0,0.0
-2021-04-07,30,Benton County,Camden,38320,2020-08-03,In Person-Parent Choice,,
-2021-04-14,30,Benton County,Camden,38320,2020-08-03,In Person-Parent Choice,6.0,1.0
+2021-04-13,30,Benton County,Camden,38320,2020-08-03,In Person-Parent Choice,6.0,1.0
+2021-04-20,30,Benton County,Camden,38320,2020-08-03,In Person-Parent Choice,,
 2020-09-12,40,Bledsoe County,Pikeville,37367,2020-08-24,Hybrid-Parent Choice,2.0,0.0
 2020-09-19,40,Bledsoe County,Pikeville,37367,2020-08-24,Hybrid-Parent Choice,,
 2020-10-29,40,Bledsoe County,Pikeville,37367,2020-08-24,Hybrid-Parent Choice,0.0,1.0
@@ -141,8 +141,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,40,Bledsoe County,Pikeville,37367,2020-08-24,Remote Only,2.0,4.0
 2021-03-17,40,Bledsoe County,Pikeville,37367,2020-08-24,Remote Only,2.0,4.0
 2021-03-24,40,Bledsoe County,Pikeville,37367,2020-08-24,Remote Only,4.0,1.0
-2021-04-07,40,Bledsoe County,Pikeville,37367,2020-08-24,Remote Only,0.0,0.0
-2021-04-14,40,Bledsoe County,Pikeville,37367,2020-08-24,Remote Only,0.0,0.0
+2021-04-13,40,Bledsoe County,Pikeville,37367,2020-08-24,Remote Only,0.0,0.0
+2021-04-20,40,Bledsoe County,Pikeville,37367,2020-08-24,Remote Only,,
 2020-09-12,50,Blount County,Maryville,37803,2020-07-24,In Person,0.0,0.0
 2020-09-19,50,Blount County,Maryville,37803,2020-07-24,In Person,4.0,2.0
 2020-10-29,50,Blount County,Maryville,37803,2020-07-24,In Person,5.0,4.0
@@ -153,8 +153,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,50,Blount County,Maryville,37803,2020-07-24,In Person,,
 2021-03-17,50,Blount County,Maryville,37803,2020-07-24,In Person,,
 2021-03-24,50,Blount County,Maryville,37803,2020-07-24,In Person,,
-2021-04-07,50,Blount County,Maryville,37803,2020-07-24,In Person,0.0,0.0
-2021-04-14,50,Blount County,Maryville,37803,2020-07-24,In Person,0.0,0.0
+2021-04-13,50,Blount County,Maryville,37803,2020-07-24,In Person,0.0,0.0
+2021-04-20,50,Blount County,Maryville,37803,2020-07-24,In Person,0.0,0.0
 2020-09-12,274,Bradford,Bradford,38316,2020-07-31,Hybrid-Parent Choice,,
 2020-09-19,274,Bradford,Bradford,38316,2020-07-31,Hybrid-Parent Choice,5.0,0.0
 2020-10-29,274,Bradford,Bradford,38316,2020-07-31,Hybrid-Parent Choice,1.0,0.0
@@ -165,8 +165,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,274,Bradford,Bradford,38316,2020-07-31,Hybrid-Parent Choice,0.0,0.0
 2021-03-17,274,Bradford,Bradford,38316,2020-07-31,Hybrid-Parent Choice,0.0,0.0
 2021-03-24,274,Bradford,Bradford,38316,2020-07-31,Hybrid-Parent Choice,0.0,0.0
-2021-04-07,274,Bradford,Bradford,38316,2020-07-31,Hybrid-Parent Choice,,
-2021-04-14,274,Bradford,Bradford,38316,2020-07-31,Hybrid-Parent Choice,,
+2021-04-13,274,Bradford,Bradford,38316,2020-07-31,Hybrid-Parent Choice,,
+2021-04-20,274,Bradford,Bradford,38316,2020-07-31,Hybrid-Parent Choice,0.0,0.0
 2020-09-12,60,Bradley County,Cleveland,37311,2020-08-05,In Person,5.0,0.0
 2020-09-19,60,Bradley County,Cleveland,37311,2020-08-05,In Person,4.0,2.0
 2020-10-29,60,Bradley County,Cleveland,37311,2020-08-05,In Person,11.0,3.0
@@ -177,8 +177,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,60,Bradley County,Cleveland,37311,2020-08-05,In Person,,
 2021-03-17,60,Bradley County,Cleveland,37311,2020-08-05,In Person,,
 2021-03-24,60,Bradley County,Cleveland,37311,2020-08-05,In Person,3.0,1.0
-2021-04-07,60,Bradley County,Cleveland,37311,2020-08-05,In Person,6.0,2.0
-2021-04-14,60,Bradley County,Cleveland,37311,2020-08-05,In Person,,
+2021-04-13,60,Bradley County,Cleveland,37311,2020-08-05,In Person,,
+2021-04-20,60,Bradley County,Cleveland,37311,2020-08-05,In Person,15.0,4.0
 2020-09-12,821,Bristol,Bristol,37620,2020-08-03,Hybrid-Parent Choice,2.0,0.0
 2020-09-19,821,Bristol,Bristol,37620,2020-08-03,Hybrid-Parent Choice,3.0,0.0
 2020-10-29,821,Bristol,Bristol,37620,2020-08-03,Hybrid-Parent Choice,3.0,7.0
@@ -189,8 +189,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,821,Bristol,Bristol,37620,2020-08-03,Hybrid-Parent Choice,,
 2021-03-17,821,Bristol,Bristol,37620,2020-08-03,Hybrid-Parent Choice,,
 2021-03-24,821,Bristol,Bristol,37620,2020-08-03,Hybrid-Parent Choice,8.0,1.0
-2021-04-07,821,Bristol,Bristol,37620,2020-08-03,Hybrid-Parent Choice,3.0,0.0
-2021-04-14,821,Bristol,Bristol,37620,2020-08-03,Hybrid-Parent Choice,6.0,0.0
+2021-04-13,821,Bristol,Bristol,37620,2020-08-03,Hybrid-Parent Choice,6.0,0.0
+2021-04-20,821,Bristol,Bristol,37620,2020-08-03,Hybrid-Parent Choice,7.0,0.0
 2020-09-12,70,Campbell County,Jacksboro,37757,2020-08-05,Hybrid-Parent Choice,,
 2020-09-19,70,Campbell County,Jacksboro,37757,2020-08-05,Hybrid-Parent Choice,0.0,3.0
 2020-10-29,70,Campbell County,Jacksboro,37757,2020-08-05,Hybrid-Parent Choice,25.0,6.0
@@ -201,8 +201,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,70,Campbell County,Jacksboro,37757,2020-08-05,Hybrid-Parent Choice,8.0,4.0
 2021-03-17,70,Campbell County,Jacksboro,37757,2020-08-05,Hybrid-Parent Choice,8.0,4.0
 2021-03-24,70,Campbell County,Jacksboro,37757,2020-08-05,Hybrid-Parent Choice,,
-2021-04-07,70,Campbell County,Jacksboro,37757,2020-08-05,Hybrid-Parent Choice,0.0,2.0
-2021-04-14,70,Campbell County,Jacksboro,37757,2020-08-05,Hybrid-Parent Choice,4.0,4.0
+2021-04-13,70,Campbell County,Jacksboro,37757,2020-08-05,Hybrid-Parent Choice,4.0,4.0
+2021-04-20,70,Campbell County,Jacksboro,37757,2020-08-05,Hybrid-Parent Choice,7.0,1.0
 2020-09-12,80,Cannon County,Woodbury,37190,2020-08-11,Hybrid-Parent Choice,10.0,0.0
 2020-09-19,80,Cannon County,Woodbury,37190,2020-08-11,Hybrid-Parent Choice,0.0,0.0
 2020-10-29,80,Cannon County,Woodbury,37190,2020-08-11,Hybrid-Parent Choice,2.0,0.0
@@ -213,8 +213,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,80,Cannon County,Woodbury,37190,2020-08-11,Hybrid-Parent Choice,,
 2021-03-17,80,Cannon County,Woodbury,37190,2020-08-11,Hybrid-Parent Choice,,
 2021-03-24,80,Cannon County,Woodbury,37190,2020-08-11,Hybrid-Parent Choice,0.0,0.0
-2021-04-07,80,Cannon County,Woodbury,37190,2020-08-11,Hybrid-Parent Choice,,
-2021-04-14,80,Cannon County,Woodbury,37190,2020-08-11,Hybrid-Parent Choice,,
+2021-04-13,80,Cannon County,Woodbury,37190,2020-08-11,Hybrid-Parent Choice,,
+2021-04-20,80,Cannon County,Woodbury,37190,2020-08-11,Hybrid-Parent Choice,0.0,0.0
 2020-09-12,90,Carroll County,Huntingdon,38344,2020-08-04,Hybrid-Parent Choice,,
 2020-09-19,90,Carroll County,Huntingdon,38344,2020-08-04,Hybrid-Parent Choice,,
 2020-10-29,90,Carroll County,Huntingdon,38344,2020-08-04,Hybrid-Parent Choice,,
@@ -225,8 +225,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,90,Carroll County,Huntingdon,38344,2020-08-04,Hybrid-Parent Choice,,
 2021-03-17,90,Carroll County,Huntingdon,38344,2020-08-04,Hybrid-Parent Choice,,
 2021-03-24,90,Carroll County,Huntingdon,38344,2020-08-04,Hybrid-Parent Choice,,
-2021-04-07,90,Carroll County,Huntingdon,38344,2020-08-04,Hybrid-Parent Choice,,
-2021-04-14,90,Carroll County,Huntingdon,38344,2020-08-04,Hybrid-Parent Choice,,
+2021-04-13,90,Carroll County,Huntingdon,38344,2020-08-04,Hybrid-Parent Choice,,
+2021-04-20,90,Carroll County,Huntingdon,38344,2020-08-04,Hybrid-Parent Choice,,
 2020-09-12,100,Carter County,Elizabethton,37643,2020-08-04,Hybrid-Parent Choice,,
 2020-09-19,100,Carter County,Elizabethton,37643,2020-08-04,Hybrid-Parent Choice,3.0,4.0
 2020-10-29,100,Carter County,Elizabethton,37643,2020-08-04,Hybrid-Parent Choice,0.0,0.0
@@ -237,8 +237,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,100,Carter County,Elizabethton,37643,2020-08-04,Hybrid-Parent Choice,,
 2021-03-17,100,Carter County,Elizabethton,37643,2020-08-04,Hybrid-Parent Choice,,
 2021-03-24,100,Carter County,Elizabethton,37643,2020-08-04,Hybrid-Parent Choice,,
-2021-04-07,100,Carter County,Elizabethton,37643,2020-08-04,Hybrid-Parent Choice,,
-2021-04-14,100,Carter County,Elizabethton,37643,2020-08-04,Hybrid-Parent Choice,,
+2021-04-13,100,Carter County,Elizabethton,37643,2020-08-04,Hybrid-Parent Choice,,
+2021-04-20,100,Carter County,Elizabethton,37643,2020-08-04,Hybrid-Parent Choice,,
 2020-09-12,110,Cheatham County,Ashland City,37015,2020-08-13,Hybrid-Parent Choice,0.0,1.0
 2020-09-19,110,Cheatham County,Ashland City,37015,2020-08-13,Hybrid-Parent Choice,1.0,0.0
 2020-10-29,110,Cheatham County,Ashland City,37015,2020-08-13,Hybrid-Parent Choice,0.0,0.0
@@ -249,8 +249,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,110,Cheatham County,Ashland City,37015,2020-08-13,Remote Only,22.0,5.0
 2021-03-17,110,Cheatham County,Ashland City,37015,2020-08-13,Remote Only,22.0,5.0
 2021-03-24,110,Cheatham County,Ashland City,37015,2020-08-13,Remote Only,12.0,2.0
-2021-04-07,110,Cheatham County,Ashland City,37015,2020-08-13,Remote Only,14.0,0.0
-2021-04-14,110,Cheatham County,Ashland City,37015,2020-08-13,Remote Only,14.0,0.0
+2021-04-13,110,Cheatham County,Ashland City,37015,2020-08-13,Remote Only,14.0,0.0
+2021-04-20,110,Cheatham County,Ashland City,37015,2020-08-13,Remote Only,9.0,2.0
 2020-09-12,120,Chester County,Henderson,38340,2020-08-03,Hybrid-Parent Choice,,
 2020-09-19,120,Chester County,Henderson,38340,2020-08-03,Hybrid-Parent Choice,0.0,0.0
 2020-10-29,120,Chester County,Henderson,38340,2020-08-03,In Person-Parent Choice,0.0,0.0
@@ -261,8 +261,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,120,Chester County,Henderson,38340,2020-08-03,In Person-Parent Choice,0.0,0.0
 2021-03-17,120,Chester County,Henderson,38340,2020-08-03,In Person-Parent Choice,0.0,0.0
 2021-03-24,120,Chester County,Henderson,38340,2020-08-03,In Person-Parent Choice,0.0,0.0
-2021-04-07,120,Chester County,Henderson,38340,2020-08-03,In Person-Parent Choice,0.0,0.0
-2021-04-14,120,Chester County,Henderson,38340,2020-08-03,In Person-Parent Choice,0.0,0.0
+2021-04-13,120,Chester County,Henderson,38340,2020-08-03,In Person-Parent Choice,0.0,0.0
+2021-04-20,120,Chester County,Henderson,38340,2020-08-03,In Person-Parent Choice,,
 2020-09-12,130,Claiborne County,Tazewell,37879,2020-08-10,Hybrid-Parent Choice,2.0,0.0
 2020-09-19,130,Claiborne County,Tazewell,37879,2020-08-10,Hybrid-Parent Choice,3.0,0.0
 2020-10-29,130,Claiborne County,Tazewell,37879,2020-08-10,Hybrid-Parent Choice,2.0,0.0
@@ -273,8 +273,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,130,Claiborne County,Tazewell,37879,2020-08-10,Hybrid-Parent Choice,1.0,0.0
 2021-03-17,130,Claiborne County,Tazewell,37879,2020-08-10,Hybrid-Parent Choice,1.0,0.0
 2021-03-24,130,Claiborne County,Tazewell,37879,2020-08-10,Hybrid-Parent Choice,2.0,0.0
-2021-04-07,130,Claiborne County,Tazewell,37879,2020-08-10,Hybrid-Parent Choice,0.0,0.0
-2021-04-14,130,Claiborne County,Tazewell,37879,2020-08-10,Hybrid-Parent Choice,1.0,2.0
+2021-04-13,130,Claiborne County,Tazewell,37879,2020-08-10,Hybrid-Parent Choice,1.0,2.0
+2021-04-20,130,Claiborne County,Tazewell,37879,2020-08-10,Hybrid-Parent Choice,9.0,1.0
 2020-09-12,140,Clay County,Celina,38551,2020-07-31,Hybrid-Parent Choice,,
 2020-09-19,140,Clay County,Celina,38551,2020-07-31,Hybrid-Parent Choice,0.0,0.0
 2020-10-29,140,Clay County,Celina,38551,2020-07-31,Hybrid-Parent Choice,0.0,0.0
@@ -285,8 +285,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,140,Clay County,Celina,38551,2020-07-31,Hybrid-Parent Choice,0.0,0.0
 2021-03-17,140,Clay County,Celina,38551,2020-07-31,Hybrid-Parent Choice,0.0,0.0
 2021-03-24,140,Clay County,Celina,38551,2020-07-31,Hybrid-Parent Choice,1.0,0.0
-2021-04-07,140,Clay County,Celina,38551,2020-07-31,Hybrid-Parent Choice,0.0,0.0
-2021-04-14,140,Clay County,Celina,38551,2020-07-31,Hybrid-Parent Choice,0.0,0.0
+2021-04-13,140,Clay County,Celina,38551,2020-07-31,Hybrid-Parent Choice,0.0,0.0
+2021-04-20,140,Clay County,Celina,38551,2020-07-31,Hybrid-Parent Choice,0.0,0.0
 2020-09-12,61,Cleveland,Cleveland,37312,2020-08-03,Hybrid-Parent Choice,1.0,1.0
 2020-09-19,61,Cleveland,Cleveland,37312,2020-08-03,Hybrid-Parent Choice,,
 2020-10-29,61,Cleveland,Cleveland,37312,2020-08-03,Hybrid-Parent Choice,12.0,3.0
@@ -297,8 +297,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,61,Cleveland,Cleveland,37312,2020-08-03,Hybrid-Parent Choice,,
 2021-03-17,61,Cleveland,Cleveland,37312,2020-08-03,Hybrid-Parent Choice,,
 2021-03-24,61,Cleveland,Cleveland,37312,2020-08-03,Hybrid-Parent Choice,5.0,4.0
-2021-04-07,61,Cleveland,Cleveland,37312,2020-08-03,Hybrid-Parent Choice,13.0,3.0
-2021-04-14,61,Cleveland,Cleveland,37312,2020-08-03,Hybrid-Parent Choice,13.0,0.0
+2021-04-13,61,Cleveland,Cleveland,37312,2020-08-03,Hybrid-Parent Choice,13.0,0.0
+2021-04-20,61,Cleveland,Cleveland,37312,2020-08-03,Hybrid-Parent Choice,13.0,1.0
 2020-09-12,11,Clinton,Clinton,37716,2020-08-07,Hybrid-Parent Choice,0.0,0.0
 2020-09-19,11,Clinton,Clinton,37716,2020-08-07,Hybrid-Parent Choice,,
 2020-10-29,11,Clinton,Clinton,37716,2020-08-07,Hybrid-Parent Choice,0.0,0.0
@@ -309,8 +309,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,11,Clinton,Clinton,37716,2020-08-07,Hybrid-Parent Choice,0.0,0.0
 2021-03-17,11,Clinton,Clinton,37716,2020-08-07,Hybrid-Parent Choice,0.0,0.0
 2021-03-24,11,Clinton,Clinton,37716,2020-08-07,Hybrid-Parent Choice,,
-2021-04-07,11,Clinton,Clinton,37716,2020-08-07,Hybrid-Parent Choice,0.0,0.0
-2021-04-14,11,Clinton,Clinton,37716,2020-08-07,Hybrid-Parent Choice,0.0,0.0
+2021-04-13,11,Clinton,Clinton,37716,2020-08-07,Hybrid-Parent Choice,0.0,0.0
+2021-04-20,11,Clinton,Clinton,37716,2020-08-07,Hybrid-Parent Choice,0.0,0.0
 2020-09-12,150,Cocke County,Newport,37821,2020-08-19,Hybrid-Parent Choice,0.0,0.0
 2020-09-19,150,Cocke County,Newport,37821,2020-08-19,Hybrid-Parent Choice,,
 2020-10-29,150,Cocke County,Newport,37821,2020-08-19,Hybrid-Parent Choice,0.0,0.0
@@ -321,8 +321,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,150,Cocke County,Newport,37821,2020-08-19,Hybrid-Parent Choice,0.0,0.0
 2021-03-17,150,Cocke County,Newport,37821,2020-08-19,Remote Only,0.0,0.0
 2021-03-24,150,Cocke County,Newport,37821,2020-08-19,Remote Only,0.0,0.0
-2021-04-07,150,Cocke County,Newport,37821,2020-08-19,Hybrid-Parent Choice,,
-2021-04-14,150,Cocke County,Newport,37821,2020-08-19,Hybrid-Parent Choice,,
+2021-04-13,150,Cocke County,Newport,37821,2020-08-19,Hybrid-Parent Choice,,
+2021-04-20,150,Cocke County,Newport,37821,2020-08-19,Hybrid-Parent Choice,0.0,0.0
 2020-09-12,160,Coffee County,Manchester,37355,2020-08-03,Hybrid-Parent Choice,2.0,0.0
 2020-09-19,160,Coffee County,Manchester,37355,2020-08-03,Hybrid-Parent Choice,3.0,1.0
 2020-10-29,160,Coffee County,Manchester,37355,2020-08-03,Hybrid-Parent Choice,3.0,4.0
@@ -333,8 +333,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,160,Coffee County,Manchester,37355,2020-08-03,Hybrid-Parent Choice,7.0,1.0
 2021-03-17,160,Coffee County,Manchester,37355,2020-08-03,Hybrid-Parent Choice,7.0,1.0
 2021-03-24,160,Coffee County,Manchester,37355,2020-08-03,Hybrid-Parent Choice,4.0,1.0
-2021-04-07,160,Coffee County,Manchester,37355,2020-08-03,Hybrid-Parent Choice,4.0,1.0
-2021-04-14,160,Coffee County,Manchester,37355,2020-08-03,Hybrid-Parent Choice,6.0,0.0
+2021-04-13,160,Coffee County,Manchester,37355,2020-08-03,Hybrid-Parent Choice,6.0,0.0
+2021-04-20,160,Coffee County,Manchester,37355,2020-08-03,Hybrid-Parent Choice,1.0,0.0
 2020-09-12,795,Collierville,Collierville,38017,2020-08-10,Hybrid-Parent Choice,26.0,6.0
 2020-09-19,795,Collierville,Collierville,38017,2020-08-10,Hybrid-Parent Choice,1.0,1.0
 2020-10-29,795,Collierville,Collierville,38017,2020-08-10,Hybrid-Parent Choice,10.0,0.0
@@ -345,8 +345,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,795,Collierville,Collierville,38017,2020-08-10,Hybrid-Parent Choice,11.0,0.0
 2021-03-17,795,Collierville,Collierville,38017,2020-08-10,Hybrid-Parent Choice,11.0,0.0
 2021-03-24,795,Collierville,Collierville,38017,2020-08-10,Hybrid-Parent Choice,1.0,1.0
-2021-04-07,795,Collierville,Collierville,38017,2020-08-10,In Person-Parent Choice,,
-2021-04-14,795,Collierville,Collierville,38017,2020-08-10,In Person-Parent Choice,6.0,0.0
+2021-04-13,795,Collierville,Collierville,38017,2020-08-10,In Person-Parent Choice,6.0,0.0
+2021-04-20,795,Collierville,Collierville,38017,2020-08-10,In Person-Parent Choice,5.0,1.0
 2020-09-12,170,Crockett County,Alamo,38001,2020-08-03,Hybrid-Parent Choice,3.0,1.0
 2020-09-19,170,Crockett County,Alamo,38001,2020-08-03,Hybrid-Parent Choice,,
 2020-10-29,170,Crockett County,Alamo,38001,2020-08-03,Hybrid-Parent Choice,14.0,2.0
@@ -357,8 +357,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,170,Crockett County,Alamo,38001,2020-08-03,Hybrid-Parent Choice,,
 2021-03-17,170,Crockett County,Alamo,38001,2020-08-03,Hybrid-Parent Choice,,
 2021-03-24,170,Crockett County,Alamo,38001,2020-08-03,Hybrid-Parent Choice,0.0,0.0
-2021-04-07,170,Crockett County,Alamo,38001,2020-08-03,Hybrid-Parent Choice,,
-2021-04-14,170,Crockett County,Alamo,38001,2020-08-03,Hybrid-Parent Choice,,
+2021-04-13,170,Crockett County,Alamo,38001,2020-08-03,Hybrid-Parent Choice,,
+2021-04-20,170,Crockett County,Alamo,38001,2020-08-03,Hybrid-Parent Choice,,
 2020-09-12,180,Cumberland County,Crossville,38555,2020-08-05,Hybrid-Parent Choice,12.0,3.0
 2020-09-19,180,Cumberland County,Crossville,38555,2020-08-05,Hybrid-Parent Choice,,
 2020-10-29,180,Cumberland County,Crossville,38555,2020-08-05,Hybrid-Parent Choice,0.0,0.0
@@ -369,8 +369,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,180,Cumberland County,Crossville,38555,2020-08-05,In Person,0.0,0.0
 2021-03-17,180,Cumberland County,Crossville,38555,2020-08-05,In Person,0.0,0.0
 2021-03-24,180,Cumberland County,Crossville,38555,2020-08-05,In Person,0.0,0.0
-2021-04-07,180,Cumberland County,Crossville,38555,2020-08-05,In Person,0.0,0.0
-2021-04-14,180,Cumberland County,Crossville,38555,2020-08-05,In Person,0.0,0.0
+2021-04-13,180,Cumberland County,Crossville,38555,2020-08-05,In Person,0.0,0.0
+2021-04-20,180,Cumberland County,Crossville,38555,2020-08-05,In Person,0.0,0.0
 2020-09-12,190,Davidson County,Nashville,37204,2020-08-04,Remote Only,,
 2020-09-19,190,Davidson County,Nashville,37204,2020-08-04,Remote Only,,
 2020-10-29,190,Davidson County,Nashville,37204,2020-08-04,Remote Only,18.0,27.0
@@ -381,8 +381,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,190,Davidson County,Nashville,37204,2020-08-04,Hybrid-Parent Choice,34.0,19.0
 2021-03-17,190,Davidson County,Nashville,37204,2020-08-04,Hybrid-Parent Choice,34.0,19.0
 2021-03-24,190,Davidson County,Nashville,37204,2020-08-04,Hybrid-Parent Choice,5.0,5.0
-2021-04-07,190,Davidson County,Nashville,37204,2020-08-04,Hybrid-Parent Choice,56.0,7.0
-2021-04-14,190,Davidson County,Nashville,37204,2020-08-04,Hybrid-Parent Choice,44.0,14.0
+2021-04-13,190,Davidson County,Nashville,37204,2020-08-04,Hybrid-Parent Choice,44.0,14.0
+2021-04-20,190,Davidson County,Nashville,37204,2020-08-04,Hybrid-Parent Choice,41.0,6.0
 2020-09-12,721,Dayton,Dayton,37321,2020-08-05,Hybrid-Parent Choice,0.0,0.0
 2020-09-19,721,Dayton,Dayton,37321,2020-08-05,Hybrid-Parent Choice,2.0,0.0
 2020-10-29,721,Dayton,Dayton,37321,2020-08-05,Hybrid-Parent Choice,1.0,0.0
@@ -393,8 +393,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,721,Dayton,Dayton,37321,2020-08-05,Hybrid-Parent Choice,1.0,1.0
 2021-03-17,721,Dayton,Dayton,37321,2020-08-05,Hybrid-Parent Choice,1.0,1.0
 2021-03-24,721,Dayton,Dayton,37321,2020-08-05,Hybrid-Parent Choice,1.0,1.0
-2021-04-07,721,Dayton,Dayton,37321,2020-08-05,Hybrid-Parent Choice,,
-2021-04-14,721,Dayton,Dayton,37321,2020-08-05,Hybrid-Parent Choice,0.0,0.0
+2021-04-13,721,Dayton,Dayton,37321,2020-08-05,Hybrid-Parent Choice,0.0,0.0
+2021-04-20,721,Dayton,Dayton,37321,2020-08-05,Hybrid-Parent Choice,0.0,0.0
 2020-09-12,210,DeKalb County,Smithville,37166,2020-08-20,Hybrid-Parent Choice,,
 2020-09-19,210,DeKalb County,Smithville,37166,2020-08-20,Hybrid-Parent Choice,0.0,1.0
 2020-10-29,210,DeKalb County,Smithville,37166,2020-08-20,Hybrid-Parent Choice,0.0,0.0
@@ -405,8 +405,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,210,DeKalb County,Smithville,37166,2020-08-20,Hybrid-Parent Choice,0.0,0.0
 2021-03-17,210,DeKalb County,Smithville,37166,2020-08-20,Hybrid-Parent Choice,0.0,0.0
 2021-03-24,210,DeKalb County,Smithville,37166,2020-08-20,Hybrid-Parent Choice,0.0,0.0
-2021-04-07,210,DeKalb County,Smithville,37166,2020-08-20,Hybrid-Parent Choice,0.0,0.0
-2021-04-14,210,DeKalb County,Smithville,37166,2020-08-20,Hybrid-Parent Choice,2.0,0.0
+2021-04-13,210,DeKalb County,Smithville,37166,2020-08-20,Hybrid-Parent Choice,2.0,0.0
+2021-04-20,210,DeKalb County,Smithville,37166,2020-08-20,Hybrid-Parent Choice,3.0,0.0
 2020-09-12,200,Decatur County,Decaturville,38329,2020-08-04,Hybrid-Parent Choice,5.0,2.0
 2020-09-19,200,Decatur County,Decaturville,38329,2020-08-04,Hybrid-Parent Choice,,
 2020-10-29,200,Decatur County,Decaturville,38329,2020-08-04,Hybrid-Parent Choice,6.0,2.0
@@ -417,8 +417,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,200,Decatur County,Decaturville,38329,2020-08-04,In Person-Parent Choice,,
 2021-03-17,200,Decatur County,Decaturville,38329,2020-08-04,In Person-Parent Choice,,
 2021-03-24,200,Decatur County,Decaturville,38329,2020-08-04,In Person-Parent Choice,1.0,0.0
-2021-04-07,200,Decatur County,Decaturville,38329,2020-08-04,In Person-Parent Choice,0.0,0.0
-2021-04-14,200,Decatur County,Decaturville,38329,2020-08-04,In Person-Parent Choice,0.0,0.0
+2021-04-13,200,Decatur County,Decaturville,38329,2020-08-04,In Person-Parent Choice,0.0,0.0
+2021-04-20,200,Decatur County,Decaturville,38329,2020-08-04,In Person-Parent Choice,0.0,0.0
 2020-09-12,220,Dickson County,Dickson,37055,2020-08-03,In Person,19.0,1.0
 2020-09-19,220,Dickson County,Dickson,37055,2020-08-03,In Person,10.0,2.0
 2020-10-29,220,Dickson County,Dickson,37055,2020-08-03,In Person,3.0,5.0
@@ -429,8 +429,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,220,Dickson County,Dickson,37055,2020-08-03,In Person,4.0,5.0
 2021-03-17,220,Dickson County,Dickson,37055,2020-08-03,In Person,4.0,5.0
 2021-03-24,220,Dickson County,Dickson,37055,2020-08-03,In Person,0.0,0.0
-2021-04-07,220,Dickson County,Dickson,37055,2020-08-03,In Person,4.0,0.0
-2021-04-14,220,Dickson County,Dickson,37055,2020-08-03,In Person,4.0,3.0
+2021-04-13,220,Dickson County,Dickson,37055,2020-08-03,In Person,4.0,3.0
+2021-04-20,220,Dickson County,Dickson,37055,2020-08-03,In Person,8.0,0.0
 2020-09-12,230,Dyer County,Dyersburg,38024,2020-08-03,Hybrid-Parent Choice,12.0,3.0
 2020-09-19,230,Dyer County,Dyersburg,38024,2020-08-03,Hybrid-Parent Choice,8.0,7.0
 2020-10-29,230,Dyer County,Dyersburg,38024,2020-08-03,Hybrid-Parent Choice,,
@@ -441,8 +441,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,230,Dyer County,Dyersburg,38024,2020-08-03,Hybrid-Parent Choice,1.0,0.0
 2021-03-17,230,Dyer County,Dyersburg,38024,2020-08-03,Hybrid-Parent Choice,1.0,0.0
 2021-03-24,230,Dyer County,Dyersburg,38024,2020-08-03,Hybrid-Parent Choice,0.0,0.0
-2021-04-07,230,Dyer County,Dyersburg,38024,2020-08-03,Hybrid-Parent Choice,1.0,0.0
-2021-04-14,230,Dyer County,Dyersburg,38024,2020-08-03,Hybrid-Parent Choice,0.0,1.0
+2021-04-13,230,Dyer County,Dyersburg,38024,2020-08-03,Hybrid-Parent Choice,0.0,1.0
+2021-04-20,230,Dyer County,Dyersburg,38024,2020-08-03,Hybrid-Parent Choice,0.0,0.0
 2020-09-12,231,Dyersburg,Dyersburg,38024,2020-08-03,Hybrid-Parent Choice,2.0,1.0
 2020-09-19,231,Dyersburg,Dyersburg,38024,2020-08-03,Hybrid-Parent Choice,,
 2020-10-29,231,Dyersburg,Dyersburg,38024,2020-08-03,Hybrid-Parent Choice,0.0,0.0
@@ -453,8 +453,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,231,Dyersburg,Dyersburg,38024,2020-08-03,Hybrid-Parent Choice,0.0,0.0
 2021-03-17,231,Dyersburg,Dyersburg,38024,2020-08-03,Hybrid-Parent Choice,0.0,0.0
 2021-03-24,231,Dyersburg,Dyersburg,38024,2020-08-03,Hybrid-Parent Choice,0.0,0.0
-2021-04-07,231,Dyersburg,Dyersburg,38024,2020-08-03,Hybrid-Parent Choice,0.0,0.0
-2021-04-14,231,Dyersburg,Dyersburg,38024,2020-08-03,Hybrid-Parent Choice,0.0,0.0
+2021-04-13,231,Dyersburg,Dyersburg,38024,2020-08-03,Hybrid-Parent Choice,0.0,0.0
+2021-04-20,231,Dyersburg,Dyersburg,38024,2020-08-03,Hybrid-Parent Choice,0.0,0.0
 2020-09-12,101,Elizabethton,Elizabethton,37643,2020-08-05,Hybrid-Parent Choice,3.0,2.0
 2020-09-19,101,Elizabethton,Elizabethton,37643,2020-08-05,Hybrid-Parent Choice,1.0,1.0
 2020-10-29,101,Elizabethton,Elizabethton,37643,2020-08-05,Hybrid-Parent Choice,9.0,5.0
@@ -465,8 +465,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,101,Elizabethton,Elizabethton,37643,2020-08-05,Hybrid-Parent Choice,4.0,1.0
 2021-03-17,101,Elizabethton,Elizabethton,37643,2020-08-05,Hybrid-Parent Choice,4.0,1.0
 2021-03-24,101,Elizabethton,Elizabethton,37643,2020-08-05,Hybrid-Parent Choice,,
-2021-04-07,101,Elizabethton,Elizabethton,37643,2020-08-05,Hybrid-Parent Choice,2.0,0.0
-2021-04-14,101,Elizabethton,Elizabethton,37643,2020-08-05,Hybrid-Parent Choice,2.0,1.0
+2021-04-13,101,Elizabethton,Elizabethton,37643,2020-08-05,Hybrid-Parent Choice,2.0,1.0
+2021-04-20,101,Elizabethton,Elizabethton,37643,2020-08-05,Hybrid-Parent Choice,9.0,1.0
 2020-09-12,542,Etowah,Etowah,37331,2020-08-10,Hybrid-Parent Choice,0.0,0.0
 2020-09-19,542,Etowah,Etowah,37331,2020-08-10,Hybrid-Parent Choice,,
 2020-10-29,542,Etowah,Etowah,37331,2020-08-10,Hybrid-Parent Choice,0.0,1.0
@@ -477,8 +477,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,542,Etowah,Etowah,37331,2020-08-10,Hybrid-Parent Choice,,
 2021-03-17,542,Etowah,Etowah,37331,2020-08-10,Hybrid-Parent Choice,,
 2021-03-24,542,Etowah,Etowah,37331,2020-08-10,Hybrid-Parent Choice,,
-2021-04-07,542,Etowah,Etowah,37331,2020-08-10,Hybrid-Parent Choice,,
-2021-04-14,542,Etowah,Etowah,37331,2020-08-10,Hybrid-Parent Choice,,
+2021-04-13,542,Etowah,Etowah,37331,2020-08-10,Hybrid-Parent Choice,,
+2021-04-20,542,Etowah,Etowah,37331,2020-08-10,Hybrid-Parent Choice,,
 2020-09-12,240,Fayette County Public Schools,Somerville,38068,2020-08-10,Remote Only,,
 2020-09-19,240,Fayette County Public Schools,Somerville,38068,2020-08-10,Remote Only,0.0,0.0
 2020-10-29,240,Fayette County Public Schools,Somerville,38068,2020-08-10,Remote Only,13.0,1.0
@@ -489,8 +489,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,240,Fayette County Public Schools,Somerville,38068,2020-08-10,Hybrid-Alt Schedules,,
 2021-03-17,240,Fayette County Public Schools,Somerville,38068,2020-08-10,Hybrid-Alt Schedules,,
 2021-03-24,240,Fayette County Public Schools,Somerville,38068,2020-08-10,Hybrid-Alt Schedules,,
-2021-04-07,240,Fayette County Public Schools,Somerville,38068,2020-08-10,Hybrid-Alt Schedules,,
-2021-04-14,240,Fayette County Public Schools,Somerville,38068,2020-08-10,Hybrid-Alt Schedules,5.0,1.0
+2021-04-13,240,Fayette County Public Schools,Somerville,38068,2020-08-10,Hybrid-Alt Schedules,5.0,1.0
+2021-04-20,240,Fayette County Public Schools,Somerville,38068,2020-08-10,Hybrid-Alt Schedules,,
 2020-09-12,521,Fayetteville,Fayetteville,37334,2020-08-03,Hybrid-Parent Choice,0.0,0.0
 2020-09-19,521,Fayetteville,Fayetteville,37334,2020-08-03,Hybrid-Parent Choice,1.0,0.0
 2020-10-29,521,Fayetteville,Fayetteville,37334,2020-08-03,Hybrid-Parent Choice,1.0,2.0
@@ -501,8 +501,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,521,Fayetteville,Fayetteville,37334,2020-08-03,Hybrid-Parent Choice,1.0,0.0
 2021-03-17,521,Fayetteville,Fayetteville,37334,2020-08-03,Hybrid-Parent Choice,1.0,0.0
 2021-03-24,521,Fayetteville,Fayetteville,37334,2020-08-03,Hybrid-Parent Choice,,
-2021-04-07,521,Fayetteville,Fayetteville,37334,2020-08-03,Hybrid-Parent Choice,,
-2021-04-14,521,Fayetteville,Fayetteville,37334,2020-08-03,Hybrid-Parent Choice,,
+2021-04-13,521,Fayetteville,Fayetteville,37334,2020-08-03,Hybrid-Parent Choice,,
+2021-04-20,521,Fayetteville,Fayetteville,37334,2020-08-03,Hybrid-Parent Choice,1.0,0.0
 2020-09-12,250,Fentress County,Jamestown,38556,2020-08-03,Hybrid-Parent Choice,0.0,0.0
 2020-09-19,250,Fentress County,Jamestown,38556,2020-08-03,Hybrid-Parent Choice,0.0,0.0
 2020-10-29,250,Fentress County,Jamestown,38556,2020-08-03,Hybrid-Parent Choice,0.0,0.0
@@ -513,8 +513,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,250,Fentress County,Jamestown,38556,2020-08-03,Hybrid-Parent Choice,0.0,0.0
 2021-03-17,250,Fentress County,Jamestown,38556,2020-08-03,Hybrid-Parent Choice,0.0,0.0
 2021-03-24,250,Fentress County,Jamestown,38556,2020-08-03,Hybrid-Parent Choice,,
-2021-04-07,250,Fentress County,Jamestown,38556,2020-08-03,Hybrid-Parent Choice,0.0,0.0
-2021-04-14,250,Fentress County,Jamestown,38556,2020-08-03,Hybrid-Parent Choice,0.0,0.0
+2021-04-13,250,Fentress County,Jamestown,38556,2020-08-03,Hybrid-Parent Choice,0.0,0.0
+2021-04-20,250,Fentress County,Jamestown,38556,2020-08-03,Hybrid-Parent Choice,0.0,0.0
 2020-09-12,260,Franklin County,Winchester,37398,2020-08-05,Hybrid-Parent Choice,8.0,2.0
 2020-09-19,260,Franklin County,Winchester,37398,2020-08-05,Hybrid-Parent Choice,3.0,4.0
 2020-10-29,260,Franklin County,Winchester,37398,2020-08-05,Hybrid-Parent Choice,0.0,5.0
@@ -525,8 +525,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,260,Franklin County,Winchester,37398,2020-08-05,In Person-Parent Choice,2.0,2.0
 2021-03-17,260,Franklin County,Winchester,37398,2020-08-05,In Person-Parent Choice,2.0,2.0
 2021-03-24,260,Franklin County,Winchester,37398,2020-08-05,In Person-Parent Choice,3.0,4.0
-2021-04-07,260,Franklin County,Winchester,37398,2020-08-05,In Person-Parent Choice,4.0,3.0
-2021-04-14,260,Franklin County,Winchester,37398,2020-08-05,In Person-Parent Choice,2.0,0.0
+2021-04-13,260,Franklin County,Winchester,37398,2020-08-05,In Person-Parent Choice,2.0,0.0
+2021-04-20,260,Franklin County,Winchester,37398,2020-08-05,In Person-Parent Choice,2.0,1.0
 2020-09-12,941,Franklin SSD,Franklin,37064,2020-08-24,Hybrid-Parent Choice,,
 2020-09-19,941,Franklin SSD,Franklin,37064,2020-08-24,Hybrid-Parent Choice,0.0,0.0
 2020-10-29,941,Franklin SSD,Franklin,37064,2020-08-24,Hybrid-Parent Choice,4.0,1.0
@@ -537,8 +537,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,941,Franklin SSD,Franklin,37064,2020-08-24,Hybrid-Parent Choice,,
 2021-03-17,941,Franklin SSD,Franklin,37064,2020-08-24,Hybrid-Parent Choice,,
 2021-03-24,941,Franklin SSD,Franklin,37064,2020-08-24,Hybrid-Parent Choice,0.0,0.0
-2021-04-07,941,Franklin SSD,Franklin,37064,2020-08-24,Hybrid-Parent Choice,0.0,0.0
-2021-04-14,941,Franklin SSD,Franklin,37064,2020-08-24,Hybrid-Parent Choice,3.0,2.0
+2021-04-13,941,Franklin SSD,Franklin,37064,2020-08-24,Hybrid-Parent Choice,3.0,2.0
+2021-04-20,941,Franklin SSD,Franklin,37064,2020-08-24,Hybrid-Parent Choice,4.0,1.0
 2020-09-12,796,Germantown,Germantown,38138,2020-08-17,Hybrid-Parent Choice,2.0,0.0
 2020-09-19,796,Germantown,Germantown,38138,2020-08-17,Hybrid-Parent Choice,5.0,1.0
 2020-10-29,796,Germantown,Germantown,38138,2020-08-17,Hybrid-Parent Choice,0.0,0.0
@@ -549,8 +549,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,796,Germantown,Germantown,38138,2020-08-17,Hybrid-Parent Choice,,
 2021-03-17,796,Germantown,Germantown,38138,2020-08-17,Hybrid-Parent Choice,,
 2021-03-24,796,Germantown,Germantown,38138,2020-08-17,Hybrid-Parent Choice,,
-2021-04-07,796,Germantown,Germantown,38138,2020-08-17,Hybrid-Parent Choice,,
-2021-04-14,796,Germantown,Germantown,38138,2020-08-17,Hybrid-Parent Choice,,
+2021-04-13,796,Germantown,Germantown,38138,2020-08-17,Hybrid-Parent Choice,,
+2021-04-20,796,Germantown,Germantown,38138,2020-08-17,Hybrid-Parent Choice,,
 2020-09-12,275,Gibson Co Sp Dist,Dyer,38330,2020-08-03,Hybrid-Parent Choice,7.0,0.0
 2020-09-19,275,Gibson Co Sp Dist,Dyer,38330,2020-08-03,Hybrid-Parent Choice,,
 2020-10-29,275,Gibson Co Sp Dist,Dyer,38330,2020-08-03,Hybrid-Parent Choice,0.0,0.0
@@ -561,8 +561,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,275,Gibson Co Sp Dist,Dyer,38330,2020-08-03,Hybrid-Parent Choice,0.0,0.0
 2021-03-17,275,Gibson Co Sp Dist,Dyer,38330,2020-08-03,Hybrid-Parent Choice,0.0,0.0
 2021-03-24,275,Gibson Co Sp Dist,Dyer,38330,2020-08-03,Hybrid-Parent Choice,0.0,0.0
-2021-04-07,275,Gibson Co Sp Dist,Dyer,38330,2020-08-03,Hybrid-Parent Choice,,
-2021-04-14,275,Gibson Co Sp Dist,Dyer,38330,2020-08-03,Hybrid-Parent Choice,,
+2021-04-13,275,Gibson Co Sp Dist,Dyer,38330,2020-08-03,Hybrid-Parent Choice,,
+2021-04-20,275,Gibson Co Sp Dist,Dyer,38330,2020-08-03,Hybrid-Parent Choice,,
 2020-09-12,280,Giles County,Pulaski,38478,2020-08-03,Hybrid-Parent Choice,3.0,2.0
 2020-09-19,280,Giles County,Pulaski,38478,2020-08-03,Hybrid-Parent Choice,5.0,2.0
 2020-10-29,280,Giles County,Pulaski,38478,2020-08-03,Hybrid-Parent Choice,12.0,3.0
@@ -573,8 +573,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,280,Giles County,Pulaski,38478,2020-08-03,Hybrid-Parent Choice,4.0,3.0
 2021-03-17,280,Giles County,Pulaski,38478,2020-08-03,Hybrid-Parent Choice,4.0,3.0
 2021-03-24,280,Giles County,Pulaski,38478,2020-08-03,Hybrid-Parent Choice,4.0,3.0
-2021-04-07,280,Giles County,Pulaski,38478,2020-08-03,Hybrid-Parent Choice,0.0,2.0
-2021-04-14,280,Giles County,Pulaski,38478,2020-08-03,Hybrid-Parent Choice,1.0,2.0
+2021-04-13,280,Giles County,Pulaski,38478,2020-08-03,Hybrid-Parent Choice,1.0,2.0
+2021-04-20,280,Giles County,Pulaski,38478,2020-08-03,Hybrid-Parent Choice,2.0,0.0
 2020-09-12,290,Grainger County,Rutledge,37861,2020-08-17,Hybrid-Parent Choice,,
 2020-09-19,290,Grainger County,Rutledge,37861,2020-08-17,Hybrid-Parent Choice,4.0,1.0
 2020-10-29,290,Grainger County,Rutledge,37861,2020-08-17,Hybrid-Parent Choice,9.0,1.0
@@ -585,8 +585,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,290,Grainger County,Rutledge,37861,2020-08-17,Hybrid-Parent Choice,,
 2021-03-17,290,Grainger County,Rutledge,37861,2020-08-17,Hybrid-Parent Choice,,
 2021-03-24,290,Grainger County,Rutledge,37861,2020-08-17,Hybrid-Parent Choice,,
-2021-04-07,290,Grainger County,Rutledge,37861,2020-08-17,Hybrid-Parent Choice,,
-2021-04-14,290,Grainger County,Rutledge,37861,2020-08-17,Hybrid-Parent Choice,,
+2021-04-13,290,Grainger County,Rutledge,37861,2020-08-17,Hybrid-Parent Choice,,
+2021-04-20,290,Grainger County,Rutledge,37861,2020-08-17,Hybrid-Parent Choice,,
 2020-09-12,300,Greene County,Greeneville,37743,2020-08-05,Hybrid-Parent Choice,,
 2020-09-19,300,Greene County,Greeneville,37743,2020-08-05,Hybrid-Parent Choice,,
 2020-10-29,300,Greene County,Greeneville,37743,2020-08-05,Hybrid-Parent Choice,0.0,0.0
@@ -597,8 +597,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,300,Greene County,Greeneville,37743,2020-08-05,Hybrid-Parent Choice,0.0,0.0
 2021-03-17,300,Greene County,Greeneville,37743,2020-08-05,Hybrid-Parent Choice,0.0,0.0
 2021-03-24,300,Greene County,Greeneville,37743,2020-08-05,Hybrid-Parent Choice,,
-2021-04-07,300,Greene County,Greeneville,37743,2020-08-05,Hybrid-Parent Choice,0.0,0.0
-2021-04-14,300,Greene County,Greeneville,37743,2020-08-05,Hybrid-Parent Choice,0.0,0.0
+2021-04-13,300,Greene County,Greeneville,37743,2020-08-05,Hybrid-Parent Choice,0.0,0.0
+2021-04-20,300,Greene County,Greeneville,37743,2020-08-05,Hybrid-Parent Choice,0.0,0.0
 2020-09-12,301,Greeneville,Greeneville,37743,2020-08-24,Hybrid-Alt Schedules,,
 2020-09-19,301,Greeneville,Greeneville,37743,2020-08-24,Hybrid-Alt Schedules,2.0,0.0
 2020-10-29,301,Greeneville,Greeneville,37743,2020-08-24,Hybrid-Parent Choice,7.0,1.0
@@ -609,8 +609,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,301,Greeneville,Greeneville,37743,2020-08-24,In Person-Parent Choice,0.0,0.0
 2021-03-17,301,Greeneville,Greeneville,37743,2020-08-24,In Person-Parent Choice,0.0,0.0
 2021-03-24,301,Greeneville,Greeneville,37743,2020-08-24,In Person-Parent Choice,0.0,0.0
-2021-04-07,301,Greeneville,Greeneville,37743,2020-08-24,In Person-Parent Choice,4.0,2.0
-2021-04-14,301,Greeneville,Greeneville,37743,2020-08-24,In Person-Parent Choice,12.0,1.0
+2021-04-13,301,Greeneville,Greeneville,37743,2020-08-24,In Person-Parent Choice,12.0,1.0
+2021-04-20,301,Greeneville,Greeneville,37743,2020-08-24,In Person-Parent Choice,,
 2020-09-12,310,Grundy County,Altamont,37301,2020-08-07,Hybrid-Parent Choice,2.0,0.0
 2020-09-19,310,Grundy County,Altamont,37301,2020-08-07,Hybrid-Parent Choice,,
 2020-10-29,310,Grundy County,Altamont,37301,2020-08-07,Hybrid-Parent Choice,0.0,0.0
@@ -621,8 +621,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,310,Grundy County,Altamont,37301,2020-08-07,Hybrid-Parent Choice,0.0,0.0
 2021-03-17,310,Grundy County,Altamont,37301,2020-08-07,Hybrid-Parent Choice,0.0,0.0
 2021-03-24,310,Grundy County,Altamont,37301,2020-08-07,Hybrid-Parent Choice,,
-2021-04-07,310,Grundy County,Altamont,37301,2020-08-07,Hybrid-Parent Choice,2.0,0.0
-2021-04-14,310,Grundy County,Altamont,37301,2020-08-07,Hybrid-Parent Choice,0.0,0.0
+2021-04-13,310,Grundy County,Altamont,37301,2020-08-07,Hybrid-Parent Choice,0.0,0.0
+2021-04-20,310,Grundy County,Altamont,37301,2020-08-07,Hybrid-Parent Choice,,
 2020-09-12,320,Hamblen County,Morristown,37813,2020-09-08,Hybrid-Parent Choice,,
 2020-09-19,320,Hamblen County,Morristown,37813,2020-09-08,Hybrid-Parent Choice,,
 2020-10-29,320,Hamblen County,Morristown,37813,2020-09-08,Hybrid-Parent Choice,,
@@ -633,8 +633,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,320,Hamblen County,Morristown,37813,2020-09-08,Hybrid-Parent Choice,,
 2021-03-17,320,Hamblen County,Morristown,37813,2020-09-08,Hybrid-Parent Choice,,
 2021-03-24,320,Hamblen County,Morristown,37813,2020-09-08,Hybrid-Parent Choice,,
-2021-04-07,320,Hamblen County,Morristown,37813,2020-09-08,Hybrid-Parent Choice,,
-2021-04-14,320,Hamblen County,Morristown,37813,2020-09-08,Hybrid-Parent Choice,5.0,1.0
+2021-04-13,320,Hamblen County,Morristown,37813,2020-09-08,Hybrid-Parent Choice,5.0,1.0
+2021-04-20,320,Hamblen County,Morristown,37813,2020-09-08,Hybrid-Parent Choice,5.0,3.0
 2020-09-12,330,Hamilton County,Chattanooga,37421,2020-08-06,Hybrid-Parent Choice,,
 2020-09-19,330,Hamilton County,Chattanooga,37421,2020-08-06,Hybrid-Parent Choice,15.0,5.0
 2020-10-29,330,Hamilton County,Chattanooga,37421,2020-08-06,Hybrid-Parent Choice,30.0,17.0
@@ -645,8 +645,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,330,Hamilton County,Chattanooga,37421,2020-08-06,Hybrid-Parent Choice,,
 2021-03-17,330,Hamilton County,Chattanooga,37421,2020-08-06,Hybrid-Parent Choice,,
 2021-03-24,330,Hamilton County,Chattanooga,37421,2020-08-06,Hybrid-Parent Choice,,
-2021-04-07,330,Hamilton County,Chattanooga,37421,2020-08-06,Hybrid-Parent Choice,,
-2021-04-14,330,Hamilton County,Chattanooga,37421,2020-08-06,Hybrid-Parent Choice,,
+2021-04-13,330,Hamilton County,Chattanooga,37421,2020-08-06,Hybrid-Parent Choice,,
+2021-04-20,330,Hamilton County,Chattanooga,37421,2020-08-06,Hybrid-Parent Choice,,
 2020-09-12,340,Hancock County,Sneedville,37869,2020-08-03,Hybrid-Parent Choice,0.0,0.0
 2020-09-19,340,Hancock County,Sneedville,37869,2020-08-03,Hybrid-Parent Choice,,
 2020-10-29,340,Hancock County,Sneedville,37869,2020-08-03,Hybrid-Parent Choice,0.0,0.0
@@ -657,8 +657,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,340,Hancock County,Sneedville,37869,2020-08-03,Hybrid-Parent Choice,1.0,0.0
 2021-03-17,340,Hancock County,Sneedville,37869,2020-08-03,Hybrid-Parent Choice,1.0,0.0
 2021-03-24,340,Hancock County,Sneedville,37869,2020-08-03,Hybrid-Parent Choice,0.0,0.0
-2021-04-07,340,Hancock County,Sneedville,37869,2020-08-03,Hybrid-Parent Choice,,
-2021-04-14,340,Hancock County,Sneedville,37869,2020-08-03,Hybrid-Parent Choice,1.0,0.0
+2021-04-13,340,Hancock County,Sneedville,37869,2020-08-03,Hybrid-Parent Choice,1.0,0.0
+2021-04-20,340,Hancock County,Sneedville,37869,2020-08-03,Hybrid-Parent Choice,,
 2020-09-12,350,Hardeman County Schools,Bolivar,38008,2020-08-07,Hybrid-Parent Choice,,
 2020-09-19,350,Hardeman County Schools,Bolivar,38008,2020-08-07,Hybrid-Parent Choice,0.0,0.0
 2020-10-29,350,Hardeman County Schools,Bolivar,38008,2020-08-07,Hybrid-Parent Choice,0.0,0.0
@@ -669,8 +669,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,350,Hardeman County Schools,Bolivar,38008,2020-08-07,Hybrid-Parent Choice,,
 2021-03-17,350,Hardeman County Schools,Bolivar,38008,2020-08-07,Hybrid-Parent Choice,,
 2021-03-24,350,Hardeman County Schools,Bolivar,38008,2020-08-07,Hybrid-Parent Choice,,
-2021-04-07,350,Hardeman County Schools,Bolivar,38008,2020-08-07,Hybrid-Parent Choice,,
-2021-04-14,350,Hardeman County Schools,Bolivar,38008,2020-08-07,Hybrid-Parent Choice,0.0,0.0
+2021-04-13,350,Hardeman County Schools,Bolivar,38008,2020-08-07,Hybrid-Parent Choice,0.0,0.0
+2021-04-20,350,Hardeman County Schools,Bolivar,38008,2020-08-07,Hybrid-Parent Choice,0.0,0.0
 2020-09-12,360,Hardin County,Savannah,38372,2020-08-03,Hybrid-Alt Schedules,,
 2020-09-19,360,Hardin County,Savannah,38372,2020-08-03,Hybrid-Alt Schedules,6.0,0.0
 2020-10-29,360,Hardin County,Savannah,38372,2020-08-03,In Person,0.0,0.0
@@ -681,8 +681,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,360,Hardin County,Savannah,38372,2020-08-03,In Person,0.0,0.0
 2021-03-17,360,Hardin County,Savannah,38372,2020-08-03,In Person,0.0,0.0
 2021-03-24,360,Hardin County,Savannah,38372,2020-08-03,In Person,11.0,0.0
-2021-04-07,360,Hardin County,Savannah,38372,2020-08-03,In Person,0.0,0.0
-2021-04-14,360,Hardin County,Savannah,38372,2020-08-03,In Person,6.0,0.0
+2021-04-13,360,Hardin County,Savannah,38372,2020-08-03,In Person,6.0,0.0
+2021-04-20,360,Hardin County,Savannah,38372,2020-08-03,In Person,7.0,0.0
 2020-09-12,370,Hawkins County,Church Hill,37624,2020-08-04,Hybrid-Parent Choice,,
 2020-09-19,370,Hawkins County,Church Hill,37624,2020-08-04,Hybrid-Parent Choice,1.0,0.0
 2020-10-29,370,Hawkins County,Church Hill,37624,2020-08-04,Hybrid-Parent Choice,4.0,3.0
@@ -693,8 +693,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,370,Hawkins County,Church Hill,37624,2020-08-04,In Person-Parent Choice,10.0,3.0
 2021-03-17,370,Hawkins County,Church Hill,37624,2020-08-04,In Person-Parent Choice,10.0,3.0
 2021-03-24,370,Hawkins County,Church Hill,37624,2020-08-04,In Person-Parent Choice,12.0,5.0
-2021-04-07,370,Hawkins County,Church Hill,37624,2020-08-04,In Person-Parent Choice,8.0,5.0
-2021-04-14,370,Hawkins County,Church Hill,37624,2020-08-04,In Person-Parent Choice,12.0,3.0
+2021-04-13,370,Hawkins County,Church Hill,37624,2020-08-04,In Person-Parent Choice,12.0,3.0
+2021-04-20,370,Hawkins County,Church Hill,37624,2020-08-04,In Person-Parent Choice,18.0,2.0
 2020-09-12,380,Haywood County,Brownsville,38012,2020-08-17,Hybrid-Parent Choice,4.0,7.0
 2020-09-19,380,Haywood County,Brownsville,38012,2020-08-17,Hybrid-Parent Choice,0.0,4.0
 2020-10-29,380,Haywood County,Brownsville,38012,2020-08-17,Hybrid-Parent Choice,6.0,0.0
@@ -705,8 +705,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,380,Haywood County,Brownsville,38012,2020-08-17,Hybrid-Parent Choice,0.0,0.0
 2021-03-17,380,Haywood County,Brownsville,38012,2020-08-17,Hybrid-Parent Choice,0.0,0.0
 2021-03-24,380,Haywood County,Brownsville,38012,2020-08-17,Hybrid-Parent Choice,0.0,0.0
-2021-04-07,380,Haywood County,Brownsville,38012,2020-08-17,Hybrid-Parent Choice,0.0,0.0
-2021-04-14,380,Haywood County,Brownsville,38012,2020-08-17,Hybrid-Parent Choice,0.0,0.0
+2021-04-13,380,Haywood County,Brownsville,38012,2020-08-17,Hybrid-Parent Choice,0.0,0.0
+2021-04-20,380,Haywood County,Brownsville,38012,2020-08-17,Hybrid-Parent Choice,0.0,0.0
 2020-09-12,390,Henderson County,Lexington,38351,2020-08-03,Hybrid-Parent Choice,4.0,0.0
 2020-09-19,390,Henderson County,Lexington,38351,2020-08-03,Hybrid-Parent Choice,7.0,1.0
 2020-10-29,390,Henderson County,Lexington,38351,2020-08-03,Hybrid-Parent Choice,7.0,3.0
@@ -717,8 +717,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,390,Henderson County,Lexington,38351,2020-08-03,In Person-Parent Choice,2.0,0.0
 2021-03-17,390,Henderson County,Lexington,38351,2020-08-03,In Person-Parent Choice,2.0,0.0
 2021-03-24,390,Henderson County,Lexington,38351,2020-08-03,In Person-Parent Choice,,
-2021-04-07,390,Henderson County,Lexington,38351,2020-08-03,In Person-Parent Choice,2.0,0.0
-2021-04-14,390,Henderson County,Lexington,38351,2020-08-03,In Person-Parent Choice,15.0,0.0
+2021-04-13,390,Henderson County,Lexington,38351,2020-08-03,In Person-Parent Choice,15.0,0.0
+2021-04-20,390,Henderson County,Lexington,38351,2020-08-03,In Person-Parent Choice,10.0,0.0
 2020-09-12,400,Henry County,Paris,38242,2020-08-24,Hybrid-Parent Choice,0.0,1.0
 2020-09-19,400,Henry County,Paris,38242,2020-08-24,Hybrid-Parent Choice,1.0,1.0
 2020-10-29,400,Henry County,Paris,38242,2020-08-24,In Person-Parent Choice,,
@@ -729,8 +729,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,400,Henry County,Paris,38242,2020-08-24,Hybrid-Grade Bands,1.0,0.0
 2021-03-17,400,Henry County,Paris,38242,2020-08-24,Hybrid-Grade Bands,1.0,0.0
 2021-03-24,400,Henry County,Paris,38242,2020-08-24,Hybrid-Grade Bands,,
-2021-04-07,400,Henry County,Paris,38242,2020-08-24,Hybrid-Grade Bands,,
-2021-04-14,400,Henry County,Paris,38242,2020-08-24,Hybrid-Grade Bands,,
+2021-04-13,400,Henry County,Paris,38242,2020-08-24,Hybrid-Grade Bands,,
+2021-04-20,400,Henry County,Paris,38242,2020-08-24,Hybrid-Grade Bands,,
 2020-09-12,410,Hickman County,Centerville,37033,2020-08-03,Hybrid-Parent Choice,3.0,0.0
 2020-09-19,410,Hickman County,Centerville,37033,2020-08-03,Hybrid-Parent Choice,4.0,4.0
 2020-10-29,410,Hickman County,Centerville,37033,2020-08-03,Hybrid-Parent Choice,1.0,2.0
@@ -741,8 +741,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,410,Hickman County,Centerville,37033,2020-08-03,Hybrid-Parent Choice,3.0,0.0
 2021-03-17,410,Hickman County,Centerville,37033,2020-08-03,Hybrid-Parent Choice,3.0,0.0
 2021-03-24,410,Hickman County,Centerville,37033,2020-08-03,Hybrid-Parent Choice,2.0,0.0
-2021-04-07,410,Hickman County,Centerville,37033,2020-08-03,Hybrid-Parent Choice,0.0,0.0
-2021-04-14,410,Hickman County,Centerville,37033,2020-08-03,Hybrid-Parent Choice,0.0,0.0
+2021-04-13,410,Hickman County,Centerville,37033,2020-08-03,Hybrid-Parent Choice,0.0,0.0
+2021-04-20,410,Hickman County,Centerville,37033,2020-08-03,Hybrid-Parent Choice,0.0,0.0
 2020-09-12,92,Hollow Rock - Bruceton,Bruceton,38317,2020-08-04,In Person,1.0,1.0
 2020-09-19,92,Hollow Rock - Bruceton,Bruceton,38317,2020-08-04,In Person,,
 2020-10-29,92,Hollow Rock - Bruceton,Bruceton,38317,2020-08-04,In Person,0.0,0.0
@@ -753,8 +753,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,92,Hollow Rock - Bruceton,Bruceton,38317,2020-08-04,In Person,0.0,0.0
 2021-03-17,92,Hollow Rock - Bruceton,Bruceton,38317,2020-08-04,In Person,0.0,0.0
 2021-03-24,92,Hollow Rock - Bruceton,Bruceton,38317,2020-08-04,In Person,,
-2021-04-07,92,Hollow Rock - Bruceton,Bruceton,38317,2020-08-04,In Person,0.0,0.0
-2021-04-14,92,Hollow Rock - Bruceton,Bruceton,38317,2020-08-04,In Person,0.0,0.0
+2021-04-13,92,Hollow Rock - Bruceton,Bruceton,38317,2020-08-04,In Person,0.0,0.0
+2021-04-20,92,Hollow Rock - Bruceton,Bruceton,38317,2020-08-04,In Person,0.0,0.0
 2020-09-12,420,Houston County,Erin,37061,2020-08-17,Hybrid-Parent Choice,3.0,6.0
 2020-09-19,420,Houston County,Erin,37061,2020-08-17,Hybrid-Parent Choice,0.0,2.0
 2020-10-29,420,Houston County,Erin,37061,2020-08-17,Hybrid-Parent Choice,2.0,0.0
@@ -765,8 +765,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,420,Houston County,Erin,37061,2020-08-17,Hybrid-Parent Choice,0.0,0.0
 2021-03-17,420,Houston County,Erin,37061,2020-08-17,Hybrid-Parent Choice,0.0,0.0
 2021-03-24,420,Houston County,Erin,37061,2020-08-17,Hybrid-Parent Choice,0.0,0.0
-2021-04-07,420,Houston County,Erin,37061,2020-08-17,Hybrid-Parent Choice,0.0,0.0
-2021-04-14,420,Houston County,Erin,37061,2020-08-17,Hybrid-Parent Choice,0.0,2.0
+2021-04-13,420,Houston County,Erin,37061,2020-08-17,Hybrid-Parent Choice,0.0,2.0
+2021-04-20,420,Houston County,Erin,37061,2020-08-17,Hybrid-Parent Choice,0.0,1.0
 2020-09-12,271,Humboldt City Schools,Humboldt,38343,2020-08-10,Hybrid-Parent Choice,,
 2020-09-19,271,Humboldt City Schools,Humboldt,38343,2020-08-10,Hybrid-Parent Choice,0.0,1.0
 2020-10-29,271,Humboldt City Schools,Humboldt,38343,2020-08-10,Hybrid-Parent Choice,0.0,2.0
@@ -777,8 +777,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,271,Humboldt City Schools,Humboldt,38343,2020-08-10,Hybrid-Parent Choice,0.0,0.0
 2021-03-17,271,Humboldt City Schools,Humboldt,38343,2020-08-10,Hybrid-Parent Choice,0.0,0.0
 2021-03-24,271,Humboldt City Schools,Humboldt,38343,2020-08-10,Hybrid-Parent Choice,0.0,0.0
-2021-04-07,271,Humboldt City Schools,Humboldt,38343,2020-08-10,Hybrid-Parent Choice,0.0,2.0
-2021-04-14,271,Humboldt City Schools,Humboldt,38343,2020-08-10,Hybrid-Parent Choice,,
+2021-04-13,271,Humboldt City Schools,Humboldt,38343,2020-08-10,Hybrid-Parent Choice,,
+2021-04-20,271,Humboldt City Schools,Humboldt,38343,2020-08-10,Hybrid-Parent Choice,,
 2020-09-12,430,Humphreys County,Waverly,37185,2020-08-03,In Person,5.0,1.0
 2020-09-19,430,Humphreys County,Waverly,37185,2020-08-03,In Person,4.0,0.0
 2020-10-29,430,Humphreys County,Waverly,37185,2020-08-03,In Person,8.0,5.0
@@ -789,8 +789,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,430,Humphreys County,Waverly,37185,2020-08-03,In Person,0.0,1.0
 2021-03-17,430,Humphreys County,Waverly,37185,2020-08-03,In Person,0.0,1.0
 2021-03-24,430,Humphreys County,Waverly,37185,2020-08-03,In Person,,
-2021-04-07,430,Humphreys County,Waverly,37185,2020-08-03,In Person,4.0,0.0
-2021-04-14,430,Humphreys County,Waverly,37185,2020-08-03,In Person,8.0,1.0
+2021-04-13,430,Humphreys County,Waverly,37185,2020-08-03,In Person,8.0,1.0
+2021-04-20,430,Humphreys County,Waverly,37185,2020-08-03,In Person,,
 2020-09-12,93,Huntingdon Special School District,Huntingdon,38344,2020-08-17,Hybrid-Parent Choice,2.0,0.0
 2020-09-19,93,Huntingdon Special School District,Huntingdon,38344,2020-08-17,Hybrid-Parent Choice,,
 2020-10-29,93,Huntingdon Special School District,Huntingdon,38344,2020-08-17,Hybrid-Parent Choice,0.0,0.0
@@ -801,8 +801,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,93,Huntingdon Special School District,Huntingdon,38344,2020-08-17,In Person-Parent Choice,0.0,0.0
 2021-03-17,93,Huntingdon Special School District,Huntingdon,38344,2020-08-17,In Person-Parent Choice,0.0,0.0
 2021-03-24,93,Huntingdon Special School District,Huntingdon,38344,2020-08-17,In Person-Parent Choice,0.0,0.0
-2021-04-07,93,Huntingdon Special School District,Huntingdon,38344,2020-08-17,In Person-Parent Choice,0.0,0.0
-2021-04-14,93,Huntingdon Special School District,Huntingdon,38344,2020-08-17,In Person-Parent Choice,0.0,1.0
+2021-04-13,93,Huntingdon Special School District,Huntingdon,38344,2020-08-17,In Person-Parent Choice,0.0,1.0
+2021-04-20,93,Huntingdon Special School District,Huntingdon,38344,2020-08-17,In Person-Parent Choice,0.0,0.0
 2020-09-12,440,Jackson County,Gainesboro,38562,2020-08-04,Hybrid-Parent Choice,0.0,0.0
 2020-09-19,440,Jackson County,Gainesboro,38562,2020-08-04,Hybrid-Parent Choice,0.0,0.0
 2020-10-29,440,Jackson County,Gainesboro,38562,2020-08-04,Hybrid-Parent Choice,1.0,0.0
@@ -813,8 +813,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,440,Jackson County,Gainesboro,38562,2020-08-04,Hybrid-Parent Choice,,
 2021-03-17,440,Jackson County,Gainesboro,38562,2020-08-04,Hybrid-Parent Choice,,
 2021-03-24,440,Jackson County,Gainesboro,38562,2020-08-04,Hybrid-Parent Choice,,
-2021-04-07,440,Jackson County,Gainesboro,38562,2020-08-04,Hybrid-Parent Choice,,
-2021-04-14,440,Jackson County,Gainesboro,38562,2020-08-04,Hybrid-Parent Choice,,
+2021-04-13,440,Jackson County,Gainesboro,38562,2020-08-04,Hybrid-Parent Choice,,
+2021-04-20,440,Jackson County,Gainesboro,38562,2020-08-04,Hybrid-Parent Choice,,
 2020-09-12,450,Jefferson County,Dandridge,37725,2020-08-07,Hybrid-Parent Choice,12.0,8.0
 2020-09-19,450,Jefferson County,Dandridge,37725,2020-08-07,Hybrid-Parent Choice,1.0,4.0
 2020-10-29,450,Jefferson County,Dandridge,37725,2020-08-07,Hybrid-Parent Choice,9.0,2.0
@@ -825,8 +825,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,450,Jefferson County,Dandridge,37725,2020-08-07,Hybrid-Parent Choice,10.0,6.0
 2021-03-17,450,Jefferson County,Dandridge,37725,2020-08-07,Hybrid-Parent Choice,10.0,6.0
 2021-03-24,450,Jefferson County,Dandridge,37725,2020-08-07,Hybrid-Parent Choice,10.0,6.0
-2021-04-07,450,Jefferson County,Dandridge,37725,2020-08-07,Hybrid-Parent Choice,1.0,0.0
-2021-04-14,450,Jefferson County,Dandridge,37725,2020-08-07,Hybrid-Parent Choice,5.0,0.0
+2021-04-13,450,Jefferson County,Dandridge,37725,2020-08-07,Hybrid-Parent Choice,5.0,0.0
+2021-04-20,450,Jefferson County,Dandridge,37725,2020-08-07,Hybrid-Parent Choice,12.0,0.0
 2020-09-12,901,Johnson City,Johnson City,37605,2020-08-04,Hybrid-Parent Choice,,
 2020-09-19,901,Johnson City,Johnson City,37605,2020-08-04,Hybrid-Parent Choice,,
 2020-10-29,901,Johnson City,Johnson City,37605,2020-08-04,Hybrid-Parent Choice,,
@@ -837,8 +837,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,901,Johnson City,Johnson City,37605,2020-08-04,Hybrid-Parent Choice,0.0,0.0
 2021-03-17,901,Johnson City,Johnson City,37605,2020-08-04,Hybrid-Parent Choice,0.0,0.0
 2021-03-24,901,Johnson City,Johnson City,37605,2020-08-04,Hybrid-Parent Choice,0.0,0.0
-2021-04-07,901,Johnson City,Johnson City,37605,2020-08-04,Hybrid-Parent Choice,,
-2021-04-14,901,Johnson City,Johnson City,37605,2020-08-04,Hybrid-Parent Choice,,
+2021-04-13,901,Johnson City,Johnson City,37605,2020-08-04,Hybrid-Parent Choice,,
+2021-04-20,901,Johnson City,Johnson City,37605,2020-08-04,Hybrid-Parent Choice,,
 2020-09-12,460,Johnson County,Mountain City,37683,2020-08-17,In Person,0.0,3.0
 2020-09-19,460,Johnson County,Mountain City,37683,2020-08-17,In Person,0.0,1.0
 2020-10-29,460,Johnson County,Mountain City,37683,2020-08-17,In Person,2.0,0.0
@@ -849,8 +849,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,460,Johnson County,Mountain City,37683,2020-08-17,In Person,0.0,1.0
 2021-03-17,460,Johnson County,Mountain City,37683,2020-08-17,In Person,0.0,1.0
 2021-03-24,460,Johnson County,Mountain City,37683,2020-08-17,In Person,2.0,1.0
-2021-04-07,460,Johnson County,Mountain City,37683,2020-08-17,In Person,2.0,0.0
-2021-04-14,460,Johnson County,Mountain City,37683,2020-08-17,In Person,16.0,1.0
+2021-04-13,460,Johnson County,Mountain City,37683,2020-08-17,In Person,16.0,1.0
+2021-04-20,460,Johnson County,Mountain City,37683,2020-08-17,In Person,5.0,1.0
 2020-09-12,822,Kingsport,Kingsport,37660,2020-08-03,Hybrid-Grade Bands,0.0,1.0
 2020-09-19,822,Kingsport,Kingsport,37660,2020-08-03,Hybrid-Grade Bands,,
 2020-10-29,822,Kingsport,Kingsport,37660,2020-08-03,Hybrid-Alt Schedules,8.0,0.0
@@ -861,8 +861,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,822,Kingsport,Kingsport,37660,2020-08-03,In Person,7.0,0.0
 2021-03-17,822,Kingsport,Kingsport,37660,2020-08-03,In Person,7.0,0.0
 2021-03-24,822,Kingsport,Kingsport,37660,2020-08-03,In Person,0.0,0.0
-2021-04-07,822,Kingsport,Kingsport,37660,2020-08-03,In Person,0.0,0.0
-2021-04-14,822,Kingsport,Kingsport,37660,2020-08-03,In Person,10.0,0.0
+2021-04-13,822,Kingsport,Kingsport,37660,2020-08-03,In Person,10.0,0.0
+2021-04-20,822,Kingsport,Kingsport,37660,2020-08-03,In Person,0.0,0.0
 2020-09-12,470,Knox County,Knoxville,37902,2020-08-24,Hybrid-Parent Choice,,
 2020-09-19,470,Knox County,Knoxville,37902,2020-08-24,Hybrid-Parent Choice,34.0,10.0
 2020-10-29,470,Knox County,Knoxville,37902,2020-08-24,Hybrid-Parent Choice,39.0,25.0
@@ -873,8 +873,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,470,Knox County,Knoxville,37902,2020-08-24,Hybrid-Parent Choice,,
 2021-03-17,470,Knox County,Knoxville,37902,2020-08-24,Hybrid-Parent Choice,,
 2021-03-24,470,Knox County,Knoxville,37902,2020-08-24,Hybrid-Parent Choice,24.0,7.0
-2021-04-07,470,Knox County,Knoxville,37902,2020-08-24,Hybrid-Parent Choice,17.0,7.0
-2021-04-14,470,Knox County,Knoxville,37902,2020-08-24,Hybrid-Parent Choice,,
+2021-04-13,470,Knox County,Knoxville,37902,2020-08-24,Hybrid-Parent Choice,,
+2021-04-20,470,Knox County,Knoxville,37902,2020-08-24,Hybrid-Parent Choice,41.0,5.0
 2020-09-12,480,Lake County,Tiptonville,38079,2020-08-10,Hybrid-Parent Choice,0.0,0.0
 2020-09-19,480,Lake County,Tiptonville,38079,2020-08-10,Hybrid-Parent Choice,0.0,0.0
 2020-10-29,480,Lake County,Tiptonville,38079,2020-08-10,Hybrid-Parent Choice,,
@@ -885,8 +885,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,480,Lake County,Tiptonville,38079,2020-08-10,Hybrid-Parent Choice,,
 2021-03-17,480,Lake County,Tiptonville,38079,2020-08-10,Hybrid-Parent Choice,,
 2021-03-24,480,Lake County,Tiptonville,38079,2020-08-10,Hybrid-Parent Choice,0.0,0.0
-2021-04-07,480,Lake County,Tiptonville,38079,2020-08-10,Hybrid-Parent Choice,0.0,0.0
-2021-04-14,480,Lake County,Tiptonville,38079,2020-08-10,Hybrid-Parent Choice,0.0,0.0
+2021-04-13,480,Lake County,Tiptonville,38079,2020-08-10,Hybrid-Parent Choice,0.0,0.0
+2021-04-20,480,Lake County,Tiptonville,38079,2020-08-10,Hybrid-Parent Choice,0.0,0.0
 2020-09-12,797,Lakeland,Lakeland,38002,2020-08-10,Hybrid-Parent Choice,0.0,0.0
 2020-09-19,797,Lakeland,Lakeland,38002,2020-08-10,Hybrid-Parent Choice,,
 2020-10-29,797,Lakeland,Lakeland,38002,2020-08-10,Hybrid-Parent Choice,0.0,0.0
@@ -897,8 +897,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,797,Lakeland,Lakeland,38002,2020-08-10,Hybrid-Parent Choice,0.0,0.0
 2021-03-17,797,Lakeland,Lakeland,38002,2020-08-10,Hybrid-Parent Choice,0.0,0.0
 2021-03-24,797,Lakeland,Lakeland,38002,2020-08-10,Hybrid-Parent Choice,0.0,0.0
-2021-04-07,797,Lakeland,Lakeland,38002,2020-08-10,Hybrid-Parent Choice,0.0,0.0
-2021-04-14,797,Lakeland,Lakeland,38002,2020-08-10,Hybrid-Parent Choice,0.0,0.0
+2021-04-13,797,Lakeland,Lakeland,38002,2020-08-10,Hybrid-Parent Choice,0.0,0.0
+2021-04-20,797,Lakeland,Lakeland,38002,2020-08-10,Hybrid-Parent Choice,0.0,0.0
 2020-09-12,490,Lauderdale County,Ripley,38063,2020-08-13,Hybrid-Parent Choice,0.0,1.0
 2020-09-19,490,Lauderdale County,Ripley,38063,2020-08-13,Hybrid-Parent Choice,1.0,0.0
 2020-10-29,490,Lauderdale County,Ripley,38063,2020-08-13,Hybrid-Parent Choice,6.0,0.0
@@ -909,8 +909,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,490,Lauderdale County,Ripley,38063,2020-08-13,Hybrid-Parent Choice,1.0,1.0
 2021-03-17,490,Lauderdale County,Ripley,38063,2020-08-13,Hybrid-Parent Choice,1.0,1.0
 2021-03-24,490,Lauderdale County,Ripley,38063,2020-08-13,Hybrid-Parent Choice,,
-2021-04-07,490,Lauderdale County,Ripley,38063,2020-08-13,Hybrid-Parent Choice,0.0,0.0
-2021-04-14,490,Lauderdale County,Ripley,38063,2020-08-13,Hybrid-Parent Choice,2.0,1.0
+2021-04-13,490,Lauderdale County,Ripley,38063,2020-08-13,Hybrid-Parent Choice,2.0,1.0
+2021-04-20,490,Lauderdale County,Ripley,38063,2020-08-13,Hybrid-Parent Choice,8.0,3.0
 2020-09-12,500,Lawrence County,Lawrenceburg,38464,2020-08-10,Hybrid-Parent Choice,16.0,2.0
 2020-09-19,500,Lawrence County,Lawrenceburg,38464,2020-08-10,Hybrid-Parent Choice,3.0,3.0
 2020-10-29,500,Lawrence County,Lawrenceburg,38464,2020-08-10,Hybrid-Parent Choice,15.0,13.0
@@ -921,8 +921,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,500,Lawrence County,Lawrenceburg,38464,2020-08-10,Hybrid-Parent Choice,5.0,0.0
 2021-03-17,500,Lawrence County,Lawrenceburg,38464,2020-08-10,Hybrid-Parent Choice,5.0,0.0
 2021-03-24,500,Lawrence County,Lawrenceburg,38464,2020-08-10,Hybrid-Parent Choice,1.0,2.0
-2021-04-07,500,Lawrence County,Lawrenceburg,38464,2020-08-10,Hybrid-Parent Choice,6.0,3.0
-2021-04-14,500,Lawrence County,Lawrenceburg,38464,2020-08-10,Hybrid-Parent Choice,5.0,1.0
+2021-04-13,500,Lawrence County,Lawrenceburg,38464,2020-08-10,Hybrid-Parent Choice,5.0,1.0
+2021-04-20,500,Lawrence County,Lawrenceburg,38464,2020-08-10,Hybrid-Parent Choice,13.0,0.0
 2020-09-12,951,Lebanon,Lebanon,37087,2020-08-03,Hybrid-Parent Choice,6.0,0.0
 2020-09-19,951,Lebanon,Lebanon,37087,2020-08-03,Hybrid-Parent Choice,0.0,2.0
 2020-10-29,951,Lebanon,Lebanon,37087,2020-08-03,Hybrid-Parent Choice,8.0,5.0
@@ -933,8 +933,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,951,Lebanon,Lebanon,37087,2020-08-03,Hybrid-Parent Choice,15.0,2.0
 2021-03-17,951,Lebanon,Lebanon,37087,2020-08-03,Hybrid-Parent Choice,15.0,2.0
 2021-03-24,951,Lebanon,Lebanon,37087,2020-08-03,Hybrid-Parent Choice,7.0,0.0
-2021-04-07,951,Lebanon,Lebanon,37087,2020-08-03,Hybrid-Parent Choice,5.0,0.0
-2021-04-14,951,Lebanon,Lebanon,37087,2020-08-03,Hybrid-Parent Choice,,
+2021-04-13,951,Lebanon,Lebanon,37087,2020-08-03,Hybrid-Parent Choice,,
+2021-04-20,951,Lebanon,Lebanon,37087,2020-08-03,Hybrid-Parent Choice,7.0,1.0
 2020-09-12,531,Lenoir City,Lenoir City,37771,2020-08-03,Hybrid-Parent Choice,4.0,0.0
 2020-09-19,531,Lenoir City,Lenoir City,37771,2020-08-03,Hybrid-Parent Choice,,
 2020-10-29,531,Lenoir City,Lenoir City,37771,2020-08-03,Hybrid-Parent Choice,6.0,0.0
@@ -945,8 +945,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,531,Lenoir City,Lenoir City,37771,2020-08-03,Hybrid-Parent Choice,0.0,0.0
 2021-03-17,531,Lenoir City,Lenoir City,37771,2020-08-03,Hybrid-Parent Choice,0.0,0.0
 2021-03-24,531,Lenoir City,Lenoir City,37771,2020-08-03,Hybrid-Parent Choice,0.0,0.0
-2021-04-07,531,Lenoir City,Lenoir City,37771,2020-08-03,Hybrid-Parent Choice,,
-2021-04-14,531,Lenoir City,Lenoir City,37771,2020-08-03,Hybrid-Parent Choice,0.0,0.0
+2021-04-13,531,Lenoir City,Lenoir City,37771,2020-08-03,Hybrid-Parent Choice,0.0,0.0
+2021-04-20,531,Lenoir City,Lenoir City,37771,2020-08-03,Hybrid-Parent Choice,0.0,0.0
 2020-09-12,510,Lewis County,Hohenwald,38462,2020-08-04,Hybrid-Parent Choice,,
 2020-09-19,510,Lewis County,Hohenwald,38462,2020-08-04,Hybrid-Parent Choice,1.0,0.0
 2020-10-29,510,Lewis County,Hohenwald,38462,2020-08-04,Hybrid-Parent Choice,5.0,1.0
@@ -957,8 +957,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,510,Lewis County,Hohenwald,38462,2020-08-04,Hybrid-Parent Choice,2.0,0.0
 2021-03-17,510,Lewis County,Hohenwald,38462,2020-08-04,Hybrid-Parent Choice,2.0,0.0
 2021-03-24,510,Lewis County,Hohenwald,38462,2020-08-04,Hybrid-Parent Choice,1.0,1.0
-2021-04-07,510,Lewis County,Hohenwald,38462,2020-08-04,Hybrid-Parent Choice,0.0,0.0
-2021-04-14,510,Lewis County,Hohenwald,38462,2020-08-04,Hybrid-Parent Choice,0.0,1.0
+2021-04-13,510,Lewis County,Hohenwald,38462,2020-08-04,Hybrid-Parent Choice,0.0,1.0
+2021-04-20,510,Lewis County,Hohenwald,38462,2020-08-04,Hybrid-Parent Choice,0.0,0.0
 2020-09-12,391,Lexington,Lexington,38351,2020-08-03,Hybrid-Parent Choice,1.0,1.0
 2020-09-19,391,Lexington,Lexington,38351,2020-08-03,Hybrid-Parent Choice,2.0,0.0
 2020-10-29,391,Lexington,Lexington,38351,2020-08-03,Hybrid-Parent Choice,0.0,0.0
@@ -969,8 +969,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,391,Lexington,Lexington,38351,2020-08-03,Hybrid-Parent Choice,0.0,0.0
 2021-03-17,391,Lexington,Lexington,38351,2020-08-03,Hybrid-Parent Choice,0.0,0.0
 2021-03-24,391,Lexington,Lexington,38351,2020-08-03,Hybrid-Parent Choice,0.0,0.0
-2021-04-07,391,Lexington,Lexington,38351,2020-08-03,Hybrid-Parent Choice,1.0,0.0
-2021-04-14,391,Lexington,Lexington,38351,2020-08-03,Hybrid-Parent Choice,3.0,1.0
+2021-04-13,391,Lexington,Lexington,38351,2020-08-03,Hybrid-Parent Choice,3.0,1.0
+2021-04-20,391,Lexington,Lexington,38351,2020-08-03,Hybrid-Parent Choice,0.0,0.0
 2020-09-12,520,Lincoln County,Fayetteville,37334,2020-08-03,Hybrid-Parent Choice,4.0,2.0
 2020-09-19,520,Lincoln County,Fayetteville,37334,2020-08-03,Hybrid-Parent Choice,4.0,0.0
 2020-10-29,520,Lincoln County,Fayetteville,37334,2020-08-03,Hybrid-Parent Choice,0.0,0.0
@@ -981,8 +981,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,520,Lincoln County,Fayetteville,37334,2020-08-03,In Person-Parent Choice,,
 2021-03-17,520,Lincoln County,Fayetteville,37334,2020-08-03,In Person-Parent Choice,,
 2021-03-24,520,Lincoln County,Fayetteville,37334,2020-08-03,In Person-Parent Choice,0.0,0.0
-2021-04-07,520,Lincoln County,Fayetteville,37334,2020-08-03,In Person-Parent Choice,,
-2021-04-14,520,Lincoln County,Fayetteville,37334,2020-08-03,In Person-Parent Choice,0.0,0.0
+2021-04-13,520,Lincoln County,Fayetteville,37334,2020-08-03,In Person-Parent Choice,0.0,0.0
+2021-04-20,520,Lincoln County,Fayetteville,37334,2020-08-03,In Person-Parent Choice,,
 2020-09-12,530,Loudon County,Loudon,37774,2020-08-04,Hybrid-Parent Choice,4.0,1.0
 2020-09-19,530,Loudon County,Loudon,37774,2020-08-04,Hybrid-Parent Choice,,
 2020-10-29,530,Loudon County,Loudon,37774,2020-08-04,In Person-Parent Choice,0.0,0.0
@@ -993,8 +993,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,530,Loudon County,Loudon,37774,2020-08-04,In Person-Parent Choice,0.0,0.0
 2021-03-17,530,Loudon County,Loudon,37774,2020-08-04,In Person-Parent Choice,0.0,0.0
 2021-03-24,530,Loudon County,Loudon,37774,2020-08-04,In Person-Parent Choice,0.0,0.0
-2021-04-07,530,Loudon County,Loudon,37774,2020-08-04,In Person-Parent Choice,0.0,0.0
-2021-04-14,530,Loudon County,Loudon,37774,2020-08-04,In Person-Parent Choice,0.0,0.0
+2021-04-13,530,Loudon County,Loudon,37774,2020-08-04,In Person-Parent Choice,0.0,0.0
+2021-04-20,530,Loudon County,Loudon,37774,2020-08-04,In Person-Parent Choice,0.0,0.0
 2020-09-12,560,Macon County,Lafayette,37083,2020-08-24,Hybrid-Parent Choice,3.0,0.0
 2020-09-19,560,Macon County,Lafayette,37083,2020-08-24,Hybrid-Parent Choice,2.0,2.0
 2020-10-29,560,Macon County,Lafayette,37083,2020-08-24,Hybrid-Parent Choice,0.0,0.0
@@ -1005,8 +1005,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,560,Macon County,Lafayette,37083,2020-08-24,Hybrid-Parent Choice,,
 2021-03-17,560,Macon County,Lafayette,37083,2020-08-24,Hybrid-Parent Choice,,
 2021-03-24,560,Macon County,Lafayette,37083,2020-08-24,Hybrid-Parent Choice,,
-2021-04-07,560,Macon County,Lafayette,37083,2020-08-24,Hybrid-Parent Choice,,
-2021-04-14,560,Macon County,Lafayette,37083,2020-08-24,Hybrid-Parent Choice,,
+2021-04-13,560,Macon County,Lafayette,37083,2020-08-24,Hybrid-Parent Choice,,
+2021-04-20,560,Macon County,Lafayette,37083,2020-08-24,Hybrid-Parent Choice,,
 2020-09-12,570,Madison County,Jackson,38305,2020-08-24,Remote Only,,
 2020-09-19,570,Madison County,Jackson,38305,2020-08-24,Remote Only,0.0,4.0
 2020-10-29,570,Madison County,Jackson,38305,2020-08-24,In Person,0.0,0.0
@@ -1017,8 +1017,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,570,Madison County,Jackson,38305,2020-08-24,Hybrid-Alt Schedules,,
 2021-03-17,570,Madison County,Jackson,38305,2020-08-24,Hybrid-Alt Schedules,,
 2021-03-24,570,Madison County,Jackson,38305,2020-08-24,Hybrid-Alt Schedules,,
-2021-04-07,570,Madison County,Jackson,38305,2020-08-24,Hybrid-Alt Schedules,0.0,0.0
-2021-04-14,570,Madison County,Jackson,38305,2020-08-24,Hybrid-Alt Schedules,0.0,0.0
+2021-04-13,570,Madison County,Jackson,38305,2020-08-24,Hybrid-Alt Schedules,0.0,0.0
+2021-04-20,570,Madison County,Jackson,38305,2020-08-24,Hybrid-Alt Schedules,0.0,0.0
 2020-09-12,161,Manchester,Manchester,37355,2020-08-03,Hybrid-Parent Choice,0.0,0.0
 2020-09-19,161,Manchester,Manchester,37355,2020-08-03,Hybrid-Parent Choice,0.0,0.0
 2020-10-29,161,Manchester,Manchester,37355,2020-08-03,Hybrid-Parent Choice,0.0,0.0
@@ -1029,8 +1029,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,161,Manchester,Manchester,37355,2020-08-03,In Person-Parent Choice,0.0,0.0
 2021-03-17,161,Manchester,Manchester,37355,2020-08-03,In Person-Parent Choice,0.0,0.0
 2021-03-24,161,Manchester,Manchester,37355,2020-08-03,In Person-Parent Choice,0.0,0.0
-2021-04-07,161,Manchester,Manchester,37355,2020-08-03,In Person-Parent Choice,0.0,0.0
-2021-04-14,161,Manchester,Manchester,37355,2020-08-03,In Person-Parent Choice,,
+2021-04-13,161,Manchester,Manchester,37355,2020-08-03,In Person-Parent Choice,,
+2021-04-20,161,Manchester,Manchester,37355,2020-08-03,In Person-Parent Choice,0.0,0.0
 2020-09-12,580,Marion County,Jasper,37347,2020-08-04,Hybrid-Parent Choice,,
 2020-09-19,580,Marion County,Jasper,37347,2020-08-04,Hybrid-Parent Choice,,
 2020-10-29,580,Marion County,Jasper,37347,2020-08-04,Hybrid-Parent Choice,,
@@ -1041,8 +1041,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,580,Marion County,Jasper,37347,2020-08-04,Hybrid-Parent Choice,,
 2021-03-17,580,Marion County,Jasper,37347,2020-08-04,Hybrid-Parent Choice,,
 2021-03-24,580,Marion County,Jasper,37347,2020-08-04,Hybrid-Parent Choice,,
-2021-04-07,580,Marion County,Jasper,37347,2020-08-04,Hybrid-Parent Choice,,
-2021-04-14,580,Marion County,Jasper,37347,2020-08-04,Hybrid-Parent Choice,,
+2021-04-13,580,Marion County,Jasper,37347,2020-08-04,Hybrid-Parent Choice,,
+2021-04-20,580,Marion County,Jasper,37347,2020-08-04,Hybrid-Parent Choice,,
 2020-09-12,590,Marshall County,Lewisburg,37091,2020-08-03,Hybrid-Parent Choice,10.0,6.0
 2020-09-19,590,Marshall County,Lewisburg,37091,2020-08-03,Hybrid-Parent Choice,,
 2020-10-29,590,Marshall County,Lewisburg,37091,2020-08-03,Hybrid-Parent Choice,0.0,0.0
@@ -1053,8 +1053,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,590,Marshall County,Lewisburg,37091,2020-08-03,Hybrid-Parent Choice,,
 2021-03-17,590,Marshall County,Lewisburg,37091,2020-08-03,Hybrid-Parent Choice,,
 2021-03-24,590,Marshall County,Lewisburg,37091,2020-08-03,Hybrid-Parent Choice,0.0,0.0
-2021-04-07,590,Marshall County,Lewisburg,37091,2020-08-03,Hybrid-Parent Choice,0.0,0.0
-2021-04-14,590,Marshall County,Lewisburg,37091,2020-08-03,Hybrid-Parent Choice,0.0,0.0
+2021-04-13,590,Marshall County,Lewisburg,37091,2020-08-03,Hybrid-Parent Choice,0.0,0.0
+2021-04-20,590,Marshall County,Lewisburg,37091,2020-08-03,Hybrid-Parent Choice,,
 2020-09-12,52,Maryville,Maryville,37803,2020-07-24,Hybrid-Parent Choice,,
 2020-09-19,52,Maryville,Maryville,37803,2020-07-24,Hybrid-Parent Choice,0.0,0.0
 2020-10-29,52,Maryville,Maryville,37803,2020-07-24,Hybrid-Parent Choice,8.0,0.0
@@ -1065,8 +1065,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,52,Maryville,Maryville,37803,2020-07-24,Hybrid-Parent Choice,0.0,0.0
 2021-03-17,52,Maryville,Maryville,37803,2020-07-24,Hybrid-Parent Choice,0.0,0.0
 2021-03-24,52,Maryville,Maryville,37803,2020-07-24,Hybrid-Parent Choice,0.0,0.0
-2021-04-07,52,Maryville,Maryville,37803,2020-07-24,Hybrid-Parent Choice,,
-2021-04-14,52,Maryville,Maryville,37803,2020-07-24,Hybrid-Parent Choice,6.0,0.0
+2021-04-13,52,Maryville,Maryville,37803,2020-07-24,Hybrid-Parent Choice,6.0,0.0
+2021-04-20,52,Maryville,Maryville,37803,2020-07-24,Hybrid-Parent Choice,0.0,0.0
 2020-09-12,600,Maury County,Columbia,38401,2020-08-10,Hybrid-Parent Choice,34.0,41.0
 2020-09-19,600,Maury County,Columbia,38401,2020-08-10,Hybrid-Parent Choice,35.0,33.0
 2020-10-29,600,Maury County,Columbia,38401,2020-08-10,Hybrid-Parent Choice,31.0,12.0
@@ -1077,8 +1077,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,600,Maury County,Columbia,38401,2020-08-10,Hybrid-Parent Choice,18.0,4.0
 2021-03-17,600,Maury County,Columbia,38401,2020-08-10,Hybrid-Parent Choice,18.0,4.0
 2021-03-24,600,Maury County,Columbia,38401,2020-08-10,Hybrid-Parent Choice,,
-2021-04-07,600,Maury County,Columbia,38401,2020-08-10,Hybrid-Parent Choice,,
-2021-04-14,600,Maury County,Columbia,38401,2020-08-10,Hybrid-Parent Choice,12.0,2.0
+2021-04-13,600,Maury County,Columbia,38401,2020-08-10,Hybrid-Parent Choice,12.0,2.0
+2021-04-20,600,Maury County,Columbia,38401,2020-08-10,Hybrid-Parent Choice,6.0,3.0
 2020-09-12,94,McKenzie,McKenzie,38201,2020-08-04,Hybrid-Parent Choice,1.0,1.0
 2020-09-19,94,McKenzie,McKenzie,38201,2020-08-04,Hybrid-Parent Choice,,
 2020-10-29,94,McKenzie,McKenzie,38201,2020-08-04,Hybrid-Parent Choice,,
@@ -1089,8 +1089,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,94,McKenzie,McKenzie,38201,2020-08-04,Hybrid-Parent Choice,,
 2021-03-17,94,McKenzie,McKenzie,38201,2020-08-04,Hybrid-Parent Choice,,
 2021-03-24,94,McKenzie,McKenzie,38201,2020-08-04,Hybrid-Parent Choice,,
-2021-04-07,94,McKenzie,McKenzie,38201,2020-08-04,Hybrid-Parent Choice,,
-2021-04-14,94,McKenzie,McKenzie,38201,2020-08-04,Hybrid-Parent Choice,,
+2021-04-13,94,McKenzie,McKenzie,38201,2020-08-04,Hybrid-Parent Choice,,
+2021-04-20,94,McKenzie,McKenzie,38201,2020-08-04,Hybrid-Parent Choice,,
 2020-09-12,540,McMinn County,Athens,37303,2020-08-03,Hybrid-Parent Choice,6.0,5.0
 2020-09-19,540,McMinn County,Athens,37303,2020-08-03,Hybrid-Parent Choice,1.0,2.0
 2020-10-29,540,McMinn County,Athens,37303,2020-08-03,Hybrid-Parent Choice,5.0,6.0
@@ -1101,8 +1101,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,540,McMinn County,Athens,37303,2020-08-03,Hybrid-Parent Choice,,
 2021-03-17,540,McMinn County,Athens,37303,2020-08-03,Hybrid-Parent Choice,,
 2021-03-24,540,McMinn County,Athens,37303,2020-08-03,Hybrid-Parent Choice,,
-2021-04-07,540,McMinn County,Athens,37303,2020-08-03,Hybrid-Parent Choice,5.0,1.0
-2021-04-14,540,McMinn County,Athens,37303,2020-08-03,Hybrid-Parent Choice,5.0,1.0
+2021-04-13,540,McMinn County,Athens,37303,2020-08-03,Hybrid-Parent Choice,5.0,1.0
+2021-04-20,540,McMinn County,Athens,37303,2020-08-03,Hybrid-Parent Choice,6.0,0.0
 2020-09-12,550,McNairy County,Selmer,38375,2020-08-10,Hybrid-Parent Choice,,
 2020-09-19,550,McNairy County,Selmer,38375,2020-08-10,Hybrid-Parent Choice,22.0,10.0
 2020-10-29,550,McNairy County,Selmer,38375,2020-08-10,Hybrid-Parent Choice,7.0,9.0
@@ -1113,8 +1113,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,550,McNairy County,Selmer,38375,2020-08-10,Hybrid-Parent Choice,0.0,0.0
 2021-03-17,550,McNairy County,Selmer,38375,2020-08-10,Hybrid-Parent Choice,0.0,0.0
 2021-03-24,550,McNairy County,Selmer,38375,2020-08-10,Hybrid-Parent Choice,0.0,0.0
-2021-04-07,550,McNairy County,Selmer,38375,2020-08-10,Hybrid-Parent Choice,,
-2021-04-14,550,McNairy County,Selmer,38375,2020-08-10,Hybrid-Parent Choice,1.0,0.0
+2021-04-13,550,McNairy County,Selmer,38375,2020-08-10,Hybrid-Parent Choice,1.0,0.0
+2021-04-20,550,McNairy County,Selmer,38375,2020-08-10,Hybrid-Parent Choice,0.0,0.0
 2020-09-12,610,Meigs County,Decatur,37322,2020-08-07,Hybrid-Parent Choice,2.0,0.0
 2020-09-19,610,Meigs County,Decatur,37322,2020-08-07,Hybrid-Parent Choice,1.0,2.0
 2020-10-29,610,Meigs County,Decatur,37322,2020-08-07,Hybrid-Parent Choice,1.0,0.0
@@ -1125,8 +1125,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,610,Meigs County,Decatur,37322,2020-08-07,Hybrid-Parent Choice,1.0,0.0
 2021-03-17,610,Meigs County,Decatur,37322,2020-08-07,Hybrid-Parent Choice,1.0,0.0
 2021-03-24,610,Meigs County,Decatur,37322,2020-08-07,Hybrid-Parent Choice,0.0,0.0
-2021-04-07,610,Meigs County,Decatur,37322,2020-08-07,Hybrid-Parent Choice,2.0,0.0
-2021-04-14,610,Meigs County,Decatur,37322,2020-08-07,Hybrid-Parent Choice,1.0,0.0
+2021-04-13,610,Meigs County,Decatur,37322,2020-08-07,Hybrid-Parent Choice,1.0,0.0
+2021-04-20,610,Meigs County,Decatur,37322,2020-08-07,Hybrid-Parent Choice,2.0,1.0
 2020-09-12,272,Milan,Milan,38358,2020-08-10,Hybrid-Parent Choice,,
 2020-09-19,272,Milan,Milan,38358,2020-08-10,Hybrid-Parent Choice,2.0,2.0
 2020-10-29,272,Milan,Milan,38358,2020-08-10,Hybrid-Parent Choice,2.0,2.0
@@ -1137,8 +1137,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,272,Milan,Milan,38358,2020-08-10,Hybrid-Parent Choice,0.0,0.0
 2021-03-17,272,Milan,Milan,38358,2020-08-10,Hybrid-Parent Choice,0.0,0.0
 2021-03-24,272,Milan,Milan,38358,2020-08-10,Hybrid-Parent Choice,0.0,0.0
-2021-04-07,272,Milan,Milan,38358,2020-08-10,Hybrid-Parent Choice,0.0,0.0
-2021-04-14,272,Milan,Milan,38358,2020-08-10,Hybrid-Parent Choice,3.0,0.0
+2021-04-13,272,Milan,Milan,38358,2020-08-10,Hybrid-Parent Choice,3.0,0.0
+2021-04-20,272,Milan,Milan,38358,2020-08-10,Hybrid-Parent Choice,2.0,1.0
 2020-09-12,798,Millington Municipal Schools,Millington,38053,2020-08-10,Hybrid-Parent Choice,2.0,2.0
 2020-09-19,798,Millington Municipal Schools,Millington,38053,2020-08-10,Hybrid-Parent Choice,0.0,1.0
 2020-10-29,798,Millington Municipal Schools,Millington,38053,2020-08-10,Hybrid-Parent Choice,,
@@ -1149,8 +1149,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,798,Millington Municipal Schools,Millington,38053,2020-08-10,Hybrid-Parent Choice,1.0,0.0
 2021-03-17,798,Millington Municipal Schools,Millington,38053,2020-08-10,Hybrid-Parent Choice,1.0,0.0
 2021-03-24,798,Millington Municipal Schools,Millington,38053,2020-08-10,Hybrid-Parent Choice,3.0,0.0
-2021-04-07,798,Millington Municipal Schools,Millington,38053,2020-08-10,Hybrid-Parent Choice,1.0,0.0
-2021-04-14,798,Millington Municipal Schools,Millington,38053,2020-08-10,Hybrid-Parent Choice,0.0,0.0
+2021-04-13,798,Millington Municipal Schools,Millington,38053,2020-08-10,Hybrid-Parent Choice,0.0,0.0
+2021-04-20,798,Millington Municipal Schools,Millington,38053,2020-08-10,Hybrid-Parent Choice,2.0,3.0
 2020-09-12,620,Monroe County,Madisonville,37354,2020-08-07,Hybrid-Parent Choice,10.0,6.0
 2020-09-19,620,Monroe County,Madisonville,37354,2020-08-07,Hybrid-Parent Choice,1.0,2.0
 2020-10-29,620,Monroe County,Madisonville,37354,2020-08-07,Hybrid-Parent Choice,7.0,3.0
@@ -1161,8 +1161,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,620,Monroe County,Madisonville,37354,2020-08-07,Hybrid-Parent Choice,,
 2021-03-17,620,Monroe County,Madisonville,37354,2020-08-07,Hybrid-Parent Choice,,
 2021-03-24,620,Monroe County,Madisonville,37354,2020-08-07,Hybrid-Parent Choice,6.0,0.0
-2021-04-07,620,Monroe County,Madisonville,37354,2020-08-07,Hybrid-Parent Choice,,
-2021-04-14,620,Monroe County,Madisonville,37354,2020-08-07,Hybrid-Parent Choice,,
+2021-04-13,620,Monroe County,Madisonville,37354,2020-08-07,Hybrid-Parent Choice,,
+2021-04-20,620,Monroe County,Madisonville,37354,2020-08-07,Hybrid-Parent Choice,,
 2020-09-12,630,Montgomery County,Clarksville,37040,2020-08-31,Hybrid-Parent Choice,5.0,1.0
 2020-09-19,630,Montgomery County,Clarksville,37040,2020-08-31,Hybrid-Parent Choice,3.0,2.0
 2020-10-29,630,Montgomery County,Clarksville,37040,2020-08-31,Hybrid-Parent Choice,0.0,0.0
@@ -1173,8 +1173,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,630,Montgomery County,Clarksville,37040,2020-08-31,In Person-Parent Choice,0.0,0.0
 2021-03-17,630,Montgomery County,Clarksville,37040,2020-08-31,In Person-Parent Choice,0.0,0.0
 2021-03-24,630,Montgomery County,Clarksville,37040,2020-08-31,In Person-Parent Choice,0.0,0.0
-2021-04-07,630,Montgomery County,Clarksville,37040,2020-08-31,In Person-Parent Choice,0.0,0.0
-2021-04-14,630,Montgomery County,Clarksville,37040,2020-08-31,In Person-Parent Choice,10.0,0.0
+2021-04-13,630,Montgomery County,Clarksville,37040,2020-08-31,In Person-Parent Choice,10.0,0.0
+2021-04-20,630,Montgomery County,Clarksville,37040,2020-08-31,In Person-Parent Choice,6.0,0.0
 2020-09-12,640,Moore County,Lynchburg,37352,2020-08-03,Hybrid-Parent Choice,0.0,0.0
 2020-09-19,640,Moore County,Lynchburg,37352,2020-08-03,Hybrid-Parent Choice,0.0,0.0
 2020-10-29,640,Moore County,Lynchburg,37352,2020-08-03,Hybrid-Parent Choice,1.0,1.0
@@ -1185,8 +1185,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,640,Moore County,Lynchburg,37352,2020-08-03,Hybrid-Parent Choice,,
 2021-03-17,640,Moore County,Lynchburg,37352,2020-08-03,Hybrid-Parent Choice,,
 2021-03-24,640,Moore County,Lynchburg,37352,2020-08-03,Hybrid-Parent Choice,0.0,0.0
-2021-04-07,640,Moore County,Lynchburg,37352,2020-08-03,Hybrid-Parent Choice,,
-2021-04-14,640,Moore County,Lynchburg,37352,2020-08-03,Hybrid-Parent Choice,,
+2021-04-13,640,Moore County,Lynchburg,37352,2020-08-03,Hybrid-Parent Choice,,
+2021-04-20,640,Moore County,Lynchburg,37352,2020-08-03,Hybrid-Parent Choice,,
 2020-09-12,650,Morgan County,Wartburg,37887,2020-08-05,Hybrid-Parent Choice,7.0,2.0
 2020-09-19,650,Morgan County,Wartburg,37887,2020-08-05,Hybrid-Parent Choice,0.0,0.0
 2020-10-29,650,Morgan County,Wartburg,37887,2020-08-05,Hybrid-Parent Choice,4.0,7.0
@@ -1197,8 +1197,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,650,Morgan County,Wartburg,37887,2020-08-05,Hybrid-Parent Choice,0.0,0.0
 2021-03-17,650,Morgan County,Wartburg,37887,2020-08-05,Hybrid-Parent Choice,0.0,0.0
 2021-03-24,650,Morgan County,Wartburg,37887,2020-08-05,Hybrid-Parent Choice,4.0,0.0
-2021-04-07,650,Morgan County,Wartburg,37887,2020-08-05,Hybrid-Parent Choice,1.0,0.0
-2021-04-14,650,Morgan County,Wartburg,37887,2020-08-05,Hybrid-Parent Choice,,
+2021-04-13,650,Morgan County,Wartburg,37887,2020-08-05,Hybrid-Parent Choice,,
+2021-04-20,650,Morgan County,Wartburg,37887,2020-08-05,Hybrid-Parent Choice,2.0,1.0
 2020-09-12,751,Murfreesboro,Murfreesboro,37127,2020-07-30,Hybrid-Parent Choice,10.0,3.0
 2020-09-19,751,Murfreesboro,Murfreesboro,37127,2020-07-30,Hybrid-Parent Choice,2.0,5.0
 2020-10-29,751,Murfreesboro,Murfreesboro,37127,2020-07-30,Hybrid-Parent Choice,0.0,0.0
@@ -1209,8 +1209,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,751,Murfreesboro,Murfreesboro,37127,2020-07-30,Hybrid-Parent Choice,0.0,0.0
 2021-03-17,751,Murfreesboro,Murfreesboro,37127,2020-07-30,Hybrid-Parent Choice,0.0,0.0
 2021-03-24,751,Murfreesboro,Murfreesboro,37127,2020-07-30,Hybrid-Parent Choice,0.0,0.0
-2021-04-07,751,Murfreesboro,Murfreesboro,37127,2020-07-30,Hybrid-Parent Choice,0.0,0.0
-2021-04-14,751,Murfreesboro,Murfreesboro,37127,2020-07-30,Hybrid-Parent Choice,0.0,0.0
+2021-04-13,751,Murfreesboro,Murfreesboro,37127,2020-07-30,Hybrid-Parent Choice,0.0,0.0
+2021-04-20,751,Murfreesboro,Murfreesboro,37127,2020-07-30,Hybrid-Parent Choice,0.0,0.0
 2020-09-12,151,Newport,Newport,37821,2020-08-11,Hybrid-Parent Choice,,
 2020-09-19,151,Newport,Newport,37821,2020-08-11,Hybrid-Parent Choice,0.0,0.0
 2020-10-29,151,Newport,Newport,37821,2020-08-11,Hybrid-Parent Choice,0.0,0.0
@@ -1221,8 +1221,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,151,Newport,Newport,37821,2020-08-11,Hybrid-Parent Choice,,
 2021-03-17,151,Newport,Newport,37821,2020-08-11,Hybrid-Parent Choice,,
 2021-03-24,151,Newport,Newport,37821,2020-08-11,Hybrid-Parent Choice,,
-2021-04-07,151,Newport,Newport,37821,2020-08-11,Hybrid-Parent Choice,,
-2021-04-14,151,Newport,Newport,37821,2020-08-11,Hybrid-Parent Choice,0.0,0.0
+2021-04-13,151,Newport,Newport,37821,2020-08-11,Hybrid-Parent Choice,0.0,0.0
+2021-04-20,151,Newport,Newport,37821,2020-08-11,Hybrid-Parent Choice,0.0,0.0
 2020-09-12,12,Oak Ridge,Oak Ridge,37830,2020-07-29,Hybrid-Parent Choice,2.0,1.0
 2020-09-19,12,Oak Ridge,Oak Ridge,37830,2020-07-29,Hybrid-Parent Choice,,
 2020-10-29,12,Oak Ridge,Oak Ridge,37830,2020-07-29,Hybrid-Parent Choice,0.0,0.0
@@ -1233,8 +1233,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,12,Oak Ridge,Oak Ridge,37830,2020-07-29,Hybrid-Parent Choice,,
 2021-03-17,12,Oak Ridge,Oak Ridge,37830,2020-07-29,Hybrid-Parent Choice,,
 2021-03-24,12,Oak Ridge,Oak Ridge,37830,2020-07-29,Hybrid-Parent Choice,0.0,0.0
-2021-04-07,12,Oak Ridge,Oak Ridge,37830,2020-07-29,In Person-Parent Choice,0.0,0.0
-2021-04-14,12,Oak Ridge,Oak Ridge,37830,2020-07-29,In Person-Parent Choice,0.0,0.0
+2021-04-13,12,Oak Ridge,Oak Ridge,37830,2020-07-29,In Person-Parent Choice,0.0,0.0
+2021-04-20,12,Oak Ridge,Oak Ridge,37830,2020-07-29,In Person-Parent Choice,0.0,0.0
 2020-09-12,660,Obion County,Union City,38261,2020-08-04,Hybrid-Parent Choice,0.0,0.0
 2020-09-19,660,Obion County,Union City,38261,2020-08-04,Hybrid-Parent Choice,0.0,0.0
 2020-10-29,660,Obion County,Union City,38261,2020-08-04,Hybrid-Parent Choice,6.0,0.0
@@ -1245,8 +1245,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,660,Obion County,Union City,38261,2020-08-04,In Person-Parent Choice,,
 2021-03-17,660,Obion County,Union City,38261,2020-08-04,In Person,,
 2021-03-24,660,Obion County,Union City,38261,2020-08-04,In Person,0.0,0.0
-2021-04-07,660,Obion County,Union City,38261,2020-08-04,In Person,,
-2021-04-14,660,Obion County,Union City,38261,2020-08-04,In Person,,
+2021-04-13,660,Obion County,Union City,38261,2020-08-04,In Person,,
+2021-04-20,660,Obion County,Union City,38261,2020-08-04,In Person,,
 2020-09-12,761,Oneida,Oneida,37841,2020-08-04,Hybrid-Parent Choice,,
 2020-09-19,761,Oneida,Oneida,37841,2020-08-04,Hybrid-Parent Choice,0.0,0.0
 2020-10-29,761,Oneida,Oneida,37841,2020-08-04,Hybrid-Parent Choice,2.0,3.0
@@ -1257,8 +1257,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,761,Oneida,Oneida,37841,2020-08-04,Hybrid-Parent Choice,0.0,8.0
 2021-03-17,761,Oneida,Oneida,37841,2020-08-04,Hybrid-Parent Choice,0.0,8.0
 2021-03-24,761,Oneida,Oneida,37841,2020-08-04,Hybrid-Parent Choice,7.0,1.0
-2021-04-07,761,Oneida,Oneida,37841,2020-08-04,Hybrid-Parent Choice,4.0,0.0
-2021-04-14,761,Oneida,Oneida,37841,2020-08-04,Hybrid-Parent Choice,0.0,0.0
+2021-04-13,761,Oneida,Oneida,37841,2020-08-04,Hybrid-Parent Choice,0.0,0.0
+2021-04-20,761,Oneida,Oneida,37841,2020-08-04,Hybrid-Parent Choice,0.0,1.0
 2020-09-12,670,Overton County,Livingston,38570,2020-08-07,Hybrid-Parent Choice,,
 2020-09-19,670,Overton County,Livingston,38570,2020-08-07,Hybrid-Parent Choice,0.0,0.0
 2020-10-29,670,Overton County,Livingston,38570,2020-08-07,Hybrid-Parent Choice,0.0,0.0
@@ -1269,8 +1269,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,670,Overton County,Livingston,38570,2020-08-07,Hybrid-Parent Choice,0.0,1.0
 2021-03-17,670,Overton County,Livingston,38570,2020-08-07,Hybrid-Parent Choice,0.0,1.0
 2021-03-24,670,Overton County,Livingston,38570,2020-08-07,Hybrid-Parent Choice,,
-2021-04-07,670,Overton County,Livingston,38570,2020-08-07,Hybrid-Parent Choice,0.0,0.0
-2021-04-14,670,Overton County,Livingston,38570,2020-08-07,Hybrid-Parent Choice,0.0,0.0
+2021-04-13,670,Overton County,Livingston,38570,2020-08-07,Hybrid-Parent Choice,0.0,0.0
+2021-04-20,670,Overton County,Livingston,38570,2020-08-07,Hybrid-Parent Choice,0.0,1.0
 2020-09-12,401,Paris,Paris,38242,2020-08-03,Hybrid-Parent Choice,,
 2020-09-19,401,Paris,Paris,38242,2020-08-03,Hybrid-Parent Choice,0.0,0.0
 2020-10-29,401,Paris,Paris,38242,2020-08-03,Hybrid-Parent Choice,1.0,0.0
@@ -1281,8 +1281,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,401,Paris,Paris,38242,2020-08-03,Hybrid-Parent Choice,0.0,0.0
 2021-03-17,401,Paris,Paris,38242,2020-08-03,Hybrid-Parent Choice,0.0,0.0
 2021-03-24,401,Paris,Paris,38242,2020-08-03,Hybrid-Parent Choice,0.0,0.0
-2021-04-07,401,Paris,Paris,38242,2020-08-03,Hybrid-Parent Choice,,
-2021-04-14,401,Paris,Paris,38242,2020-08-03,Hybrid-Parent Choice,,
+2021-04-13,401,Paris,Paris,38242,2020-08-03,Hybrid-Parent Choice,,
+2021-04-20,401,Paris,Paris,38242,2020-08-03,Hybrid-Parent Choice,,
 2020-09-12,680,Perry County,Linden,37096,2020-08-04,In Person,1.0,1.0
 2020-09-19,680,Perry County,Linden,37096,2020-08-04,In Person,1.0,0.0
 2020-10-29,680,Perry County,Linden,37096,2020-08-04,In Person,2.0,0.0
@@ -1293,8 +1293,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,680,Perry County,Linden,37096,2020-08-04,In Person,1.0,0.0
 2021-03-17,680,Perry County,Linden,37096,2020-08-04,In Person,1.0,0.0
 2021-03-24,680,Perry County,Linden,37096,2020-08-04,In Person,2.0,0.0
-2021-04-07,680,Perry County,Linden,37096,2020-08-04,In Person,,
-2021-04-14,680,Perry County,Linden,37096,2020-08-04,In Person,,
+2021-04-13,680,Perry County,Linden,37096,2020-08-04,In Person,,
+2021-04-20,680,Perry County,Linden,37096,2020-08-04,In Person,1.0,0.0
 2020-09-12,690,Pickett County,Byrdstown,38549,2020-07-31,Hybrid-Parent Choice,,
 2020-09-19,690,Pickett County,Byrdstown,38549,2020-07-31,Hybrid-Parent Choice,0.0,0.0
 2020-10-29,690,Pickett County,Byrdstown,38549,2020-07-31,Hybrid-Parent Choice,1.0,1.0
@@ -1305,8 +1305,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,690,Pickett County,Byrdstown,38549,2020-07-31,Hybrid-Parent Choice,0.0,0.0
 2021-03-17,690,Pickett County,Byrdstown,38549,2020-07-31,Hybrid-Parent Choice,0.0,0.0
 2021-03-24,690,Pickett County,Byrdstown,38549,2020-07-31,Hybrid-Parent Choice,1.0,0.0
-2021-04-07,690,Pickett County,Byrdstown,38549,2020-07-31,Hybrid-Parent Choice,0.0,0.0
-2021-04-14,690,Pickett County,Byrdstown,38549,2020-07-31,Hybrid-Parent Choice,0.0,0.0
+2021-04-13,690,Pickett County,Byrdstown,38549,2020-07-31,Hybrid-Parent Choice,0.0,0.0
+2021-04-20,690,Pickett County,Byrdstown,38549,2020-07-31,Hybrid-Parent Choice,0.0,0.0
 2020-09-12,700,Polk County,Benton,37307,2020-08-10,Hybrid-Parent Choice,1.0,2.0
 2020-09-19,700,Polk County,Benton,37307,2020-08-10,Hybrid-Parent Choice,0.0,0.0
 2020-10-29,700,Polk County,Benton,37307,2020-08-10,Hybrid-Parent Choice,,
@@ -1317,8 +1317,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,700,Polk County,Benton,37307,2020-08-10,Hybrid-Parent Choice,3.0,0.0
 2021-03-17,700,Polk County,Benton,37307,2020-08-10,Hybrid-Parent Choice,3.0,0.0
 2021-03-24,700,Polk County,Benton,37307,2020-08-10,Hybrid-Parent Choice,,
-2021-04-07,700,Polk County,Benton,37307,2020-08-10,Hybrid-Parent Choice,,
-2021-04-14,700,Polk County,Benton,37307,2020-08-10,Hybrid-Parent Choice,,
+2021-04-13,700,Polk County,Benton,37307,2020-08-10,Hybrid-Parent Choice,,
+2021-04-20,700,Polk County,Benton,37307,2020-08-10,Hybrid-Parent Choice,,
 2020-09-12,710,Putnam County,Cookeville,38506,2020-07-30,Hybrid-Parent Choice,,
 2020-09-19,710,Putnam County,Cookeville,38506,2020-07-30,Hybrid-Parent Choice,11.0,0.0
 2020-10-29,710,Putnam County,Cookeville,38506,2020-07-30,Hybrid-Parent Choice,16.0,0.0
@@ -1329,8 +1329,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,710,Putnam County,Cookeville,38506,2020-07-30,Hybrid-Parent Choice,9.0,3.0
 2021-03-17,710,Putnam County,Cookeville,38506,2020-07-30,Hybrid-Parent Choice,9.0,3.0
 2021-03-24,710,Putnam County,Cookeville,38506,2020-07-30,Hybrid-Parent Choice,0.0,0.0
-2021-04-07,710,Putnam County,Cookeville,38506,2020-07-30,Hybrid-Parent Choice,8.0,3.0
-2021-04-14,710,Putnam County,Cookeville,38506,2020-07-30,Hybrid-Parent Choice,16.0,2.0
+2021-04-13,710,Putnam County,Cookeville,38506,2020-07-30,Hybrid-Parent Choice,16.0,2.0
+2021-04-20,710,Putnam County,Cookeville,38506,2020-07-30,Hybrid-Parent Choice,13.0,1.0
 2020-09-12,720,Rhea County,Dayton,37321,2020-08-05,Hybrid-Parent Choice,4.0,3.0
 2020-09-19,720,Rhea County,Dayton,37321,2020-08-05,Hybrid-Parent Choice,0.0,0.0
 2020-10-29,720,Rhea County,Dayton,37321,2020-08-05,Hybrid-Parent Choice,2.0,2.0
@@ -1341,8 +1341,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,720,Rhea County,Dayton,37321,2020-08-05,Hybrid-Parent Choice,,
 2021-03-17,720,Rhea County,Dayton,37321,2020-08-05,Hybrid-Parent Choice,,
 2021-03-24,720,Rhea County,Dayton,37321,2020-08-05,Hybrid-Parent Choice,,
-2021-04-07,720,Rhea County,Dayton,37321,2020-08-05,Hybrid-Parent Choice,,
-2021-04-14,720,Rhea County,Dayton,37321,2020-08-05,Hybrid-Parent Choice,4.0,1.0
+2021-04-13,720,Rhea County,Dayton,37321,2020-08-05,Hybrid-Parent Choice,4.0,1.0
+2021-04-20,720,Rhea County,Dayton,37321,2020-08-05,Hybrid-Parent Choice,,
 2020-09-12,581,Richard City,South Pittsburg,37380,2020-08-11,Remote Only,,
 2020-09-19,581,Richard City,South Pittsburg,37380,2020-08-11,Remote Only,,
 2020-10-29,581,Richard City,South Pittsburg,37380,2020-08-11,Remote Only,,
@@ -1353,8 +1353,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,581,Richard City,South Pittsburg,37380,2020-08-11,Remote Only,,
 2021-03-17,581,Richard City,South Pittsburg,37380,2020-08-11,Remote Only,,
 2021-03-24,581,Richard City,South Pittsburg,37380,2020-08-11,Remote Only,,
-2021-04-07,581,Richard City,South Pittsburg,37380,2020-08-11,Remote Only,,
-2021-04-14,581,Richard City,South Pittsburg,37380,2020-08-11,Remote Only,,
+2021-04-13,581,Richard City,South Pittsburg,37380,2020-08-11,Remote Only,,
+2021-04-20,581,Richard City,South Pittsburg,37380,2020-08-11,Remote Only,,
 2020-09-12,730,Roane County,Kingston,37763,2020-08-19,Hybrid-Parent Choice,,
 2020-09-19,730,Roane County,Kingston,37763,2020-08-19,Hybrid-Parent Choice,5.0,0.0
 2020-10-29,730,Roane County,Kingston,37763,2020-08-19,Hybrid-Parent Choice,3.0,10.0
@@ -1365,8 +1365,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,730,Roane County,Kingston,37763,2020-08-19,Hybrid-Parent Choice,3.0,0.0
 2021-03-17,730,Roane County,Kingston,37763,2020-08-19,Hybrid-Parent Choice,3.0,0.0
 2021-03-24,730,Roane County,Kingston,37763,2020-08-19,Hybrid-Parent Choice,,
-2021-04-07,730,Roane County,Kingston,37763,2020-08-19,Hybrid-Parent Choice,1.0,0.0
-2021-04-14,730,Roane County,Kingston,37763,2020-08-19,Hybrid-Parent Choice,,
+2021-04-13,730,Roane County,Kingston,37763,2020-08-19,Hybrid-Parent Choice,,
+2021-04-20,730,Roane County,Kingston,37763,2020-08-19,Hybrid-Parent Choice,,
 2020-09-12,740,Robertson County,Springfield,37172,2020-08-19,Hybrid-Parent Choice,9.0,0.0
 2020-09-19,740,Robertson County,Springfield,37172,2020-08-19,Hybrid-Parent Choice,12.0,1.0
 2020-10-29,740,Robertson County,Springfield,37172,2020-08-19,Hybrid-Parent Choice,24.0,9.0
@@ -1377,8 +1377,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,740,Robertson County,Springfield,37172,2020-08-19,In Person-Parent Choice,3.0,4.0
 2021-03-17,740,Robertson County,Springfield,37172,2020-08-19,In Person-Parent Choice,3.0,4.0
 2021-03-24,740,Robertson County,Springfield,37172,2020-08-19,In Person-Parent Choice,0.0,0.0
-2021-04-07,740,Robertson County,Springfield,37172,2020-08-19,In Person-Parent Choice,8.0,5.0
-2021-04-14,740,Robertson County,Springfield,37172,2020-08-19,In Person-Parent Choice,12.0,1.0
+2021-04-13,740,Robertson County,Springfield,37172,2020-08-19,In Person-Parent Choice,12.0,1.0
+2021-04-20,740,Robertson County,Springfield,37172,2020-08-19,In Person-Parent Choice,13.0,1.0
 2020-09-12,371,Rogersville,Rogersville,37857,2020-08-10,Hybrid-Parent Choice,,
 2020-09-19,371,Rogersville,Rogersville,37857,2020-08-10,Hybrid-Parent Choice,,
 2020-10-29,371,Rogersville,Rogersville,37857,2020-08-10,Hybrid-Parent Choice,,
@@ -1389,8 +1389,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,371,Rogersville,Rogersville,37857,2020-08-10,Hybrid-Parent Choice,,
 2021-03-17,371,Rogersville,Rogersville,37857,2020-08-10,Hybrid-Parent Choice,,
 2021-03-24,371,Rogersville,Rogersville,37857,2020-08-10,Hybrid-Parent Choice,,
-2021-04-07,371,Rogersville,Rogersville,37857,2020-08-10,Hybrid-Parent Choice,,
-2021-04-14,371,Rogersville,Rogersville,37857,2020-08-10,Hybrid-Parent Choice,,
+2021-04-13,371,Rogersville,Rogersville,37857,2020-08-10,Hybrid-Parent Choice,,
+2021-04-20,371,Rogersville,Rogersville,37857,2020-08-10,Hybrid-Parent Choice,,
 2020-09-12,750,Rutherford County,Murfreesboro,37128,2020-08-13,Hybrid-Parent Choice,36.0,24.0
 2020-09-19,750,Rutherford County,Murfreesboro,37128,2020-08-13,Hybrid-Parent Choice,14.0,8.0
 2020-10-29,750,Rutherford County,Murfreesboro,37128,2020-08-13,Hybrid-Parent Choice,78.0,24.0
@@ -1401,8 +1401,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,750,Rutherford County,Murfreesboro,37128,2020-08-13,In Person-Parent Choice,60.0,7.0
 2021-03-17,750,Rutherford County,Murfreesboro,37128,2020-08-13,In Person-Parent Choice,60.0,7.0
 2021-03-24,750,Rutherford County,Murfreesboro,37128,2020-08-13,In Person-Parent Choice,70.0,20.0
-2021-04-07,750,Rutherford County,Murfreesboro,37128,2020-08-13,In Person-Parent Choice,3.0,7.0
-2021-04-14,750,Rutherford County,Murfreesboro,37128,2020-08-13,In Person-Parent Choice,75.0,4.0
+2021-04-13,750,Rutherford County,Murfreesboro,37128,2020-08-13,In Person-Parent Choice,75.0,4.0
+2021-04-20,750,Rutherford County,Murfreesboro,37128,2020-08-13,In Person-Parent Choice,38.0,3.0
 2020-09-12,760,Scott County,Huntsville,37756,2020-08-10,Hybrid-Parent Choice,,
 2020-09-19,760,Scott County,Huntsville,37756,2020-08-10,Hybrid-Parent Choice,3.0,1.0
 2020-10-29,760,Scott County,Huntsville,37756,2020-08-10,Hybrid-Parent Choice,3.0,0.0
@@ -1413,8 +1413,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,760,Scott County,Huntsville,37756,2020-08-10,Hybrid-Parent Choice,3.0,1.0
 2021-03-17,760,Scott County,Huntsville,37756,2020-08-10,Hybrid-Parent Choice,3.0,1.0
 2021-03-24,760,Scott County,Huntsville,37756,2020-08-10,Hybrid-Parent Choice,5.0,1.0
-2021-04-07,760,Scott County,Huntsville,37756,2020-08-10,Hybrid-Parent Choice,7.0,1.0
-2021-04-14,760,Scott County,Huntsville,37756,2020-08-10,Hybrid-Parent Choice,,
+2021-04-13,760,Scott County,Huntsville,37756,2020-08-10,Hybrid-Parent Choice,,
+2021-04-20,760,Scott County,Huntsville,37756,2020-08-10,Hybrid-Parent Choice,4.0,0.0
 2020-09-12,770,Sequatchie County,Dunlap,37327,2020-08-03,Hybrid-Parent Choice,1.0,0.0
 2020-09-19,770,Sequatchie County,Dunlap,37327,2020-08-03,Hybrid-Parent Choice,0.0,0.0
 2020-10-29,770,Sequatchie County,Dunlap,37327,2020-08-03,Hybrid-Parent Choice,0.0,1.0
@@ -1425,8 +1425,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,770,Sequatchie County,Dunlap,37327,2020-08-03,Hybrid-Parent Choice,2.0,0.0
 2021-03-17,770,Sequatchie County,Dunlap,37327,2020-08-03,Hybrid-Parent Choice,2.0,0.0
 2021-03-24,770,Sequatchie County,Dunlap,37327,2020-08-03,Hybrid-Parent Choice,1.0,0.0
-2021-04-07,770,Sequatchie County,Dunlap,37327,2020-08-03,Hybrid-Parent Choice,0.0,0.0
-2021-04-14,770,Sequatchie County,Dunlap,37327,2020-08-03,Hybrid-Parent Choice,0.0,1.0
+2021-04-13,770,Sequatchie County,Dunlap,37327,2020-08-03,Hybrid-Parent Choice,0.0,1.0
+2021-04-20,770,Sequatchie County,Dunlap,37327,2020-08-03,Hybrid-Parent Choice,0.0,0.0
 2020-09-12,780,Sevier County,Sevierville,37862,2020-08-13,Hybrid-Parent Choice,,
 2020-09-19,780,Sevier County,Sevierville,37862,2020-08-13,Hybrid-Parent Choice,,
 2020-10-29,780,Sevier County,Sevierville,37862,2020-08-13,Hybrid-Parent Choice,0.0,0.0
@@ -1437,8 +1437,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,780,Sevier County,Sevierville,37862,2020-08-13,Hybrid-Parent Choice,14.0,0.0
 2021-03-17,780,Sevier County,Sevierville,37862,2020-08-13,Hybrid-Parent Choice,14.0,0.0
 2021-03-24,780,Sevier County,Sevierville,37862,2020-08-13,Hybrid-Parent Choice,7.0,0.0
-2021-04-07,780,Sevier County,Sevierville,37862,2020-08-13,Hybrid-Parent Choice,,
-2021-04-14,780,Sevier County,Sevierville,37862,2020-08-13,Hybrid-Parent Choice,0.0,0.0
+2021-04-13,780,Sevier County,Sevierville,37862,2020-08-13,Hybrid-Parent Choice,0.0,0.0
+2021-04-20,780,Sevier County,Sevierville,37862,2020-08-13,Hybrid-Parent Choice,0.0,0.0
 2020-09-12,792,Shelby County,Memphis,38112,2020-08-31,Remote Only,,
 2020-09-19,792,Shelby County,Memphis,38112,2020-08-31,Remote Only,,
 2020-10-29,792,Shelby County,Memphis,38112,2020-08-31,Remote Only,1.0,27.0
@@ -1449,8 +1449,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,792,Shelby County,Memphis,38112,2020-08-31,In Person-Parent Choice,6.0,6.0
 2021-03-17,792,Shelby County,Memphis,38112,2020-08-31,In Person-Parent Choice,6.0,6.0
 2021-03-24,792,Shelby County,Memphis,38112,2020-08-31,In Person-Parent Choice,5.0,7.0
-2021-04-07,792,Shelby County,Memphis,38112,2020-08-31,In Person-Parent Choice,,
-2021-04-14,792,Shelby County,Memphis,38112,2020-08-31,In Person-Parent Choice,,
+2021-04-13,792,Shelby County,Memphis,38112,2020-08-31,In Person-Parent Choice,,
+2021-04-20,792,Shelby County,Memphis,38112,2020-08-31,In Person-Parent Choice,,
 2020-09-12,800,Smith County,Carthage,37030,2020-08-05,Hybrid-Parent Choice,,
 2020-09-19,800,Smith County,Carthage,37030,2020-08-05,Hybrid-Parent Choice,,
 2020-10-29,800,Smith County,Carthage,37030,2020-08-05,Hybrid-Parent Choice,,
@@ -1461,8 +1461,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,800,Smith County,Carthage,37030,2020-08-05,Hybrid-Parent Choice,,
 2021-03-17,800,Smith County,Carthage,37030,2020-08-05,Hybrid-Parent Choice,,
 2021-03-24,800,Smith County,Carthage,37030,2020-08-05,Hybrid-Parent Choice,,
-2021-04-07,800,Smith County,Carthage,37030,2020-08-05,Hybrid-Parent Choice,,
-2021-04-14,800,Smith County,Carthage,37030,2020-08-05,Hybrid-Parent Choice,,
+2021-04-13,800,Smith County,Carthage,37030,2020-08-05,Hybrid-Parent Choice,,
+2021-04-20,800,Smith County,Carthage,37030,2020-08-05,Hybrid-Parent Choice,,
 2020-09-12,95,South Carroll,Clarksburg,38324,2020-08-04,Hybrid-Parent Choice,0.0,0.0
 2020-09-19,95,South Carroll,Clarksburg,38324,2020-08-04,Hybrid-Parent Choice,,
 2020-10-29,95,South Carroll,Clarksburg,38324,2020-08-04,Hybrid-Parent Choice,0.0,0.0
@@ -1473,8 +1473,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,95,South Carroll,Clarksburg,38324,2020-08-04,Hybrid-Parent Choice,,
 2021-03-17,95,South Carroll,Clarksburg,38324,2020-08-04,Hybrid-Parent Choice,,
 2021-03-24,95,South Carroll,Clarksburg,38324,2020-08-04,Hybrid-Parent Choice,,
-2021-04-07,95,South Carroll,Clarksburg,38324,2020-08-04,Hybrid-Parent Choice,,
-2021-04-14,95,South Carroll,Clarksburg,38324,2020-08-04,Hybrid-Parent Choice,,
+2021-04-13,95,South Carroll,Clarksburg,38324,2020-08-04,Hybrid-Parent Choice,,
+2021-04-20,95,South Carroll,Clarksburg,38324,2020-08-04,Hybrid-Parent Choice,,
 2020-09-12,810,Stewart County,Dover,37058,2020-08-03,Hybrid-Parent Choice,1.0,5.0
 2020-09-19,810,Stewart County,Dover,37058,2020-08-03,Hybrid-Parent Choice,2.0,4.0
 2020-10-29,810,Stewart County,Dover,37058,2020-08-03,Hybrid-Parent Choice,0.0,0.0
@@ -1485,8 +1485,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,810,Stewart County,Dover,37058,2020-08-03,Hybrid-Parent Choice,6.0,1.0
 2021-03-17,810,Stewart County,Dover,37058,2020-08-03,Hybrid-Parent Choice,6.0,1.0
 2021-03-24,810,Stewart County,Dover,37058,2020-08-03,Hybrid-Parent Choice,0.0,0.0
-2021-04-07,810,Stewart County,Dover,37058,2020-08-03,Hybrid-Parent Choice,1.0,1.0
-2021-04-14,810,Stewart County,Dover,37058,2020-08-03,Hybrid-Parent Choice,2.0,0.0
+2021-04-13,810,Stewart County,Dover,37058,2020-08-03,Hybrid-Parent Choice,2.0,0.0
+2021-04-20,810,Stewart County,Dover,37058,2020-08-03,Hybrid-Parent Choice,1.0,0.0
 2020-09-12,820,Sullivan County,Blountville,37617,2020-08-03,Hybrid-Parent Choice,,
 2020-09-19,820,Sullivan County,Blountville,37617,2020-08-03,Hybrid-Parent Choice,0.0,1.0
 2020-10-29,820,Sullivan County,Blountville,37617,2020-08-03,Hybrid-Parent Choice,0.0,0.0
@@ -1497,8 +1497,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,820,Sullivan County,Blountville,37617,2020-08-03,In Person-Parent Choice,0.0,0.0
 2021-03-17,820,Sullivan County,Blountville,37617,2020-08-03,In Person-Parent Choice,0.0,0.0
 2021-03-24,820,Sullivan County,Blountville,37617,2020-08-03,In Person-Parent Choice,0.0,0.0
-2021-04-07,820,Sullivan County,Blountville,37617,2020-08-03,In Person-Parent Choice,0.0,0.0
-2021-04-14,820,Sullivan County,Blountville,37617,2020-08-03,In Person-Parent Choice,0.0,0.0
+2021-04-13,820,Sullivan County,Blountville,37617,2020-08-03,In Person-Parent Choice,0.0,0.0
+2021-04-20,820,Sullivan County,Blountville,37617,2020-08-03,In Person-Parent Choice,6.0,0.0
 2020-09-12,830,Sumner County,Gallatin,37066,2020-08-03,Hybrid-Parent Choice,13.0,10.0
 2020-09-19,830,Sumner County,Gallatin,37066,2020-08-03,Hybrid-Parent Choice,18.0,6.0
 2020-10-29,830,Sumner County,Gallatin,37066,2020-08-03,Hybrid-Parent Choice,49.0,27.0
@@ -1509,8 +1509,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,830,Sumner County,Gallatin,37066,2020-08-03,Hybrid-Parent Choice,35.0,8.0
 2021-03-17,830,Sumner County,Gallatin,37066,2020-08-03,Hybrid-Parent Choice,35.0,8.0
 2021-03-24,830,Sumner County,Gallatin,37066,2020-08-03,Hybrid-Parent Choice,,
-2021-04-07,830,Sumner County,Gallatin,37066,2020-08-03,Hybrid-Parent Choice,25.0,9.0
-2021-04-14,830,Sumner County,Gallatin,37066,2020-08-03,Hybrid-Parent Choice,54.0,6.0
+2021-04-13,830,Sumner County,Gallatin,37066,2020-08-03,Hybrid-Parent Choice,54.0,6.0
+2021-04-20,830,Sumner County,Gallatin,37066,2020-08-03,Hybrid-Parent Choice,31.0,8.0
 2020-09-12,621,Sweetwater,Sweetwater,37874,2020-08-07,Hybrid-Parent Choice,,
 2020-09-19,621,Sweetwater,Sweetwater,37874,2020-08-07,Hybrid-Parent Choice,0.0,0.0
 2020-10-29,621,Sweetwater,Sweetwater,37874,2020-08-07,Hybrid-Parent Choice,1.0,3.0
@@ -1521,8 +1521,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,621,Sweetwater,Sweetwater,37874,2020-08-07,Hybrid-Parent Choice,0.0,0.0
 2021-03-17,621,Sweetwater,Sweetwater,37874,2020-08-07,Hybrid-Parent Choice,0.0,0.0
 2021-03-24,621,Sweetwater,Sweetwater,37874,2020-08-07,Hybrid-Parent Choice,,
-2021-04-07,621,Sweetwater,Sweetwater,37874,2020-08-07,Hybrid-Parent Choice,,
-2021-04-14,621,Sweetwater,Sweetwater,37874,2020-08-07,Hybrid-Parent Choice,1.0,0.0
+2021-04-13,621,Sweetwater,Sweetwater,37874,2020-08-07,Hybrid-Parent Choice,1.0,0.0
+2021-04-20,621,Sweetwater,Sweetwater,37874,2020-08-07,Hybrid-Parent Choice,0.0,0.0
 2020-09-12,963,Tennessee School for Blind,Nashville,37214,2020-08-17,Hybrid-Parent Choice,0.0,0.0
 2020-09-19,963,Tennessee School for Blind,Nashville,37214,2020-08-17,Hybrid-Parent Choice,,
 2020-10-29,963,Tennessee School for Blind,Nashville,37214,2020-08-17,Remote Only,0.0,0.0
@@ -1533,8 +1533,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,963,Tennessee School for Blind,Nashville,37214,2020-08-17,In Person-Parent Choice,0.0,0.0
 2021-03-17,963,Tennessee School for Blind,Nashville,37214,2020-08-17,In Person-Parent Choice,0.0,0.0
 2021-03-24,963,Tennessee School for Blind,Nashville,37214,2020-08-17,In Person-Parent Choice,,
-2021-04-07,963,Tennessee School for Blind,Nashville,37214,2020-08-17,In Person-Parent Choice,0.0,0.0
-2021-04-14,963,Tennessee School for Blind,Nashville,37214,2020-08-17,In Person-Parent Choice,,
+2021-04-13,963,Tennessee School for Blind,Nashville,37214,2020-08-17,In Person-Parent Choice,,
+2021-04-20,963,Tennessee School for Blind,Nashville,37214,2020-08-17,In Person-Parent Choice,1.0,0.0
 2020-09-12,964,Tennessee School for the Deaf,Knoxville,37920,2020-08-17,Hybrid-Parent Choice,,
 2020-09-19,964,Tennessee School for the Deaf,Knoxville,37920,2020-08-17,Hybrid-Parent Choice,0.0,1.0
 2020-10-29,964,Tennessee School for the Deaf,Knoxville,37920,2020-08-17,Hybrid-Parent Choice,2.0,0.0
@@ -1545,8 +1545,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,964,Tennessee School for the Deaf,Knoxville,37920,2020-08-17,Hybrid-Parent Choice,,
 2021-03-17,964,Tennessee School for the Deaf,Knoxville,37920,2020-08-17,Hybrid-Parent Choice,,
 2021-03-24,964,Tennessee School for the Deaf,Knoxville,37920,2020-08-17,Hybrid-Parent Choice,0.0,1.0
-2021-04-07,964,Tennessee School for the Deaf,Knoxville,37920,2020-08-17,Hybrid-Parent Choice,,
-2021-04-14,964,Tennessee School for the Deaf,Knoxville,37920,2020-08-17,Hybrid-Parent Choice,,
+2021-04-13,964,Tennessee School for the Deaf,Knoxville,37920,2020-08-17,Hybrid-Parent Choice,,
+2021-04-20,964,Tennessee School for the Deaf,Knoxville,37920,2020-08-17,Hybrid-Parent Choice,0.0,0.0
 2020-09-12,986,Tennessee State Board of Education,Nashville,37243,2020-08-04,Remote Only,,
 2020-09-19,986,Tennessee State Board of Education,Nashville,37243,2020-08-04,Remote Only,0.0,0.0
 2020-10-29,986,Tennessee State Board of Education,Nashville,37243,2020-08-04,Remote Only,0.0,0.0
@@ -1557,8 +1557,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,986,Tennessee State Board of Education,Nashville,37243,2020-08-04,Hybrid-Parent Choice,0.0,0.0
 2021-03-17,986,Tennessee State Board of Education,Nashville,37243,2020-08-04,Hybrid-Parent Choice,0.0,0.0
 2021-03-24,986,Tennessee State Board of Education,Nashville,37243,2020-08-04,Hybrid-Parent Choice,0.0,0.0
-2021-04-07,986,Tennessee State Board of Education,Nashville,37243,2020-08-04,Hybrid-Parent Choice,,
-2021-04-14,986,Tennessee State Board of Education,Nashville,37243,2020-08-04,Hybrid-Parent Choice,1.0,0.0
+2021-04-13,986,Tennessee State Board of Education,Nashville,37243,2020-08-04,Hybrid-Parent Choice,1.0,0.0
+2021-04-20,986,Tennessee State Board of Education,Nashville,37243,2020-08-04,Hybrid-Parent Choice,0.0,1.0
 2020-09-12,840,Tipton County,Covington,38019,2020-08-17,Hybrid-Parent Choice,1.0,1.0
 2020-09-19,840,Tipton County,Covington,38019,2020-08-17,Hybrid-Parent Choice,0.0,4.0
 2020-10-29,840,Tipton County,Covington,38019,2020-08-17,Hybrid-Parent Choice,16.0,11.0
@@ -1569,8 +1569,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,840,Tipton County,Covington,38019,2020-08-17,Hybrid-Parent Choice,1.0,0.0
 2021-03-17,840,Tipton County,Covington,38019,2020-08-17,Hybrid-Parent Choice,1.0,0.0
 2021-03-24,840,Tipton County,Covington,38019,2020-08-17,Hybrid-Parent Choice,0.0,0.0
-2021-04-07,840,Tipton County,Covington,38019,2020-08-17,Hybrid-Parent Choice,,
-2021-04-14,840,Tipton County,Covington,38019,2020-08-17,Hybrid-Parent Choice,8.0,1.0
+2021-04-13,840,Tipton County,Covington,38019,2020-08-17,Hybrid-Parent Choice,8.0,1.0
+2021-04-20,840,Tipton County,Covington,38019,2020-08-17,Hybrid-Parent Choice,4.0,0.0
 2020-09-12,273,Trenton,Trenton,38382,2020-08-10,Hybrid-Parent Choice,1.0,4.0
 2020-09-19,273,Trenton,Trenton,38382,2020-08-10,Hybrid-Parent Choice,0.0,3.0
 2020-10-29,273,Trenton,Trenton,38382,2020-08-10,Hybrid-Parent Choice,3.0,0.0
@@ -1581,8 +1581,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,273,Trenton,Trenton,38382,2020-08-10,Hybrid-Parent Choice,,
 2021-03-17,273,Trenton,Trenton,38382,2020-08-10,Hybrid-Parent Choice,,
 2021-03-24,273,Trenton,Trenton,38382,2020-08-10,Hybrid-Parent Choice,,
-2021-04-07,273,Trenton,Trenton,38382,2020-08-10,Hybrid-Parent Choice,,
-2021-04-14,273,Trenton,Trenton,38382,2020-08-10,Hybrid-Parent Choice,1.0,0.0
+2021-04-13,273,Trenton,Trenton,38382,2020-08-10,Hybrid-Parent Choice,1.0,0.0
+2021-04-20,273,Trenton,Trenton,38382,2020-08-10,Hybrid-Parent Choice,1.0,0.0
 2020-09-12,850,Trousdale County,Hartsville,37074,2020-07-28,Hybrid-Parent Choice,0.0,1.0
 2020-09-19,850,Trousdale County,Hartsville,37074,2020-07-28,Hybrid-Parent Choice,0.0,0.0
 2020-10-29,850,Trousdale County,Hartsville,37074,2020-07-28,Hybrid-Parent Choice,,
@@ -1593,8 +1593,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,850,Trousdale County,Hartsville,37074,2020-07-28,Hybrid-Parent Choice,0.0,0.0
 2021-03-17,850,Trousdale County,Hartsville,37074,2020-07-28,Hybrid-Parent Choice,0.0,0.0
 2021-03-24,850,Trousdale County,Hartsville,37074,2020-07-28,Hybrid-Parent Choice,,
-2021-04-07,850,Trousdale County,Hartsville,37074,2020-07-28,Hybrid-Parent Choice,5.0,0.0
-2021-04-14,850,Trousdale County,Hartsville,37074,2020-07-28,Hybrid-Parent Choice,0.0,0.0
+2021-04-13,850,Trousdale County,Hartsville,37074,2020-07-28,Hybrid-Parent Choice,0.0,0.0
+2021-04-20,850,Trousdale County,Hartsville,37074,2020-07-28,Hybrid-Parent Choice,0.0,0.0
 2020-09-12,162,Tullahoma,Tullahoma,37388,2020-07-29,Hybrid-Parent Choice,5.0,2.0
 2020-09-19,162,Tullahoma,Tullahoma,37388,2020-07-29,Hybrid-Parent Choice,3.0,2.0
 2020-10-29,162,Tullahoma,Tullahoma,37388,2020-07-29,Hybrid-Parent Choice,0.0,0.0
@@ -1605,8 +1605,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,162,Tullahoma,Tullahoma,37388,2020-07-29,Hybrid-Parent Choice,0.0,0.0
 2021-03-17,162,Tullahoma,Tullahoma,37388,2020-07-29,Hybrid-Parent Choice,0.0,0.0
 2021-03-24,162,Tullahoma,Tullahoma,37388,2020-07-29,Hybrid-Parent Choice,0.0,0.0
-2021-04-07,162,Tullahoma,Tullahoma,37388,2020-07-29,Hybrid-Parent Choice,0.0,0.0
-2021-04-14,162,Tullahoma,Tullahoma,37388,2020-07-29,Hybrid-Parent Choice,0.0,0.0
+2021-04-13,162,Tullahoma,Tullahoma,37388,2020-07-29,Hybrid-Parent Choice,0.0,0.0
+2021-04-20,162,Tullahoma,Tullahoma,37388,2020-07-29,Hybrid-Parent Choice,0.0,0.0
 2020-09-12,860,Unicoi County,Erwin,37650,2020-08-10,In Person,1.0,1.0
 2020-09-19,860,Unicoi County,Erwin,37650,2020-08-10,In Person,2.0,1.0
 2020-10-29,860,Unicoi County,Erwin,37650,2020-08-10,In Person,,
@@ -1617,8 +1617,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,860,Unicoi County,Erwin,37650,2020-08-10,In Person,,
 2021-03-17,860,Unicoi County,Erwin,37650,2020-08-10,In Person,,
 2021-03-24,860,Unicoi County,Erwin,37650,2020-08-10,In Person,,
-2021-04-07,860,Unicoi County,Erwin,37650,2020-08-10,In Person,,
-2021-04-14,860,Unicoi County,Erwin,37650,2020-08-10,In Person,,
+2021-04-13,860,Unicoi County,Erwin,37650,2020-08-10,In Person,,
+2021-04-20,860,Unicoi County,Erwin,37650,2020-08-10,In Person,,
 2020-09-12,661,Union City,Union City,38261,2020-08-04,Hybrid-Parent Choice,1.0,7.0
 2020-09-19,661,Union City,Union City,38261,2020-08-04,Hybrid-Parent Choice,,
 2020-10-29,661,Union City,Union City,38261,2020-08-04,Hybrid-Parent Choice,7.0,4.0
@@ -1629,8 +1629,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,661,Union City,Union City,38261,2020-08-04,In Person,0.0,0.0
 2021-03-17,661,Union City,Union City,38261,2020-08-04,In Person,0.0,0.0
 2021-03-24,661,Union City,Union City,38261,2020-08-04,In Person,,
-2021-04-07,661,Union City,Union City,38261,2020-08-04,In Person,,
-2021-04-14,661,Union City,Union City,38261,2020-08-04,In Person,,
+2021-04-13,661,Union City,Union City,38261,2020-08-04,In Person,,
+2021-04-20,661,Union City,Union City,38261,2020-08-04,In Person,,
 2020-09-12,870,Union County,Maynardville,37807,2020-08-04,Hybrid-Parent Choice,0.0,1.0
 2020-09-19,870,Union County,Maynardville,37807,2020-08-04,Hybrid-Parent Choice,1.0,2.0
 2020-10-29,870,Union County,Maynardville,37807,2020-08-04,Hybrid-Parent Choice,5.0,0.0
@@ -1641,8 +1641,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,870,Union County,Maynardville,37807,2020-08-04,Hybrid-Parent Choice,,
 2021-03-17,870,Union County,Maynardville,37807,2020-08-04,Hybrid-Parent Choice,,
 2021-03-24,870,Union County,Maynardville,37807,2020-08-04,Hybrid-Parent Choice,,
-2021-04-07,870,Union County,Maynardville,37807,2020-08-04,Hybrid-Parent Choice,,
-2021-04-14,870,Union County,Maynardville,37807,2020-08-04,Hybrid-Parent Choice,,
+2021-04-13,870,Union County,Maynardville,37807,2020-08-04,Hybrid-Parent Choice,,
+2021-04-20,870,Union County,Maynardville,37807,2020-08-04,Hybrid-Parent Choice,,
 2020-09-12,880,Van Buren County,Spencer,38585,2020-08-05,Hybrid-Parent Choice,,
 2020-09-19,880,Van Buren County,Spencer,38585,2020-08-05,Hybrid-Parent Choice,3.0,0.0
 2020-10-29,880,Van Buren County,Spencer,38585,2020-08-05,Hybrid-Parent Choice,0.0,0.0
@@ -1653,8 +1653,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,880,Van Buren County,Spencer,38585,2020-08-05,Hybrid-Parent Choice,0.0,0.0
 2021-03-17,880,Van Buren County,Spencer,38585,2020-08-05,Hybrid-Parent Choice,0.0,0.0
 2021-03-24,880,Van Buren County,Spencer,38585,2020-08-05,Hybrid-Parent Choice,,
-2021-04-07,880,Van Buren County,Spencer,38585,2020-08-05,Hybrid-Parent Choice,1.0,0.0
-2021-04-14,880,Van Buren County,Spencer,38585,2020-08-05,Hybrid-Parent Choice,2.0,1.0
+2021-04-13,880,Van Buren County,Spencer,38585,2020-08-05,Hybrid-Parent Choice,2.0,1.0
+2021-04-20,880,Van Buren County,Spencer,38585,2020-08-05,Hybrid-Parent Choice,2.0,0.0
 2020-09-12,890,Warren County,McMinnville,37110,2020-08-10,Hybrid-Parent Choice,23.0,4.0
 2020-09-19,890,Warren County,McMinnville,37110,2020-08-10,Hybrid-Parent Choice,3.0,0.0
 2020-10-29,890,Warren County,McMinnville,37110,2020-08-10,Hybrid-Parent Choice,18.0,1.0
@@ -1665,8 +1665,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,890,Warren County,McMinnville,37110,2020-08-10,In Person-Parent Choice,,
 2021-03-17,890,Warren County,McMinnville,37110,2020-08-10,In Person-Parent Choice,,
 2021-03-24,890,Warren County,McMinnville,37110,2020-08-10,In Person-Parent Choice,0.0,0.0
-2021-04-07,890,Warren County,McMinnville,37110,2020-08-10,In Person-Parent Choice,,
-2021-04-14,890,Warren County,McMinnville,37110,2020-08-10,In Person-Parent Choice,,
+2021-04-13,890,Warren County,McMinnville,37110,2020-08-10,In Person-Parent Choice,,
+2021-04-20,890,Warren County,McMinnville,37110,2020-08-10,In Person-Parent Choice,6.0,0.0
 2020-09-12,900,Washington County,Jonesborough,37659,2020-08-03,Hybrid-Parent Choice,,
 2020-09-19,900,Washington County,Jonesborough,37659,2020-08-03,Hybrid-Parent Choice,2.0,0.0
 2020-10-29,900,Washington County,Jonesborough,37659,2020-08-03,Remote Only,8.0,0.0
@@ -1677,8 +1677,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,900,Washington County,Jonesborough,37659,2020-08-03,Remote Only,0.0,0.0
 2021-03-17,900,Washington County,Jonesborough,37659,2020-08-03,Remote Only,0.0,0.0
 2021-03-24,900,Washington County,Jonesborough,37659,2020-08-03,Remote Only,6.0,0.0
-2021-04-07,900,Washington County,Jonesborough,37659,2020-08-03,In Person-Parent Choice,,
-2021-04-14,900,Washington County,Jonesborough,37659,2020-08-03,In Person-Parent Choice,18.0,0.0
+2021-04-13,900,Washington County,Jonesborough,37659,2020-08-03,In Person-Parent Choice,18.0,0.0
+2021-04-20,900,Washington County,Jonesborough,37659,2020-08-03,In Person-Parent Choice,12.0,1.0
 2020-09-12,910,Wayne County,Waynesboro,38485,2020-08-12,Hybrid-Parent Choice,4.0,0.0
 2020-09-19,910,Wayne County,Waynesboro,38485,2020-08-12,Hybrid-Parent Choice,2.0,0.0
 2020-10-29,910,Wayne County,Waynesboro,38485,2020-08-12,Hybrid-Parent Choice,0.0,0.0
@@ -1689,8 +1689,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,910,Wayne County,Waynesboro,38485,2020-08-12,In Person-Parent Choice,0.0,0.0
 2021-03-17,910,Wayne County,Waynesboro,38485,2020-08-12,In Person-Parent Choice,0.0,0.0
 2021-03-24,910,Wayne County,Waynesboro,38485,2020-08-12,In Person-Parent Choice,,
-2021-04-07,910,Wayne County,Waynesboro,38485,2020-08-12,In Person-Parent Choice,,
-2021-04-14,910,Wayne County,Waynesboro,38485,2020-08-12,In Person-Parent Choice,0.0,0.0
+2021-04-13,910,Wayne County,Waynesboro,38485,2020-08-12,In Person-Parent Choice,0.0,0.0
+2021-04-20,910,Wayne County,Waynesboro,38485,2020-08-12,In Person-Parent Choice,0.0,0.0
 2020-09-12,920,Weakley County,Dresden,38225,2020-08-17,Hybrid-Parent Choice,,
 2020-09-19,920,Weakley County,Dresden,38225,2020-08-17,Hybrid-Parent Choice,,
 2020-10-29,920,Weakley County,Dresden,38225,2020-08-17,Hybrid-Parent Choice,8.0,2.0
@@ -1701,8 +1701,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,920,Weakley County,Dresden,38225,2020-08-17,Hybrid-Parent Choice,5.0,0.0
 2021-03-17,920,Weakley County,Dresden,38225,2020-08-17,Hybrid-Parent Choice,5.0,0.0
 2021-03-24,920,Weakley County,Dresden,38225,2020-08-17,Hybrid-Parent Choice,3.0,0.0
-2021-04-07,920,Weakley County,Dresden,38225,2020-08-17,Hybrid-Parent Choice,,
-2021-04-14,920,Weakley County,Dresden,38225,2020-08-17,Hybrid-Parent Choice,4.0,2.0
+2021-04-13,920,Weakley County,Dresden,38225,2020-08-17,Hybrid-Parent Choice,4.0,2.0
+2021-04-20,920,Weakley County,Dresden,38225,2020-08-17,Hybrid-Parent Choice,3.0,1.0
 2020-09-12,97,West Carroll Sp Dist,Atwood,38220,2020-08-04,Hybrid-Parent Choice,2.0,0.0
 2020-09-19,97,West Carroll Sp Dist,Atwood,38220,2020-08-04,Hybrid-Parent Choice,,
 2020-10-29,97,West Carroll Sp Dist,Atwood,38220,2020-08-04,Hybrid-Parent Choice,0.0,0.0
@@ -1713,8 +1713,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,97,West Carroll Sp Dist,Atwood,38220,2020-08-04,Hybrid-Parent Choice,1.0,0.0
 2021-03-17,97,West Carroll Sp Dist,Atwood,38220,2020-08-04,Hybrid-Parent Choice,1.0,0.0
 2021-03-24,97,West Carroll Sp Dist,Atwood,38220,2020-08-04,Hybrid-Parent Choice,0.0,0.0
-2021-04-07,97,West Carroll Sp Dist,Atwood,38220,2020-08-04,Hybrid-Parent Choice,0.0,0.0
-2021-04-14,97,West Carroll Sp Dist,Atwood,38220,2020-08-04,Hybrid-Parent Choice,,
+2021-04-13,97,West Carroll Sp Dist,Atwood,38220,2020-08-04,Hybrid-Parent Choice,,
+2021-04-20,97,West Carroll Sp Dist,Atwood,38220,2020-08-04,Hybrid-Parent Choice,,
 2020-09-12,960,West Tennessee School for the Deaf,Jackson,38301,2020-08-06,Hybrid-Parent Choice,,
 2020-09-19,960,West Tennessee School for the Deaf,Jackson,38301,2020-08-06,Hybrid-Parent Choice,0.0,0.0
 2020-10-29,960,West Tennessee School for the Deaf,Jackson,38301,2020-08-06,Hybrid-Parent Choice,0.0,0.0
@@ -1725,8 +1725,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,960,West Tennessee School for the Deaf,Jackson,38301,2020-08-06,Hybrid-Parent Choice,,
 2021-03-17,960,West Tennessee School for the Deaf,Jackson,38301,2020-08-06,Hybrid-Parent Choice,,
 2021-03-24,960,West Tennessee School for the Deaf,Jackson,38301,2020-08-06,Hybrid-Parent Choice,0.0,0.0
-2021-04-07,960,West Tennessee School for the Deaf,Jackson,38301,2020-08-06,Hybrid-Parent Choice,,
-2021-04-14,960,West Tennessee School for the Deaf,Jackson,38301,2020-08-06,Hybrid-Parent Choice,,
+2021-04-13,960,West Tennessee School for the Deaf,Jackson,38301,2020-08-06,Hybrid-Parent Choice,,
+2021-04-20,960,West Tennessee School for the Deaf,Jackson,38301,2020-08-06,Hybrid-Parent Choice,0.0,0.0
 2020-09-12,930,White County,Sparta,38583,2020-08-07,In Person,18.0,7.0
 2020-09-19,930,White County,Sparta,38583,2020-08-07,In Person,10.0,3.0
 2020-10-29,930,White County,Sparta,38583,2020-08-07,In Person,9.0,9.0
@@ -1737,8 +1737,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,930,White County,Sparta,38583,2020-08-07,In Person,,
 2021-03-17,930,White County,Sparta,38583,2020-08-07,In Person,,
 2021-03-24,930,White County,Sparta,38583,2020-08-07,In Person,,
-2021-04-07,930,White County,Sparta,38583,2020-08-07,In Person,,
-2021-04-14,930,White County,Sparta,38583,2020-08-07,In Person,,
+2021-04-13,930,White County,Sparta,38583,2020-08-07,In Person,,
+2021-04-20,930,White County,Sparta,38583,2020-08-07,In Person,,
 2020-09-12,940,Williamson County,Franklin,37064,2020-08-07,Hybrid-Parent Choice,16.0,7.0
 2020-09-19,940,Williamson County,Franklin,37064,2020-08-07,Hybrid-Parent Choice,37.0,5.0
 2020-10-29,940,Williamson County,Franklin,37064,2020-08-07,Hybrid-Parent Choice,6.0,0.0
@@ -1749,8 +1749,8 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,940,Williamson County,Franklin,37064,2020-08-07,In Person,7.0,0.0
 2021-03-17,940,Williamson County,Franklin,37064,2020-08-07,In Person,7.0,0.0
 2021-03-24,940,Williamson County,Franklin,37064,2020-08-07,In Person,0.0,0.0
-2021-04-07,940,Williamson County,Franklin,37064,2020-08-07,In Person,8.0,0.0
-2021-04-14,940,Williamson County,Franklin,37064,2020-08-07,In Person,19.0,0.0
+2021-04-13,940,Williamson County,Franklin,37064,2020-08-07,In Person,19.0,0.0
+2021-04-20,940,Williamson County,Franklin,37064,2020-08-07,In Person,6.0,0.0
 2020-09-12,950,Wilson County,Lebanon,37087,2020-08-03,Hybrid-Parent Choice,14.0,5.0
 2020-09-19,950,Wilson County,Lebanon,37087,2020-08-03,Hybrid-Parent Choice,12.0,3.0
 2020-10-29,950,Wilson County,Lebanon,37087,2020-08-03,Hybrid-Grade Bands,,
@@ -1761,5 +1761,5 @@ date,id,name,city,zip,schoolOpeningDate,operatingModel,new_cases_students,new_ca
 2021-03-16,950,Wilson County,Lebanon,37087,2020-08-03,Hybrid-Grade Bands,0.0,0.0
 2021-03-17,950,Wilson County,Lebanon,37087,2020-08-03,Hybrid-Grade Bands,0.0,0.0
 2021-03-24,950,Wilson County,Lebanon,37087,2020-08-03,Hybrid-Grade Bands,40.0,0.0
-2021-04-07,950,Wilson County,Lebanon,37087,2020-08-03,Hybrid-Grade Bands,24.0,0.0
-2021-04-14,950,Wilson County,Lebanon,37087,2020-08-03,Hybrid-Grade Bands,8.0,0.0
+2021-04-13,950,Wilson County,Lebanon,37087,2020-08-03,Hybrid-Grade Bands,8.0,0.0
+2021-04-20,950,Wilson County,Lebanon,37087,2020-08-03,Hybrid-Grade Bands,0.0,0.0

@@ -2,6 +2,7 @@ County,School Name,School Address,City,School Grades,num_cases,affecting_who,dat
 Gogebic,A.D. Johnston High School,100 Lead Street,Bessemer,High school,5,Both,2020-10-26
 Genesee,Academy of Flint,2820 Saginaw St.,Flint,Pre-school - elementary,2,Both,2020-12-28
 Oakland,Adams High,3200 W Tienken Rd,Rochester Hills,High school,2,Students,2020-12-07
+Oakland,Adams High School,3200 W Tienken Rd,Rochester Hills,High school,5,Students,2021-04-19
 Lenawee,Addison Schools,219 S Comstock St,Addison,High school,2,Students,2021-03-08
 Lenawee,Adrian High School,785 Riverside Ave,Adrian,High school,3,Students,2020-11-02
 Lenawee,Adrian Schools,785 Riverside Ave.,Adrian,High school,9,Both,2021-04-12
@@ -18,6 +19,7 @@ Allegan,Allegan High School,1560 M-40,Allegan,High school,3,Students,2020-12-07
 Wayne,Allen Park High School,18401 Champaign Rd,Allen Park,High school,4,Students,2021-03-15
 Ottawa,Allendale High School,10760 68th Ave,Allendale,High school,2,Students,2020-12-07
 Ottawa,Allendale High School,10760 68th Ave,Allendale,High school,2,Students,2021-04-05
+Ottawa,Allendale Middle School,7161 Pleasant View Ct,Allendale,Junior high/middle school,4,Students,2021-04-19
 Gratiot,Alma High School,1500 N Pine Ave,Alma,High school,4,Students,2021-04-05
 Lapeer,Almont High School,4701 Howland Rd.,Almont,High school,3,Students,2020-10-05
 Lapeer,Almont High School,4701 Howland Rd,Almont,High school,3,Students,2020-11-16
@@ -64,11 +66,13 @@ Jackson,Bean Elementary,3201 Noble Rd,Spring Arbor,Pre-school - elementary,3,bot
 Manistee,Bear Lake Elementary School,7748 Cody St.,Bear Lake,Pre-school - elementary,2,Both,2021-02-01
 Gladwin,Beaverton Elementary,440 S. Ross Street,Beaverton,Pre-school - elementary,5,Both,2020-11-23
 Gladwin,Beaverton Elementary,440 S. Ross Street,Beaverton,Pre-school - elementary,3,Both,2021-01-25
+Gladwin,Beaverton High School,3090 Crockett Rd,Beaverton,High school,9,Students,2021-04-19
 Macomb,Beck Elementary,54600 Hayes Rd.,Macomb,Pre-school - elementary,2,Both,2021-04-12
 Monroe,Bedford High School,8285 Jackman Rd,Temperance,High school,12,Students,2021-03-15
 Wayne,Belleville High School,501 W. Columbia Ave,Belleville,High school,3,Students,2021-02-08
 Eaton,Bellevue Elementary,904 W Capital Ave,Bellevue,Pre-school - elementary,6,Both,2021-03-22
 Genesee,Bendle High School,2283 East Scottwood Avenue,Burton,High school,2,Students,2021-03-29
+Wayne,Bentley Elementary School,1100 S. Sheldon Rd,Canton,Pre-school - elementary,3,Students,2021-04-19
 Benzie,Benzie Central Community Schools,9222 Homestead Rd,Benzonia,High school,11,Students,2020-11-02
 Benzie,Benzie Central Community Schools,9300 Homestead Rd,Benzonia,High school,2,Students,2021-01-18
 Berrien,Berrien Springs,430 W Mars St,Berrien Springs,High school,4,Students,2021-03-08
@@ -91,12 +95,14 @@ Marquette,Bothwell,1200 Tierney,Marquette,Junior high/middle school,2,Students,2
 Charlevoix,Boyne City High School,1035 Boyne Ave,Boyne City,High school,3,Students,2021-01-25
 Charlevoix,Boyne Falls School,1662 M-75,Boyne Falls,Junior high/middle school,2,Both,2021-02-08
 Macomb,Bozymowski Center,11870 ELDORADO DR,Sterling Heights,Pre-school - elementary,2,Staff,2020-11-30
+Macomb,Bozymowski Center,11870 Eldorado Dr,Sterling Heights,Pre-school - elementary,2,Staff,2021-04-19
 Allegan,Brandon Elementary School,1583 University St,Martin,Pre-school - elementary,2,Staff,2020-12-14
 Berrien,Brandywine,1700 Bell Rd,Niles,High school,3,Students,2020-11-02
 Berrien,Brandywine Middle/High School,1700 Bell Rd,Niles,Junior high/middle school,2,Staff,2020-12-14
 Berrien,Brandywine Middle/High School,1700 Bell Road,Niles,High school,2,Staff,2021-02-08
 Berrien,Brandywine Middle/High School,1700 Bell Road,Niles,High school,6,Students,2021-03-15
 Berrien,Brandywine Middle/High School,1700 Bell Road,Niles,High school,2,Students,2021-03-15
+Berrien,Brandywine Middle/High School,1700 Bell Road,Niles,High school,2,Students,2021-04-19
 Dickinson,Breitung Township Schools,2000 Pyle Drive,Kingsford,High school,10,Both,2020-10-26
 Kent,Breton Downs Elementary,2500 Boston St SE,Grand Rapids,Pre-school - elementary,2,Both,2020-10-12
 Kent,Breton Downs Elementary,2500 Boston St SE,Grand Rapids,Pre-school - elementary,4,Both,2020-11-09
@@ -106,10 +112,13 @@ Livingston,Brighton High School,7878 Brighton Road,Brighton,High school,2,Studen
 Livingston,Brighton High School,7878 Brighton Road,Brighton,High school,3,Both,2021-03-15
 Livingston,Brighton High School,7878 Brighton Road,Brighton,High school,2,Students,2021-04-05
 Livingston,Brighton High School,7878 Brighton Road,Brighton,High school,3,Students,2021-04-05
+Lenawee,Britton Deerfield,201 College Ave,Britton,High school,8,Students,2021-04-19
+Lenawee,Britton-Deerfield,201 College Ave,Britton,Pre-school - elementary,2,Students,2021-04-19
 Branch,Bronson Community Scool,501 E. Chicago St,Bronson,High school,4,Students,2020-09-28
 Oakland,Brookfield Academy in Troy,3950 Livernois Rd,Troy,Pre-school - elementary,2,Students,2020-09-21
 Oakland,Brooklands Elementary School,490 E. Auburn Rd,Rochester Hills,Pre-school - elementary,2,Students,2021-03-22
 Mecosta,Brookside Elementary,210 Escott St,Big Rapids,Administrative,3,Staff,2020-11-09
+Sanilac,Brown City Schools,4349 Second St,Brown City,High school,10,Both,2021-04-19
 Berrien,Brown Elementary School,2027 Brown School Rd,Saint Joseph,Pre-school - elementary,3,Both,2020-12-14
 Berrien,Buchanan Elementary,109 Ottawa,Buchanan,Pre-school - elementary,4,Staff,2020-11-23
 Berrien,Buchanan High School,401 W Chicago St,Buchanan,High school,2,Students,2021-03-29
@@ -197,12 +206,14 @@ Kalamazoo,Comstock Elementary,1423 N 28th S,Kalamazoo,Pre-school - elementary,2,
 Jackson,Concord Elementary School,405 S. Main Street,Concord,Pre-school - elementary,2,Students,2020-12-07
 Jackson,Concord Middle School,405 S. Main Street,Concord,Junior high/middle school,2,Students,2020-12-07
 Oakland,Cooke Middle School,21200 Taft Rd,Northville,Junior high/middle school,5,Both,2020-12-14
+Wayne,Cooke School,21200 Taft Rd,Northville,Junior high/middle school,5,Both,2021-04-19
 Kalamazoo,Cooper Elementary School,7559 14th St N,Kalamazoo,Pre-school - elementary,2,Staff,2020-10-12
 Ottawa,Coopersville High School,198 East St,Coopersville,High school,2,Students,2020-11-16
 Ottawa,Coopersville Middle School,198 East St,Coopersville,Junior high/middle school,2,Students,2021-01-25
 Ottawa,Coopersville South Elementary,198 East St,Coopersville,Pre-school - elementary,3,Staff,2020-12-14
 Cheboygan,Cornerstone Christian School,900 S Western Ave,Cheboygan,Junior high/middle school,3,Both,2021-03-22
 Livingston,Cornerstone Christian School,9455 Hilton Road,Brighton,Pre-school - elementary,2,Students,2021-03-29
+Oakland,Costello Elementary,1333 Hamman Dr,Troy,Junior high/middle school,2,Students,2021-04-19
 Oakland,Country Oaks Elementary,5070 S Duck Lake Rd,Commerce Charter Township,Junior high/middle school,2,Students,2021-03-15
 Berrien,Countryside Academy,4800 Meadowbrook Rd.,Benton Harbor,Pre-school - elementary,2,Students,2021-04-12
 Berrien,Countryside Academy Upper Elementary,4800 Meadowbrook Road,Benton Harbor,Pre-school - elementary,2,,2021-03-29
@@ -249,6 +260,7 @@ Lapeer,Dryden Elementary,3866 Rochester Rd,Dryden,Pre-school - elementary,2,Both
 Lapeer,Dryden Elementary,3866 Rochester Rd.,Dryden,Pre-school - elementary,2,Both,2021-04-12
 Lapeer,Dryden High School,3866 Dryden High School,Dryden,High school,5,Both,2021-01-25
 Lapeer,Dryden High School,3866 Dryden High School,Dryden,High school,5,Both,2021-02-15
+Lapeer,Dryden High School,3866 Rochester Rd,Dryden,High school,7,Both,2021-04-19
 Washtenaw,EMU Childrens Institute,1055 Cornell Rd,Ypsilanti,Pre-school - elementary,5,Staff,2020-11-23
 Bay,EPS Cramer,313 Pine St,Essexville,Junior high/middle school,4,Both,2020-11-23
 Bay,EPS Garber,213 Pine St,Essexville,High school,3,Students,2020-11-23
@@ -275,6 +287,8 @@ Wayne,East Middle School,1042 S. Mill St.,Plymouth,Junior high/middle school,5,S
 Macomb,Eastland Middle School,18700 Frank St,Roseville,Junior high/middle school,2,Staff,2020-11-23
 Ingham,Eastminster,693 N Hagadorn Rd,East Lansing,Pre-school - elementary,3,Both,2021-02-08
 Berrien,Eau Claire High School,7450 Hochberger Rd.,Eau Claire,High school,6,Students,2021-04-12
+Oakland,Edmonson Elementary,621 E Katherine Ave,Madison Heights,Pre-school - elementary,2,Both,2021-04-19
+Oakland,Edmonson Elementary,621 E Katherine Ave,Madison Heights,Junior high/middle school,3,Student,2021-04-19
 Wayne,Edsel Ford High School,20601 Rotunda Dr,Dearborn,High school,9,Both,2021-03-01
 Cass,Edwardsburg Community Schools,M62,Edwardsburg,Pre-school - elementary,7,Both,2021-02-08
 Cass,Edwardsburg High School Wrestling Team,Section Street,Edwardsburg,High school,7,Students,2021-03-01
@@ -288,6 +302,7 @@ Macomb,Endeavor Middle School,22505 26 Mile Rd,Ray,Junior high/middle school,4,S
 Macomb,Endeavor Middle School,22505 26 Mile Rd.,Ray,Junior high/middle school,2,Students,2021-04-12
 Mackinac,Engadine Cosolidated School,W13920 Melville Street,Engadine,Junior high/middle school,3,Both,2020-11-30
 Delta,Escanaba Jr/Sr High,500 South Lincoln Road,Escanaba,Junior high/middle school,4,Students,2020-09-28
+Delta,Escanaba Jr/Sr High School,500 South Lincoln Rd,Escanaba,High school,4,Students,2021-04-19
 Bay,Essexville Verellen Elementary,612 Borton Rd,Essexville,Pre-school - elementary,3,Students,2020-11-23
 Bay,Faith Lutheran,3033 Wilder Rd,Bay City,Pre-school - elementary,4,Both,2021-03-01
 Oakland,Farmington Hills Schools Maintenance,29350 W. Ten Mile Road,Farmington,Administrative,2,Staff,2020-12-21
@@ -308,6 +323,7 @@ Clinton,Fowler High School Administration,700 S Main St,Fowler,High school,2,Sta
 Macomb,Fox Elementary,17500 Millstone Dr,Macomb,Pre-school - elementary,2,Both,2020-11-09
 Saginaw,Frankenmuth High School,525 E. Genesee,Frankenmuth,High school,3,Staff,2020-11-09
 Benzie,Frankfort Elberta Area Schools,613 Leelanau Ave,Frankfort,High school,2,Students,2020-11-02
+Benzie,Frankfort Elementary School,534 11th St,Frankfort,Pre-school - elementary,5,Both,2021-04-19
 Benzie,Frankfort High School,11th St,Frankfort,High school,11,Students,2021-04-05
 Wexford,Franklin Elementary School,505 Lester St.,Cadillac,Pre-school - elementary,2,Both,2020-12-07
 Wexford,Franklin Elementary School,505 Lester St.,Cadillac,Pre-school - elementary,3,Both,2021-03-29
@@ -327,10 +343,12 @@ Otsego,Gaylord Intermediate School,240 E 4th St,Gaylord,Junior high/middle schoo
 Otsego,Gaylord Intermediate Schools,240 E 4th St,Gaylord,Junior high/middle school,2,Students,2021-03-15
 Otsego,Gaylord Middle School,600 E 5th st,Gaylord,Junior high/middle school,4,Students,2021-03-22
 Jackson,George Long Elementary,829 S. Union St,Grass Lake,Pre-school - elementary,2,Students,2021-02-01
+Wayne,George Washington Carver Academy,14510 2nd Ave,Highland Park,Pre-school - elementary,2,Staff,2021-04-19
 Marquette,Gilbert Elementary,250 W Iron,Gwinn,Pre-school - elementary,2,Both,2020-11-16
 Livingston,Gilden Woods Early Care and Preschool,3811 Grand Oaks Drive,Howell,Pre-school - elementary,3,Both,2020-12-21
 Branch,Girard Head Start (Branch ISD),1001 School Drive,Coldwater,Pre-school - elementary,2,Staff,2020-11-16
 Delta,Gladstone High School,2100 M-35 Highway,Gladstone,High school,2,Staff,2020-10-12
+Delta,Gladstone High School,2100 M-35 Hwy,Gladstone,High school,4,Students,2021-04-19
 Gladwin,Gladwin High School,1400 N. Spring Street,Gladwin,High school,4,Students,2020-11-23
 Gladwin,Gladwin High School,1400 N. Spring Street,Gladwin,High school,2,Students,2021-03-22
 Gladwin,Gladwin Jr/Sr High,401 N. Bowery Street,Gladwin,Junior high/middle school,2,Staff,2021-02-15
@@ -354,6 +372,7 @@ Kent,Grand Rapids Christian High School,2300 Plymouth Ave SE,Grand Rapids,High s
 Kent,Grandville Central Elementary,4052 Prairie St SW,Grandville,Pre-school - elementary,4,Students,2020-11-23
 Newaygo,Grant Middle School,96 E 120th St,Grant,Junior high/middle school,2,Both,2021-04-05
 Newaygo,Grant Public Schools,148 S. Elder,Grant,Junior high/middle school,8,Both,2020-10-05
+Jackson,Grass Lake High School,11500 Warrior Trail,Grass Lake,High school,4,Students,2021-04-19
 Gratiot,Gratiot-Isabella RESD,1131 E Center St.,Ithaca,Administrative,5,Staff,2020-11-23
 Marquette,Graveraet,611 N Front Street,Marquette,Pre-school - elementary,2,Students,2020-11-02
 Montcalm,Greenville Middle School,1321 Chase St.,Greenville,Junior high/middle school,3,Students,2021-04-12
@@ -434,12 +453,14 @@ Livingston,IXL Hamburg,10088 Professional Centre Drive,Hamburg,Pre-school - elem
 Livingston,IXL Hamburg,10088 Professional Centre Dr.,Hamburg,Pre-school - elementary,3,Students,2021-04-12
 Monroe,Ida Elementary School,7900 Ida St.,Ida,Pre-school - elementary,4,Staff,2020-10-19
 Lapeer,Imlay City High School,1001 Norlin Dr,Imlay City,High school,4,Both,2020-11-09
+Lapeer,Imlay City Middle School,495 W. First St,Imlay City,Junior high/middle school,21,Students,2021-04-19
 Macomb,Immanuel Lutheran,47120 Romeo Plank Rd,Macomb,Pre-school - elementary,2,Students,2020-11-23
 Macomb,Immanuel Lutheran,47120 Romeo Plank rd,Macomb,Junior high/middle school,3,Students,2021-03-15
 Oakland,Independence Elementary (Clarkston Schools),6850 Hubbard Rd,Village of Clarkston,Junior high/middle school,2,Both,2021-04-05
 Macomb,Indian Hills Elementary,8401 29 Mile Rd,Washington,Pre-school - elementary,2,Staff,2020-09-28
 Wayne,Inter-City Baptist High School,4700 Allen Rd,Allen Park,High school,4,Students,2021-03-08
 Wayne,Inter-City Baptist School,4700 Allen Rd,Allen Park,Pre-school - elementary,6,Students,2020-12-28
+Grand Traverse,Interlochen Center for the Arts,9900 Diamond Park Rd,Interlochen,High school,8,Students,2021-04-19
 Ionia,Ionia Middle School,438 Union St.,Ionia,Junior high/middle school,3,Students,2021-04-12
 Macomb,Iroquois Middle School,48301 Romeo Plank Rd,Macomb,Junior high/middle school,2,Students,2020-10-26
 Marquette,Ishpeming Middle/High School,319 E. Division Street,Ishpeming,Junior high/middle school,3,Students,2020-11-30
@@ -520,6 +541,7 @@ Leelanau,Leelanau School,1 Old Homestead Rd,Glen Arbor,High school,4,Students,20
 Leelanau,Leland High School,200 N. Grand,Leland,High school,2,Students,2021-04-05
 Lenawee,Lenawee Christian Schools,111 Wolf Creek Hwy,Adrian,High school,3,Students,2021-02-08
 Lenawee,Lenawee Hockey League,111 Wolf Creek Hwy,Adrian,High school,3,Students,2021-02-08
+Lenawee,Lenawee ISD EMT Program,1372 N. Main St,Adrian,High school,3,Students,2021-04-19
 Lenawee,Lenawee TECH Center,1372 N. Main St.,Adrian,High school,3,Both,2020-11-23
 Mackinac,Les Cheneaux Community School,298 M-134,Cedarville,Junior high/middle school,3,Both,2020-11-30
 Mackinac,Les Cheneaux Community School,298 M-134,Cedarville,Pre-school - elementary,3,Both,2021-01-25
@@ -546,9 +568,11 @@ Oakland,Lutheran High NW,1000 Bagley Ave,Rochester Hills,High school,17,Both,202
 Macomb,Lutheran High School North,16825 24 Mile Rd,Macomb,High school,2,Students,2021-04-05
 Wayne,Lutheran Westland High School,33300 Cowan Rd,Westland,High school,4,Students,2020-10-05
 Wayne,Lutheran Westland High School,33300 Cowan Rd,Westland,High school,6,Both,2021-02-22
+Berrien,Lybrook Elementary,6238 W Main St,Eau Claire,Pre-school - elementary,2,Students,2021-04-19
 Jackson,Lyle Torrent,1175 W Parnell Rd.,Jackson,High school,3,Students,2021-03-22
 Ottawa,Macatawa Bay Middle School,3700 140th Ave,Holland,Junior high/middle school,2,Students,2021-04-05
 Bay,Mackensen Elementary,5535 Dennis Dr,Bay City,Pre-school - elementary,2,Both,2020-11-23
+Emmet,Mackinaw High School,609 W Central Ave,Mackinaw City,High school,2,Students,2021-04-19
 Macomb,Macomb Intermediate School District,44001 Garfield,Clinton Township,Pre-school - elementary,2,Staff,2020-09-28
 Lenawee,Madison Schools,3498 Treat Hwy,Madison,Junior high/middle school,2,Students,2020-11-30
 Macomb,Malow Junior High School,6400 25 Mile Rd.,Shelby Township,Junior high/middle school,2,Students,2021-04-12
@@ -573,6 +597,7 @@ Berrien,Mars Elementary Schools,430 W Mars Street,Berrien Springs,Pre-school - e
 Calhoun,Marshall High School,701 N Marshall Ave,Marshall,High school,4,Students,2021-03-29
 Allegan,Martin High School,1556 Chalmers St,Martin,High school,6,Both,2020-10-26
 Ottawa,Mary A White Elementary,1400 Wisconsin Ave.,Grand Haven,Pre-school - elementary,2,Students,2021-04-12
+Oakland,Mary Helen Guest,1655 Decker Rd,Walled Lake,Pre-school - elementary,2,Student,2021-04-19
 St. Clair,Marysville High School,555 East Huron Blvd,Marsyville,High school,5,Both,2021-02-15
 St. Clair,Marysville High School,555 E Huron Blvd,Marysville,High school,12,Both,2021-03-15
 St. Clair,Marysville Middle School,400 Collard Dr,Marysville,Junior high/middle school,3,Students,2021-03-15
@@ -600,6 +625,7 @@ Ingham,Messiah Child Development Center,5740 Holt Rd,Holt,Pre-school - elementar
 Wayne,Metro Charter Academy,34800 Ecorse Rd,Romulus,Pre-school - elementary,3,Staff,2020-10-12
 Macomb,Miami Elementary School,41290 Kentvale,Clinton Township,Pre-school - elementary,2,Staff,2020-10-12
 Jackson,Michigan Center HS,400 S. State St.,Michigan Center,High school,2,Students,2021-04-12
+Washtenaw,Mitchell Elementary,3550 Pittsview Dr,Ann Arbor,Pre-school - elementary,3,Both,2021-04-19
 Isabella,Montabella,1324 N County Line Rd,Blanchard,High school,5,Students,2021-04-05
 Isabella,Montabella Elem,1456 North County Line Rd,Blanchard,Pre-school - elementary,2,Both,2020-11-23
 Montcalm,Montcalm Area ISD,621 New St,Stanton,High school,4,Staff,2020-10-05
@@ -649,8 +675,10 @@ Midland,Northwood University,4000 Whiting Drive,Midland,Administrative,6,Staff,2
 Oakland,Notre Dame Prep Academy,1300 Giddings Rd,Pontiac,High school,2,Students,2021-02-08
 Oakland,Notre Dame Prep Academy,1300 Giddings Rd,Pontiac,High school,11,Students,2021-03-08
 Oakland,Novi High School,24062 Taft Rd,Novi,High school,8,Students,2020-09-21
+Oakland,Novi Kindercare,24250 Homestead Ct,Novi,Pre-school - elementary,2,Student,2021-04-19
 Mason,OJ Dejonge Middle School,706 E Tinkham Ave,Ludington,Junior high/middle school,2,Students,2021-03-15
 Oakland,Oakland Schools Technical Campus Northwest,8211 Big Lake Rd,Clarkston,High school,2,Staff,2020-10-19
+Oakland,Oakley Park Elementary,2015 Oakley Park Rd,Commerce Charter Township,Pre-school - elementary,2,Students,2021-04-19
 Oceana,Oceana Christian School,3258 North 72nd Avenue,Hart,Pre-school - elementary,2,Students,2020-10-26
 Ingham,Okemos High School,2800 Jolly Rd,Okemos,High school,7,Both,2021-03-01
 Eaton,Olivet High School,255 1St St,Olivet,High school,2,Students,2020-11-16
@@ -686,8 +714,10 @@ Oakland,Oxford Middle School,1420 Lakeville Rd,Oxford,Junior high/middle school,
 Oakland,Oxford Middle School,1420 Lakeville Rd.,Oxford,Junior high/middle school,3,Students,2021-04-12
 Oakland,Oxford Middle school,1420 Lakeville Rd,Oxford,Junior high/middle school,3,Students,2021-03-22
 Ottawa,Park Elementary,5525 Park Ave,Hudsonville,Pre-school - elementary,7,Both,2020-10-05
+Macomb,Parker Elementary,22055 Quinn Rd,Clinton Twp,Pre-school - elementary,3,Students,2021-04-19
 Kent,Parkside Elementary,156 Lewis St,Rockford,Pre-school - elementary,2,Staff,2020-09-15
 Eaton,Parkview,301 E Kalamo Hwy,Charlotte,Junior high/middle school,2,Both,2020-11-09
+Eaton,Parkview Elementary,301 E Kalamo Hwy,Charlotte,Pre-school - elementary,2,Students,2021-04-19
 Wayne,Patrick Henry Middle School,24825 Hall Rd,Woodhaven,Junior high/middle school,3,Students,2021-03-15
 Van Buren,Paw Paw High School,Red Arrow Hwy,Paw Paw,High school,4,Students,2020-11-02
 Sanilac,Peck Schools,222 E Lapeer St,Peck,High school,2,Both,2021-03-08
@@ -706,10 +736,12 @@ Allegan,Plainwell High School,684 Starr Rd,Plainwell,High school,7,Students,2020
 Washtenaw,Pleasant Ridge Elementary,229 Pleasant Ridge Drive,Saline,Pre-school - elementary,2,Staff,2020-12-21
 Wayne,Plymouth Christian Academy,43065 Joy Rd,Canton,High school,6,Both,2020-10-19
 Wayne,Plymouth Christian Academy,43065 Joy Rd,Canton,Pre-school - elementary,2,Staff,2021-02-22
+Midland,Plymouth Elementary School,1105 E. Sugnet Rd,Midland,Pre-school - elementary,2,Students,2021-04-19
 Wayne,Plymouth High School,8400 N. Beck Rd,Canton,High school,3,Both,2020-11-30
 Wayne,Plymouth High School,8400 N Beck Rd,Canton,High school,5,Students,2021-03-08
 St. Clair,Port Huron High School,2215 Court St,Port Huron,High school,2,Staff,2020-11-30
 St Clair,Port Huron High School,2215 Court St,Port Huron,High school,5,Students,2021-03-22
+Kalamazoo,Portage Central,8135 S Westnedge Ave,Portage,High school,3,Students,2021-04-19
 Kalamazoo,Portage Central Elementary,8422 S Westnedge Ave,Portage,Pre-school - elementary,15,Both,2021-03-01
 Kalamazoo,Portage Central Elementary,,Portage,Pre-school - elementary,20,Both,2021-03-01
 Kalamazoo,Portage Central HS,,Portage,High school,24,Both,2021-03-08
@@ -789,6 +821,7 @@ Van Buren,South Haven,513 Monroe Blvd,South Haven,Pre-school - elementary,3,Both
 Oakland,South Lyon High School,1000 N Lafayette St,South Lyon,High school,3,Students,2021-04-05
 Barry,Southeastern Elementary,1300 S East St,Hastings,Pre-school - elementary,2,Students,2021-02-01
 Oakland,Southfield Christian School,28650 Lahser Rd,Southfield,High school,5,Students,2021-03-22
+Oakland,Southfield Christian School,28650 Lahser Rd,Southfield,High school,3,Students,2021-04-19
 Wayne,Southgate Anderson High School,15475 Leroy St,Southgate,High school,2,Students,2021-03-01
 Livingston,Southwest Elementary School,915 Gay Street,Howell,Pre-school - elementary,2,Staff,2020-12-07
 Kent,Sparta High School,475 West Spartan Drive,Sparta,High school,4,Both,2020-09-28
@@ -796,6 +829,8 @@ Kent,Sparta High School,475 West Spartan Drive,Sparta,High school,15,Both,2021-0
 Kent,Sparta Middle School,480 S State St,Sparta,Junior high/middle school,2,Both,2020-09-21
 Ottawa,Spring Lake High School,16140 148th Ave,Spring Lake,High school,2,Students,2020-11-16
 Ottawa,Spring Lake High School,16140 148th Ave,Spring Lake,High school,2,Students,2021-03-08
+Ottawa,Spring Lake High School,16140 148th Ave,Spring Lake,High school,2,Students,2021-04-19
+Shiawassee,Spring Vale Christian Academy,4152 S. M-52,Owosso,High school,7,Both,2021-04-19
 Jackson,Springport High School,300 W. Main Street,Springport,High school,2,Students,2020-09-28
 Jackson,Springport High School,300 W. Main,Springport,High school,2,Students,2021-02-01
 Jackson,Springport High School,300 W. Main,Spingport,High school,4,Students,2021-03-15
@@ -826,6 +861,7 @@ Clinton,St. Johns Middle School,900 W Townsend,St Johns,Junior high/middle schoo
 Macomb,St. Lawrence Catholic School,44429 Utica Rd,Utica,Junior high/middle school,4,Students,2020-10-12
 Gratiot,St. Louis High School,113 E Saginaw St,St. Louis,High school,5,Students,2021-04-05
 Clinton,St. Mary School,209 N Westphalia,Westphalia,Pre-school - elementary,3,Students,2021-04-12
+Leelanau,St. Marys,307 St. Mary's St,Lake Leelanau,High school,3,Students,2021-04-19
 Livingston,St. Patrick School,1001 Charles Orndorf Drive,Brighton,Pre-school - elementary,2,Students,2020-11-23
 Livingston,St. Patrick School,1001 Charles Orndorf Drive,Brighton,Junior high/middle school,6,Students,2021-03-15
 Macomb,St. Paul Catholic School,170 Grosse Pointe Boulevard,Grosse Pointe Farms,Junior high/middle school,2,Students,2021-03-08
@@ -874,6 +910,7 @@ Berrien,Trinity Luther Early childhood center,613 Court Street,Saint Joseph,Pre-
 Macomb,Trinity Lutheran School,45160 Van Dyke Ave,Utica,Pre-school - elementary,2,Students,2020-12-14
 Macomb,Trinity Lutheran School,45160 Van Dyke Ave,Utica,Junior high/middle school,2,Students,2020-12-21
 Lapeer,Turrill,785 S. Elm Street,Lapeer,Pre-school - elementary,3,Students,2021-04-05
+Lapeer,Turrill,785 S. Elm St,Lapeer,Pre-school - elementary,3,Students,2021-04-19
 Lapeer,Turrill Elementary,785 S Elm St,Lapeer,Pre-school - elementary,1,Students,2020-11-02
 Lapeer,Turrill Pre-School/Elementary,785 S. Elm St.,Lapeer,Pre-school - elementary,3,Students,2021-04-12
 Tuscola,USA Elementary,7835 N Unionville Rd,Unionville,Pre-school - elementary,2,Staff,2020-11-23
@@ -890,6 +927,7 @@ Detroit City,University of Detroit Jesuit High School,8400 N Cambridge Ave,Detro
 Detroit City,University of Detroit Jesuit Highschool and Academy,8400 N Cambridge Ave,Detroit City,High school,14,Students,2021-02-08
 Detroit City,University of Detroit Jesuit Highschool and Academy,8400 N Cambridge Ave,Detroit,High school,2,Students,2021-03-01
 Detroit City,University of Detroit Jesuit Highschool and Academy,8400 N Cambridge Ave,Detroit City,High school,3,Students,2021-03-22
+Eaton,Upper Elementary,1068 Carlisle Hwy,Charlotte,Pre-school - elementary,3,Students,2021-04-19
 Macomb,Utica High School,47255 Shelby road,Shelby Township,High school,2,Students,2020-09-21
 Calhoun,Valley View Elementary,960 Avenue A,Springfield,Pre-school - elementary,3,Both,2021-04-05
 Oakland,Van Hoosen Middle School,1339 Adams Rd,Rochester Hills,Junior high/middle school,7,Students,2021-03-22
@@ -909,10 +947,12 @@ Macomb,Warren Woods Middle School,13400 Twelve Mile Rd,Warren,Junior high/middle
 Macomb,Warren Woods Towers High School,27900 Bunert Rd,Warren,High school,4,Students,2020-11-23
 Macomb,Warren Woods Towers High School,27900 Bunert Rd,Warren,High school,2,Students,2021-03-29
 Oakland,Waterford Mott Highschool,1151 Scott Lake Rd,Waterford Twp,High school,3,Students,2021-04-05
+Berrien,Watervliet High School,450 E St. Joseph St,Watervliet,High school,2,Students,2021-04-19
 Berrien,Watervliet high school,450 E St. Joseph St,Saint Joseph,High school,4,Students,2021-03-29
 Eaton,Waverly High School,,Lansing,High school,2,Students,2021-03-01
 Allegan,Wayland Union High School,870 E Superior St,Wayland,High school,2,Students,2020-11-23
 Allegan,Wayland Union High School,870 E Superior St,Wayland,High school,11,Students,2021-03-15
+Allegan,Wayland Union High School,870 E Superior St,Wayland,High school,2,Students,2021-04-19
 Allegan,Wayland Union Middle School,701 Wildcat,Wayland,Junior high/middle school,4,Students,2020-11-23
 Detroit City,Wayne State University,42 W Warren Ave,Detroit City,Administrative,2,Staff,2021-03-22
 Oakland,Webb Elementary,2100 Woodward Heights Ave.,Ferndale,Pre-school - elementary,2,Students,2021-04-12
@@ -952,8 +992,10 @@ Oakland,Wixom Elementary,301 N Wixom Rd,Wixom,Pre-school - elementary,4,Both,202
 Tuscola,Wolverine Human Services-Saginaw,2424 N Outer Dr,Saginaw,High school,2,Staff,2020-09-21
 Ottawa,Woodbridge Elementary,9110 Woodbridge Street,Zeeland,Pre-school - elementary,4,Both,2020-11-23
 Ottawa,Woodbridge Elementary,9110 Woodbridge Street,Zeeland,Pre-school - elementary,2,Both,2021-01-18
+Washtenaw,Woodland Meadows Elementary,350 Woodland Dr E,Saline,Pre-school - elementary,4,Students,2021-04-19
 Calhoun,Woodlawn Preschool,1175 W Territorial Rd,Battle Creek,Pre-school - elementary,2,Students,2021-01-25
 Genesee,World of Wonder/Ellen Street Campus,404 W Ellen St,Fenton,Pre-school - elementary,4,Staff,2020-11-02
+Macomb,Wyandot Middle School,39490 Garfield Rd,Clinton Twp,Junior high/middle school,4,Students,2021-04-19
 Kent,Wyoming High School,1350 Prairie Pkwy SW,Wyoming,High school,3,Both,2020-10-12
 St. Clair,Yale High School,247 School Dr,Yale,High school,3,Students,2021-03-15
 Ottawa,Young Adult Services,605 Elliot Avenue,Grand Haven,High school,5,Both,2020-11-23
