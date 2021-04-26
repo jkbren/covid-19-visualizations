@@ -1,0 +1,573 @@
+setting	case_count	date	end_date
+Beach	27.0	2020-08-30	2020-09-05
+Restaurant	22.0	2020-08-30	2020-09-05
+Religious service**	15.0	2020-08-30	2020-09-05
+House party	13.0	2020-08-30	2020-09-05
+Gym	10.0	2020-08-30	2020-09-05
+Bar	8.0	2020-08-30	2020-09-05
+Other large gathering	8.0	2020-08-30	2020-09-05
+Dinner party	6.0	2020-08-30	2020-09-05
+Recreational center	5.0	2020-08-30	2020-09-05
+Pool	2.0	2020-08-30	2020-09-05
+Outdoor event	2.0	2020-08-30	2020-09-05
+Indoor play center	2.0	2020-08-30	2020-09-05
+Pro or youth sporting event	2.0	2020-08-30	2020-09-05
+Wedding	1.0	2020-08-30	2020-09-05
+Amusement park	1.0	2020-08-30	2020-09-05
+Nail or hair salon/spa	1.0	2020-08-30	2020-09-05
+Other tourist attraction	1.0	2020-08-30	2020-09-05
+Beach	29.0	2020-09-06	2020-09-12
+Restaurant	21.0	2020-09-06	2020-09-12
+House party	9.0	2020-09-06	2020-09-12
+Other tourist attraction	9.0	2020-09-06	2020-09-12
+Gym	8.0	2020-09-06	2020-09-12
+Religious service**	8.0	2020-09-06	2020-09-12
+Dinner party	7.0	2020-09-06	2020-09-12
+Other large gathering	6.0	2020-09-06	2020-09-12
+Outdoor event	4.0	2020-09-06	2020-09-12
+Wedding	3.0	2020-09-06	2020-09-12
+Recreational center	3.0	2020-09-06	2020-09-12
+Bar	2.0	2020-09-06	2020-09-12
+Resort	2.0	2020-09-06	2020-09-12
+Amusement park	2.0	2020-09-06	2020-09-12
+Nail or hair salon/spa	2.0	2020-09-06	2020-09-12
+Pool	1.0	2020-09-06	2020-09-12
+Restaurant	27.0	2020-09-13	2020-09-19
+Beach	23.0	2020-09-13	2020-09-19
+House party	10.0	2020-09-13	2020-09-19
+Religious service**	10.0	2020-09-13	2020-09-19
+Outdoor event	9.0	2020-09-13	2020-09-19
+Other large gathering	9.0	2020-09-13	2020-09-19
+Bar	8.0	2020-09-13	2020-09-19
+Gym	7.0	2020-09-13	2020-09-19
+Dinner party	7.0	2020-09-13	2020-09-19
+Recreational center	5.0	2020-09-13	2020-09-19
+Other tourist attraction	4.0	2020-09-13	2020-09-19
+Wedding	3.0	2020-09-13	2020-09-19
+Amusement park	3.0	2020-09-13	2020-09-19
+Nail or hair salon/spa	3.0	2020-09-13	2020-09-19
+Pro or youth sporting event	2.0	2020-09-13	2020-09-19
+Resort	1.0	2020-09-13	2020-09-19
+Restaurant	30.0	2020-09-20	2020-09-26
+Beach	13.0	2020-09-20	2020-09-26
+Bar	11.0	2020-09-20	2020-09-26
+Gym	10.0	2020-09-20	2020-09-26
+House party	10.0	2020-09-20	2020-09-26
+Outdoor event	7.0	2020-09-20	2020-09-26
+Recreational center	7.0	2020-09-20	2020-09-26
+Other large gathering	7.0	2020-09-20	2020-09-26
+Other tourist attraction	7.0	2020-09-20	2020-09-26
+Nail or hair salon/spa	4.0	2020-09-20	2020-09-26
+Religious service**	4.0	2020-09-20	2020-09-26
+Dinner party	3.0	2020-09-20	2020-09-26
+Resort	2.0	2020-09-20	2020-09-26
+Wedding	2.0	2020-09-20	2020-09-26
+Concert	1.0	2020-09-20	2020-09-26
+Amusement park	1.0	2020-09-20	2020-09-26
+Pro or youth sporting event	1.0	2020-09-20	2020-09-26
+Restaurant	29.0	2020-09-27	2020-10-03
+Gym	16.0	2020-09-27	2020-10-03
+House party	16.0	2020-09-27	2020-10-03
+Wedding	14.0	2020-09-27	2020-10-03
+Beach	12.0	2020-09-27	2020-10-03
+Religious service**	11.0	2020-09-27	2020-10-03
+Bar	10.0	2020-09-27	2020-10-03
+Other tourist attraction	8.0	2020-09-27	2020-10-03
+Recreational center	6.0	2020-09-27	2020-10-03
+Other large gathering	6.0	2020-09-27	2020-10-03
+Outdoor event	3.0	2020-09-27	2020-10-03
+Dinner party	3.0	2020-09-27	2020-10-03
+Nail or hair salon/spa	3.0	2020-09-27	2020-10-03
+Pro or youth sporting event	3.0	2020-09-27	2020-10-03
+Amusement park	2.0	2020-09-27	2020-10-03
+Indoor play center	2.0	2020-09-27	2020-10-03
+Concert	1.0	2020-09-27	2020-10-03
+Festivals	1.0	2020-09-27	2020-10-03
+Restaurant	40.0	2020-10-04	2020-10-10
+Beach	21.0	2020-10-04	2020-10-10
+Wedding	14.0	2020-10-04	2020-10-10
+Bar	11.0	2020-10-04	2020-10-10
+Religious service**	11.0	2020-10-04	2020-10-10
+Other large gathering	9.0	2020-10-04	2020-10-10
+Nail or hair salon/spa	8.0	2020-10-04	2020-10-10
+Other tourist attraction	8.0	2020-10-04	2020-10-10
+Outdoor event	7.0	2020-10-04	2020-10-10
+Recreational center	7.0	2020-10-04	2020-10-10
+Gym	6.0	2020-10-04	2020-10-10
+House party	6.0	2020-10-04	2020-10-10
+Dinner party	5.0	2020-10-04	2020-10-10
+Indoor play center	3.0	2020-10-04	2020-10-10
+Pro or youth sporting event	3.0	2020-10-04	2020-10-10
+Resort	2.0	2020-10-04	2020-10-10
+Bonfires	1.0	2020-10-04	2020-10-10
+Restaurant	30.0	2020-10-11	2020-10-17
+Religious service**	22.0	2020-10-11	2020-10-17
+Wedding	20.0	2020-10-11	2020-10-17
+Beach	19.0	2020-10-11	2020-10-17
+Gym	11.0	2020-10-11	2020-10-17
+Other tourist attraction	11.0	2020-10-11	2020-10-17
+Other large gathering	10.0	2020-10-11	2020-10-17
+House party	8.0	2020-10-11	2020-10-17
+Nail or hair salon/spa	8.0	2020-10-11	2020-10-17
+Outdoor event	6.0	2020-10-11	2020-10-17
+Bar	5.0	2020-10-11	2020-10-17
+Pro or youth sporting event	5.0	2020-10-11	2020-10-17
+Recreational center	4.0	2020-10-11	2020-10-17
+Indoor play center	3.0	2020-10-11	2020-10-17
+Resort	1.0	2020-10-11	2020-10-17
+Bonfires	1.0	2020-10-11	2020-10-17
+Dinner party	1.0	2020-10-11	2020-10-17
+Restaurant	34.0	2020-10-18	2020-10-24
+Religious service**	17.0	2020-10-18	2020-10-24
+House party	14.0	2020-10-18	2020-10-24
+Gym	13.0	2020-10-18	2020-10-24
+Beach	12.0	2020-10-18	2020-10-24
+Wedding	7.0	2020-10-18	2020-10-24
+Other large gathering	7.0	2020-10-18	2020-10-24
+Other tourist attraction	6.0	2020-10-18	2020-10-24
+Bar	5.0	2020-10-18	2020-10-24
+Recreational center	5.0	2020-10-18	2020-10-24
+Pro or youth sporting event	5.0	2020-10-18	2020-10-24
+Outdoor event	4.0	2020-10-18	2020-10-24
+Dinner party	3.0	2020-10-18	2020-10-24
+Nail or hair salon/spa	3.0	2020-10-18	2020-10-24
+Pool	1.0	2020-10-18	2020-10-24
+Restaurant	65.0	2020-10-25	2020-10-31
+Religious service**	39.0	2020-10-25	2020-10-31
+Other large gathering	21.0	2020-10-25	2020-10-31
+Beach	15.0	2020-10-25	2020-10-31
+Other tourist attraction	13.0	2020-10-25	2020-10-31
+Nail or hair salon/spa	12.0	2020-10-25	2020-10-31
+Bar	9.0	2020-10-25	2020-10-31
+House party	7.0	2020-10-25	2020-10-31
+Dinner party	7.0	2020-10-25	2020-10-31
+Gym	6.0	2020-10-25	2020-10-31
+Wedding	6.0	2020-10-25	2020-10-31
+Outdoor event	5.0	2020-10-25	2020-10-31
+Recreational center	5.0	2020-10-25	2020-10-31
+Bonfires	3.0	2020-10-25	2020-10-31
+Indoor play center	2.0	2020-10-25	2020-10-31
+Pro or youth sporting event	2.0	2020-10-25	2020-10-31
+Festivals	1.0	2020-10-25	2020-10-31
+Restaurant	61.0	2020-11-01	2020-11-07
+Religious service**	29.0	2020-11-01	2020-11-07
+House party	26.0	2020-11-01	2020-11-07
+Other large gathering	19.0	2020-11-01	2020-11-07
+Gym	18.0	2020-11-01	2020-11-07
+Bar	13.0	2020-11-01	2020-11-07
+Other tourist attraction	13.0	2020-11-01	2020-11-07
+Beach	12.0	2020-11-01	2020-11-07
+Recreational center	11.0	2020-11-01	2020-11-07
+Outdoor event	8.0	2020-11-01	2020-11-07
+Dinner party	8.0	2020-11-01	2020-11-07
+Wedding	6.0	2020-11-01	2020-11-07
+Nail or hair salon/spa	6.0	2020-11-01	2020-11-07
+Pro or youth sporting event	3.0	2020-11-01	2020-11-07
+Resort	2.0	2020-11-01	2020-11-07
+Bonfires	2.0	2020-11-01	2020-11-07
+Festivals	2.0	2020-11-01	2020-11-07
+Pool	1.0	2020-11-01	2020-11-07
+Amusement park	1.0	2020-11-01	2020-11-07
+Indoor play center	1.0	2020-11-01	2020-11-07
+Restaurant	50.0	2020-11-08	2020-11-14
+House party	31.0	2020-11-08	2020-11-14
+Other large gathering	24.0	2020-11-08	2020-11-14
+Religious service**	15.0	2020-11-08	2020-11-14
+Bar	14.0	2020-11-08	2020-11-14
+Beach	13.0	2020-11-08	2020-11-14
+Nail or hair salon/spa	12.0	2020-11-08	2020-11-14
+Gym	11.0	2020-11-08	2020-11-14
+Wedding	10.0	2020-11-08	2020-11-14
+Outdoor event	9.0	2020-11-08	2020-11-14
+Recreational center	8.0	2020-11-08	2020-11-14
+Other tourist attraction	7.0	2020-11-08	2020-11-14
+Dinner party	4.0	2020-11-08	2020-11-14
+Pro or youth sporting event	4.0	2020-11-08	2020-11-14
+Amusement park	3.0	2020-11-08	2020-11-14
+Bonfires	2.0	2020-11-08	2020-11-14
+Festivals	2.0	2020-11-08	2020-11-14
+Indoor play center	2.0	2020-11-08	2020-11-14
+Restaurant	81.0	2020-11-15	2020-11-21
+Beach	34.0	2020-11-15	2020-11-21
+Other large gathering	34.0	2020-11-15	2020-11-21
+Bar	32.0	2020-11-15	2020-11-21
+Gym	28.0	2020-11-15	2020-11-21
+Religious service**	28.0	2020-11-15	2020-11-21
+House party	25.0	2020-11-15	2020-11-21
+Other tourist attraction	24.0	2020-11-15	2020-11-21
+Nail or hair salon/spa	20.0	2020-11-15	2020-11-21
+Wedding	16.0	2020-11-15	2020-11-21
+Recreational center	14.0	2020-11-15	2020-11-21
+Outdoor event	13.0	2020-11-15	2020-11-21
+Dinner party	11.0	2020-11-15	2020-11-21
+Pro or youth sporting event	9.0	2020-11-15	2020-11-21
+Amusement park	4.0	2020-11-15	2020-11-21
+Resort	2.0	2020-11-15	2020-11-21
+Pool	1.0	2020-11-15	2020-11-21
+Bonfires	1.0	2020-11-15	2020-11-21
+Restaurant	108.0	2020-11-22	2020-11-28
+Religious service**	43.0	2020-11-22	2020-11-28
+Gym	31.0	2020-11-22	2020-11-28
+Other tourist attraction	26.0	2020-11-22	2020-11-28
+Beach	25.0	2020-11-22	2020-11-28
+House party	23.0	2020-11-22	2020-11-28
+Bar	20.0	2020-11-22	2020-11-28
+Wedding	16.0	2020-11-22	2020-11-28
+Other large gathering	16.0	2020-11-22	2020-11-28
+Nail or hair salon/spa	15.0	2020-11-22	2020-11-28
+Dinner party	14.0	2020-11-22	2020-11-28
+Recreational center	11.0	2020-11-22	2020-11-28
+Outdoor event	5.0	2020-11-22	2020-11-28
+Bonfires	4.0	2020-11-22	2020-11-28
+Indoor play center	4.0	2020-11-22	2020-11-28
+Pro or youth sporting event	4.0	2020-11-22	2020-11-28
+Amusement park	2.0	2020-11-22	2020-11-28
+Pool	1.0	2020-11-22	2020-11-28
+Resort	1.0	2020-11-22	2020-11-28
+Festivals	1.0	2020-11-22	2020-11-28
+Restaurant	107.0	2020-11-29	2020-12-05
+Dinner party	63.0	2020-11-29	2020-12-05
+Other tourist attraction	54.0	2020-11-29	2020-12-05
+Religious service**	48.0	2020-11-29	2020-12-05
+Bar	38.0	2020-11-29	2020-12-05
+Gym	30.0	2020-11-29	2020-12-05
+Other large gathering	29.0	2020-11-29	2020-12-05
+House party	28.0	2020-11-29	2020-12-05
+Nail or hair salon/spa	26.0	2020-11-29	2020-12-05
+Beach	25.0	2020-11-29	2020-12-05
+Recreational center	19.0	2020-11-29	2020-12-05
+Pro or youth sporting event	8.0	2020-11-29	2020-12-05
+Wedding	6.0	2020-11-29	2020-12-05
+Indoor play center	4.0	2020-11-29	2020-12-05
+Outdoor event	3.0	2020-11-29	2020-12-05
+Amusement park	3.0	2020-11-29	2020-12-05
+Bonfires	1.0	2020-11-29	2020-12-05
+Festivals	1.0	2020-11-29	2020-12-05
+Restaurant	83.0	2020-12-06	2020-12-12
+Religious service**	59.0	2020-12-06	2020-12-12
+Dinner party	55.0	2020-12-06	2020-12-12
+Other tourist attraction	46.0	2020-12-06	2020-12-12
+Gym	31.0	2020-12-06	2020-12-12
+Nail or hair salon/spa	31.0	2020-12-06	2020-12-12
+Other large gathering	28.0	2020-12-06	2020-12-12
+Beach	27.0	2020-12-06	2020-12-12
+Recreational center	24.0	2020-12-06	2020-12-12
+Bar	22.0	2020-12-06	2020-12-12
+House party	22.0	2020-12-06	2020-12-12
+Outdoor event	6.0	2020-12-06	2020-12-12
+Pro or youth sporting event	6.0	2020-12-06	2020-12-12
+Indoor play center	4.0	2020-12-06	2020-12-12
+Resort	3.0	2020-12-06	2020-12-12
+Wedding	3.0	2020-12-06	2020-12-12
+Amusement park	3.0	2020-12-06	2020-12-12
+Bonfires	2.0	2020-12-06	2020-12-12
+Pool	1.0	2020-12-06	2020-12-12
+Restaurant	110.0	2020-12-13	2020-12-19
+Other tourist attraction	54.0	2020-12-13	2020-12-19
+Religious service**	44.0	2020-12-13	2020-12-19
+Gym	32.0	2020-12-13	2020-12-19
+Recreational center	27.0	2020-12-13	2020-12-19
+Beach	24.0	2020-12-13	2020-12-19
+Other large gathering	24.0	2020-12-13	2020-12-19
+House party	21.0	2020-12-13	2020-12-19
+Dinner party	19.0	2020-12-13	2020-12-19
+Bar	13.0	2020-12-13	2020-12-19
+Nail or hair salon/spa	12.0	2020-12-13	2020-12-19
+Outdoor event	9.0	2020-12-13	2020-12-19
+Pro or youth sporting event	8.0	2020-12-13	2020-12-19
+Wedding	5.0	2020-12-13	2020-12-19
+Bonfires	3.0	2020-12-13	2020-12-19
+Indoor play center	2.0	2020-12-13	2020-12-19
+Pool	1.0	2020-12-13	2020-12-19
+Resort	1.0	2020-12-13	2020-12-19
+Amusement park	1.0	2020-12-13	2020-12-19
+Restaurant	82.0	2020-12-20	2020-12-26
+Religious service**	38.0	2020-12-20	2020-12-26
+Other tourist attraction	33.0	2020-12-20	2020-12-26
+Bar	27.0	2020-12-20	2020-12-26
+Beach	23.0	2020-12-20	2020-12-26
+Gym	22.0	2020-12-20	2020-12-26
+Other large gathering	20.0	2020-12-20	2020-12-26
+Nail or hair salon/spa	18.0	2020-12-20	2020-12-26
+Recreational center	17.0	2020-12-20	2020-12-26
+Dinner party	12.0	2020-12-20	2020-12-26
+House party	10.0	2020-12-20	2020-12-26
+Amusement park	5.0	2020-12-20	2020-12-26
+Outdoor event	3.0	2020-12-20	2020-12-26
+Wedding	2.0	2020-12-20	2020-12-26
+Pool	1.0	2020-12-20	2020-12-26
+Resort	1.0	2020-12-20	2020-12-26
+Concert	1.0	2020-12-20	2020-12-26
+Bonfires	1.0	2020-12-20	2020-12-26
+Indoor play center	1.0	2020-12-20	2020-12-26
+Pro or youth sporting event	1.0	2020-12-20	2020-12-26
+Restaurant	76.0	2020-12-27	2021-01-02
+Religious service**	44.0	2020-12-27	2021-01-02
+Other tourist attraction	40.0	2020-12-27	2021-01-02
+Gym	35.0	2020-12-27	2021-01-02
+Dinner party	32.0	2020-12-27	2021-01-02
+Beach	29.0	2020-12-27	2021-01-02
+House party	29.0	2020-12-27	2021-01-02
+Nail or hair salon/spa	27.0	2020-12-27	2021-01-02
+Other large gathering	24.0	2020-12-27	2021-01-02
+Recreational center	19.0	2020-12-27	2021-01-02
+Bar	12.0	2020-12-27	2021-01-02
+Resort	5.0	2020-12-27	2021-01-02
+Outdoor event	4.0	2020-12-27	2021-01-02
+Amusement park	4.0	2020-12-27	2021-01-02
+Pro or youth sporting event	3.0	2020-12-27	2021-01-02
+Wedding	2.0	2020-12-27	2021-01-02
+Bonfires	2.0	2020-12-27	2021-01-02
+Pool	1.0	2020-12-27	2021-01-02
+Indoor play center	1.0	2020-12-27	2021-01-02
+Restaurant	147.0	2021-01-03	2021-01-09
+Dinner party	65.0	2021-01-03	2021-01-09
+Religious service**	60.0	2021-01-03	2021-01-09
+House party	55.0	2021-01-03	2021-01-09
+Other large gathering	43.0	2021-01-03	2021-01-09
+Other tourist attraction	42.0	2021-01-03	2021-01-09
+Beach	41.0	2021-01-03	2021-01-09
+Gym	36.0	2021-01-03	2021-01-09
+Recreational center	24.0	2021-01-03	2021-01-09
+Nail or hair salon/spa	22.0	2021-01-03	2021-01-09
+Bar	15.0	2021-01-03	2021-01-09
+Wedding	4.0	2021-01-03	2021-01-09
+Resort	3.0	2021-01-03	2021-01-09
+Festivals	3.0	2021-01-03	2021-01-09
+Amusement park	3.0	2021-01-03	2021-01-09
+Pro or youth sporting event	3.0	2021-01-03	2021-01-09
+Bonfires	2.0	2021-01-03	2021-01-09
+Outdoor event	2.0	2021-01-03	2021-01-09
+Indoor play center	2.0	2021-01-03	2021-01-09
+Pool	1.0	2021-01-03	2021-01-09
+Concert	1.0	2021-01-03	2021-01-09
+Restaurant	148.0	2021-01-10	2021-01-16
+Other tourist attraction	54.0	2021-01-10	2021-01-16
+Religious service**	48.0	2021-01-10	2021-01-16
+House party	44.0	2021-01-10	2021-01-16
+Beach	37.0	2021-01-10	2021-01-16
+Gym	36.0	2021-01-10	2021-01-16
+Dinner party	32.0	2021-01-10	2021-01-16
+Nail or hair salon/spa	31.0	2021-01-10	2021-01-16
+Other large gathering	28.0	2021-01-10	2021-01-16
+Recreational center	19.0	2021-01-10	2021-01-16
+Bar	18.0	2021-01-10	2021-01-16
+Indoor play center	9.0	2021-01-10	2021-01-16
+Wedding	6.0	2021-01-10	2021-01-16
+Resort	4.0	2021-01-10	2021-01-16
+Amusement park	4.0	2021-01-10	2021-01-16
+Bonfires	3.0	2021-01-10	2021-01-16
+Pro or youth sporting event	3.0	2021-01-10	2021-01-16
+Outdoor event	2.0	2021-01-10	2021-01-16
+Pool	1.0	2021-01-10	2021-01-16
+Restaurant	132.0	2021-01-17	2021-01-23
+Religious service**	49.0	2021-01-17	2021-01-23
+Other tourist attraction	44.0	2021-01-17	2021-01-23
+Beach	32.0	2021-01-17	2021-01-23
+Gym	31.0	2021-01-17	2021-01-23
+Other large gathering	25.0	2021-01-17	2021-01-23
+Recreational center	23.0	2021-01-17	2021-01-23
+Bar	19.0	2021-01-17	2021-01-23
+Nail or hair salon/spa	19.0	2021-01-17	2021-01-23
+House party	16.0	2021-01-17	2021-01-23
+Dinner party	13.0	2021-01-17	2021-01-23
+Indoor play center	9.0	2021-01-17	2021-01-23
+Wedding	6.0	2021-01-17	2021-01-23
+Resort	4.0	2021-01-17	2021-01-23
+Amusement park	4.0	2021-01-17	2021-01-23
+Outdoor event	3.0	2021-01-17	2021-01-23
+Bonfires	2.0	2021-01-17	2021-01-23
+Pool	1.0	2021-01-17	2021-01-23
+Pro or youth sporting event	1.0	2021-01-17	2021-01-23
+Restaurant	124.0	2021-01-24	2021-01-30
+Other tourist attraction	52.0	2021-01-24	2021-01-30
+Gym	42.0	2021-01-24	2021-01-30
+Religious service**	39.0	2021-01-24	2021-01-30
+Recreational center	26.0	2021-01-24	2021-01-30
+Other large gathering	25.0	2021-01-24	2021-01-30
+Nail or hair salon/spa	22.0	2021-01-24	2021-01-30
+Bar	20.0	2021-01-24	2021-01-30
+House party	19.0	2021-01-24	2021-01-30
+Beach	15.0	2021-01-24	2021-01-30
+Indoor play center	10.0	2021-01-24	2021-01-30
+Dinner party	7.0	2021-01-24	2021-01-30
+Resort	4.0	2021-01-24	2021-01-30
+Outdoor event	3.0	2021-01-24	2021-01-30
+Pro or youth sporting event	3.0	2021-01-24	2021-01-30
+Festivals	2.0	2021-01-24	2021-01-30
+Amusement park	1.0	2021-01-24	2021-01-30
+Restaurant	83.0	2021-01-31	2021-02-06
+Gym	34.0	2021-01-31	2021-02-06
+Other tourist attraction	34.0	2021-01-31	2021-02-06
+Other large gathering	29.0	2021-01-31	2021-02-06
+Nail or hair salon/spa	27.0	2021-01-31	2021-02-06
+Religious service**	23.0	2021-01-31	2021-02-06
+Recreational center	17.0	2021-01-31	2021-02-06
+House party	14.0	2021-01-31	2021-02-06
+Bar	12.0	2021-01-31	2021-02-06
+Indoor play center	9.0	2021-01-31	2021-02-06
+Beach	8.0	2021-01-31	2021-02-06
+Dinner party	8.0	2021-01-31	2021-02-06
+Amusement park	5.0	2021-01-31	2021-02-06
+Resort	4.0	2021-01-31	2021-02-06
+Pro or youth sporting event	4.0	2021-01-31	2021-02-06
+Pool	1.0	2021-01-31	2021-02-06
+Concert	1.0	2021-01-31	2021-02-06
+Bonfires	1.0	2021-01-31	2021-02-06
+Festivals	1.0	2021-01-31	2021-02-06
+Restaurant	71.0	2021-02-07	2021-02-13
+Gym	33.0	2021-02-07	2021-02-13
+Other tourist attraction	32.0	2021-02-07	2021-02-13
+Religious service**	24.0	2021-02-07	2021-02-13
+Nail or hair salon/spa	20.0	2021-02-07	2021-02-13
+Recreational center	19.0	2021-02-07	2021-02-13
+Bar	17.0	2021-02-07	2021-02-13
+Other large gathering	11.0	2021-02-07	2021-02-13
+Beach	10.0	2021-02-07	2021-02-13
+House party	8.0	2021-02-07	2021-02-13
+Indoor play center	8.0	2021-02-07	2021-02-13
+Dinner party	5.0	2021-02-07	2021-02-13
+Pro or youth sporting event	3.0	2021-02-07	2021-02-13
+Resort	2.0	2021-02-07	2021-02-13
+Wedding	2.0	2021-02-07	2021-02-13
+Amusement park	1.0	2021-02-07	2021-02-13
+Restaurant	77.0	2021-02-14	2021-02-20
+Other tourist attraction	24.0	2021-02-14	2021-02-20
+Gym	20.0	2021-02-14	2021-02-20
+Religious service**	19.0	2021-02-14	2021-02-20
+Other large gathering	15.0	2021-02-14	2021-02-20
+Recreational center	14.0	2021-02-14	2021-02-20
+House party	13.0	2021-02-14	2021-02-20
+Nail or hair salon/spa	12.0	2021-02-14	2021-02-20
+Bar	10.0	2021-02-14	2021-02-20
+Beach	7.0	2021-02-14	2021-02-20
+Indoor play center	5.0	2021-02-14	2021-02-20
+Dinner party	4.0	2021-02-14	2021-02-20
+Resort	2.0	2021-02-14	2021-02-20
+Bonfires	2.0	2021-02-14	2021-02-20
+Amusement park	2.0	2021-02-14	2021-02-20
+Pool	1.0	2021-02-14	2021-02-20
+Wedding	1.0	2021-02-14	2021-02-20
+Festivals	1.0	2021-02-14	2021-02-20
+Outdoor event	1.0	2021-02-14	2021-02-20
+Pro or youth sporting event	1.0	2021-02-14	2021-02-20
+Restaurant	99.0	2021-02-21	2021-02-27
+Gym	39.0	2021-02-21	2021-02-27
+Recreational center	25.0	2021-02-21	2021-02-27
+Other tourist attraction	25.0	2021-02-21	2021-02-27
+Beach	20.0	2021-02-21	2021-02-27
+Other large gathering	19.0	2021-02-21	2021-02-27
+House party	16.0	2021-02-21	2021-02-27
+Religious service**	15.0	2021-02-21	2021-02-27
+Bar	13.0	2021-02-21	2021-02-27
+Nail or hair salon/spa	11.0	2021-02-21	2021-02-27
+Indoor play center	7.0	2021-02-21	2021-02-27
+Dinner party	6.0	2021-02-21	2021-02-27
+Pro or youth sporting event	5.0	2021-02-21	2021-02-27
+Resort	3.0	2021-02-21	2021-02-27
+Bonfires	1.0	2021-02-21	2021-02-27
+Festivals	1.0	2021-02-21	2021-02-27
+Amusement park	1.0	2021-02-21	2021-02-27
+Restaurant	74.0	2021-02-28	2021-03-06
+Gym	29.0	2021-02-28	2021-03-06
+Recreational center	14.0	2021-02-28	2021-03-06
+Other tourist attraction	14.0	2021-02-28	2021-03-06
+Party or other gathering	13.0	2021-02-28	2021-03-06
+Bar	10.0	2021-02-28	2021-03-06
+Beach	10.0	2021-02-28	2021-03-06
+Nail or hair salon/spa	10.0	2021-02-28	2021-03-06
+House party	4.0	2021-02-28	2021-03-06
+Wedding or funeral	4.0	2021-02-28	2021-03-06
+Other large gathering	4.0	2021-02-28	2021-03-06
+Pro or youth sporting event	3.0	2021-02-28	2021-03-06
+Religious service**	3.0	2021-02-28	2021-03-06
+Religious services (including choir or singing practice, excluding weddings and funerals)	3.0	2021-02-28	2021-03-06
+Wedding	1.0	2021-02-28	2021-03-06
+Professional or adult sporting events	1.0	2021-02-28	2021-03-06
+Restaurant	39.0	2021-03-07	2021-03-13
+Gym	12.0	2021-03-07	2021-03-13
+Other tourist attraction	11.0	2021-03-07	2021-03-13
+Recreational center	10.0	2021-03-07	2021-03-13
+Beach	9.0	2021-03-07	2021-03-13
+Party or other gathering	9.0	2021-03-07	2021-03-13
+Bar	7.0	2021-03-07	2021-03-13
+Nail or hair salon/spa	6.0	2021-03-07	2021-03-13
+Religious services (including choir or singing practice, excluding weddings and funerals)	3.0	2021-03-07	2021-03-13
+Amusement park	2.0	2021-03-07	2021-03-13
+Indoor play center	2.0	2021-03-07	2021-03-13
+Resort	1.0	2021-03-07	2021-03-13
+Wedding	1.0	2021-03-07	2021-03-13
+Wedding or funeral	1.0	2021-03-07	2021-03-13
+Concert, festival, or bonfire	1.0	2021-03-07	2021-03-13
+Professional or adult sporting events	1.0	2021-03-07	2021-03-13
+Restaurant	43.0	2021-03-14	2021-03-20
+Gym	24.0	2021-03-14	2021-03-20
+Beach	19.0	2021-03-14	2021-03-20
+Party or other gathering	16.0	2021-03-14	2021-03-20
+Other tourist attraction	15.0	2021-03-14	2021-03-20
+Bar	14.0	2021-03-14	2021-03-20
+Religious services (including choir or singing practice, excluding weddings and funerals)	10.0	2021-03-14	2021-03-20
+Recreational center	9.0	2021-03-14	2021-03-20
+Nail or hair salon/spa	5.0	2021-03-14	2021-03-20
+Professional or adult sporting events	4.0	2021-03-14	2021-03-20
+Wedding or funeral	3.0	2021-03-14	2021-03-20
+Resort	2.0	2021-03-14	2021-03-20
+Indoor play center	1.0	2021-03-14	2021-03-20
+Restaurant	67.0	2021-03-21	2021-03-27
+Party or other gathering	27.0	2021-03-21	2021-03-27
+Other tourist attraction	21.0	2021-03-21	2021-03-27
+Beach	19.0	2021-03-21	2021-03-27
+Gym	15.0	2021-03-21	2021-03-27
+Bar	12.0	2021-03-21	2021-03-27
+Nail or hair salon/spa	8.0	2021-03-21	2021-03-27
+Recreational center	7.0	2021-03-21	2021-03-27
+Religious services (including choir or singing practice, excluding weddings and funerals)	6.0	2021-03-21	2021-03-27
+Wedding or funeral	5.0	2021-03-21	2021-03-27
+Professional or adult sporting events	4.0	2021-03-21	2021-03-27
+Resort	2.0	2021-03-21	2021-03-27
+Indoor play center	2.0	2021-03-21	2021-03-27
+Restaurant	68.0	2021-03-28	2021-04-03
+Party or other gathering	39.0	2021-03-28	2021-04-03
+Beach	36.0	2021-03-28	2021-04-03
+Gym	25.0	2021-03-28	2021-04-03
+Bar	19.0	2021-03-28	2021-04-03
+Recreational center	19.0	2021-03-28	2021-04-03
+Religious services (including choir or singing practice, excluding weddings and funerals)	18.0	2021-03-28	2021-04-03
+Other tourist attraction	13.0	2021-03-28	2021-04-03
+Nail or hair salon/spa	12.0	2021-03-28	2021-04-03
+Wedding or funeral	9.0	2021-03-28	2021-04-03
+Indoor play center	8.0	2021-03-28	2021-04-03
+Amusement park	3.0	2021-03-28	2021-04-03
+Professional or adult sporting events	3.0	2021-03-28	2021-04-03
+Concert, festival, or bonfire	2.0	2021-03-28	2021-04-03
+Resort	1.0	2021-03-28	2021-04-03
+Restaurant	72.0	2021-04-04	2021-04-10
+Party or other gathering	42.0	2021-04-04	2021-04-10
+Beach	31.0	2021-04-04	2021-04-10
+Religious services (including choir or singing practice, excluding weddings and funerals)	24.0	2021-04-04	2021-04-10
+Recreational center	18.0	2021-04-04	2021-04-10
+Other tourist attraction	18.0	2021-04-04	2021-04-10
+Gym	14.0	2021-04-04	2021-04-10
+Bar	12.0	2021-04-04	2021-04-10
+Wedding or funeral	11.0	2021-04-04	2021-04-10
+Nail or hair salon/spa	10.0	2021-04-04	2021-04-10
+Amusement park	4.0	2021-04-04	2021-04-10
+Professional or adult sporting events	4.0	2021-04-04	2021-04-10
+Indoor play center	3.0	2021-04-04	2021-04-10
+Resort	2.0	2021-04-04	2021-04-10
+Dinner party	1.0	2021-04-04	2021-04-10
+Party or other gathering	71.0	2021-04-11	2021-04-17
+Restaurant	59.0	2021-04-11	2021-04-17
+Beach	41.0	2021-04-11	2021-04-17
+Recreational center	28.0	2021-04-11	2021-04-17
+Religious services (including choir or singing practice, excluding weddings and funerals)	24.0	2021-04-11	2021-04-17
+Gym	18.0	2021-04-11	2021-04-17
+Other tourist attraction	16.0	2021-04-11	2021-04-17
+Bar	12.0	2021-04-11	2021-04-17
+Amusement park	11.0	2021-04-11	2021-04-17
+Indoor play center	9.0	2021-04-11	2021-04-17
+Wedding or funeral	9.0	2021-04-11	2021-04-17
+Nail or hair salon/spa	8.0	2021-04-11	2021-04-17
+Resort	5.0	2021-04-11	2021-04-17
+Professional or adult sporting events	3.0	2021-04-11	2021-04-17
+Pool	1.0	2021-04-11	2021-04-17
