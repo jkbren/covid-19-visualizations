@@ -1,0 +1,1519 @@
+date,setting_type,county,facility,cases_employee,deaths_employee,cases_students,deaths_students,status
+2020-12-11,Child Care,Alamance,Childcare Network #297,1,0,4,0,ongoing
+2020-12-18,Child Care,Alamance,Childcare Network #297,1,0,4,0,ongoing
+2020-12-22,Child Care,Alamance,Childcare Network #297,1,0,4,0,ongoing
+2021-01-26,Child Care,Alamance,Childcare Network #297,1,0,4,0,ongoing
+2021-02-05,Child Care,Alamance,Childcare Network #297,1,0,4,0,resolved
+2020-12-15,K-12 School,Alamance,E.M. Yoder Elementary School,4,0,2,0,ongoing
+2020-12-18,K-12 School,Alamance,E.M. Yoder Elementary School,4,0,2,0,ongoing
+2020-12-22,K-12 School,Alamance,E.M. Yoder Elementary School,4,0,2,0,ongoing
+2021-01-05,K-12 School,Alamance,E.M. Yoder Elementary School,4,0,2,0,ongoing
+2021-01-08,K-12 School,Alamance,E.M. Yoder Elementary School,4,0,2,0,ongoing
+2021-01-12,K-12 School,Alamance,E.M. Yoder Elementary School,4,0,2,0,ongoing
+2021-01-15,K-12 School,Alamance,E.M. Yoder Elementary School,4,0,2,0,ongoing
+2021-01-19,K-12 School,Alamance,E.M. Yoder Elementary School,4,0,2,0,ongoing
+2021-01-22,K-12 School,Alamance,E.M. Yoder Elementary School,4,0,2,0,ongoing
+2021-01-26,K-12 School,Alamance,E.M. Yoder Elementary School,4,0,2,0,ongoing
+2021-01-29,K-12 School,Alamance,E.M. Yoder Elementary School,4,0,2,0,ongoing
+2021-02-02,K-12 School,Alamance,E.M. Yoder Elementary School,4,0,2,0,ongoing
+2021-02-05,K-12 School,Alamance,E.M. Yoder Elementary School,4,0,2,0,resolved
+2020-12-15,K-12 School,Alamance,Highland Elementary,5,0,0,0,ongoing
+2020-12-18,K-12 School,Alamance,Highland Elementary,5,0,0,0,ongoing
+2020-12-22,K-12 School,Alamance,Highland Elementary,5,0,0,0,ongoing
+2021-01-05,K-12 School,Alamance,Highland Elementary,5,0,0,0,ongoing
+2021-01-08,K-12 School,Alamance,Highland Elementary,5,0,0,0,ongoing
+2021-01-12,K-12 School,Alamance,Highland Elementary,5,0,0,0,ongoing
+2021-01-15,K-12 School,Alamance,Highland Elementary,5,0,0,0,ongoing
+2021-01-19,K-12 School,Alamance,Highland Elementary,5,0,0,0,ongoing
+2021-01-22,K-12 School,Alamance,Highland Elementary,5,0,0,0,ongoing
+2021-01-26,K-12 School,Alamance,Highland Elementary,5,0,0,0,ongoing
+2021-01-29,K-12 School,Alamance,Highland Elementary,5,0,0,0,ongoing
+2021-02-02,K-12 School,Alamance,Highland Elementary,5,0,0,0,ongoing
+2021-02-05,K-12 School,Alamance,Highland Elementary,5,0,0,0,resolved
+2020-12-22,Child Care,Alamance,Little Thinkers,3,0,3,0,ongoing
+2021-01-26,Child Care,Alamance,Little Thinkers,3,0,3,0,ongoing
+2021-02-05,Child Care,Alamance,Little Thinkers,3,0,3,0,resolved
+2020-11-13,Child Care,Alamance,Love's Childcare,2,0,3,0,ongoing
+2020-11-17,Child Care,Alamance,Love's Childcare,2,0,3,0,ongoing
+2020-11-24,Child Care,Alamance,Love's Childcare,2,0,3,0,ongoing
+2021-01-12,K-12 School,Alamance,Positive Attitude Youth Center,2,0,6,0,ongoing
+2021-01-15,K-12 School,Alamance,Positive Attitude Youth Center,2,0,6,0,ongoing
+2021-01-19,K-12 School,Alamance,Positive Attitude Youth Center,2,0,6,0,ongoing
+2021-01-22,K-12 School,Alamance,Positive Attitude Youth Center,2,0,6,0,ongoing
+2021-01-26,K-12 School,Alamance,Positive Attitude Youth Center,2,0,6,0,ongoing
+2021-01-29,K-12 School,Alamance,Positive Attitude Youth Center,2,0,6,0,ongoing
+2021-02-02,K-12 School,Alamance,Positive Attitude Youth Center,2,0,6,0,ongoing
+2021-02-05,K-12 School,Alamance,Positive Attitude Youth Center,2,0,6,0,resolved
+2020-12-01,K-12 School,Alamance,South Graham Elementary,9,0,0,0,ongoing
+2020-12-04,K-12 School,Alamance,South Graham Elementary,9,0,0,0,ongoing
+2020-12-08,K-12 School,Alamance,South Graham Elementary,9,0,0,0,ongoing
+2020-12-11,K-12 School,Alamance,South Graham Elementary,9,0,0,0,ongoing
+2020-12-15,K-12 School,Alamance,South Graham Elementary,9,0,0,0,ongoing
+2020-12-18,K-12 School,Alamance,South Graham Elementary,9,0,0,0,ongoing
+2020-12-22,K-12 School,Alamance,South Graham Elementary,9,0,0,0,ongoing
+2021-01-05,K-12 School,Alamance,South Graham Elementary,9,0,0,0,ongoing
+2021-01-08,K-12 School,Alamance,South Graham Elementary,9,0,0,0,ongoing
+2021-01-12,K-12 School,Alamance,South Graham Elementary,9,0,0,0,ongoing
+2021-01-15,K-12 School,Alamance,South Graham Elementary,9,0,0,0,ongoing
+2021-01-19,K-12 School,Alamance,South Graham Elementary,9,0,0,0,ongoing
+2021-01-22,K-12 School,Alamance,South Graham Elementary,9,0,0,0,ongoing
+2021-01-26,K-12 School,Alamance,South Graham Elementary,9,0,0,0,ongoing
+2021-01-29,K-12 School,Alamance,South Graham Elementary,9,0,0,0,ongoing
+2021-02-02,K-12 School,Alamance,South Graham Elementary,9,0,0,0,ongoing
+2021-02-05,K-12 School,Alamance,South Graham Elementary,9,0,0,0,resolved
+2021-01-12,K-12 School,Alamance,Southern Alamance High School,3,0,3,0,ongoing
+2021-01-15,K-12 School,Alamance,Southern Alamance High School,3,0,3,0,ongoing
+2021-01-19,K-12 School,Alamance,Southern Alamance High School,3,0,3,0,ongoing
+2021-01-22,K-12 School,Alamance,Southern Alamance High School,3,0,3,0,ongoing
+2021-01-26,K-12 School,Alamance,Southern Alamance High School,3,0,3,0,ongoing
+2021-01-29,K-12 School,Alamance,Southern Alamance High School,3,0,3,0,ongoing
+2021-02-02,K-12 School,Alamance,Southern Alamance High School,3,0,3,0,ongoing
+2021-02-05,K-12 School,Alamance,Southern Alamance High School,3,0,3,0,ongoing
+2020-08-21,Child Care,Alamance,The Growing Years Learning Center,4,0,3,0,ongoing
+2020-08-25,Child Care,Alamance,The Growing Years Learning Center,4,0,3,0,ongoing
+2020-08-28,Child Care,Alamance,The Growing Years Learning Center,4,0,3,0,ongoing
+2020-09-22,Child Care,Alamance,The Growing Years Learning Center,4,0,3,0,resolved
+2021-01-26,Child Care,Alamance,The Kitty Hupman Weekday School,3,0,5,0,ongoing
+2021-02-05,Child Care,Alamance,The Kitty Hupman Weekday School,3,0,5,0,resolved
+2020-10-23,K-12 School,Alexander,Millersville Christian Academy,1,0,5,0,ongoing
+2020-10-27,K-12 School,Alexander,Millersville Christian Academy,1,0,5,0,ongoing
+2020-10-30,K-12 School,Alexander,Millersville Christian Academy,1,0,5,0,ongoing
+2020-11-03,K-12 School,Alexander,Millersville Christian Academy,1,0,5,0,ongoing
+2020-11-06,K-12 School,Alexander,Millersville Christian Academy,1,0,5,0,ongoing
+2020-11-10,K-12 School,Alexander,Millersville Christian Academy,1,0,5,0,ongoing
+2020-11-13,K-12 School,Alexander,Millersville Christian Academy,1,0,5,0,ongoing
+2020-11-17,K-12 School,Alexander,Millersville Christian Academy,1,0,5,0,ongoing
+2020-11-20,K-12 School,Alexander,Millersville Christian Academy,1,0,5,0,ongoing
+2020-11-24,K-12 School,Alexander,Millersville Christian Academy,1,0,5,0,ongoing
+2020-12-01,K-12 School,Alexander,Millersville Christian Academy,1,0,5,0,ongoing
+2021-01-22,K-12 School,Alleghany,Alleghany High School,1,0,4,0,ongoing
+2021-01-26,K-12 School,Alleghany,Alleghany High School,1,0,4,0,ongoing
+2021-01-29,K-12 School,Alleghany,Alleghany High School,1,0,4,0,ongoing
+2021-02-02,K-12 School,Alleghany,Alleghany High School,1,0,4,0,ongoing
+2021-02-05,K-12 School,Alleghany,Alleghany High School,1,0,4,0,ongoing
+2020-09-22,Child Care,Ashe,Mt Jefferson Child Development,2,0,8,0,ongoing
+2020-09-25,Child Care,Ashe,Mt Jefferson Child Development,2,0,8,0,ongoing
+2020-09-29,Child Care,Ashe,Mt Jefferson Child Development,2,0,8,0,ongoing
+2020-10-02,Child Care,Ashe,Mt Jefferson Child Development,2,0,8,0,ongoing
+2020-10-13,Child Care,Ashe,Mt Jefferson Child Development,2,0,8,0,ongoing
+2020-09-22,Child Care,Beaufort,Care-O-World Daycare,6,0,3,0,ongoing
+2020-09-25,Child Care,Beaufort,Care-O-World Daycare,6,0,3,0,ongoing
+2020-09-29,Child Care,Beaufort,Care-O-World Daycare,6,0,3,0,ongoing
+2020-10-02,Child Care,Beaufort,Care-O-World Daycare,5,0,3,0,resolved
+2020-12-04,K-12 School,Bertie,Bethel Assembly Christian Academy,2,0,11,0,ongoing
+2020-12-08,K-12 School,Bertie,Bethel Assembly Christian Academy,2,0,11,0,ongoing
+2020-12-11,K-12 School,Bertie,Bethel Assembly Christian Academy,2,0,11,0,ongoing
+2020-12-15,K-12 School,Bertie,Bethel Assembly Christian Academy,2,0,12,0,ongoing
+2020-12-18,K-12 School,Bertie,Bethel Assembly Christian Academy,2,0,12,0,ongoing
+2020-12-22,K-12 School,Bertie,Bethel Assembly Christian Academy,2,0,12,0,ongoing
+2021-01-05,K-12 School,Bertie,Bethel Assembly Christian Academy,2,0,12,0,ongoing
+2021-01-08,K-12 School,Bertie,Bethel Assembly Christian Academy,2,0,12,0,ongoing
+2021-01-12,K-12 School,Bertie,Bethel Assembly Christian Academy,2,0,12,0,ongoing
+2021-01-15,K-12 School,Bertie,Bethel Assembly Christian Academy,2,0,12,0,ongoing
+2021-01-19,K-12 School,Bertie,Bethel Assembly Christian Academy,2,0,12,0,ongoing
+2021-01-22,K-12 School,Bertie,Bethel Assembly Christian Academy,2,0,12,0,ongoing
+2021-01-26,K-12 School,Bertie,Bethel Assembly Christian Academy,2,0,12,0,ongoing
+2021-01-29,K-12 School,Bertie,Bethel Assembly Christian Academy,2,0,12,0,ongoing
+2021-02-02,K-12 School,Bertie,Bethel Assembly Christian Academy,2,0,12,0,ongoing
+2021-02-05,K-12 School,Bertie,Bethel Assembly Christian Academy,2,0,12,0,ongoing
+2020-08-21,Child Care,Bladen,East Coast Migrant Head Start,5,0,0,0,ongoing
+2020-08-25,Child Care,Bladen,East Coast Migrant Head Start,5,0,0,0,ongoing
+2020-08-28,Child Care,Bladen,East Coast Migrant Head Start,5,0,0,0,ongoing
+2020-09-22,School,Bladen,Emereau Charter School,1,0,5,0,ongoing
+2020-09-25,School,Bladen,Emereau Charter School,1,0,5,0,ongoing
+2020-09-29,School,Bladen,Emereau Charter School,1,0,5,0,ongoing
+2020-10-02,School,Bladen,Emereau Charter School,1,0,4,0,resolved
+2020-10-20,K-12 School,Bladen,Emereau Charter School,3,0,2,0,ongoing
+2020-10-23,K-12 School,Bladen,Emereau Charter School,3,0,2,0,ongoing
+2020-10-27,K-12 School,Bladen,Emereau Charter School,3,0,2,0,ongoing
+2020-10-30,K-12 School,Bladen,Emereau Charter School,3,0,2,0,ongoing
+2020-11-03,K-12 School,Bladen,Emereau Charter School,3,0,2,0,ongoing
+2020-11-06,K-12 School,Bladen,Emereau Charter School,3,0,2,0,ongoing
+2020-11-10,K-12 School,Bladen,Emereau Charter School,3,0,2,0,ongoing
+2020-11-13,K-12 School,Bladen,Emereau Charter School,3,0,2,0,ongoing
+2020-11-17,K-12 School,Bladen,Emereau Charter School,3,0,2,0,ongoing
+2020-11-20,K-12 School,Bladen,Emereau Charter School,3,0,2,0,ongoing
+2020-11-24,K-12 School,Bladen,Emereau Charter School,3,0,2,0,ongoing
+2020-12-01,K-12 School,Bladen,Emereau Charter School,3,0,2,0,ongoing
+2020-12-04,K-12 School,Bladen,Emereau Charter School,3,0,2,0,ongoing
+2020-12-08,K-12 School,Bladen,Emereau Charter School,3,0,2,0,ongoing
+2020-12-11,K-12 School,Bladen,Emereau Charter School,14,0,8,0,ongoing
+2020-12-15,K-12 School,Bladen,Emereau Charter School,14,0,8,0,ongoing
+2020-12-18,K-12 School,Bladen,Emereau Charter School,14,0,8,0,ongoing
+2020-12-22,K-12 School,Bladen,Emereau Charter School,14,0,8,0,ongoing
+2021-01-26,Child Care,Brunswick,Childcare Network Southport,4,0,3,0,ongoing
+2021-02-05,Child Care,Brunswick,Childcare Network Southport,4,0,3,0,ongoing
+2021-01-29,K-12 School,Brunswick,Jessie Mae Moore Elementary,0,0,5,0,ongoing
+2021-02-02,K-12 School,Brunswick,Jessie Mae Moore Elementary,0,0,6,0,ongoing
+2021-02-05,K-12 School,Brunswick,Jessie Mae Moore Elementary,1,0,8,0,ongoing
+2021-02-05,Child Care,Brunswick,Kids World Academy Southport,3,0,2,0,ongoing
+2020-12-18,K-12 School,Brunswick,Leland Middle School,4,0,2,0,ongoing
+2020-12-22,K-12 School,Brunswick,Leland Middle School,4,0,2,0,ongoing
+2021-01-05,K-12 School,Brunswick,Leland Middle School,4,0,2,0,ongoing
+2021-01-08,K-12 School,Brunswick,Leland Middle School,4,0,2,0,ongoing
+2021-01-12,K-12 School,Brunswick,Leland Middle School,4,0,2,0,ongoing
+2021-01-15,K-12 School,Brunswick,Leland Middle School,4,0,2,0,ongoing
+2021-01-19,K-12 School,Brunswick,Leland Middle School,4,0,2,0,ongoing
+2021-01-22,K-12 School,Brunswick,Leland Middle School,4,0,2,0,ongoing
+2021-01-26,K-12 School,Brunswick,Leland Middle School,4,0,2,0,ongoing
+2021-02-02,K-12 School,Brunswick,South Brunswick Charter School,3,0,8,0,ongoing
+2021-02-05,K-12 School,Brunswick,South Brunswick Charter School,4,0,11,0,ongoing
+2020-12-18,K-12 School,Brunswick,Southeastern Christian Academy,2,0,3,0,ongoing
+2020-12-22,K-12 School,Brunswick,Southeastern Christian Academy,2,0,3,0,ongoing
+2021-01-05,K-12 School,Brunswick,Southeastern Christian Academy,2,0,3,0,ongoing
+2021-01-08,K-12 School,Brunswick,Southeastern Christian Academy,2,0,3,0,ongoing
+2021-01-12,K-12 School,Brunswick,Southeastern Christian Academy,2,0,3,0,ongoing
+2021-01-15,K-12 School,Brunswick,Southeastern Christian Academy,2,0,3,0,ongoing
+2021-01-19,K-12 School,Brunswick,Southeastern Christian Academy,2,0,3,0,ongoing
+2021-01-22,K-12 School,Brunswick,Southeastern Christian Academy,2,0,3,0,ongoing
+2021-01-26,K-12 School,Brunswick,Southeastern Christian Academy,2,0,3,0,ongoing
+2021-02-05,Child Care,Brunswick,Tiny Tots Child Care,1,0,8,0,ongoing
+2020-12-18,K-12 School,Brunswick,Town Creek Elementary School,9,0,10,0,ongoing
+2020-12-22,K-12 School,Brunswick,Town Creek Elementary School,16,0,21,0,ongoing
+2021-01-05,K-12 School,Brunswick,Town Creek Elementary School,16,0,21,0,ongoing
+2021-01-08,K-12 School,Brunswick,Town Creek Elementary School,16,0,21,0,ongoing
+2021-01-12,K-12 School,Brunswick,Town Creek Elementary School,17,0,21,0,ongoing
+2021-01-15,K-12 School,Brunswick,Town Creek Elementary School,17,0,21,0,ongoing
+2021-01-19,K-12 School,Brunswick,Town Creek Elementary School,17,0,21,0,ongoing
+2021-01-22,K-12 School,Brunswick,Town Creek Elementary School,17,0,21,0,ongoing
+2021-01-26,K-12 School,Brunswick,Town Creek Elementary School,17,0,21,0,ongoing
+2021-01-29,K-12 School,Brunswick,Town Creek Elementary School,17,0,21,0,ongoing
+2021-02-02,K-12 School,Brunswick,Town Creek Elementary School,17,0,21,0,ongoing
+2021-02-05,K-12 School,Brunswick,Town Creek Elementary School,17,0,21,0,ongoing
+2021-02-02,K-12 School,Brunswick,Union Elementary School,2,0,4,0,ongoing
+2021-02-05,K-12 School,Brunswick,Union Elementary School,2,0,8,0,ongoing
+2020-12-04,K-12 School,Buncombe,Haw Creek Elementary School,3,0,2,0,ongoing
+2020-12-08,K-12 School,Buncombe,Haw Creek Elementary School,3,0,2,0,ongoing
+2020-12-11,K-12 School,Buncombe,Haw Creek Elementary School,3,0,2,0,ongoing
+2020-12-15,K-12 School,Buncombe,Haw Creek Elementary School,3,0,2,0,ongoing
+2020-12-18,K-12 School,Buncombe,Haw Creek Elementary School,3,0,2,0,ongoing
+2020-12-22,K-12 School,Buncombe,Haw Creek Elementary School,3,0,2,0,ongoing
+2021-01-05,K-12 School,Buncombe,Haw Creek Elementary School,3,0,2,0,ongoing
+2021-01-08,K-12 School,Buncombe,Haw Creek Elementary School,3,0,2,0,ongoing
+2021-01-12,K-12 School,Buncombe,Haw Creek Elementary School,3,0,2,0,ongoing
+2021-01-15,K-12 School,Buncombe,Haw Creek Elementary School,3,0,2,0,ongoing
+2020-10-13,School,Buncombe,Oakley Elementary,5,0,0,0,ongoing
+2020-10-20,K-12 School,Buncombe,Oakley Elementary,5,0,0,0,ongoing
+2020-10-23,K-12 School,Buncombe,Oakley Elementary,5,0,0,0,ongoing
+2020-10-27,K-12 School,Buncombe,Oakley Elementary,5,0,0,0,ongoing
+2020-10-30,K-12 School,Buncombe,Oakley Elementary,5,0,0,0,ongoing
+2020-12-01,K-12 School,Burke,Christ Classical Academy,1,0,7,0,ongoing
+2020-12-04,K-12 School,Burke,Christ Classical Academy,1,0,7,0,ongoing
+2020-12-08,K-12 School,Burke,Christ Classical Academy,1,0,7,0,ongoing
+2020-12-11,K-12 School,Burke,Christ Classical Academy,1,0,7,0,ongoing
+2020-12-15,K-12 School,Burke,Christ Classical Academy,1,0,7,0,ongoing
+2020-12-18,K-12 School,Burke,Christ Classical Academy,1,0,7,0,ongoing
+2020-12-22,K-12 School,Burke,Christ Classical Academy,1,0,7,0,ongoing
+2021-01-05,K-12 School,Burke,Christ Classical Academy,1,0,7,0,ongoing
+2021-01-08,K-12 School,Burke,Christ Classical Academy,1,0,7,0,ongoing
+2021-01-12,K-12 School,Burke,Christ Classical Academy,1,0,7,0,ongoing
+2021-01-15,K-12 School,Burke,Christ Classical Academy,1,0,7,0,ongoing
+2021-01-19,K-12 School,Burke,Christ Classical Academy,1,0,7,0,ongoing
+2021-01-22,K-12 School,Burke,Christ Classical Academy,1,0,7,0,ongoing
+2021-01-26,K-12 School,Burke,Christ Classical Academy,1,0,7,0,ongoing
+2021-01-29,K-12 School,Burke,Christ Classical Academy,1,0,7,0,ongoing
+2020-08-28,Child Care,Burke,First Baptist Church Icard Enrichment Center,10,0,2,0,ongoing
+2020-09-22,Child Care,Burke,First Baptist Church Icard Enrichment Center,10,0,2,0,ongoing
+2020-09-25,Child Care,Burke,First Baptist Church Icard Enrichment Center,18,0,3,0,ongoing
+2020-09-29,Child Care,Burke,First Baptist Church Icard Enrichment Center,18,0,3,0,ongoing
+2020-10-02,Child Care,Burke,First Baptist Church Icard Enrichment Center,18,0,3,0,resolved
+2020-12-11,K-12 School,Burke,Hildebran Elementary School,5,0,0,0,ongoing
+2020-12-15,K-12 School,Burke,Hildebran Elementary School,5,0,0,0,ongoing
+2020-12-18,K-12 School,Burke,Hildebran Elementary School,5,0,0,0,ongoing
+2020-12-22,K-12 School,Burke,Hildebran Elementary School,5,0,0,0,ongoing
+2021-01-05,K-12 School,Burke,Hildebran Elementary School,5,0,0,0,ongoing
+2021-01-08,K-12 School,Burke,Hildebran Elementary School,5,0,0,0,ongoing
+2021-01-12,K-12 School,Burke,Hildebran Elementary School,5,0,0,0,ongoing
+2021-01-15,K-12 School,Burke,Hildebran Elementary School,5,0,0,0,ongoing
+2021-01-19,K-12 School,Burke,Hildebran Elementary School,5,0,0,0,ongoing
+2021-01-22,K-12 School,Burke,Hildebran Elementary School,5,0,0,0,ongoing
+2021-01-26,K-12 School,Burke,Hildebran Elementary School,5,0,0,0,ongoing
+2021-01-29,K-12 School,Burke,Hildebran Elementary School,5,0,0,0,ongoing
+2021-02-02,K-12 School,Burke,Hildebran Elementary School,5,0,0,0,ongoing
+2021-02-05,K-12 School,Burke,Hildebran Elementary School,5,0,0,0,ongoing
+2020-10-23,K-12 School,Burke,Icard Elementary School,5,0,3,0,ongoing
+2020-10-27,K-12 School,Burke,Icard Elementary School,9,0,3,0,ongoing
+2020-10-30,K-12 School,Burke,Icard Elementary School,9,0,3,0,ongoing
+2020-11-03,K-12 School,Burke,Icard Elementary School,9,0,3,0,ongoing
+2020-11-06,K-12 School,Burke,Icard Elementary School,9,0,3,0,ongoing
+2020-11-10,K-12 School,Burke,Icard Elementary School,9,0,3,0,ongoing
+2020-11-13,K-12 School,Burke,Icard Elementary School,9,0,3,0,ongoing
+2020-11-17,K-12 School,Burke,Icard Elementary School,9,0,3,0,ongoing
+2020-11-20,K-12 School,Burke,Icard Elementary School,9,0,3,0,ongoing
+2020-11-24,K-12 School,Burke,Icard Elementary School,9,0,3,0,ongoing
+2020-12-15,K-12 School,Burke,Icard Elementary School,5,0,0,0,ongoing
+2020-12-18,K-12 School,Burke,Icard Elementary School,5,0,0,0,ongoing
+2020-12-22,K-12 School,Burke,Icard Elementary School,5,0,0,0,ongoing
+2021-01-05,K-12 School,Burke,Icard Elementary School,5,0,0,0,ongoing
+2021-01-08,K-12 School,Burke,Icard Elementary School,5,0,0,0,ongoing
+2021-01-12,K-12 School,Burke,Icard Elementary School,5,0,0,0,ongoing
+2021-01-15,K-12 School,Burke,Icard Elementary School,5,0,0,0,ongoing
+2021-01-19,K-12 School,Burke,Icard Elementary School,5,0,0,0,ongoing
+2021-01-22,K-12 School,Burke,Icard Elementary School,5,0,0,0,ongoing
+2021-01-26,K-12 School,Burke,Icard Elementary School,5,0,0,0,ongoing
+2021-01-29,K-12 School,Burke,Icard Elementary School,5,0,0,0,ongoing
+2021-02-02,K-12 School,Burke,Icard Elementary School,5,0,0,0,ongoing
+2021-02-05,K-12 School,Burke,Icard Elementary School,5,0,0,0,ongoing
+2020-12-22,K-12 School,Burke,Valdese Elementary School,3,0,3,0,ongoing
+2021-01-05,K-12 School,Burke,Valdese Elementary School,3,0,3,0,ongoing
+2021-01-08,K-12 School,Burke,Valdese Elementary School,3,0,3,0,ongoing
+2021-01-12,K-12 School,Burke,Valdese Elementary School,3,0,3,0,ongoing
+2021-01-15,K-12 School,Burke,Valdese Elementary School,3,0,3,0,ongoing
+2021-01-19,K-12 School,Burke,Valdese Elementary School,3,0,3,0,ongoing
+2021-01-22,K-12 School,Burke,Valdese Elementary School,3,0,3,0,ongoing
+2021-01-26,K-12 School,Burke,Valdese Elementary School,3,0,3,0,ongoing
+2021-01-29,K-12 School,Burke,Valdese Elementary School,3,0,3,0,ongoing
+2021-02-05,Child Care,Cabarrus,ABC Preschool,6,0,0,0,ongoing
+2020-11-03,K-12 School,Cabarrus,Faith Christian Academy,6,0,0,0,ongoing
+2020-11-06,K-12 School,Cabarrus,Faith Christian Academy,6,0,0,0,ongoing
+2020-11-10,K-12 School,Cabarrus,Faith Christian Academy,6,0,0,0,ongoing
+2020-11-13,K-12 School,Cabarrus,Faith Christian Academy,6,0,0,0,ongoing
+2020-11-17,K-12 School,Cabarrus,Faith Christian Academy,6,0,0,0,ongoing
+2020-11-20,K-12 School,Cabarrus,Faith Christian Academy,6,0,0,0,ongoing
+2020-11-24,K-12 School,Cabarrus,Faith Christian Academy,6,0,0,0,ongoing
+2020-10-13,School,Caldwell,Moravian Prep,1,0,5,0,ongoing
+2020-10-20,K-12 School,Caldwell,Moravian Prep,1,0,5,0,ongoing
+2020-10-23,K-12 School,Caldwell,Moravian Prep,1,0,5,0,ongoing
+2020-10-27,K-12 School,Caldwell,Moravian Prep,1,0,5,0,ongoing
+2020-10-30,K-12 School,Caldwell,Moravian Prep,1,0,5,0,ongoing
+2020-11-03,K-12 School,Caldwell,Moravian Prep,1,0,5,0,ongoing
+2020-11-06,K-12 School,Caldwell,Moravian Prep,1,0,5,0,ongoing
+2020-11-10,K-12 School,Caldwell,Moravian Prep,1,0,5,0,ongoing
+2020-11-13,K-12 School,Caldwell,Moravian Prep,1,0,5,0,ongoing
+2020-11-17,K-12 School,Caldwell,Moravian Prep,1,0,5,0,resolved
+2020-12-01,K-12 School,Catawba,Maiden High School,2,0,4,0,ongoing
+2020-12-04,K-12 School,Catawba,Maiden High School,2,0,4,0,ongoing
+2020-12-08,K-12 School,Catawba,Maiden High School,2,0,4,0,ongoing
+2020-12-11,K-12 School,Catawba,Maiden High School,1,0,5,0,ongoing
+2020-12-15,K-12 School,Catawba,Maiden High School,1,0,5,0,ongoing
+2020-12-18,K-12 School,Catawba,Maiden High School,1,0,5,0,ongoing
+2020-12-22,K-12 School,Catawba,Maiden High School,1,0,5,0,ongoing
+2021-01-05,K-12 School,Catawba,Maiden High School,1,0,5,0,ongoing
+2021-01-08,K-12 School,Catawba,Maiden High School,1,0,5,0,ongoing
+2021-01-12,K-12 School,Catawba,Maiden High School,1,0,5,0,ongoing
+2021-01-15,K-12 School,Catawba,Maiden High School,1,0,5,0,ongoing
+2021-01-19,K-12 School,Catawba,Maiden High School,1,0,5,0,ongoing
+2020-09-29,Child Care,Catawba,Miss Millies Child Care Center,8,0,1,0,ongoing
+2020-10-02,Child Care,Catawba,Miss Millies Child Care Center,8,0,1,0,ongoing
+2020-10-13,Child Care,Catawba,Miss Millies Child Care Center,8,0,1,0,ongoing
+2020-12-01,K-12 School,Catawba,Shuford Elementary,3,0,3,0,ongoing
+2020-12-04,K-12 School,Catawba,Shuford Elementary,3,0,3,0,ongoing
+2020-12-08,K-12 School,Catawba,Shuford Elementary,3,0,3,0,ongoing
+2020-12-11,K-12 School,Catawba,Shuford Elementary,3,0,3,0,ongoing
+2020-12-15,K-12 School,Catawba,Shuford Elementary,3,0,3,0,ongoing
+2020-12-18,K-12 School,Catawba,Shuford Elementary,3,0,3,0,ongoing
+2020-12-22,K-12 School,Catawba,Shuford Elementary,3,0,3,0,ongoing
+2021-01-05,K-12 School,Catawba,Shuford Elementary,3,0,3,0,ongoing
+2021-01-08,K-12 School,Catawba,Shuford Elementary,3,0,3,0,ongoing
+2021-01-12,K-12 School,Catawba,Shuford Elementary,3,0,3,0,ongoing
+2021-01-15,K-12 School,Catawba,Shuford Elementary,3,0,3,0,ongoing
+2021-01-19,K-12 School,Catawba,Shuford Elementary,3,0,3,0,ongoing
+2021-02-05,K-12 School,Catawba,St Stephens Elementary School,3,0,3,0,ongoing
+2020-12-01,K-12 School,Cleveland,Burns High School,1,0,7,0,ongoing
+2020-12-04,K-12 School,Cleveland,Burns High School,1,0,7,0,ongoing
+2020-12-08,K-12 School,Cleveland,Burns High School,1,0,7,0,ongoing
+2020-12-11,K-12 School,Cleveland,Burns High School,1,0,7,0,ongoing
+2020-12-15,K-12 School,Cleveland,Burns High School,1,0,7,0,ongoing
+2020-12-18,K-12 School,Cleveland,Burns High School,1,0,7,0,ongoing
+2020-12-22,K-12 School,Cleveland,Burns High School,1,0,7,0,ongoing
+2021-01-05,K-12 School,Cleveland,Burns High School,1,0,7,0,ongoing
+2020-11-24,K-12 School,Cleveland,Burns High school volleyball team,1,0,6,0,ongoing
+2020-11-13,Child Care,Columbus,Enchanting Tree Learning Center,5,0,0,0,ongoing
+2020-11-17,Child Care,Columbus,Enchanting Tree Learning Center,5,0,0,0,ongoing
+2020-11-24,Child Care,Columbus,Enchanting Tree Learning Center,5,0,0,0,ongoing
+2020-12-11,Child Care,Columbus,Enchanting Tree Learning Center,5,0,0,0,ongoing
+2021-01-29,K-12 School,Columbus,Whiteville High School,1,0,4,0,ongoing
+2021-02-02,K-12 School,Columbus,Whiteville High School,1,0,4,0,ongoing
+2021-02-05,K-12 School,Columbus,Whiteville High School,1,0,4,0,ongoing
+2020-10-20,K-12 School,Craven,New Bern Christian Academy,6,0,4,0,ongoing
+2020-10-23,K-12 School,Craven,New Bern Christian Academy,6,0,4,0,ongoing
+2020-10-27,K-12 School,Craven,New Bern Christian Academy,6,0,4,0,ongoing
+2020-10-30,K-12 School,Craven,New Bern Christian Academy,6,0,4,0,ongoing
+2020-11-03,K-12 School,Craven,New Bern Christian Academy,6,0,4,0,ongoing
+2020-11-06,K-12 School,Craven,New Bern Christian Academy,6,0,4,0,ongoing
+2020-11-10,K-12 School,Craven,New Bern Christian Academy,6,0,4,0,ongoing
+2020-11-13,K-12 School,Craven,New Bern Christian Academy,6,0,4,0,ongoing
+2020-11-17,K-12 School,Craven,New Bern Christian Academy,6,0,4,0,ongoing
+2020-11-20,K-12 School,Craven,New Bern Christian Academy,6,0,4,0,ongoing
+2020-11-24,K-12 School,Craven,New Bern Christian Academy,6,0,4,0,ongoing
+2020-09-25,School,Craven,New Bern High School,0,0,5,0,ongoing
+2020-09-29,School,Craven,New Bern High School,0,0,5,0,ongoing
+2020-10-02,School,Craven,New Bern High School,0,0,5,0,ongoing
+2020-09-22,School,Craven,New Bern High School Football Team,0,0,5,0,ongoing
+2020-09-25,School,Cumberland,Berean Baptist Academy,0,0,5,0,ongoing
+2020-09-29,School,Cumberland,Berean Baptist Academy,0,0,5,0,ongoing
+2020-10-02,School,Cumberland,Berean Baptist Academy,0,0,5,0,ongoing
+2020-12-18,Child Care,Cumberland,Childcare Network #110,5,0,2,0,ongoing
+2020-12-22,Child Care,Cumberland,Childcare Network #110,5,0,2,0,ongoing
+2021-01-26,Child Care,Cumberland,Childcare Network #110,5,0,2,0,ongoing
+2020-10-23,K-12 School,Cumberland,Cornerstone Christian Academy,3,0,5,0,ongoing
+2020-10-27,K-12 School,Cumberland,Cornerstone Christian Academy,3,0,5,0,ongoing
+2020-10-30,K-12 School,Cumberland,Cornerstone Christian Academy,3,0,5,0,ongoing
+2020-11-03,K-12 School,Cumberland,Cornerstone Christian Academy,3,0,5,0,ongoing
+2020-11-06,K-12 School,Cumberland,Cornerstone Christian Academy,3,0,5,0,ongoing
+2020-11-10,K-12 School,Cumberland,Cornerstone Christian Academy,3,0,5,0,ongoing
+2020-11-13,K-12 School,Cumberland,Cornerstone Christian Academy,3,0,5,0,ongoing
+2020-11-17,K-12 School,Cumberland,Cornerstone Christian Academy,3,0,5,0,ongoing
+2020-10-30,K-12 School,Cumberland,Freedom Christian Academy,1,0,4,0,ongoing
+2020-11-03,K-12 School,Cumberland,Freedom Christian Academy,1,0,4,0,ongoing
+2020-11-06,K-12 School,Cumberland,Freedom Christian Academy,1,0,4,0,ongoing
+2020-11-10,K-12 School,Cumberland,Freedom Christian Academy,1,0,4,0,ongoing
+2020-11-13,K-12 School,Cumberland,Freedom Christian Academy,1,0,4,0,ongoing
+2020-11-17,K-12 School,Cumberland,Freedom Christian Academy,1,0,4,0,ongoing
+2020-11-20,K-12 School,Cumberland,Freedom Christian Academy,7,0,4,0,ongoing
+2020-11-24,K-12 School,Cumberland,Freedom Christian Academy,7,0,4,0,ongoing
+2020-12-01,K-12 School,Cumberland,Freedom Christian Academy,1,0,4,0,ongoing
+2020-12-04,K-12 School,Cumberland,Freedom Christian Academy,1,0,4,0,ongoing
+2020-11-24,Child Care,Cumberland,Heavenly Haven Academy,2,0,4,0,ongoing
+2020-12-11,Child Care,Cumberland,Heavenly Haven Academy,2,0,4,0,ongoing
+2020-09-22,Child Care,Cumberland,Highland Learning Center,4,0,1,0,ongoing
+2020-09-25,Child Care,Cumberland,Highland Learning Center,4,0,1,0,ongoing
+2020-09-29,Child Care,Cumberland,Highland Learning Center,4,0,1,0,ongoing
+2020-10-02,Child Care,Cumberland,Highland Learning Center,4,0,1,0,ongoing
+2020-10-13,Child Care,Cumberland,Highland Learning Center,4,0,1,0,ongoing
+2021-01-26,Child Care,Cumberland,Lakewoods Drive KinderCare,1,0,4,0,ongoing
+2021-02-05,Child Care,Cumberland,Lakewoods Drive KinderCare,1,0,4,0,ongoing
+2021-01-26,Child Care,Cumberland,New Life Baptist Church,9,0,2,0,ongoing
+2021-02-05,Child Care,Cumberland,New Life Baptist Church,9,0,2,0,ongoing
+2020-08-21,Child Care,Cumberland,Owen Drive KinderCare,3,0,3,0,ongoing
+2020-08-25,Child Care,Cumberland,Owen Drive KinderCare,3,0,3,0,ongoing
+2020-08-28,Child Care,Cumberland,Owen Drive KinderCare,3,0,3,0,ongoing
+2020-08-21,Child Care,Cumberland,Sunshine House Cliffdale Road,5,0,1,0,ongoing
+2020-08-25,Child Care,Cumberland,Sunshine House Cliffdale Road,5,0,1,0,ongoing
+2020-08-28,Child Care,Cumberland,Sunshine House Cliffdale Road,5,0,1,0,ongoing
+2021-02-02,K-12 School,Cumberland,Temple Christian Academy,2,0,5,0,ongoing
+2021-02-05,K-12 School,Cumberland,Temple Christian Academy,2,0,5,0,ongoing
+2021-01-26,Child Care,Cumberland,Trinity Child Care,5,0,2,0,ongoing
+2021-02-05,Child Care,Cumberland,Trinity Child Care,5,0,2,0,ongoing
+2020-08-21,Child Care,Davidson,Lexington Day Care,7,0,1,0,ongoing
+2020-08-25,Child Care,Davidson,Lexington Day Care,7,0,2,0,ongoing
+2020-08-28,Child Care,Davidson,Lexington Day Care,7,0,2,0,ongoing
+2020-09-22,Child Care,Davidson,Lexington Day Care,7,0,2,0,resolved
+2020-10-13,School,Davidson,West Davidson High School,2,0,4,0,ongoing
+2020-10-20,K-12 School,Davidson,West Davidson High School,2,0,4,0,ongoing
+2020-10-23,K-12 School,Davidson,West Davidson High School,2,0,4,0,ongoing
+2020-10-27,K-12 School,Davidson,West Davidson High School,2,0,4,0,ongoing
+2020-10-30,K-12 School,Davidson,West Davidson High School,2,0,4,0,ongoing
+2020-11-03,K-12 School,Davidson,West Davidson High School,2,0,4,0,ongoing
+2020-11-06,K-12 School,Davidson,West Davidson High School,2,0,4,0,ongoing
+2020-08-21,Child Care,Duplin,Wee Care,4,0,7,0,ongoing
+2020-08-25,Child Care,Duplin,Wee Care,4,0,7,0,ongoing
+2020-08-28,Child Care,Duplin,Wee Care,4,0,7,0,ongoing
+2020-11-06,K-12 School,Durham,Bethesda Christian Academy,1,0,6,0,ongoing
+2020-11-10,K-12 School,Durham,Bethesda Christian Academy,1,0,6,0,ongoing
+2020-11-13,K-12 School,Durham,Bethesda Christian Academy,2,0,6,0,ongoing
+2020-11-17,K-12 School,Durham,Bethesda Christian Academy,2,0,6,0,ongoing
+2020-11-20,K-12 School,Durham,Bethesda Christian Academy,5,0,10,0,ongoing
+2020-11-24,K-12 School,Durham,Bethesda Christian Academy,5,0,10,0,ongoing
+2020-12-01,K-12 School,Durham,Bethesda Christian Academy,5,0,10,0,ongoing
+2020-12-04,K-12 School,Durham,Bethesda Christian Academy,5,0,10,0,ongoing
+2020-12-08,K-12 School,Durham,Bethesda Christian Academy,5,0,10,0,ongoing
+2020-12-11,K-12 School,Durham,Bethesda Christian Academy,5,0,10,0,resolved
+2021-01-26,Child Care,Durham,Bright Horizons,4,0,1,0,ongoing
+2021-02-05,Child Care,Durham,Bright Horizons,4,0,1,0,ongoing
+2020-08-21,Child Care,Durham,Child care Network #58,2,0,3,0,ongoing
+2020-08-25,Child Care,Durham,Child care Network #58,2,0,3,0,ongoing
+2020-08-28,Child Care,Durham,Child care Network #58,2,0,3,0,ongoing
+2020-11-13,Child Care,Durham,Creative Care Early Learning Academy,1,0,4,0,ongoing
+2020-11-17,Child Care,Durham,Creative Care Early Learning Academy,1,0,4,0,ongoing
+2020-11-24,Child Care,Durham,Creative Care Early Learning Academy,2,0,5,0,ongoing
+2020-08-21,Child Care,Durham,Duke Street KinderCare,0,0,7,0,ongoing
+2020-08-25,Child Care,Durham,Duke Street KinderCare,0,0,7,0,ongoing
+2020-08-28,Child Care,Durham,Duke Street KinderCare,0,0,7,0,ongoing
+2020-12-08,K-12 School,Durham,Fellowship Baptist Academy,2,0,6,0,ongoing
+2020-12-11,K-12 School,Durham,Fellowship Baptist Academy,2,0,6,0,ongoing
+2020-12-15,K-12 School,Durham,Fellowship Baptist Academy,2,0,6,0,ongoing
+2020-12-18,K-12 School,Durham,Fellowship Baptist Academy,2,0,6,0,ongoing
+2020-12-22,K-12 School,Durham,Fellowship Baptist Academy,2,0,6,0,ongoing
+2021-01-26,Child Care,Durham,Hope Valley Preschool,5,0,1,0,ongoing
+2020-11-13,Child Care,Durham,Legacy Child Enrichment Center,2,0,9,0,ongoing
+2020-11-17,Child Care,Durham,Legacy Child Enrichment Center,2,0,9,0,ongoing
+2020-11-24,Child Care,Durham,Legacy Child Enrichment Center,3,0,10,0,ongoing
+2020-12-11,Child Care,Durham,Legacy Child Enrichment Center,3,0,11,0,resolved
+2020-11-10,K-12 School,Durham,Liberty Baptist Church/School,5,0,16,0,ongoing
+2020-11-13,K-12 School,Durham,Liberty Baptist Church/School,5,0,16,0,ongoing
+2020-11-10,K-12 School,Durham,Liberty Christian Academy,1,0,9,0,ongoing
+2020-11-13,K-12 School,Durham,Liberty Christian Academy,1,0,9,0,ongoing
+2020-11-17,K-12 School,Durham,Liberty Christian Academy,6,0,20,0,ongoing
+2020-11-20,K-12 School,Durham,Liberty Christian Academy,6,0,20,0,ongoing
+2020-11-24,K-12 School,Durham,Liberty Christian Academy,6,0,20,0,ongoing
+2020-12-01,K-12 School,Durham,Liberty Christian Academy,6,0,20,0,ongoing
+2020-12-04,K-12 School,Durham,Liberty Christian Academy,6,0,20,0,ongoing
+2020-12-08,K-12 School,Durham,Liberty Christian Academy,6,0,20,0,ongoing
+2020-12-11,K-12 School,Durham,Liberty Christian Academy,6,0,20,0,resolved
+2021-01-26,Child Care,Durham,Rose of Sharon Preschool,3,0,4,0,ongoing
+2021-02-05,Child Care,Durham,Rose of Sharon Preschool,3,0,4,0,ongoing
+2021-01-26,Child Care,Durham,The Goddard School,2,0,3,0,ongoing
+2021-02-05,Child Care,Durham,The Goddard School,2,0,3,0,ongoing
+2021-02-05,Child Care,Forsyth,Bright Horizons at Wake Forest Baptist Health,5,0,2,0,ongoing
+2020-11-10,K-12 School,Forsyth,Calvary Day School,16,0,0,0,ongoing
+2020-11-13,K-12 School,Forsyth,Calvary Day School,3,0,17,0,ongoing
+2020-11-17,K-12 School,Forsyth,Calvary Day School,3,0,17,0,ongoing
+2020-11-20,K-12 School,Forsyth,Calvary Day School,3,0,17,0,ongoing
+2020-11-24,K-12 School,Forsyth,Calvary Day School,3,0,17,0,ongoing
+2020-12-01,K-12 School,Forsyth,Calvary Day School,3,0,17,0,ongoing
+2020-12-04,K-12 School,Forsyth,Calvary Day School,3,0,17,0,ongoing
+2020-12-08,K-12 School,Forsyth,Calvary Day School,3,0,17,0,ongoing
+2020-12-11,K-12 School,Forsyth,Calvary Day School,3,0,17,0,ongoing
+2020-12-22,Child Care,Forsyth,Childcare Network #161,6,0,3,0,ongoing
+2021-01-26,Child Care,Forsyth,Childcare Network #161,6,0,3,0,ongoing
+2020-11-13,Child Care,Forsyth,Foundations Early learning Center,4,0,2,0,ongoing
+2020-11-17,Child Care,Forsyth,Foundations Early learning Center,4,0,2,0,ongoing
+2020-11-24,Child Care,Forsyth,Foundations Early learning Center,4,0,2,0,ongoing
+2020-12-11,Child Care,Forsyth,Foundations Early learning Center,4,0,2,0,ongoing
+2021-02-05,Child Care,Forsyth,Foundations Early learning Center,4,0,4,0,ongoing
+2021-02-05,Child Care,Forsyth,Little Geniuses Learning Center,1,0,5,0,ongoing
+2020-11-06,K-12 School,Forsyth,Moore Magnet Elementary School,6,0,1,0,ongoing
+2020-11-10,K-12 School,Forsyth,Moore Magnet Elementary School,6,0,1,0,ongoing
+2020-11-13,K-12 School,Forsyth,Moore Magnet Elementary School,6,0,1,0,ongoing
+2020-11-17,K-12 School,Forsyth,Moore Magnet Elementary School,6,0,1,0,ongoing
+2020-11-20,K-12 School,Forsyth,Moore Magnet Elementary School,6,0,1,0,ongoing
+2020-11-24,K-12 School,Forsyth,Moore Magnet Elementary School,6,0,1,0,ongoing
+2020-12-01,K-12 School,Forsyth,Moore Magnet Elementary School,6,0,1,0,ongoing
+2020-12-04,K-12 School,Forsyth,Moore Magnet Elementary School,6,0,1,0,ongoing
+2020-12-08,K-12 School,Forsyth,Moore Magnet Elementary School,6,0,1,0,ongoing
+2020-12-11,K-12 School,Forsyth,Moore Magnet Elementary School,6,0,1,0,ongoing
+2020-12-15,K-12 School,Forsyth,Moore Magnet Elementary School,6,0,1,0,ongoing
+2020-12-18,K-12 School,Forsyth,Moore Magnet Elementary School,6,0,1,0,resolved
+2020-11-24,Child Care,Forsyth,Sandra's Family Child Care,3,0,2,0,ongoing
+2020-12-11,Child Care,Forsyth,Sandra's Family Child Care,3,0,2,0,ongoing
+2020-12-18,Child Care,Forsyth,Sandra's Family Child Care,3,0,2,0,ongoing
+2020-12-22,Child Care,Forsyth,Sandra's Family Child Care,3,0,2,0,ongoing
+2021-01-26,Child Care,Forsyth,Sandra's Family Child Care,3,0,2,0,ongoing
+2021-02-05,Child Care,Forsyth,Sunshine House - ELA - Country Club Rd,4,0,1,0,ongoing
+2020-08-21,Child Care,Forsyth,The Crossing Preschool Afterschool,2,0,3,0,ongoing
+2020-08-25,Child Care,Forsyth,The Crossing Preschool Afterschool,2,0,3,0,ongoing
+2020-08-28,Child Care,Forsyth,The Crossing Preschool Afterschool,2,0,3,0,ongoing
+2020-10-30,Child Care,Forsyth,The Sunshine House,3,0,2,0,ongoing
+2020-11-13,Child Care,Forsyth,The Sunshine House,3,0,2,0,ongoing
+2020-11-17,Child Care,Forsyth,The Sunshine House,3,0,2,0,ongoing
+2020-11-24,Child Care,Forsyth,The Sunshine House,3,0,2,0,ongoing
+2020-12-11,Child Care,Forsyth,The Sunshine House,3,0,2,0,ongoing
+2020-10-23,K-12 School,Forsyth,UNC School of the Arts,0,0,5,0,ongoing
+2020-10-27,K-12 School,Forsyth,UNC School of the Arts,0,0,5,0,ongoing
+2020-10-30,K-12 School,Forsyth,UNC School of the Arts,0,0,5,0,ongoing
+2020-11-03,K-12 School,Forsyth,UNC School of the Arts,0,0,5,0,ongoing
+2020-11-06,K-12 School,Forsyth,UNC School of the Arts,0,0,5,0,ongoing
+2020-11-10,K-12 School,Forsyth,UNC School of the Arts,0,0,5,0,ongoing
+2021-01-26,Child Care,Forsyth,West Forsyth Christian Preschool,1,0,4,0,ongoing
+2021-02-05,Child Care,Forsyth,West Forsyth Christian Preschool,1,0,4,0,ongoing
+2020-08-21,Child Care,Franklin,Little Angels Daycare,4,0,7,0,ongoing
+2020-08-25,Child Care,Franklin,Little Angels Daycare,4,0,7,0,ongoing
+2020-08-28,Child Care,Franklin,Little Angels Daycare,4,0,7,0,ongoing
+2020-12-18,Child Care,Gaston,All About Me Learning,3,0,2,0,ongoing
+2020-12-22,Child Care,Gaston,All About Me Learning,3,0,2,0,ongoing
+2021-01-26,Child Care,Gaston,All About Me Learning,3,0,2,0,ongoing
+2020-10-13,School,Gaston,Gardner Park Elementary,5,0,0,0,ongoing
+2020-10-20,K-12 School,Gaston,Gardner Park Elementary,6,0,1,0,ongoing
+2020-10-23,K-12 School,Gaston,Gardner Park Elementary,6,0,1,0,ongoing
+2020-10-27,K-12 School,Gaston,Gardner Park Elementary,6,0,1,0,ongoing
+2020-10-30,K-12 School,Gaston,Gardner Park Elementary,6,0,1,0,ongoing
+2020-11-03,K-12 School,Gaston,Gardner Park Elementary,6,0,1,0,ongoing
+2020-11-06,K-12 School,Gaston,Gardner Park Elementary,6,0,1,0,ongoing
+2020-11-10,K-12 School,Gaston,Gardner Park Elementary,6,0,1,0,ongoing
+2020-11-13,K-12 School,Gaston,Gardner Park Elementary,6,0,1,0,ongoing
+2020-11-17,K-12 School,Gaston,Gardner Park Elementary,5,0,1,0,resolved
+2021-01-29,K-12 School,Gaston,Piedmont Community Charter Elementary School,5,0,2,0,ongoing
+2021-02-02,K-12 School,Gaston,Piedmont Community Charter Elementary School,5,0,2,0,ongoing
+2021-02-05,K-12 School,Gaston,Piedmont Community Charter Elementary School,5,0,2,0,ongoing
+2020-09-22,School,Gaston,Webb Street School,4,0,1,0,ongoing
+2020-09-25,School,Gaston,Webb Street School,4,0,1,0,ongoing
+2020-09-29,School,Gaston,Webb Street School,4,0,1,0,ongoing
+2020-10-02,School,Gaston,Webb Street School,4,0,1,0,ongoing
+2020-10-13,School,Gaston,Webb Street School,4,0,1,0,ongoing
+2020-12-11,K-12 School,Gaston,Webb Street School,7,0,1,0,ongoing
+2020-12-15,K-12 School,Gaston,Webb Street School,7,0,1,0,ongoing
+2020-12-18,K-12 School,Gaston,Webb Street School,7,0,1,0,ongoing
+2020-12-22,K-12 School,Gaston,Webb Street School,7,0,1,0,ongoing
+2021-01-05,K-12 School,Gaston,Webb Street School,7,0,1,0,ongoing
+2021-01-08,K-12 School,Gaston,Webb Street School,7,0,1,0,ongoing
+2020-10-20,K-12 School,Graham,Robbinsville Elementary School,3,0,2,0,ongoing
+2020-10-23,K-12 School,Graham,Robbinsville Elementary School,3,0,2,0,ongoing
+2020-10-27,K-12 School,Graham,Robbinsville Elementary School,3,0,2,0,ongoing
+2020-10-30,K-12 School,Graham,Robbinsville Elementary School,3,0,2,0,ongoing
+2020-11-03,K-12 School,Graham,Robbinsville Elementary School,3,0,2,0,ongoing
+2020-11-06,K-12 School,Graham,Robbinsville Elementary School,3,0,2,0,ongoing
+2020-11-10,K-12 School,Graham,Robbinsville Elementary School,3,0,2,0,ongoing
+2020-11-13,K-12 School,Graham,Robbinsville Elementary School,3,0,2,0,resolved
+2020-09-22,Child Care,Granville,Cornerstone Christian Daycare,2,1,7,0,ongoing
+2020-09-25,Child Care,Granville,Cornerstone Christian Daycare,2,1,7,0,ongoing
+2020-09-29,Child Care,Granville,Cornerstone Christian Daycare,2,1,7,0,ongoing
+2020-10-02,Child Care,Granville,Cornerstone Christian Daycare,2,1,9,0,ongoing
+2020-10-13,Child Care,Granville,Cornerstone Christian Daycare,2,1,9,0,ongoing
+2020-11-13,Child Care,Granville,YMCA Remote Learning Support Center,3,0,2,0,ongoing
+2020-11-17,Child Care,Granville,YMCA Remote Learning Support Center,3,0,2,0,ongoing
+2020-11-24,Child Care,Granville,YMCA Remote Learning Support Center,3,0,2,0,ongoing
+2020-12-11,Child Care,Granville,YMCA Remote Learning Support Center,3,0,2,0,ongoing
+2020-12-04,K-12 School,Greene,Greene Central High School,5,0,1,0,ongoing
+2020-12-08,K-12 School,Greene,Greene Central High School,5,0,1,0,ongoing
+2020-12-11,K-12 School,Greene,Greene Central High School,5,0,1,0,ongoing
+2020-12-15,K-12 School,Greene,Greene Central High School,5,0,1,0,ongoing
+2020-12-18,K-12 School,Greene,Greene Central High School,5,0,1,0,ongoing
+2020-12-22,K-12 School,Greene,Greene Central High School,5,0,1,0,ongoing
+2020-09-22,School,Greene,Mt. Calvary Christian Academy,9,0,2,0,ongoing
+2020-09-25,School,Greene,Mt. Calvary Christian Academy,9,0,2,0,ongoing
+2020-09-29,School,Greene,Mt. Calvary Christian Academy,9,0,2,0,ongoing
+2020-10-02,School,Greene,Mt. Calvary Christian Academy,12,0,1,0,resolved
+2020-12-11,K-12 School,Guilford,Greater Vision Academy,6,0,2,0,ongoing
+2020-12-15,K-12 School,Guilford,Greater Vision Academy,6,0,2,0,ongoing
+2020-12-18,K-12 School,Guilford,Greater Vision Academy,6,0,2,0,ongoing
+2020-12-22,K-12 School,Guilford,Greater Vision Academy,6,0,2,0,ongoing
+2021-01-05,K-12 School,Guilford,Greater Vision Academy,6,0,2,0,ongoing
+2021-01-08,K-12 School,Guilford,Greater Vision Academy,6,0,2,0,ongoing
+2021-01-12,K-12 School,Guilford,Greater Vision Academy,6,0,2,0,ongoing
+2021-01-15,K-12 School,Guilford,Greater Vision Academy,6,0,2,0,ongoing
+2021-01-19,K-12 School,Guilford,Greater Vision Academy,6,0,2,0,ongoing
+2021-01-22,K-12 School,Guilford,Greater Vision Academy,6,0,2,0,ongoing
+2021-01-26,K-12 School,Guilford,Greater Vision Academy,6,0,2,0,ongoing
+2021-01-29,K-12 School,Guilford,Greater Vision Academy,6,0,2,0,ongoing
+2021-02-02,K-12 School,Guilford,Greater Vision Academy,6,0,2,0,ongoing
+2021-02-05,K-12 School,Guilford,Greater Vision Academy,6,0,2,0,ongoing
+2020-11-17,K-12 School,Guilford,Greensboro Day School,1,0,9,0,ongoing
+2020-11-20,K-12 School,Guilford,Greensboro Day School,1,0,9,0,ongoing
+2020-11-24,K-12 School,Guilford,Greensboro Day School,1,0,9,0,ongoing
+2020-12-01,K-12 School,Guilford,Greensboro Day School,1,0,9,0,ongoing
+2020-12-04,K-12 School,Guilford,Greensboro Day School,1,0,9,0,ongoing
+2020-12-08,K-12 School,Guilford,Greensboro Day School,1,0,9,0,ongoing
+2020-12-11,K-12 School,Guilford,Greensboro Day School,1,0,9,0,ongoing
+2020-12-15,K-12 School,Guilford,Greensboro Day School,1,0,9,0,ongoing
+2020-12-18,K-12 School,Guilford,Greensboro Day School,1,0,9,0,ongoing
+2020-12-22,K-12 School,Guilford,Greensboro Day School,1,0,9,0,ongoing
+2021-01-05,K-12 School,Guilford,Greensboro Day School,1,0,9,0,ongoing
+2021-01-08,K-12 School,Guilford,Greensboro Day School,1,0,9,0,ongoing
+2021-01-12,K-12 School,Guilford,Greensboro Day School,1,0,9,0,ongoing
+2021-01-15,K-12 School,Guilford,Greensboro Day School,1,0,9,0,ongoing
+2021-01-19,K-12 School,Guilford,Greensboro Day School,1,0,9,0,ongoing
+2020-10-02,School,Guilford,High Point Christian Academy,5,0,6,0,ongoing
+2020-10-13,School,Guilford,High Point Christian Academy,5,0,6,0,ongoing
+2020-10-20,K-12 School,Guilford,High Point Christian Academy,5,0,6,0,ongoing
+2020-10-23,K-12 School,Guilford,High Point Christian Academy,5,0,6,0,ongoing
+2020-10-27,K-12 School,Guilford,High Point Christian Academy,5,0,6,0,ongoing
+2020-10-30,K-12 School,Guilford,High Point Christian Academy,5,0,6,0,ongoing
+2020-11-03,K-12 School,Guilford,High Point Christian Academy,5,0,6,0,ongoing
+2020-11-06,K-12 School,Guilford,High Point Christian Academy,5,0,6,0,ongoing
+2020-11-13,K-12 School,Guilford,OakRidge Weekday School,2,0,3,0,ongoing
+2020-11-17,K-12 School,Guilford,OakRidge Weekday School,2,0,3,0,ongoing
+2020-11-20,K-12 School,Guilford,OakRidge Weekday School,2,0,3,0,ongoing
+2020-11-24,K-12 School,Guilford,OakRidge Weekday School,2,0,3,0,ongoing
+2020-12-01,K-12 School,Guilford,OakRidge Weekday School,2,0,3,0,ongoing
+2020-12-04,K-12 School,Guilford,OakRidge Weekday School,2,0,3,0,ongoing
+2020-12-08,K-12 School,Guilford,OakRidge Weekday School,2,0,3,0,ongoing
+2020-12-11,K-12 School,Guilford,OakRidge Weekday School,2,0,3,0,ongoing
+2020-12-15,K-12 School,Guilford,OakRidge Weekday School,2,0,3,0,ongoing
+2020-12-18,K-12 School,Guilford,OakRidge Weekday School,2,0,3,0,ongoing
+2020-12-22,K-12 School,Guilford,OakRidge Weekday School,2,0,3,0,ongoing
+2020-10-13,Child Care,Guilford,Sunshine House,2,0,3,0,ongoing
+2020-10-30,Child Care,Guilford,Sunshine House #125,2,0,3,0,ongoing
+2020-11-13,Child Care,Guilford,Sunshine House #125,2,0,3,0,ongoing
+2020-11-17,Child Care,Guilford,Sunshine House #125,2,0,3,0,resolved
+2020-10-13,School,Guilford,Wesleyan Christian Academy,2,0,8,0,ongoing
+2020-10-20,K-12 School,Guilford,Wesleyan Christian Academy,2,0,8,0,ongoing
+2020-10-23,K-12 School,Guilford,Wesleyan Christian Academy,2,0,8,0,ongoing
+2020-10-27,K-12 School,Guilford,Wesleyan Christian Academy,2,0,8,0,ongoing
+2020-10-30,K-12 School,Guilford,Wesleyan Christian Academy,2,0,8,0,ongoing
+2020-11-03,K-12 School,Guilford,Wesleyan Christian Academy,2,0,8,0,ongoing
+2020-11-06,K-12 School,Guilford,Wesleyan Christian Academy,2,0,8,0,ongoing
+2020-11-10,K-12 School,Guilford,Wesleyan Christian Academy,9,0,15,0,ongoing
+2020-11-13,K-12 School,Guilford,Wesleyan Christian Academy,9,0,15,0,ongoing
+2020-11-17,K-12 School,Guilford,Wesleyan Christian Academy,9,0,15,0,ongoing
+2020-11-20,K-12 School,Guilford,Wesleyan Christian Academy,9,0,15,0,ongoing
+2020-11-24,K-12 School,Guilford,Wesleyan Christian Academy,9,0,15,0,ongoing
+2020-09-22,Child Care,Guilford,Wishview Children's Center,3,0,2,0,ongoing
+2020-09-25,Child Care,Guilford,Wishview Children's Center,3,0,2,0,ongoing
+2020-09-29,Child Care,Guilford,Wishview Children's Center,3,0,2,0,ongoing
+2020-10-02,Child Care,Guilford,Wishview Children's Center,3,0,2,0,resolved
+2020-12-18,K-12 School,Halifax,Clara Hearne School,8,0,1,0,ongoing
+2020-12-22,Child Care,Halifax,Clara Hearne School,8,0,1,0,ongoing
+2021-01-26,Child Care,Halifax,Clara Hearne School,10,0,1,0,resolved
+2020-08-21,Child Care,Henderson,East Coast Migrant Head Start,4,0,1,0,ongoing
+2020-08-25,Child Care,Henderson,East Coast Migrant Head Start,4,0,1,0,ongoing
+2020-08-28,Child Care,Henderson,East Coast Migrant Head Start,4,0,1,0,ongoing
+2021-01-29,K-12 School,Henderson,Fletcher Academy,0,0,5,0,ongoing
+2021-02-02,K-12 School,Henderson,Fletcher Academy,0,0,5,0,ongoing
+2021-02-05,K-12 School,Henderson,Fletcher Academy,0,0,5,0,ongoing
+2021-01-12,K-12 School,Henderson,Hendersonville High School,1,0,5,0,ongoing
+2021-01-15,K-12 School,Henderson,Hendersonville High School,1,0,5,0,ongoing
+2021-01-19,K-12 School,Henderson,Hendersonville High School,1,0,5,0,ongoing
+2021-01-22,K-12 School,Henderson,Hendersonville High School,1,0,5,0,ongoing
+2021-01-26,K-12 School,Henderson,Hendersonville High School,1,0,5,0,ongoing
+2021-01-29,K-12 School,Henderson,Hendersonville High School,1,0,5,0,ongoing
+2021-02-02,K-12 School,Henderson,Hendersonville High School,1,0,5,0,ongoing
+2021-02-05,K-12 School,Henderson,Hendersonville High School,1,0,5,0,ongoing
+2020-09-22,School,Hertford,Ahoskie Christian School,5,0,1,0,ongoing
+2020-09-25,School,Hertford,Ahoskie Christian School,8,0,1,0,ongoing
+2020-09-29,School,Hertford,Ahoskie Christian School,8,0,1,0,ongoing
+2020-10-02,School,Hertford,Ahoskie Christian School,8,0,1,0,resolved
+2021-02-05,K-12 School,Iredell,Mooresville High School,0,0,11,0,ongoing
+2021-01-26,Child Care,Iredell,Smart Kids Child Development Center,0,0,6,0,ongoing
+2021-02-05,Child Care,Iredell,Smart Kids Child Development Center,0,0,6,0,ongoing
+2020-12-01,K-12 School,Iredell,South Elementary School,7,0,6,0,ongoing
+2020-12-04,K-12 School,Iredell,South Elementary School,7,0,6,0,ongoing
+2020-12-08,K-12 School,Iredell,South Elementary School,7,0,6,0,ongoing
+2020-12-11,K-12 School,Iredell,South Elementary School,7,0,6,0,ongoing
+2020-12-15,K-12 School,Iredell,South Elementary School,7,0,6,0,ongoing
+2020-12-18,K-12 School,Iredell,South Elementary School,7,0,6,0,ongoing
+2020-12-22,K-12 School,Iredell,South Elementary School,7,0,6,0,ongoing
+2021-01-05,K-12 School,Iredell,South Elementary School,7,0,6,0,ongoing
+2021-01-08,K-12 School,Iredell,South Elementary School,7,0,6,0,ongoing
+2021-01-12,K-12 School,Iredell,South Elementary School,7,0,6,0,ongoing
+2021-01-15,K-12 School,Iredell,South Elementary School,7,0,6,0,ongoing
+2021-01-19,K-12 School,Iredell,South Elementary School,7,0,6,0,ongoing
+2021-01-22,K-12 School,Iredell,South Elementary School,7,0,6,0,ongoing
+2021-01-26,K-12 School,Iredell,South Elementary School,7,0,6,0,ongoing
+2020-10-27,K-12 School,Iredell,West Iredell Middle School,5,0,2,0,ongoing
+2020-10-30,K-12 School,Iredell,West Iredell Middle School,5,0,2,0,ongoing
+2020-11-03,K-12 School,Iredell,West Iredell Middle School,5,0,2,0,ongoing
+2020-11-06,K-12 School,Iredell,West Iredell Middle School,5,0,2,0,ongoing
+2020-11-10,K-12 School,Iredell,West Iredell Middle School,5,0,2,0,ongoing
+2020-11-13,K-12 School,Iredell,West Iredell Middle School,5,0,2,0,ongoing
+2020-11-17,K-12 School,Iredell,West Iredell Middle School,5,0,2,0,resolved
+2020-10-30,Child Care,Jackson,Shepherd Early Education and Preschool,3,0,4,0,ongoing
+2020-11-13,Child Care,Jackson,Shepherd Early Education and Preschool,3,0,4,0,ongoing
+2020-11-17,Child Care,Jackson,Shepherd Early Education and Preschool,3,0,4,0,ongoing
+2020-11-24,Child Care,Jackson,Shepherd Early Education and Preschool,3,0,4,0,ongoing
+2020-12-11,Child Care,Jackson,Shepherd Early Education and Preschool,3,0,4,0,ongoing
+2020-12-11,Child Care,Johnston,Childcare Network #246,4,0,9,0,ongoing
+2020-12-18,Child Care,Johnston,Childcare Network #246,4,0,4,0,ongoing
+2020-12-22,Child Care,Johnston,Childcare Network #246,4,0,4,0,ongoing
+2020-11-13,Child Care,Johnston,Lipscomb's Learning Center,2,0,4,0,ongoing
+2020-11-17,Child Care,Johnston,Lipscomb's Learning Center,2,0,4,0,ongoing
+2020-11-24,Child Care,Johnston,Lipscomb's Learning Center,2,0,4,0,ongoing
+2020-09-22,Child Care,Lee,Child Care Network #102,2,0,3,0,ongoing
+2020-09-25,Child Care,Lee,Child Care Network #102,2,0,3,0,ongoing
+2020-09-29,Child Care,Lee,Child Care Network #102,2,0,3,0,ongoing
+2020-10-02,Child Care,Lee,Child Care Network #102,2,0,3,0,ongoing
+2020-10-13,Child Care,Lee,Child Care Network #102,2,0,3,0,resolved
+2021-01-05,K-12 School,Lenoir,Arendell Parrot Academy,2,0,10,0,ongoing
+2021-01-08,K-12 School,Lenoir,Arendell Parrot Academy,2,0,10,0,ongoing
+2021-01-12,K-12 School,Lenoir,Arendell Parrot Academy,2,0,9,0,ongoing
+2021-01-15,K-12 School,Lenoir,Arendell Parrot Academy,2,0,9,0,ongoing
+2021-01-19,K-12 School,Lenoir,Arendell Parrot Academy,2,0,9,0,ongoing
+2021-01-22,K-12 School,Lenoir,Arendell Parrot Academy,2,0,9,0,ongoing
+2021-01-26,K-12 School,Lenoir,Arendell Parrot Academy,2,0,9,0,ongoing
+2021-01-29,K-12 School,Lenoir,Arendell Parrot Academy,3,0,22,0,ongoing
+2021-02-02,K-12 School,Lenoir,Arendell Parrot Academy,3,0,22,0,ongoing
+2021-02-05,K-12 School,Lenoir,Arendell Parrot Academy,3,0,22,0,ongoing
+2021-01-26,K-12 School,Lenoir,Banks Elementary School,1,0,4,0,ongoing
+2021-01-29,K-12 School,Lenoir,Banks Elementary School,1,0,4,0,ongoing
+2021-02-02,K-12 School,Lenoir,Banks Elementary School,1,0,4,0,ongoing
+2021-02-05,K-12 School,Lenoir,Banks Elementary School,1,0,4,0,ongoing
+2020-10-13,School,Lenoir,Bethel Christian Academy,3,0,7,0,ongoing
+2020-10-20,K-12 School,Lenoir,Bethel Christian Academy,6,0,10,0,ongoing
+2020-10-23,K-12 School,Lenoir,Bethel Christian Academy,6,0,10,0,ongoing
+2020-10-27,K-12 School,Lenoir,Bethel Christian Academy,6,0,10,0,ongoing
+2020-10-30,K-12 School,Lenoir,Bethel Christian Academy,6,0,10,0,ongoing
+2020-11-03,K-12 School,Lenoir,Bethel Christian Academy,6,0,10,0,ongoing
+2020-11-06,K-12 School,Lenoir,Bethel Christian Academy,7,0,10,0,ongoing
+2020-11-10,K-12 School,Lenoir,Bethel Christian Academy,7,0,10,0,ongoing
+2020-11-13,K-12 School,Lenoir,Bethel Christian Academy,8,0,10,0,ongoing
+2020-11-17,K-12 School,Lenoir,Bethel Christian Academy,8,0,10,0,ongoing
+2021-01-29,K-12 School,Lenoir,Contentnea-Savannah K-8 School,2,0,5,0,ongoing
+2021-02-02,K-12 School,Lenoir,Contentnea-Savannah K-8 School,2,0,5,0,ongoing
+2021-02-05,K-12 School,Lenoir,Contentnea-Savannah K-8 School,2,0,5,0,ongoing
+2021-01-26,K-12 School,Lenoir,Kinston High School,2,0,4,0,ongoing
+2021-01-29,K-12 School,Lenoir,Kinston High School,2,0,4,0,ongoing
+2021-02-02,K-12 School,Lenoir,Kinston High School,2,0,4,0,ongoing
+2021-02-05,K-12 School,Lenoir,Kinston High School,2,0,4,0,ongoing
+2021-01-26,Child Care,Lenoir,"Miss Lindsey's Child Care & After School, LLC",5,0,1,0,ongoing
+2021-02-05,Child Care,Lenoir,"Miss Lindsey's Child Care & After School, LLC",7,0,1,0,ongoing
+2020-12-08,K-12 School,Lenoir,North Lenoir High School,3,0,3,0,ongoing
+2020-12-11,K-12 School,Lenoir,North Lenoir High School,3,0,3,0,ongoing
+2020-12-15,K-12 School,Lenoir,North Lenoir High School,3,0,3,0,ongoing
+2020-12-18,K-12 School,Lenoir,North Lenoir High School,3,0,3,0,ongoing
+2020-12-22,K-12 School,Lenoir,North Lenoir High School,3,0,3,0,ongoing
+2021-01-05,K-12 School,Lenoir,North Lenoir High School,3,0,3,0,ongoing
+2021-01-08,K-12 School,Lenoir,North Lenoir High School,3,0,3,0,ongoing
+2021-01-12,K-12 School,Lenoir,North Lenoir High School,3,0,3,0,ongoing
+2021-01-15,K-12 School,Lenoir,North Lenoir High School,3,0,3,0,ongoing
+2021-01-19,K-12 School,Lenoir,North Lenoir High School,3,0,3,0,ongoing
+2021-01-22,K-12 School,Lenoir,North Lenoir High School,3,0,3,0,ongoing
+2021-01-26,K-12 School,Lenoir,North Lenoir High School,3,0,3,0,ongoing
+2021-01-29,K-12 School,Lenoir,North Lenoir High School,3,0,3,0,ongoing
+2021-02-02,K-12 School,Lenoir,North Lenoir High School,3,0,3,0,ongoing
+2021-02-05,K-12 School,Lenoir,North Lenoir High School,3,0,3,0,ongoing
+2021-01-26,K-12 School,Lenoir,Northeast Elementary School,1,0,4,0,ongoing
+2021-01-29,K-12 School,Lenoir,Northeast Elementary School,1,0,4,0,ongoing
+2021-02-02,K-12 School,Lenoir,Northeast Elementary School,1,0,4,0,ongoing
+2021-02-05,K-12 School,Lenoir,Northeast Elementary School,1,0,4,0,ongoing
+2020-11-03,K-12 School,Lenoir,South Lenoir High School,3,0,2,0,ongoing
+2020-11-06,K-12 School,Lenoir,South Lenoir High School,3,0,5,0,ongoing
+2020-11-10,K-12 School,Lenoir,South Lenoir High School,3,0,5,0,ongoing
+2020-11-13,K-12 School,Lenoir,South Lenoir High School,3,0,5,0,ongoing
+2020-11-17,K-12 School,Lenoir,South Lenoir High School,3,0,5,0,ongoing
+2020-11-20,K-12 School,Lenoir,South Lenoir High School,3,0,5,0,ongoing
+2020-11-24,K-12 School,Lenoir,South Lenoir High School,3,0,5,0,ongoing
+2020-12-01,K-12 School,Lenoir,South Lenoir High School,3,0,8,0,ongoing
+2020-12-04,K-12 School,Lenoir,South Lenoir High School,3,0,8,0,ongoing
+2020-12-08,K-12 School,Lenoir,South Lenoir High School,3,0,8,0,ongoing
+2020-12-11,K-12 School,Lenoir,South Lenoir High School,3,0,8,0,ongoing
+2020-12-15,K-12 School,Lenoir,South Lenoir High School,3,0,12,0,ongoing
+2020-12-18,K-12 School,Lenoir,South Lenoir High School,3,0,12,0,ongoing
+2020-12-22,K-12 School,Lenoir,South Lenoir High School,3,0,12,0,ongoing
+2021-01-05,K-12 School,Lenoir,South Lenoir High School,3,0,12,0,ongoing
+2021-01-08,K-12 School,Lenoir,South Lenoir High School,3,0,12,0,ongoing
+2021-01-12,K-12 School,Lenoir,South Lenoir High School,3,0,12,0,ongoing
+2021-01-15,K-12 School,Lenoir,South Lenoir High School,3,0,12,0,ongoing
+2021-01-19,K-12 School,Lenoir,South Lenoir High School,3,0,12,0,ongoing
+2021-01-22,K-12 School,Lenoir,South Lenoir High School,3,0,12,0,ongoing
+2021-01-26,K-12 School,Lenoir,South Lenoir High School,3,0,12,0,ongoing
+2021-01-29,K-12 School,Lenoir,South Lenoir High School,3,0,12,0,ongoing
+2021-02-02,K-12 School,Lenoir,South Lenoir High School,3,0,12,0,ongoing
+2021-02-05,K-12 School,Lenoir,South Lenoir High School,3,0,12,0,ongoing
+2020-10-13,School,Lincoln,Combine Academy,0,0,5,0,ongoing
+2020-10-20,K-12 School,Lincoln,Combine Academy,0,0,5,0,ongoing
+2020-10-23,K-12 School,Lincoln,Combine Academy,0,0,5,0,ongoing
+2020-10-27,K-12 School,Lincoln,Combine Academy,0,0,5,0,ongoing
+2020-10-30,K-12 School,Lincoln,Combine Academy,0,0,5,0,ongoing
+2020-11-03,K-12 School,Lincoln,Combine Academy,0,0,5,0,ongoing
+2020-11-06,K-12 School,Lincoln,Combine Academy,0,0,5,0,ongoing
+2020-11-10,K-12 School,Lincoln,Combine Academy,0,0,5,0,ongoing
+2020-11-13,K-12 School,Lincoln,Combine Academy,0,0,5,0,ongoing
+2020-11-17,K-12 School,Lincoln,Combine Academy,0,0,5,0,resolved
+2020-09-22,Child Care,Lincoln,Mini Academy Day Care Center,5,0,2,0,ongoing
+2020-09-25,Child Care,Lincoln,Mini Academy Day Care Center,5,0,2,0,ongoing
+2020-09-29,Child Care,Lincoln,Mini Academy Day Care Center,5,0,2,0,ongoing
+2020-10-02,Child Care,Lincoln,Mini Academy Day Care Center,5,0,2,0,ongoing
+2020-10-13,Child Care,Lincoln,Mini Academy Day Care Center,5,0,2,0,resolved
+2020-08-28,School,Macon,Franklin High School,5,0,1,0,ongoing
+2020-09-22,School,Macon,Franklin High School,5,0,1,0,ongoing
+2020-09-25,School,Macon,Franklin High School,5,0,1,0,ongoing
+2020-09-29,School,Macon,Franklin High School,5,0,1,0,ongoing
+2020-10-02,School,Macon,Franklin High School,5,0,2,0,ongoing
+2021-01-22,K-12 School,Martin,Williamston Primary School,7,0,0,0,ongoing
+2021-01-26,K-12 School,Martin,Williamston Primary School,7,0,0,0,ongoing
+2021-01-29,K-12 School,Martin,Williamston Primary School,7,0,0,0,ongoing
+2021-02-02,K-12 School,Martin,Williamston Primary School,7,0,0,0,ongoing
+2021-02-05,K-12 School,Martin,Williamston Primary School,7,0,0,0,ongoing
+2020-08-21,Child Care,McDowell,Early Childhood Enrichment Center,2,0,3,0,ongoing
+2020-08-25,Child Care,McDowell,Early Childhood Enrichment Center,2,0,3,0,ongoing
+2020-08-28,Child Care,McDowell,Early Childhood Enrichment Center,2,0,3,0,ongoing
+2020-08-21,Child Care,Mecklenburg,Building Blocks Learning Center Cluster,7,0,3,0,ongoing
+2020-08-25,Child Care,Mecklenburg,Building Blocks Learning Center Cluster,7,0,3,0,ongoing
+2020-08-28,Child Care,Mecklenburg,Building Blocks Learning Center Cluster,7,0,3,0,ongoing
+2020-10-30,Child Care,Mecklenburg,Calvary Child development,5,0,2,0,ongoing
+2020-11-13,Child Care,Mecklenburg,Calvary Child development,5,0,3,0,ongoing
+2020-11-17,Child Care,Mecklenburg,Calvary Child development,5,0,3,0,ongoing
+2020-11-24,Child Care,Mecklenburg,Calvary Child development,5,0,3,0,ongoing
+2020-09-25,School,Mecklenburg,Covenant Day School,2,0,3,0,ongoing
+2020-09-29,School,Mecklenburg,Covenant Day School,2,0,3,0,ongoing
+2020-10-02,School,Mecklenburg,Covenant Day School,3,0,4,0,ongoing
+2020-10-13,School,Mecklenburg,Covenant Day School,3,0,4,0,ongoing
+2020-10-20,K-12 School,Mecklenburg,Covenant Day School,3,0,4,0,ongoing
+2020-10-23,K-12 School,Mecklenburg,Covenant Day School,3,0,4,0,ongoing
+2020-11-17,K-12 School,Mecklenburg,Covenant Day School,0,0,7,0,ongoing
+2020-11-20,K-12 School,Mecklenburg,Covenant Day School,0,0,8,0,ongoing
+2020-11-24,K-12 School,Mecklenburg,Covenant Day School,0,0,8,0,ongoing
+2020-12-01,K-12 School,Mecklenburg,Covenant Day School,0,0,8,0,ongoing
+2020-12-04,K-12 School,Mecklenburg,Covenant Day School,0,0,8,0,ongoing
+2020-12-08,K-12 School,Mecklenburg,Covenant Day School,0,0,8,0,ongoing
+2020-12-11,K-12 School,Mecklenburg,Covenant Day School,0,0,8,0,ongoing
+2020-12-15,K-12 School,Mecklenburg,Covenant Day School,0,0,8,0,ongoing
+2020-12-18,K-12 School,Mecklenburg,Covenant Day School,0,0,8,0,resolved
+2021-01-22,K-12 School,Mecklenburg,David W Butler High School,2,0,3,0,ongoing
+2021-01-26,K-12 School,Mecklenburg,David W Butler High School,2,0,3,0,ongoing
+2021-01-29,K-12 School,Mecklenburg,David W Butler High School,3,0,4,0,ongoing
+2021-02-02,K-12 School,Mecklenburg,David W Butler High School,3,0,4,0,ongoing
+2021-02-05,K-12 School,Mecklenburg,David W Butler High School,3,0,4,0,ongoing
+2020-12-18,K-12 School,Mecklenburg,Davidson Day School,2,0,5,0,ongoing
+2020-12-22,K-12 School,Mecklenburg,Davidson Day School,2,0,5,0,ongoing
+2021-01-05,K-12 School,Mecklenburg,Davidson Day School,2,0,5,0,ongoing
+2021-01-08,K-12 School,Mecklenburg,Davidson Day School,2,0,5,0,ongoing
+2021-01-12,K-12 School,Mecklenburg,Davidson Day School,2,0,5,0,ongoing
+2021-02-05,Child Care,Mecklenburg,Fairyland Academy,4,0,5,0,ongoing
+2020-12-18,K-12 School,Mecklenburg,Francis Bradley Middle School,4,0,2,0,ongoing
+2020-12-22,K-12 School,Mecklenburg,Francis Bradley Middle School,4,0,2,0,ongoing
+2021-01-05,K-12 School,Mecklenburg,Francis Bradley Middle School,4,0,2,0,ongoing
+2021-01-08,K-12 School,Mecklenburg,Francis Bradley Middle School,4,0,2,0,ongoing
+2021-01-12,K-12 School,Mecklenburg,Francis Bradley Middle School,4,0,2,0,ongoing
+2021-01-05,K-12 School,Mecklenburg,Holy Trinity Catholic Middle School,1,0,4,0,ongoing
+2021-01-08,K-12 School,Mecklenburg,Holy Trinity Catholic Middle School,1,0,4,0,ongoing
+2021-01-12,K-12 School,Mecklenburg,Holy Trinity Catholic Middle School,1,0,5,0,ongoing
+2021-01-15,K-12 School,Mecklenburg,Holy Trinity Catholic Middle School,1,0,5,0,ongoing
+2021-01-19,K-12 School,Mecklenburg,Holy Trinity Catholic Middle School,1,0,5,0,ongoing
+2021-01-22,K-12 School,Mecklenburg,Holy Trinity Catholic Middle School,1,0,5,0,ongoing
+2021-01-26,K-12 School,Mecklenburg,Holy Trinity Catholic Middle School,1,0,5,0,resolved
+2020-08-21,Child Care,Mecklenburg,LaPetite Academy,4,0,2,0,ongoing
+2020-08-25,Child Care,Mecklenburg,LaPetite Academy,4,0,2,0,ongoing
+2020-08-28,Child Care,Mecklenburg,LaPetite Academy,4,0,2,0,ongoing
+2021-01-22,K-12 School,Mecklenburg,Lake Wylie Elementary School,5,0,0,0,ongoing
+2021-01-26,K-12 School,Mecklenburg,Lake Wylie Elementary School,5,0,0,0,ongoing
+2021-01-29,K-12 School,Mecklenburg,Lake Wylie Elementary School,5,0,0,0,ongoing
+2021-02-02,K-12 School,Mecklenburg,Lake Wylie Elementary School,5,0,0,0,ongoing
+2021-02-05,K-12 School,Mecklenburg,Lake Wylie Elementary School,5,0,0,0,ongoing
+2020-08-21,Child Care,Mecklenburg,Little Tots Preschool,3,0,8,0,ongoing
+2020-08-25,Child Care,Mecklenburg,Little Tots Preschool,3,0,8,0,ongoing
+2020-08-28,Child Care,Mecklenburg,Little Tots Preschool,3,0,8,0,ongoing
+2021-01-05,K-12 School,Mecklenburg,Metro School Cluster,4,0,2,0,ongoing
+2021-01-08,K-12 School,Mecklenburg,Metro School Cluster,4,0,2,0,ongoing
+2021-01-12,K-12 School,Mecklenburg,Metro School Cluster,4,0,2,0,ongoing
+2021-01-22,K-12 School,Mecklenburg,North Mecklenburg High School,1,0,4,0,ongoing
+2021-01-26,K-12 School,Mecklenburg,North Mecklenburg High School,1,0,4,0,ongoing
+2021-01-29,K-12 School,Mecklenburg,North Mecklenburg High School,1,0,4,0,ongoing
+2021-02-02,K-12 School,Mecklenburg,North Mecklenburg High School,1,0,4,0,ongoing
+2021-02-05,K-12 School,Mecklenburg,North Mecklenburg High School,1,0,4,0,ongoing
+2020-10-20,K-12 School,Mecklenburg,Oakcrest Preparatory Academy,3,0,3,0,ongoing
+2020-10-23,K-12 School,Mecklenburg,Oakcrest Preparatory Academy,3,0,3,0,ongoing
+2020-10-27,K-12 School,Mecklenburg,Oakcrest Preparatory Academy,3,0,3,0,ongoing
+2020-10-30,K-12 School,Mecklenburg,Oakcrest Preparatory Academy,3,0,3,0,ongoing
+2020-11-03,K-12 School,Mecklenburg,Oakcrest Preparatory Academy,3,0,3,0,ongoing
+2020-11-06,K-12 School,Mecklenburg,Oakcrest Preparatory Academy,3,0,3,0,ongoing
+2020-11-10,K-12 School,Mecklenburg,Oakcrest Preparatory Academy,3,0,3,0,ongoing
+2020-11-13,K-12 School,Mecklenburg,Oakcrest Preparatory Academy,3,0,3,0,ongoing
+2020-11-17,K-12 School,Mecklenburg,Oakcrest Preparatory Academy,3,0,3,0,resolved
+2020-11-24,Child Care,Mecklenburg,Providence Preparatory School,4,0,1,0,ongoing
+2020-12-11,Child Care,Mecklenburg,Providence Preparatory School,4,0,1,0,ongoing
+2020-12-18,Child Care,Mecklenburg,Providence Preparatory School,4,0,1,0,ongoing
+2020-12-22,Child Care,Mecklenburg,Providence Preparatory School,4,0,1,0,resolved
+2020-11-17,K-12 School,Mecklenburg,Steele Creek Preparatory Academy,3,0,2,0,ongoing
+2020-11-20,K-12 School,Mecklenburg,Steele Creek Preparatory Academy,3,0,3,0,ongoing
+2020-11-24,K-12 School,Mecklenburg,Steele Creek Preparatory Academy,3,0,3,0,ongoing
+2020-12-01,K-12 School,Mecklenburg,Steele Creek Preparatory Academy,3,0,3,0,ongoing
+2020-12-04,K-12 School,Mecklenburg,Steele Creek Preparatory Academy,3,0,3,0,ongoing
+2020-12-08,K-12 School,Mecklenburg,Steele Creek Preparatory Academy,3,0,3,0,ongoing
+2020-12-11,K-12 School,Mecklenburg,Steele Creek Preparatory Academy,3,0,3,0,ongoing
+2020-12-15,K-12 School,Mecklenburg,Steele Creek Preparatory Academy,3,0,3,0,ongoing
+2020-12-18,K-12 School,Mecklenburg,Steele Creek Preparatory Academy,3,0,3,0,resolved
+2020-12-11,K-12 School,Montgomery,Wescare Christian Academy,1,0,5,0,ongoing
+2020-12-15,K-12 School,Montgomery,Wescare Christian Academy,1,0,5,0,ongoing
+2020-12-18,K-12 School,Montgomery,Wescare Christian Academy,1,0,5,0,ongoing
+2020-12-22,K-12 School,Montgomery,Wescare Christian Academy,1,0,5,0,ongoing
+2021-01-05,K-12 School,Montgomery,Wescare Christian Academy,1,0,5,0,ongoing
+2021-01-08,K-12 School,Montgomery,Wescare Christian Academy,1,0,5,0,ongoing
+2021-01-12,K-12 School,Montgomery,Wescare Christian Academy,1,0,5,0,ongoing
+2021-01-15,K-12 School,Montgomery,Wescare Christian Academy,1,0,5,0,ongoing
+2021-01-19,K-12 School,Montgomery,Wescare Christian Academy,1,0,5,0,ongoing
+2021-01-22,K-12 School,Montgomery,Wescare Christian Academy,1,0,5,0,ongoing
+2021-01-26,K-12 School,Montgomery,Wescare Christian Academy,1,0,5,0,ongoing
+2021-01-29,K-12 School,Montgomery,Wescare Christian Academy,1,0,5,0,ongoing
+2021-02-02,K-12 School,Montgomery,Wescare Christian Academy,1,0,5,0,ongoing
+2021-02-05,K-12 School,Montgomery,Wescare Christian Academy,1,0,5,0,ongoing
+2020-08-21,Child Care,Moore,Magic Years Childcare Center,2,0,5,0,ongoing
+2020-08-25,Child Care,Moore,Magic Years Childcare Center,2,0,5,0,ongoing
+2020-08-28,Child Care,Moore,Magic Years Childcare Center,2,0,5,0,resolved
+2020-09-22,School,Moore,Robbins Elementary,5,0,1,0,ongoing
+2020-09-25,School,Moore,Robbins Elementary,5,0,1,0,ongoing
+2020-09-29,School,Moore,Robbins Elementary,5,0,1,0,ongoing
+2020-10-02,School,Moore,Robbins Elementary,5,0,1,0,resolved
+2020-12-01,K-12 School,Nash,Middlesex Elementary School,5,0,0,0,ongoing
+2020-12-04,K-12 School,Nash,Middlesex Elementary School,5,0,0,0,ongoing
+2020-12-08,K-12 School,Nash,Middlesex Elementary School,5,0,0,0,ongoing
+2020-12-11,K-12 School,Nash,Middlesex Elementary School,5,0,0,0,ongoing
+2020-12-15,K-12 School,Nash,Middlesex Elementary School,5,0,0,0,ongoing
+2020-12-18,K-12 School,Nash,Middlesex Elementary School,5,0,0,0,ongoing
+2020-12-22,K-12 School,Nash,Middlesex Elementary School,5,0,0,0,ongoing
+2020-12-11,Child Care,Nash,St. Stephens Loving Daycare,4,0,2,0,ongoing
+2020-12-18,Child Care,Nash,St. Stephens Loving Daycare,4,0,2,0,ongoing
+2020-12-22,Child Care,Nash,St. Stephens Loving Daycare,4,0,2,0,ongoing
+2020-12-08,K-12 School,Nash,Winstead Ave Elementary,5,0,0,0,ongoing
+2020-12-11,K-12 School,Nash,Winstead Ave Elementary,5,0,0,0,ongoing
+2020-12-15,K-12 School,Nash,Winstead Ave Elementary,5,0,0,0,ongoing
+2020-12-18,K-12 School,Nash,Winstead Ave Elementary,5,0,0,0,ongoing
+2020-12-22,K-12 School,Nash,Winstead Ave Elementary,5,0,0,0,ongoing
+2021-01-05,K-12 School,Nash,Winstead Ave Elementary,5,0,0,0,ongoing
+2020-09-22,Child Care,New Hanover,Carr's Academy,5,0,1,0,resolved
+2020-08-21,Child Care,New Hanover,Carr’s Academy,5,0,0,0,ongoing
+2020-08-28,Child Care,New Hanover,Carr’s Academy,5,0,0,0,ongoing
+2020-12-22,Child Care,New Hanover,Classy Bears Day Care and Preschool,3,0,2,0,ongoing
+2021-01-26,Child Care,New Hanover,Classy Bears Day Care and Preschool,2,0,3,0,ongoing
+2021-02-05,Child Care,New Hanover,Classy Bears Day Care and Preschool,2,0,3,0,ongoing
+2020-10-13,School,New Hanover,Coastal Christian High School,0,0,8,0,ongoing
+2020-10-20,K-12 School,New Hanover,Coastal Christian High School,0,0,8,0,ongoing
+2020-10-23,K-12 School,New Hanover,Coastal Christian High School,0,0,8,0,ongoing
+2020-10-27,K-12 School,New Hanover,Coastal Christian High School,0,0,8,0,ongoing
+2020-10-30,K-12 School,New Hanover,Coastal Christian High School,0,0,8,0,ongoing
+2020-11-03,K-12 School,New Hanover,Coastal Christian High School,0,0,8,0,ongoing
+2020-11-06,K-12 School,New Hanover,Coastal Christian High School,0,0,8,0,ongoing
+2020-11-10,K-12 School,New Hanover,Coastal Christian High School,0,0,8,0,ongoing
+2020-11-13,K-12 School,New Hanover,Coastal Christian High School,0,0,8,0,ongoing
+2020-11-17,K-12 School,New Hanover,Coastal Christian High School,1,0,14,0,resolved
+2020-12-01,K-12 School,New Hanover,Coastal Christian High School,4,0,26,0,ongoing
+2020-12-04,K-12 School,New Hanover,Coastal Christian High School,4,0,26,0,ongoing
+2020-12-08,K-12 School,New Hanover,Coastal Christian High School,4,0,26,0,ongoing
+2020-12-11,K-12 School,New Hanover,Coastal Christian High School,4,0,26,0,ongoing
+2020-12-15,K-12 School,New Hanover,Coastal Christian High School,4,0,26,0,ongoing
+2020-12-18,K-12 School,New Hanover,Coastal Christian High School,4,0,26,0,ongoing
+2020-12-22,K-12 School,New Hanover,Coastal Christian High School,4,0,26,0,ongoing
+2021-01-05,K-12 School,New Hanover,Coastal Christian High School,4,0,26,0,ongoing
+2021-01-08,K-12 School,New Hanover,Coastal Christian High School,4,0,26,0,ongoing
+2021-01-12,K-12 School,New Hanover,Coastal Christian High School,4,0,26,0,ongoing
+2021-01-15,K-12 School,New Hanover,Coastal Christian High School,4,0,26,0,ongoing
+2021-01-19,K-12 School,New Hanover,Coastal Christian High School,4,0,26,0,ongoing
+2021-01-22,K-12 School,New Hanover,Coastal Christian High School,4,0,26,0,ongoing
+2021-01-26,K-12 School,New Hanover,Coastal Christian High School,4,0,26,0,ongoing
+2021-01-29,K-12 School,New Hanover,Coastal Christian High School,4,0,26,0,ongoing
+2021-02-02,K-12 School,New Hanover,Coastal Christian High School,4,0,26,0,ongoing
+2021-02-05,K-12 School,New Hanover,Coastal Christian High School,4,0,26,0,ongoing
+2020-12-11,Child Care,New Hanover,Kiddie Academy of Wilmington South Campus,4,0,5,0,ongoing
+2020-12-18,Child Care,New Hanover,Kiddie Academy of Wilmington South Campus,4,0,5,0,ongoing
+2020-12-22,Child Care,New Hanover,Kiddie Academy of Wilmington South Campus,4,0,5,0,ongoing
+2020-10-27,K-12 School,New Hanover,New Hanover Lyceum Program,1,0,4,0,ongoing
+2020-10-30,K-12 School,New Hanover,New Hanover Lyceum Program,1,0,4,0,ongoing
+2020-11-03,K-12 School,New Hanover,New Hanover Lyceum Program,1,0,4,0,ongoing
+2020-11-06,K-12 School,New Hanover,New Hanover Lyceum Program,1,0,4,0,ongoing
+2020-11-10,K-12 School,New Hanover,New Hanover Lyceum Program,1,0,4,0,ongoing
+2020-11-13,K-12 School,New Hanover,New Hanover Lyceum Program,1,0,4,0,ongoing
+2020-11-17,K-12 School,New Hanover,New Hanover Lyceum Program,1,0,4,0,ongoing
+2020-11-20,K-12 School,New Hanover,New Hanover Lyceum Program,1,0,4,0,ongoing
+2020-11-24,K-12 School,New Hanover,New Hanover Lyceum Program,1,0,4,0,resolved
+2021-02-05,Child Care,New Hanover,Rising Stars of Wilmington,2,0,3,0,ongoing
+2020-10-02,Child Care,New Hanover,Rising stars,3,0,2,0,ongoing
+2020-10-13,Child Care,New Hanover,Rising stars,3,0,2,0,ongoing
+2020-10-30,Child Care,New Hanover,Rising stars,6,0,3,0,ongoing
+2020-12-08,K-12 School,New Hanover,Wilmington Christian Academy,3,0,3,0,ongoing
+2020-12-11,K-12 School,New Hanover,Wilmington Christian Academy,3,0,3,0,ongoing
+2020-12-15,K-12 School,New Hanover,Wilmington Christian Academy,3,0,3,0,ongoing
+2020-12-18,K-12 School,New Hanover,Wilmington Christian Academy,3,0,3,0,ongoing
+2020-12-22,K-12 School,New Hanover,Wilmington Christian Academy,3,0,3,0,ongoing
+2020-10-30,Child Care,Onslow,Abundance of Love and Learning Center,5,0,3,0,ongoing
+2020-11-13,Child Care,Onslow,Abundance of Love and Learning Center,7,0,1,0,ongoing
+2020-11-17,Child Care,Onslow,Abundance of Love and Learning Center,7,0,1,0,ongoing
+2020-11-24,Child Care,Onslow,Abundance of Love and Learning Center,7,0,1,0,ongoing
+2020-12-11,Child Care,Onslow,Childcare Network Henderson,1,0,4,0,ongoing
+2020-12-18,Child Care,Onslow,Childcare Network Henderson,1,0,4,0,ongoing
+2020-12-22,Child Care,Onslow,Childcare Network Henderson,1,0,4,0,ongoing
+2020-12-15,K-12 School,Onslow,Dixon High school,2,0,3,0,ongoing
+2020-12-18,K-12 School,Onslow,Dixon High school,2,0,3,0,ongoing
+2020-12-22,K-12 School,Onslow,Dixon High school,2,0,3,0,ongoing
+2021-01-05,K-12 School,Onslow,Dixon High school,2,0,3,0,ongoing
+2021-01-08,K-12 School,Onslow,Dixon High school,2,0,3,0,ongoing
+2021-01-12,K-12 School,Onslow,Dixon High school,2,0,3,0,ongoing
+2021-01-15,K-12 School,Onslow,Dixon High school,2,0,7,0,ongoing
+2020-12-11,Child Care,Onslow,Excel 12-Learning Center,6,0,1,0,ongoing
+2020-12-18,Child Care,Onslow,Excel 12-Learning Center,10,0,2,0,ongoing
+2020-12-22,Child Care,Onslow,Excel 12-Learning Center,10,0,2,0,ongoing
+2020-10-23,K-12 School,Onslow,Living Water Christian School,0,0,5,0,ongoing
+2020-10-27,K-12 School,Onslow,Living Water Christian School,0,0,5,0,ongoing
+2020-10-30,K-12 School,Onslow,Living Water Christian School,0,0,5,0,ongoing
+2020-11-03,K-12 School,Onslow,Living Water Christian School,0,0,5,0,ongoing
+2020-11-06,K-12 School,Onslow,Living Water Christian School,6,0,14,0,ongoing
+2020-11-10,K-12 School,Onslow,Living Water Christian School,6,0,15,0,ongoing
+2020-11-13,K-12 School,Onslow,Living Water Christian School,6,0,15,0,ongoing
+2020-11-17,K-12 School,Onslow,Living Water Christian School,6,0,15,0,ongoing
+2020-11-20,K-12 School,Onslow,Living Water Christian School,6,0,15,0,ongoing
+2020-11-24,K-12 School,Onslow,Living Water Christian School,6,0,15,0,ongoing
+2020-12-01,K-12 School,Onslow,Living Water Christian School,6,0,15,0,ongoing
+2020-12-04,K-12 School,Onslow,Living Water Christian School,6,0,15,0,ongoing
+2020-12-08,K-12 School,Onslow,Living Water Christian School,6,0,15,0,ongoing
+2020-12-11,K-12 School,Onslow,Living Water Christian School,7,0,19,0,ongoing
+2020-11-13,Child Care,Onslow,New Beginnings,3,0,4,0,ongoing
+2020-11-17,Child Care,Onslow,New Beginnings,3,0,5,0,ongoing
+2020-11-24,Child Care,Onslow,New Beginnings,3,0,5,0,ongoing
+2020-12-11,Child Care,Onslow,New Beginnings,3,0,7,0,resolved
+2020-12-11,Child Care,Onslow,Onslow Child Development Center,2,0,3,0,ongoing
+2020-12-18,Child Care,Onslow,Onslow Child Development Center,2,0,3,0,ongoing
+2020-12-22,Child Care,Onslow,Onslow Child Development Center,2,0,3,0,ongoing
+2020-09-22,School,Onslow,Richlands High School,4,0,1,0,ongoing
+2020-09-25,School,Onslow,Richlands High School,4,0,1,0,ongoing
+2020-09-29,School,Onslow,Richlands High School,4,0,1,0,ongoing
+2020-10-02,School,Onslow,Richlands High School,4,0,1,0,ongoing
+2020-10-13,School,Onslow,Richlands High School,4,0,1,0,ongoing
+2020-12-11,Child Care,Onslow,Teachable Moments,5,0,0,0,ongoing
+2020-12-18,Child Care,Onslow,Teachable Moments,5,0,0,0,ongoing
+2020-12-22,Child Care,Onslow,Teachable Moments,5,0,0,0,ongoing
+2020-11-13,Child Care,Orange,Knee High Preschool,5,0,1,0,ongoing
+2020-11-17,Child Care,Orange,Knee High Preschool,5,0,1,0,ongoing
+2020-11-24,Child Care,Orange,Knee High Preschool,5,0,1,0,ongoing
+2020-12-11,Child Care,Orange,Knee High Preschool,5,0,1,0,ongoing
+2020-12-18,Child Care,Orange,Knee High Preschool,5,0,1,0,resolved
+2021-02-05,Child Care,Orange,Master's Garden Preschool,6,0,6,0,ongoing
+2021-02-05,Child Care,Person,Early Intervention,4,0,3,0,ongoing
+2020-10-27,K-12 School,Person,Helena Elementary School,4,0,2,0,ongoing
+2020-10-30,K-12 School,Person,Helena Elementary School,4,0,2,0,ongoing
+2020-11-03,K-12 School,Person,Helena Elementary School,4,0,2,0,ongoing
+2020-11-06,K-12 School,Person,Helena Elementary School,4,0,2,0,ongoing
+2020-11-10,K-12 School,Person,Helena Elementary School,4,0,2,0,ongoing
+2020-11-13,K-12 School,Person,Helena Elementary School,4,0,2,0,ongoing
+2020-11-17,K-12 School,Person,Helena Elementary School,4,0,2,0,ongoing
+2020-11-20,K-12 School,Person,Helena Elementary School,4,0,2,0,ongoing
+2020-11-24,K-12 School,Person,Helena Elementary School,4,0,2,0,ongoing
+2020-12-01,K-12 School,Person,Helena Elementary School,4,0,2,0,ongoing
+2020-12-04,K-12 School,Person,Helena Elementary School,4,0,2,0,ongoing
+2020-12-08,K-12 School,Person,Helena Elementary School,4,0,2,0,ongoing
+2020-12-11,K-12 School,Person,Helena Elementary School,1,0,4,0,ongoing
+2020-12-11,K-12 School,Person,Helena Elementary School,4,0,2,0,resolved
+2020-12-15,K-12 School,Person,Helena Elementary School,1,0,4,0,ongoing
+2020-12-18,K-12 School,Person,Helena Elementary School,1,0,4,0,ongoing
+2020-12-22,K-12 School,Person,Helena Elementary School,1,0,4,0,ongoing
+2021-01-05,K-12 School,Person,Helena Elementary School,1,0,4,0,ongoing
+2021-01-08,K-12 School,Person,Helena Elementary School,1,0,4,0,ongoing
+2021-01-12,K-12 School,Person,Helena Elementary School,1,0,4,0,ongoing
+2021-01-15,K-12 School,Person,Helena Elementary School,1,0,4,0,ongoing
+2021-01-19,K-12 School,Person,Helena Elementary School,1,0,4,0,ongoing
+2021-01-22,K-12 School,Person,Helena Elementary School,1,0,4,0,ongoing
+2021-01-26,K-12 School,Person,Helena Elementary School,1,0,4,0,ongoing
+2021-01-29,K-12 School,Person,Helena Elementary School,1,0,4,0,ongoing
+2020-09-22,Child Care,Person,Mother Goose Early Learning Center,4,0,1,0,ongoing
+2020-09-25,Child Care,Person,Mother Goose Early Learning Center,4,0,1,0,ongoing
+2020-09-29,Child Care,Person,Mother Goose Early Learning Center,4,0,1,0,ongoing
+2020-10-02,Child Care,Person,Mother Goose Early Learning Center,4,0,1,0,ongoing
+2020-10-13,Child Care,Person,Mother Goose Early Learning Center,4,0,1,0,ongoing
+2020-10-30,Child Care,Person,Mother Goose Early Learning Center,4,0,1,0,ongoing
+2020-11-13,Child Care,Person,Mother Goose Early Learning Center,4,0,1,0,ongoing
+2020-11-17,Child Care,Person,Mother Goose Early Learning Center,4,0,1,0,resolved
+2020-11-24,K-12 School,Person,Northern Middle School,3,0,2,0,ongoing
+2020-12-01,K-12 School,Person,Northern Middle School,3,0,2,0,ongoing
+2020-12-04,K-12 School,Person,Northern Middle School,3,0,2,0,ongoing
+2020-12-08,K-12 School,Person,Northern Middle School,3,0,2,0,ongoing
+2020-12-11,K-12 School,Person,Northern Middle School,3,0,2,0,ongoing
+2020-12-15,K-12 School,Person,Northern Middle School,3,0,2,0,ongoing
+2020-12-18,K-12 School,Person,Northern Middle School,3,0,2,0,ongoing
+2020-12-22,K-12 School,Person,Northern Middle School,3,0,2,0,ongoing
+2021-01-05,K-12 School,Person,Northern Middle School,3,0,2,0,ongoing
+2021-01-08,K-12 School,Person,Northern Middle School,3,0,2,0,ongoing
+2021-01-12,K-12 School,Person,Northern Middle School,3,0,2,0,ongoing
+2021-01-15,K-12 School,Person,Northern Middle School,3,0,2,0,ongoing
+2021-01-19,K-12 School,Person,Northern Middle School,3,0,2,0,ongoing
+2021-01-22,K-12 School,Person,Northern Middle School,3,0,2,0,ongoing
+2021-01-26,K-12 School,Person,Northern Middle School,3,0,2,0,ongoing
+2021-01-05,K-12 School,Person,Person High School,0,0,7,0,ongoing
+2021-01-08,K-12 School,Person,Person High School,0,0,7,0,ongoing
+2021-01-12,K-12 School,Person,Person High School,0,0,7,0,ongoing
+2021-01-15,K-12 School,Person,Person High School,0,0,7,0,ongoing
+2021-01-19,K-12 School,Person,Person High School,0,0,7,0,ongoing
+2021-01-22,K-12 School,Person,Person High School,0,0,7,0,ongoing
+2021-01-26,K-12 School,Person,Person High School,0,0,7,0,ongoing
+2021-01-29,K-12 School,Person,Person High School,0,0,7,0,ongoing
+2021-02-02,K-12 School,Person,Person High School,0,0,7,0,ongoing
+2021-02-05,K-12 School,Person,Person High School,0,0,7,0,ongoing
+2020-12-11,K-12 School,Person,Roxboro Community School,1,0,4,0,ongoing
+2020-12-15,K-12 School,Person,Roxboro Community School,1,0,4,0,ongoing
+2020-12-18,K-12 School,Person,Roxboro Community School,1,0,4,0,ongoing
+2020-12-22,K-12 School,Person,Roxboro Community School,1,0,4,0,ongoing
+2021-01-05,K-12 School,Person,Roxboro Community School,1,0,4,0,ongoing
+2021-01-08,K-12 School,Person,Roxboro Community School,1,0,4,0,ongoing
+2021-01-12,K-12 School,Person,Roxboro Community School,1,0,4,0,ongoing
+2021-01-15,K-12 School,Person,Roxboro Community School,1,0,4,0,ongoing
+2021-01-19,K-12 School,Person,Roxboro Community School,1,0,4,0,ongoing
+2021-01-22,K-12 School,Person,Roxboro Community School,1,0,4,0,ongoing
+2021-01-26,K-12 School,Person,Roxboro Community School,1,0,4,0,ongoing
+2021-01-26,Child Care,Pitt,East Carolina Kiddie College,2,0,3,0,ongoing
+2021-01-26,K-12 School,Polk,Sunny View Elementary,1,0,5,0,ongoing
+2021-01-29,K-12 School,Polk,Sunny View Elementary,1,0,5,0,ongoing
+2021-02-02,K-12 School,Polk,Sunny View Elementary,1,0,5,0,ongoing
+2021-02-05,K-12 School,Polk,Sunny View Elementary,1,0,5,0,ongoing
+2020-09-25,School,Randolph,Bailey's Grove Baptist High School,0,0,5,0,ongoing
+2020-09-29,School,Randolph,Bailey's Grove Baptist High School,0,0,5,0,ongoing
+2020-10-02,School,Randolph,Bailey's Grove Baptist High School,0,0,5,0,ongoing
+2020-10-13,School,Randolph,Bailey's Grove Baptist High School,0,0,5,0,ongoing
+2020-09-22,Child Care,Randolph,First Church of God Dayschool,5,0,1,0,ongoing
+2020-09-25,Child Care,Randolph,First Church of God Dayschool,5,0,1,0,ongoing
+2020-09-29,Child Care,Randolph,First Church of God Dayschool,5,0,0,0,ongoing
+2020-10-02,Child Care,Randolph,First Church of God Dayschool,5,0,0,0,ongoing
+2020-10-13,Child Care,Randolph,First Church of God Dayschool,5,0,0,0,ongoing
+2020-10-30,K-12 School,Randolph,Level Cross Elementary School,4,0,1,0,ongoing
+2020-11-03,K-12 School,Randolph,Level Cross Elementary School,4,0,1,0,ongoing
+2020-11-06,K-12 School,Randolph,Level Cross Elementary School,4,0,1,0,ongoing
+2020-11-10,K-12 School,Randolph,Level Cross Elementary School,4,0,1,0,ongoing
+2020-11-13,K-12 School,Randolph,Level Cross Elementary School,4,0,1,0,ongoing
+2020-11-17,K-12 School,Randolph,Level Cross Elementary School,4,0,1,0,ongoing
+2020-11-20,K-12 School,Randolph,Level Cross Elementary School,4,0,1,0,ongoing
+2020-11-24,K-12 School,Randolph,Level Cross Elementary School,4,0,1,0,ongoing
+2020-10-13,School,Richmond,Fairview Heights Elementary,3,0,3,0,ongoing
+2020-10-20,K-12 School,Richmond,Fairview Heights Elementary,3,0,3,0,ongoing
+2020-10-23,K-12 School,Richmond,Fairview Heights Elementary,3,0,3,0,ongoing
+2020-10-27,K-12 School,Richmond,Fairview Heights Elementary,3,0,3,0,ongoing
+2020-10-30,K-12 School,Richmond,Fairview Heights Elementary,3,0,3,0,ongoing
+2020-11-03,K-12 School,Richmond,Fairview Heights Elementary,3,0,3,0,ongoing
+2020-11-06,K-12 School,Richmond,Fairview Heights Elementary,3,0,3,0,ongoing
+2020-11-10,K-12 School,Richmond,Fairview Heights Elementary,3,0,3,0,ongoing
+2020-11-13,K-12 School,Richmond,Fairview Heights Elementary,3,0,3,0,ongoing
+2020-11-17,K-12 School,Richmond,Fairview Heights Elementary,3,0,3,0,ongoing
+2020-11-20,K-12 School,Richmond,Fairview Heights Elementary,3,0,3,0,ongoing
+2020-11-24,K-12 School,Richmond,Fairview Heights Elementary,3,0,3,0,ongoing
+2020-12-01,K-12 School,Richmond,Fairview Heights Elementary,3,0,3,0,ongoing
+2020-09-29,School,Robeson,East Robeson Elementary School,5,0,0,0,ongoing
+2020-10-02,School,Robeson,East Robeson Elementary School,5,0,0,0,ongoing
+2020-10-13,School,Robeson,East Robeson Elementary School,5,0,0,0,ongoing
+2020-10-20,K-12 School,Robeson,East Robeson Elementary School,5,0,0,0,ongoing
+2020-10-23,K-12 School,Robeson,East Robeson Elementary School,5,0,0,0,ongoing
+2020-10-27,K-12 School,Robeson,East Robeson Elementary School,5,0,0,0,ongoing
+2020-10-30,K-12 School,Robeson,East Robeson Elementary School,5,0,0,0,ongoing
+2020-11-03,K-12 School,Robeson,East Robeson Elementary School,5,0,0,0,ongoing
+2020-11-06,K-12 School,Robeson,East Robeson Elementary School,5,0,0,0,ongoing
+2020-11-10,K-12 School,Robeson,East Robeson Elementary School,5,0,0,0,ongoing
+2020-11-13,K-12 School,Robeson,East Robeson Elementary School,5,0,0,0,resolved
+2020-10-13,Child Care,Robeson,Island Grove Daycare,5,0,0,0,ongoing
+2020-10-30,Child Care,Robeson,Island Grove Daycare,5,0,0,0,ongoing
+2020-11-13,Child Care,Robeson,Island Grove Daycare,5,0,0,0,resolved
+2021-02-05,K-12 School,Robeson,Red Springs High School,0,0,7,0,ongoing
+2020-10-23,K-12 School,Rockingham,J.E. Holmes Middle School,4,0,2,0,ongoing
+2020-10-27,K-12 School,Rockingham,J.E. Holmes Middle School,4,0,2,0,ongoing
+2020-10-30,K-12 School,Rockingham,J.E. Holmes Middle School,4,0,2,0,ongoing
+2020-11-03,K-12 School,Rockingham,J.E. Holmes Middle School,4,0,2,0,ongoing
+2020-11-06,K-12 School,Rockingham,J.E. Holmes Middle School,4,0,2,0,ongoing
+2020-11-10,K-12 School,Rockingham,J.E. Holmes Middle School,4,0,2,0,ongoing
+2020-11-13,K-12 School,Rockingham,J.E. Holmes Middle School,4,0,2,0,ongoing
+2020-11-17,K-12 School,Rockingham,J.E. Holmes Middle School,4,0,2,0,ongoing
+2020-11-20,K-12 School,Rockingham,J.E. Holmes Middle School,4,0,2,0,ongoing
+2020-11-24,K-12 School,Rockingham,J.E. Holmes Middle School,4,0,2,0,ongoing
+2020-12-01,K-12 School,Rockingham,J.E. Holmes Middle School,4,0,2,0,ongoing
+2020-12-04,K-12 School,Rockingham,J.E. Holmes Middle School,4,0,2,0,ongoing
+2020-12-08,K-12 School,Rockingham,J.E. Holmes Middle School,4,0,2,0,ongoing
+2020-12-11,K-12 School,Rockingham,J.E. Holmes Middle School,4,0,2,0,ongoing
+2020-12-15,K-12 School,Rockingham,J.E. Holmes Middle School,4,0,2,0,ongoing
+2020-12-18,K-12 School,Rockingham,J.E. Holmes Middle School,9,0,3,0,resolved
+2020-08-21,School,Rowan,North Hills Christian School,5,0,0,0,ongoing
+2020-08-25,School,Rowan,North Hills Christian School,5,0,0,0,ongoing
+2020-08-28,School,Rowan,North Hills Christian School,5,0,0,0,ongoing
+2020-10-30,K-12 School,Rowan,Rockwell Christian School,5,0,15,0,ongoing
+2020-11-03,K-12 School,Rowan,Rockwell Christian School,5,0,15,0,ongoing
+2020-11-06,K-12 School,Rowan,Rockwell Christian School,5,0,15,0,ongoing
+2020-11-10,K-12 School,Rowan,Rockwell Christian School,5,0,15,0,ongoing
+2020-11-13,K-12 School,Rowan,Rockwell Christian School,5,0,13,0,ongoing
+2020-11-17,K-12 School,Rowan,Rockwell Christian School,5,0,13,0,ongoing
+2020-09-22,Child Care,Rowan,St. Peter's Lutheran Church Preschool,6,0,5,0,ongoing
+2020-09-25,Child Care,Rowan,St. Peter's Lutheran Church Preschool,6,0,5,0,ongoing
+2020-09-29,Child Care,Rowan,St. Peter's Lutheran Church Preschool,6,0,5,0,ongoing
+2020-10-02,Child Care,Rowan,St. Peter's Lutheran Church Preschool,6,0,5,0,resolved
+2020-12-01,K-12 School,Sampson,Midway High School,6,0,0,0,ongoing
+2020-12-04,K-12 School,Sampson,Midway High School,6,0,0,0,ongoing
+2020-12-08,K-12 School,Sampson,Midway High School,6,0,0,0,ongoing
+2020-12-11,K-12 School,Sampson,Midway High School,6,0,0,0,ongoing
+2020-11-20,K-12 School,Sampson,Midway High school,5,0,0,0,ongoing
+2020-11-24,K-12 School,Sampson,Midway High school,5,0,0,0,ongoing
+2020-08-28,School,Sampson,Plainview Elementary School,4,0,1,0,ongoing
+2020-09-22,School,Sampson,Plainview Elementary School,5,0,1,0,ongoing
+2020-09-25,School,Sampson,Plainview Elementary School,5,0,1,0,ongoing
+2020-09-29,School,Sampson,Plainview Elementary School,5,0,1,0,ongoing
+2020-10-02,School,Sampson,Plainview Elementary School,5,0,1,0,resolved
+2020-10-27,K-12 School,Sampson,Tarheel Challenge,7,0,3,0,ongoing
+2020-10-30,K-12 School,Sampson,Tarheel Challenge,7,0,3,0,ongoing
+2020-11-03,K-12 School,Sampson,Tarheel Challenge,7,0,3,0,ongoing
+2020-11-06,K-12 School,Sampson,Tarheel Challenge Academy,7,0,3,0,ongoing
+2020-11-10,K-12 School,Sampson,Tarheel Challenge Academy,7,0,3,0,ongoing
+2020-11-13,K-12 School,Sampson,Tarheel Challenge Academy,7,0,3,0,ongoing
+2020-11-17,K-12 School,Sampson,Tarheel Challenge Academy,7,0,3,0,ongoing
+2020-12-01,K-12 School,Scotland,Shaw Academy,0,0,6,0,ongoing
+2020-12-04,K-12 School,Scotland,Shaw Academy,7,0,0,0,ongoing
+2020-12-08,K-12 School,Scotland,Shaw Academy,7,0,0,0,ongoing
+2020-12-11,K-12 School,Scotland,Shaw Academy,7,0,0,0,ongoing
+2020-12-15,K-12 School,Scotland,Shaw Academy,9,0,0,0,ongoing
+2020-12-18,K-12 School,Scotland,Shaw Academy,9,0,0,0,ongoing
+2020-12-22,K-12 School,Scotland,Shaw Academy,9,0,0,0,ongoing
+2021-01-05,K-12 School,Scotland,Shaw Academy,9,0,0,0,ongoing
+2021-01-08,K-12 School,Scotland,Shaw Academy,9,0,0,0,ongoing
+2021-01-12,K-12 School,Scotland,Shaw Academy,9,0,0,0,ongoing
+2021-01-15,K-12 School,Scotland,Shaw Academy,9,0,0,0,ongoing
+2021-01-19,K-12 School,Scotland,Shaw Academy,9,0,0,0,ongoing
+2021-01-22,K-12 School,Scotland,Shaw Academy,9,0,0,0,ongoing
+2021-01-26,K-12 School,Scotland,Shaw Academy,9,0,0,0,ongoing
+2021-01-29,K-12 School,Scotland,Shaw Academy,9,0,0,0,ongoing
+2021-02-05,K-12 School,Stokes,Mt Olive Elementary School,3,0,3,0,ongoing
+2021-01-26,Child Care,Surry,Pleasant Hill Baptist Church Daycare,3,0,3,0,ongoing
+2021-02-05,Child Care,Surry,Pleasant Hill Baptist Church Daycare,6,0,8,0,ongoing
+2021-01-05,K-12 School,Swain,Swain County School,3,0,5,0,ongoing
+2021-01-08,K-12 School,Swain,Swain County School,3,0,5,0,ongoing
+2021-01-12,K-12 School,Swain,Swain County School,3,0,5,0,ongoing
+2021-01-15,K-12 School,Swain,Swain County School,3,0,5,0,ongoing
+2021-01-19,K-12 School,Swain,Swain County School,3,0,5,0,ongoing
+2021-01-22,K-12 School,Swain,Swain County School,3,0,5,0,ongoing
+2021-01-26,K-12 School,Swain,Swain County School,3,0,5,0,ongoing
+2020-12-04,K-12 School,Transylvania,Rosman High School,2,0,7,0,ongoing
+2020-12-08,K-12 School,Transylvania,Rosman High School,2,0,7,0,ongoing
+2020-12-11,K-12 School,Transylvania,Rosman High School,2,0,7,0,ongoing
+2020-12-15,K-12 School,Transylvania,Rosman High School,2,0,7,0,ongoing
+2020-12-18,K-12 School,Transylvania,Rosman High School,2,0,7,0,ongoing
+2020-12-22,K-12 School,Transylvania,Rosman High School,2,0,7,0,ongoing
+2021-01-05,K-12 School,Transylvania,Rosman High School,2,0,7,0,ongoing
+2021-01-08,K-12 School,Transylvania,Rosman High School,2,0,7,0,ongoing
+2021-01-12,K-12 School,Transylvania,Rosman High School,2,0,7,0,ongoing
+2021-01-15,K-12 School,Transylvania,Rosman High School,2,0,7,0,ongoing
+2021-01-19,K-12 School,Transylvania,Rosman High School,2,0,7,0,ongoing
+2021-01-22,K-12 School,Transylvania,Rosman High School,2,0,7,0,ongoing
+2021-01-26,K-12 School,Transylvania,Rosman High School,2,0,7,0,ongoing
+2020-12-01,K-12 School,Union,Ivybrook Academy,1,0,4,0,ongoing
+2020-12-11,Child Care,Union,Ivybrook Academy,1,0,4,0,ongoing
+2020-12-18,Child Care,Union,Ivybrook Academy,1,0,4,0,ongoing
+2020-12-22,Child Care,Union,Ivybrook Academy,1,0,4,0,ongoing
+2020-11-13,Child Care,Union,LeafSpring School at Matthews,3,0,4,0,ongoing
+2020-11-17,Child Care,Union,LeafSpring School at Matthews,3,0,4,0,ongoing
+2020-11-24,Child Care,Union,LeafSpring School at Matthews,3,0,4,0,ongoing
+2020-12-11,Child Care,Union,LeafSpring School at Matthews,3,0,4,0,resolved
+2020-12-04,K-12 School,Union,Metrolina Christian Academy,1,0,6,0,ongoing
+2020-12-08,K-12 School,Union,Metrolina Christian Academy,1,0,6,0,ongoing
+2020-12-11,K-12 School,Union,Metrolina Christian Academy,2,0,8,0,ongoing
+2020-12-15,K-12 School,Union,Metrolina Christian Academy,2,0,8,0,ongoing
+2020-12-18,K-12 School,Union,Metrolina Christian Academy,2,0,8,0,ongoing
+2020-12-22,K-12 School,Union,Metrolina Christian Academy,2,0,8,0,ongoing
+2021-01-05,K-12 School,Union,Metrolina Christian Academy,2,0,8,0,ongoing
+2021-01-08,K-12 School,Union,Metrolina Christian Academy,2,0,8,0,ongoing
+2021-02-02,K-12 School,Union,Porter Ridge High School,0,0,5,0,ongoing
+2021-02-05,K-12 School,Union,Porter Ridge High School,0,0,5,0,ongoing
+2021-01-26,K-12 School,Union,Weddington Elementary School,2,0,3,0,ongoing
+2021-01-29,K-12 School,Union,Weddington Elementary School,2,0,3,0,ongoing
+2021-02-02,K-12 School,Union,Weddington Elementary School,2,0,3,0,ongoing
+2021-02-05,K-12 School,Union,Weddington Elementary School,2,0,3,0,ongoing
+2020-12-22,Child Care,Wake,Appletree Child Development Center,4,0,1,0,ongoing
+2021-01-26,Child Care,Wake,Appletree Child Development Center,4,0,1,0,ongoing
+2020-10-30,Child Care,Wake,Appletree Development Center,6,0,0,0,ongoing
+2020-11-13,Child Care,Wake,Appletree Development Center,6,0,0,0,ongoing
+2020-11-17,Child Care,Wake,Appletree Development Center,6,0,0,0,ongoing
+2020-11-24,Child Care,Wake,Appletree Development Center,6,0,0,0,ongoing
+2020-12-11,Child Care,Wake,Appletree Development Center,6,0,0,0,ongoing
+2020-12-18,Child Care,Wake,Appletree Development Center,6,0,0,0,resolved
+2021-02-05,Child Care,Wake,Bright Horizons Children's Center Cary,5,0,0,0,ongoing
+2020-12-04,K-12 School,Wake,Cardinal Cardinal Charter Academy,2,0,3,0,ongoing
+2020-12-11,K-12 School,Wake,Cardinal Cardinal Charter Academy,2,0,3,0,ongoing
+2020-12-18,K-12 School,Wake,Cardinal Cardinal Charter Academy,2,0,3,0,ongoing
+2020-12-22,K-12 School,Wake,Cardinal Cardinal Charter Academy,2,0,3,0,ongoing
+2020-12-08,K-12 School,Wake,Cardinal Charter Academy,2,0,3,0,ongoing
+2020-12-15,K-12 School,Wake,Cardinal Charter Academy,2,0,3,0,ongoing
+2021-01-05,K-12 School,Wake,Cardinal Charter Academy,2,0,3,0,ongoing
+2021-01-08,K-12 School,Wake,Cardinal Charter Academy,2,0,3,0,ongoing
+2021-01-12,K-12 School,Wake,Cardinal Charter Academy,2,0,3,0,ongoing
+2021-01-15,K-12 School,Wake,Cardinal Charter Academy,2,0,3,0,ongoing
+2021-01-19,K-12 School,Wake,Cardinal Charter Academy,2,0,3,0,ongoing
+2021-01-22,K-12 School,Wake,Cardinal Charter Academy,2,0,3,0,ongoing
+2021-01-26,K-12 School,Wake,Cardinal Charter Academy,2,0,3,0,ongoing
+2021-01-26,K-12 School,Wake,Cardinal Gibbons High School,2,0,3,0,ongoing
+2021-01-29,K-12 School,Wake,Cardinal Gibbons High School,2,0,3,0,ongoing
+2021-02-02,K-12 School,Wake,Cardinal Gibbons High School,2,0,3,0,ongoing
+2021-02-05,K-12 School,Wake,Cardinal Gibbons High School,2,0,3,0,ongoing
+2020-12-04,K-12 School,Wake,Cary Christian School,2,0,5,0,ongoing
+2020-12-08,K-12 School,Wake,Cary Christian School,2,0,5,0,ongoing
+2020-12-11,K-12 School,Wake,Cary Christian School,2,0,5,0,ongoing
+2020-12-15,K-12 School,Wake,Cary Christian School,2,0,5,0,ongoing
+2020-12-18,K-12 School,Wake,Cary Christian School,2,0,5,0,ongoing
+2020-12-22,K-12 School,Wake,Cary Christian School,2,0,5,0,ongoing
+2021-01-05,K-12 School,Wake,Cary Christian School,2,0,5,0,ongoing
+2021-01-08,K-12 School,Wake,Cary Christian School,2,0,5,0,ongoing
+2021-01-12,K-12 School,Wake,Cary Christian School,2,0,5,0,ongoing
+2021-01-15,K-12 School,Wake,Cary Christian School,2,0,5,0,ongoing
+2021-01-19,K-12 School,Wake,Cary Christian School,2,0,5,0,ongoing
+2021-01-22,K-12 School,Wake,Cary Christian School,2,0,5,0,ongoing
+2021-01-26,K-12 School,Wake,Cary Christian School,2,0,5,0,ongoing
+2021-01-29,K-12 School,Wake,Cary Christian School,3,0,2,0,ongoing
+2021-02-02,K-12 School,Wake,Cary Christian School,3,0,2,0,ongoing
+2021-02-05,K-12 School,Wake,Cary Christian School,3,0,2,0,ongoing
+2021-01-15,K-12 School,Wake,Cary High School,2,0,3,0,ongoing
+2021-01-19,K-12 School,Wake,Cary High School,2,0,3,0,ongoing
+2021-01-22,K-12 School,Wake,Cary High School,2,0,3,0,ongoing
+2021-01-26,K-12 School,Wake,Cary High School,2,0,3,0,ongoing
+2021-01-29,K-12 School,Wake,Cary High School,2,0,3,0,ongoing
+2021-02-02,K-12 School,Wake,Cary High School,2,0,3,0,ongoing
+2021-02-05,K-12 School,Wake,Cary High School,2,0,3,0,ongoing
+2020-12-11,Child Care,Wake,Creative Kidz Academy,5,0,2,0,ongoing
+2020-12-18,Child Care,Wake,Creative Kidz Academy,5,0,2,0,ongoing
+2020-12-22,Child Care,Wake,Creative Kidz Academy,5,0,2,0,ongoing
+2021-01-26,Child Care,Wake,Creative Kidz Academy,5,0,2,0,ongoing
+2020-11-24,Child Care,Wake,Falls Academy Day Care,3,0,2,0,ongoing
+2020-12-11,Child Care,Wake,Falls Academy Day Care,3,0,2,0,ongoing
+2020-12-18,Child Care,Wake,Falls Academy Day Care,3,0,2,0,ongoing
+2020-12-22,Child Care,Wake,Falls Academy Day Care,3,0,2,0,ongoing
+2021-01-26,Child Care,Wake,Falls Academy Day Care,3,0,2,0,ongoing
+2021-01-26,Child Care,Wake,Foundations Academy,3,0,6,0,ongoing
+2021-02-05,Child Care,Wake,Foundations Academy,3,0,6,0,ongoing
+2020-08-21,Child Care,Wake,Goddard School of Holly Springs,4,0,8,0,ongoing
+2020-08-25,Child Care,Wake,Goddard School of Holly Springs,4,0,8,0,ongoing
+2020-08-28,Child Care,Wake,Goddard School of Holly Springs,4,0,8,0,ongoing
+2020-12-18,K-12 School,Wake,Grace Christian School,1,0,7,0,ongoing
+2020-12-22,K-12 School,Wake,Grace Christian School,1,0,7,0,ongoing
+2021-01-05,K-12 School,Wake,Grace Christian School,1,0,7,0,ongoing
+2021-01-08,K-12 School,Wake,Grace Christian School,1,0,7,0,ongoing
+2021-01-12,K-12 School,Wake,Grace Christian School,1,0,7,0,ongoing
+2021-01-15,K-12 School,Wake,Grace Christian School,1,0,7,0,ongoing
+2021-01-19,K-12 School,Wake,Grace Christian School,1,0,7,0,ongoing
+2021-01-22,K-12 School,Wake,Grace Christian School,1,0,7,0,ongoing
+2021-01-26,K-12 School,Wake,Grace Christian School,1,0,7,0,ongoing
+2021-02-05,Child Care,Wake,Kids R Kids - Wake Forest,3,0,2,0,ongoing
+2020-11-13,Child Care,Wake,Kids R Kids - West Cary,1,0,5,0,ongoing
+2020-11-17,Child Care,Wake,Kids R Kids - West Cary,1,0,5,0,ongoing
+2020-11-24,Child Care,Wake,Kids R Kids - West Cary,1,0,5,0,ongoing
+2020-12-11,Child Care,Wake,Kids R Kids - West Cary,1,0,5,0,ongoing
+2020-12-18,Child Care,Wake,Kids R Kids - West Cary,1,0,5,0,resolved
+2020-11-13,Child Care,Wake,Kindercare Learning Center,5,0,0,0,ongoing
+2020-11-17,Child Care,Wake,Kindercare Learning Center,5,0,0,0,ongoing
+2020-11-24,Child Care,Wake,Kindercare Learning Center,5,0,0,0,ongoing
+2020-12-11,Child Care,Wake,Kindercare Learning Center,5,0,0,0,ongoing
+2020-12-18,Child Care,Wake,Kindercare Learning Center,5,0,0,0,resolved
+2020-12-11,Child Care,Wake,Knightdale KinderCare,3,0,2,0,ongoing
+2020-12-18,Child Care,Wake,Knightdale KinderCare,3,0,2,0,ongoing
+2020-12-22,Child Care,Wake,Knightdale KinderCare,3,0,2,0,ongoing
+2021-01-26,Child Care,Wake,Knightdale KinderCare,3,0,2,0,ongoing
+2020-09-22,Child Care,Wake,Kreepers and Krawlers Daycare,4,0,6,0,ongoing
+2020-09-25,Child Care,Wake,Kreepers and Krawlers Daycare,4,0,6,0,ongoing
+2020-09-29,Child Care,Wake,Kreepers and Krawlers Daycare,4,0,6,0,ongoing
+2020-10-02,Child Care,Wake,Kreepers and Krawlers Daycare,4,0,6,0,ongoing
+2021-02-05,Child Care,Wake,La Petite Academy,3,0,2,0,ongoing
+2021-02-05,Child Care,Wake,Lightbridge Academy - Holly Springs,2,0,8,0,ongoing
+2020-12-18,K-12 School,Wake,Lynn Road Elementary School,3,0,2,0,ongoing
+2020-12-22,K-12 School,Wake,Lynn Road Elementary School,3,0,2,0,ongoing
+2021-01-05,K-12 School,Wake,Lynn Road Elementary School,3,0,2,0,ongoing
+2021-01-08,K-12 School,Wake,Lynn Road Elementary School,3,0,2,0,ongoing
+2021-01-12,K-12 School,Wake,Lynn Road Elementary School,3,0,2,0,ongoing
+2021-01-15,K-12 School,Wake,Lynn Road Elementary School,3,0,2,0,ongoing
+2021-01-19,K-12 School,Wake,Lynn Road Elementary School,3,0,2,0,ongoing
+2021-01-22,K-12 School,Wake,Lynn Road Elementary School,3,0,2,0,ongoing
+2021-01-26,K-12 School,Wake,Lynn Road Elementary School,3,0,2,0,ongoing
+2021-02-02,K-12 School,Wake,Neuse Christian Academy,2,0,5,0,ongoing
+2021-02-05,K-12 School,Wake,Neuse Christian Academy,2,0,5,0,ongoing
+2021-01-15,K-12 School,Wake,North Raleigh Christian Academy,0,0,5,0,ongoing
+2021-01-19,K-12 School,Wake,North Raleigh Christian Academy,0,0,5,0,ongoing
+2021-01-22,K-12 School,Wake,North Raleigh Christian Academy,0,0,5,0,ongoing
+2021-01-26,K-12 School,Wake,North Raleigh Christian Academy  #1,0,0,5,0,ongoing
+2021-01-29,K-12 School,Wake,North Raleigh Christian Academy  #1,0,0,5,0,ongoing
+2021-02-02,K-12 School,Wake,North Raleigh Christian Academy  #1,0,0,5,0,ongoing
+2021-02-05,K-12 School,Wake,North Raleigh Christian Academy  #1,0,0,5,0,ongoing
+2021-01-26,K-12 School,Wake,North Raleigh Christian Academy #2,0,0,5,0,ongoing
+2021-01-29,K-12 School,Wake,North Raleigh Christian Academy #2,0,0,5,0,ongoing
+2021-02-02,K-12 School,Wake,North Raleigh Christian Academy #2,0,0,5,0,ongoing
+2021-02-05,K-12 School,Wake,North Raleigh Christian Academy #2,0,0,5,0,ongoing
+2021-01-22,K-12 School,Wake,Our Lady of Lourdes School,1,0,5,0,ongoing
+2021-01-26,K-12 School,Wake,Our Lady of Lourdes School,1,0,5,0,ongoing
+2021-01-29,K-12 School,Wake,Our Lady of Lourdes School,1,0,5,0,ongoing
+2021-02-02,K-12 School,Wake,Our Lady of Lourdes School,1,0,5,0,ongoing
+2021-02-05,K-12 School,Wake,Our Lady of Lourdes School,1,0,5,0,ongoing
+2020-11-06,K-12 School,Wake,Raleigh Christian Academy,4,0,3,0,ongoing
+2020-11-10,K-12 School,Wake,Raleigh Christian Academy,4,0,3,0,ongoing
+2020-11-13,K-12 School,Wake,Raleigh Christian Academy,4,0,3,0,ongoing
+2020-11-17,K-12 School,Wake,Raleigh Christian Academy,4,0,3,0,ongoing
+2020-11-20,K-12 School,Wake,Raleigh Christian Academy,4,0,3,0,ongoing
+2020-11-24,K-12 School,Wake,Raleigh Christian Academy,4,0,3,0,ongoing
+2020-12-01,K-12 School,Wake,Raleigh Christian Academy,4,0,3,0,ongoing
+2020-12-04,K-12 School,Wake,Raleigh Christian Academy,4,0,3,0,ongoing
+2020-12-08,K-12 School,Wake,Raleigh Christian Academy,4,0,3,0,ongoing
+2020-12-11,K-12 School,Wake,Raleigh Christian Academy,4,0,3,0,ongoing
+2020-12-15,K-12 School,Wake,Raleigh Christian Academy,4,0,3,0,ongoing
+2020-12-18,K-12 School,Wake,Raleigh Christian Academy,4,0,3,0,resolved
+2020-12-11,Child Care,Wake,Raleigh Moravian Preschool,2,0,5,0,ongoing
+2020-12-18,Child Care,Wake,Raleigh Moravian Preschool,2,0,5,0,ongoing
+2020-12-22,Child Care,Wake,Raleigh Moravian Preschool,2,0,5,0,ongoing
+2021-01-26,Child Care,Wake,Raleigh Moravian Preschool,2,0,5,0,ongoing
+2020-12-01,K-12 School,Wake,St. David's School,0,0,7,0,ongoing
+2020-12-04,K-12 School,Wake,St. David's School,0,0,7,0,ongoing
+2020-12-08,K-12 School,Wake,St. David's School,0,0,7,0,ongoing
+2020-12-11,K-12 School,Wake,St. David's School,0,0,7,0,ongoing
+2020-12-15,K-12 School,Wake,St. David's School,0,0,7,0,ongoing
+2020-12-18,K-12 School,Wake,St. David's School,0,0,7,0,ongoing
+2020-12-22,K-12 School,Wake,St. David's School,0,0,7,0,ongoing
+2021-01-12,K-12 School,Wake,St. David's School,0,0,5,0,ongoing
+2021-01-15,K-12 School,Wake,St. David's School,0,0,5,0,ongoing
+2021-01-19,K-12 School,Wake,St. David's School,0,0,5,0,ongoing
+2021-01-22,K-12 School,Wake,St. David's School,0,0,5,0,ongoing
+2021-01-26,K-12 School,Wake,St. David's School,0,0,5,0,ongoing
+2021-01-05,K-12 School,Wake,St. David's School (2nd),0,0,5,0,ongoing
+2021-01-08,K-12 School,Wake,St. David's School (2nd),0,0,5,0,ongoing
+2020-11-17,Child Care,Wake,St. Mark's Preschool,6,0,1,0,ongoing
+2020-11-24,Child Care,Wake,St. Mark's Preschool,6,0,1,0,ongoing
+2020-12-11,Child Care,Wake,St. Mark's Preschool,6,0,1,0,ongoing
+2020-12-18,Child Care,Wake,St. Mark's Preschool,6,0,1,0,ongoing
+2020-12-22,Child Care,Wake,St. Mark's Preschool,6,0,1,0,resolved
+2021-01-26,Child Care,Wake,Temple Baptist Church School and Day Care,1,0,4,0,ongoing
+2021-01-26,Child Care,Wake,The Goddard School of Fuquay-Varina,6,0,1,0,ongoing
+2021-01-26,Child Care,Wake,The Goddard School of Raleigh (North),5,0,2,0,ongoing
+2021-02-05,Child Care,Wake,The Goddard School of Raleigh (North),5,0,2,0,ongoing
+2020-11-13,K-12 School,Wake,Wake Christian Academy,1,0,5,0,ongoing
+2020-11-17,K-12 School,Wake,Wake Christian Academy,1,0,5,0,ongoing
+2020-11-20,K-12 School,Wake,Wake Christian Academy,1,0,5,0,ongoing
+2020-11-24,K-12 School,Wake,Wake Christian Academy,1,0,5,0,ongoing
+2020-12-01,K-12 School,Wake,Wake Christian Academy,1,0,5,0,ongoing
+2020-12-04,K-12 School,Wake,Wake Christian Academy,1,0,5,0,ongoing
+2020-12-08,K-12 School,Wake,Wake Christian Academy,1,0,5,0,ongoing
+2020-12-11,K-12 School,Wake,Wake Christian Academy,1,0,5,0,ongoing
+2020-12-15,K-12 School,Wake,Wake Christian Academy,1,0,5,0,ongoing
+2020-12-18,K-12 School,Wake,Wake Christian Academy,1,0,5,0,resolved
+2021-01-26,Child Care,Wake,Wakefield Creative School,4,0,1,0,ongoing
+2021-02-05,Child Care,Wake,Wakefield Creative School,4,0,1,0,ongoing
+2020-08-21,Child Care,Washington,Grace Filled Beginnings,8,1,2,0,ongoing
+2020-08-25,Child Care,Washington,Grace Filled Beginnings,8,1,2,0,ongoing
+2020-08-28,Child Care,Washington,Grace Filled Beginnings,8,1,2,0,ongoing
+2020-08-21,Child Care,Watauga,Appalachian State University Child Development Center,4,0,6,0,ongoing
+2020-08-25,Child Care,Watauga,Appalachian State University Child Development Center,4,0,6,0,ongoing
+2020-08-28,Child Care,Watauga,Appalachian State University Child Development Center,4,0,6,0,ongoing
+2021-01-26,Child Care,Watauga,Greenway Baptist Child Development Center,8,0,7,0,ongoing
+2021-02-05,Child Care,Watauga,Greenway Baptist Child Development Center,8,0,7,0,ongoing
+2020-12-01,K-12 School,Wayne,Meadowlane Elementary School,3,0,2,0,ongoing
+2020-12-04,K-12 School,Wayne,Meadowlane Elementary School,3,0,2,0,ongoing
+2020-12-08,K-12 School,Wayne,Meadowlane Elementary School,3,0,2,0,ongoing
+2020-12-11,K-12 School,Wayne,Meadowlane Elementary School,3,0,2,0,ongoing
+2020-12-15,K-12 School,Wayne,Meadowlane Elementary School,3,0,2,0,ongoing
+2020-12-18,K-12 School,Wayne,Meadowlane Elementary School,3,0,2,0,ongoing
+2020-12-22,K-12 School,Wayne,Meadowlane Elementary School,3,0,2,0,ongoing
+2020-10-20,K-12 School,Wayne,North Drive Elementary,4,0,2,0,ongoing
+2020-10-23,K-12 School,Wayne,North Drive Elementary,4,0,2,0,ongoing
+2020-10-27,K-12 School,Wayne,North Drive Elementary,4,0,2,0,ongoing
+2020-10-30,K-12 School,Wayne,North Drive Elementary,4,0,2,0,ongoing
+2020-11-03,K-12 School,Wayne,North Drive Elementary,4,0,2,0,ongoing
+2020-11-06,K-12 School,Wayne,North Drive Elementary,4,0,2,0,ongoing
+2020-11-10,K-12 School,Wayne,North Drive Elementary,4,0,2,0,ongoing
+2020-11-13,K-12 School,Wayne,North Drive Elementary,4,0,2,0,ongoing
+2020-11-17,K-12 School,Wayne,North Drive Elementary,4,0,2,0,ongoing
+2020-09-25,School,Wayne,Wayne Christian School,6,0,21,0,ongoing
+2020-09-29,School,Wayne,Wayne Christian School,6,0,21,0,ongoing
+2020-10-02,School,Wayne,Wayne Christian School,6,0,28,0,ongoing
+2020-10-13,School,Wayne,Wayne Christian School,6,0,28,0,ongoing
+2020-10-20,K-12 School,Wayne,Wayne Christian School,6,0,29,0,ongoing
+2020-10-23,K-12 School,Wayne,Wayne Christian School,6,0,29,0,ongoing
+2020-10-27,K-12 School,Wayne,Wayne Christian School,6,0,29,0,ongoing
+2020-10-30,K-12 School,Wayne,Wayne Christian School,6,0,29,0,ongoing
+2020-11-03,K-12 School,Wayne,Wayne Christian School,6,0,29,0,ongoing
+2020-11-06,K-12 School,Wayne,Wayne Christian School,6,0,29,0,ongoing
+2020-09-25,School,Wilkes,North Wilkes High School,1,0,4,0,ongoing
+2020-09-29,School,Wilkes,North Wilkes High School,1,0,4,0,ongoing
+2020-10-02,School,Wilkes,North Wilkes High School,3,0,15,0,ongoing
+2020-10-13,School,Wilkes,North Wilkes High School,4,0,16,0,ongoing
+2020-10-20,K-12 School,Wilkes,North Wilkes High School,4,0,16,0,ongoing
+2020-10-23,K-12 School,Wilkes,North Wilkes High School,4,0,16,0,ongoing
+2020-10-27,K-12 School,Wilkes,North Wilkes High School,4,0,16,0,ongoing
+2020-10-30,K-12 School,Wilkes,North Wilkes High School,4,0,16,0,ongoing
+2020-11-03,K-12 School,Wilkes,North Wilkes High School,4,0,16,0,ongoing
+2020-11-06,K-12 School,Wilkes,North Wilkes High School,4,0,16,0,ongoing
+2021-01-26,Child Care,Wilson,Childcare Network #324,2,0,6,0,ongoing
+2021-02-05,Child Care,Wilson,Childcare Network #324,2,0,6,0,ongoing
+2020-12-11,K-12 School,Wilson,Greenfield School,2,0,4,0,ongoing
+2020-12-15,K-12 School,Wilson,Greenfield School,2,0,4,0,ongoing
+2020-12-18,K-12 School,Wilson,Greenfield School,2,0,4,0,ongoing
+2020-12-22,K-12 School,Wilson,Greenfield School,2,0,4,0,ongoing
+2021-01-05,K-12 School,Wilson,Greenfield School,2,0,4,0,ongoing
+2021-01-08,K-12 School,Wilson,Greenfield School,2,0,4,0,ongoing
+2021-01-12,K-12 School,Wilson,Greenfield School,2,0,4,0,ongoing
+2021-01-15,K-12 School,Wilson,Greenfield School,2,0,4,0,ongoing
+2021-01-19,K-12 School,Wilson,Greenfield School,2,0,4,0,ongoing
+2021-01-22,K-12 School,Wilson,Greenfield School,2,0,4,0,ongoing
+2021-01-26,K-12 School,Wilson,Greenfield School,2,0,4,0,ongoing
+2021-01-29,K-12 School,Wilson,Greenfield School,2,0,4,0,ongoing
+2021-02-02,K-12 School,Wilson,Greenfield School,2,0,4,0,ongoing
+2021-02-05,K-12 School,Wilson,Greenfield School,2,0,4,0,ongoing
+2020-12-22,Child Care,Wilson,Wilson Childcare Network,2,0,6,0,ongoing
+2021-01-29,K-12 School,Yadkin,Forbush High School,2,0,3,0,ongoing
+2021-02-02,K-12 School,Yadkin,Forbush High School,2,0,3,0,ongoing
+2021-02-05,K-12 School,Yadkin,Forbush High School,2,0,3,0,ongoing
+2021-01-26,K-12 School,Yadkin,Starmount High School,2,0,5,0,ongoing
+2021-01-29,K-12 School,Yadkin,Starmount High School,2,0,5,0,ongoing
+2021-02-02,K-12 School,Yadkin,Starmount High School,2,0,5,0,ongoing
+2021-02-05,K-12 School,Yadkin,Starmount High School,2,0,5,0,ongoing
+2020-12-04,K-12 School,Yancey,Burnsville Elementary School,5,0,0,0,ongoing
+2020-12-08,K-12 School,Yancey,Burnsville Elementary School,5,0,0,0,ongoing
+2020-12-11,K-12 School,Yancey,Burnsville Elementary School,5,0,0,0,ongoing
+2020-12-15,K-12 School,Yancey,Burnsville Elementary School,5,0,0,0,ongoing
+2020-12-18,K-12 School,Yancey,Burnsville Elementary School,5,0,0,0,ongoing
+2020-12-22,K-12 School,Yancey,Burnsville Elementary School,5,0,0,0,ongoing
+2021-01-05,K-12 School,Yancey,Burnsville Elementary School,5,0,0,0,ongoing
+2021-01-08,K-12 School,Yancey,Burnsville Elementary School,5,0,0,0,ongoing
+2021-01-12,K-12 School,Yancey,Burnsville Elementary School,5,0,0,0,ongoing
+2021-01-15,K-12 School,Yancey,Burnsville Elementary School,5,0,0,0,ongoing
+2021-01-19,K-12 School,Yancey,Burnsville Elementary School,5,0,0,0,ongoing
+2021-01-22,K-12 School,Yancey,Burnsville Elementary School,5,0,0,0,ongoing
+2021-01-26,K-12 School,Yancey,Burnsville Elementary School,5,0,0,0,ongoing
+2021-01-29,K-12 School,Yancey,Burnsville Elementary School,5,0,0,0,ongoing
+2021-02-02,K-12 School,Yancey,Burnsville Elementary School,5,0,0,0,ongoing
+2021-02-05,K-12 School,Yancey,Burnsville Elementary School,5,0,0,0,ongoing
+2020-10-02,School,Yancey,Genesis Academy,4,0,1,0,ongoing
+2020-10-13,School,Yancey,Genesis Academy,4,0,1,0,ongoing
+2020-10-20,K-12 School,Yancey,Genesis Academy,4,0,1,0,ongoing
+2020-10-23,K-12 School,Yancey,Genesis Academy,4,0,1,0,ongoing
+2020-10-27,K-12 School,Yancey,Genesis Academy,4,0,1,0,ongoing
+2020-10-30,K-12 School,Yancey,Genesis Academy,4,0,1,0,ongoing
+2020-11-03,K-12 School,Yancey,Genesis Academy,4,0,1,0,ongoing
+2020-11-06,K-12 School,Yancey,Genesis Academy,4,0,1,0,ongoing
+2020-11-10,K-12 School,Yancey,Genesis Academy,4,0,1,0,ongoing
+2020-11-13,K-12 School,Yancey,Genesis Academy,4,0,1,0,ongoing
+2020-11-17,K-12 School,Yancey,Genesis Academy,4,0,1,0,resolved
+2020-12-04,K-12 School,Yancey,Micaville Elementary School,1,0,4,0,ongoing
+2020-12-08,K-12 School,Yancey,Micaville Elementary School,1,0,4,0,ongoing
+2020-12-11,K-12 School,Yancey,Micaville Elementary School,1,0,4,0,ongoing
+2020-12-15,K-12 School,Yancey,Micaville Elementary School,1,0,4,0,ongoing
+2020-12-18,K-12 School,Yancey,Micaville Elementary School,1,0,4,0,ongoing
+2020-12-22,K-12 School,Yancey,Micaville Elementary School,1,0,4,0,ongoing
+2021-01-05,K-12 School,Yancey,Micaville Elementary School,1,0,4,0,ongoing
+2021-01-08,K-12 School,Yancey,Micaville Elementary School,1,0,4,0,ongoing
